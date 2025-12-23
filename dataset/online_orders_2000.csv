@@ -1,0 +1,2001 @@
+online_order_id,online_customer_id,order_datetime,order_status,sales_channel,fulfilment_type,store_id,delivery_fee,discount_amount,payment_type
+80001,10125,2024-03-16 00:44:00,Placed,Mobile App,Pickup,2.0,0.0,1.69,Card
+80002,10275,2024-03-03 08:17:00,Completed,Mobile App,Delivery,,3.02,1.21,Card
+80003,10097,2024-03-22 19:37:00,Preparing,Mobile App,Delivery,,1.91,1.82,Card
+80004,10480,2024-03-06 08:08:00,Cancelled,Web,Delivery,,3.09,1.41,PayPal
+80005,10469,2024-03-26 03:01:00,Completed,Mobile App,Delivery,,2.14,1.07,PayPal
+80006,10158,2024-03-24 08:07:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.2,Mobile Wallet
+80007,10241,2024-03-17 20:54:00,Completed,Mobile App,Pickup,2.0,0.0,0.09,Card
+80008,10380,2024-03-01 17:42:00,Completed,Mobile App,Delivery,,1.89,0.39,Card
+80009,10195,2024-03-23 17:22:00,Completed,Mobile App,Delivery,,3.29,0.98,Mobile Wallet
+80010,10329,2024-03-08 15:45:00,Completed,Web,Pickup,,0.0,0.28,Mobile Wallet
+80011,10251,2024-03-25 16:09:00,Placed,Web,Delivery,,3.52,0.15,Mobile Wallet
+80012,10025,2024-03-19 18:26:00,Preparing,Web,Delivery,,1.2,0.3,Card
+80013,10259,2024-03-03 18:01:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.03,Mobile Wallet
+80014,10283,2024-03-01 18:16:00,Completed,Mobile App,Pickup,1.0,0.0,0.03,Mobile Wallet
+80015,10346,2024-03-05 20:53:00,Placed,Web,Pickup,2.0,0.0,0.48,Mobile Wallet
+80016,10270,2024-03-13 03:59:00,Cancelled,Web,Pickup,3.0,0.0,0.75,PayPal
+80017,10236,2024-03-11 06:41:00,Completed,Web,Delivery,,2.96,1.72,Card
+80018,10048,2024-03-18 03:58:00,Cancelled,Web,Pickup,,0.0,1.27,Mobile Wallet
+80019,10088,2024-03-23 17:58:00,Cancelled,Mobile App,Delivery,,2.7,1.72,Card
+80020,10459,2024-03-11 10:57:00,Preparing,Mobile App,Delivery,,1.81,1.85,Mobile Wallet
+80021,10474,2024-03-09 03:54:00,Completed,Web,Pickup,1.0,0.0,1.92,Mobile Wallet
+80022,10074,2024-03-14 14:53:00,Preparing,Web,Pickup,1.0,0.0,1.13,PayPal
+80023,10347,2024-03-07 08:51:00,Placed,Mobile App,Pickup,,0.0,0.11,PayPal
+80024,10119,2024-03-16 12:01:00,Cancelled,Mobile App,Delivery,,1.09,0.55,PayPal
+80025,10252,2024-03-17 04:38:00,Cancelled,Mobile App,Delivery,,1.56,1.17,PayPal
+80026,10044,2024-03-04 08:17:00,Placed,Mobile App,Pickup,2.0,0.0,0.31,Mobile Wallet
+80027,10402,2024-03-18 17:34:00,Completed,Mobile App,Delivery,,1.32,0.01,PayPal
+80028,10228,2024-03-05 15:39:00,Preparing,Web,Pickup,3.0,0.0,0.37,PayPal
+80029,10286,2024-03-02 04:41:00,Placed,Mobile App,Pickup,1.0,0.0,1.11,Mobile Wallet
+80030,10307,2024-03-01 13:28:00,Completed,Mobile App,Pickup,,0.0,0.78,Card
+80031,10372,2024-03-27 00:43:00,Preparing,Mobile App,Delivery,,1.51,0.54,PayPal
+80032,10253,2024-03-03 21:06:00,Preparing,Mobile App,Delivery,,1.83,0.6,Card
+80033,10185,2024-03-29 10:42:00,Cancelled,Web,Pickup,2.0,0.0,0.92,Card
+80034,10156,2024-03-19 00:12:00,Completed,Mobile App,Delivery,,3.41,0.66,PayPal
+80035,10221,2024-03-14 16:09:00,Completed,Web,Delivery,,2.44,0.36,PayPal
+80036,10496,2024-03-29 19:17:00,Cancelled,Web,Pickup,3.0,0.0,0.65,PayPal
+80037,10419,2024-03-06 04:23:00,Preparing,Web,Pickup,3.0,0.0,1.36,Mobile Wallet
+80038,10014,2024-03-20 22:54:00,Completed,Web,Pickup,2.0,0.0,1.64,PayPal
+80039,10345,2024-03-29 19:46:00,Completed,Web,Pickup,2.0,0.0,0.51,Card
+80040,10367,2024-03-04 08:47:00,Cancelled,Mobile App,Pickup,,0.0,1.16,Mobile Wallet
+80041,10260,2024-03-17 08:42:00,Placed,Web,Pickup,1.0,0.0,1.54,Mobile Wallet
+80042,10341,2024-03-30 10:41:00,Placed,Mobile App,Pickup,2.0,0.0,1.93,PayPal
+80043,10495,2024-03-01 11:31:00,Placed,Mobile App,Pickup,1.0,0.0,0.44,Mobile Wallet
+80044,10266,2024-03-21 06:54:00,Completed,Mobile App,Delivery,,2.39,1.36,Mobile Wallet
+80045,10257,2024-03-16 16:47:00,Placed,Mobile App,Delivery,,1.31,0.83,Card
+80046,10060,2024-03-16 20:28:00,Completed,Mobile App,Delivery,,2.37,0.41,PayPal
+80047,10179,2024-03-20 22:35:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.13,Card
+80048,10415,2024-03-02 00:40:00,Completed,Web,Delivery,,3.03,0.33,Mobile Wallet
+80049,10125,2024-03-26 02:49:00,Preparing,Mobile App,Delivery,,2.68,1.92,Card
+80050,10409,2024-03-09 11:35:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.06,Mobile Wallet
+80051,10453,2024-03-21 11:03:00,Cancelled,Mobile App,Delivery,,1.01,0.43,PayPal
+80052,10386,2024-03-27 06:37:00,Placed,Web,Delivery,,2.1,0.39,Card
+80053,10135,2024-03-28 04:03:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.17,PayPal
+80054,10181,2024-03-14 12:53:00,Placed,Web,Pickup,2.0,0.0,0.63,Card
+80055,10157,2024-03-09 07:56:00,Completed,Web,Delivery,,2.53,0.84,Card
+80056,10295,2024-03-09 10:53:00,Cancelled,Web,Pickup,,0.0,1.11,PayPal
+80057,10148,2024-03-09 12:21:00,Completed,Mobile App,Delivery,,2.86,1.73,Card
+80058,10249,2024-03-09 21:07:00,Cancelled,Mobile App,Delivery,,2.23,0.98,Mobile Wallet
+80059,10431,2024-03-08 14:41:00,Placed,Web,Pickup,,0.0,1.59,Card
+80060,10150,2024-03-13 12:12:00,Preparing,Mobile App,Delivery,,1.5,0.91,Mobile Wallet
+80061,10396,2024-03-27 01:33:00,Placed,Mobile App,Pickup,1.0,0.0,1.55,PayPal
+80062,10278,2024-03-21 02:05:00,Preparing,Mobile App,Delivery,,1.31,1.66,Card
+80063,10153,2024-03-21 11:13:00,Completed,Mobile App,Delivery,,3.59,0.17,Card
+80064,10398,2024-03-10 13:14:00,Completed,Mobile App,Delivery,,1.5,0.28,Card
+80065,10417,2024-03-03 16:50:00,Completed,Mobile App,Delivery,,2.79,0.34,Mobile Wallet
+80066,10150,2024-03-24 09:52:00,Placed,Web,Pickup,3.0,0.0,1.93,PayPal
+80067,10471,2024-03-13 14:54:00,Preparing,Web,Delivery,,1.75,1.42,Card
+80068,10390,2024-03-07 11:17:00,Completed,Mobile App,Pickup,,0.0,0.75,Card
+80069,10325,2024-03-19 08:01:00,Completed,Mobile App,Delivery,,2.36,0.98,Mobile Wallet
+80070,10002,2024-03-21 20:44:00,Completed,Web,Delivery,,3.39,0.8,PayPal
+80071,10423,2024-03-23 12:21:00,Completed,Mobile App,Delivery,,3.49,0.68,Mobile Wallet
+80072,10067,2024-03-03 04:52:00,Placed,Web,Pickup,3.0,0.0,1.25,PayPal
+80073,10009,2024-03-08 04:33:00,Cancelled,Mobile App,Delivery,,1.0,1.92,Card
+80074,10353,2024-03-30 13:58:00,Completed,Web,Delivery,,3.62,1.75,Card
+80075,10336,2024-03-04 18:01:00,Completed,Web,Pickup,3.0,0.0,0.1,Mobile Wallet
+80076,10157,2024-03-20 12:50:00,Placed,Web,Delivery,,1.0,0.95,Card
+80077,10304,2024-03-24 15:22:00,Cancelled,Web,Delivery,,1.02,0.69,Card
+80078,10441,2024-03-22 17:46:00,Placed,Web,Pickup,2.0,0.0,0.77,Mobile Wallet
+80079,10413,2024-03-05 16:43:00,Completed,Mobile App,Delivery,,3.64,0.27,Card
+80080,10329,2024-03-04 02:43:00,Placed,Web,Delivery,,2.32,1.44,Mobile Wallet
+80081,10384,2024-03-19 17:41:00,Cancelled,Web,Delivery,,1.26,0.2,Card
+80082,10302,2024-03-20 13:00:00,Completed,Web,Pickup,3.0,0.0,0.5,Mobile Wallet
+80083,10044,2024-03-26 04:27:00,Completed,Web,Delivery,,3.54,1.32,PayPal
+80084,10106,2024-03-18 19:53:00,Completed,Web,Delivery,,3.35,1.59,Card
+80085,10254,2024-03-11 23:19:00,Cancelled,Web,Pickup,1.0,0.0,1.06,Card
+80086,10185,2024-03-18 14:31:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.09,Card
+80087,10391,2024-03-01 18:13:00,Placed,Web,Pickup,1.0,0.0,0.52,Card
+80088,10473,2024-03-19 02:41:00,Completed,Mobile App,Delivery,,2.27,0.8,Mobile Wallet
+80089,10275,2024-03-13 15:04:00,Placed,Mobile App,Delivery,,1.24,1.84,Card
+80090,10275,2024-03-27 16:32:00,Placed,Mobile App,Pickup,,0.0,1.4,Mobile Wallet
+80091,10489,2024-03-03 15:14:00,Preparing,Web,Delivery,,3.77,0.23,Mobile Wallet
+80092,10312,2024-03-15 01:49:00,Preparing,Web,Delivery,,1.04,0.27,Card
+80093,10084,2024-03-24 19:15:00,Completed,Web,Pickup,3.0,0.0,0.74,Mobile Wallet
+80094,10400,2024-03-02 08:03:00,Completed,Mobile App,Pickup,1.0,0.0,0.54,Card
+80095,10135,2024-03-23 13:55:00,Cancelled,Mobile App,Delivery,,1.17,1.72,Card
+80096,10189,2024-03-12 14:39:00,Placed,Web,Delivery,,1.69,1.02,Card
+80097,10440,2024-03-12 03:06:00,Placed,Mobile App,Delivery,,2.09,1.84,Card
+80098,10477,2024-03-26 03:52:00,Cancelled,Web,Delivery,,1.97,0.83,Mobile Wallet
+80099,10164,2024-03-27 00:16:00,Completed,Web,Pickup,1.0,0.0,1.0,Card
+80100,10092,2024-03-24 11:21:00,Placed,Mobile App,Delivery,,1.21,0.93,PayPal
+80101,10397,2024-03-04 22:21:00,Cancelled,Web,Pickup,3.0,0.0,0.74,PayPal
+80102,10289,2024-03-22 02:43:00,Completed,Mobile App,Pickup,2.0,0.0,2.0,Card
+80103,10376,2024-03-07 20:27:00,Placed,Mobile App,Delivery,,1.07,1.08,Mobile Wallet
+80104,10430,2024-03-16 05:55:00,Placed,Mobile App,Delivery,,3.55,1.45,Card
+80105,10106,2024-03-20 02:33:00,Cancelled,Web,Delivery,,3.92,0.28,PayPal
+80106,10048,2024-03-11 12:49:00,Cancelled,Mobile App,Delivery,,2.38,1.5,Mobile Wallet
+80107,10049,2024-03-30 00:00:00,Cancelled,Web,Delivery,,2.78,0.12,Mobile Wallet
+80108,10494,2024-03-11 18:37:00,Completed,Mobile App,Delivery,,3.55,1.85,PayPal
+80109,10359,2024-03-21 14:31:00,Completed,Web,Pickup,3.0,0.0,0.15,Card
+80110,10070,2024-03-08 01:44:00,Placed,Web,Delivery,,2.35,0.63,Card
+80111,10275,2024-03-21 13:36:00,Completed,Mobile App,Pickup,2.0,0.0,0.53,Card
+80112,10047,2024-03-14 20:17:00,Placed,Web,Delivery,,3.51,0.66,Card
+80113,10365,2024-03-17 04:33:00,Cancelled,Web,Delivery,,3.03,0.52,Card
+80114,10016,2024-03-26 07:14:00,Preparing,Web,Pickup,,0.0,0.92,Card
+80115,10063,2024-03-03 19:21:00,Preparing,Web,Delivery,,1.59,0.8,Mobile Wallet
+80116,10323,2024-03-27 12:03:00,Completed,Web,Delivery,,1.07,0.13,Mobile Wallet
+80117,10228,2024-03-05 04:27:00,Completed,Web,Delivery,,1.13,0.92,Card
+80118,10474,2024-03-23 13:54:00,Placed,Mobile App,Pickup,,0.0,1.37,Card
+80119,10182,2024-03-09 12:25:00,Completed,Mobile App,Delivery,,2.34,0.3,Mobile Wallet
+80120,10318,2024-03-30 11:00:00,Completed,Mobile App,Delivery,,2.24,1.1,Card
+80121,10045,2024-03-07 05:53:00,Cancelled,Web,Pickup,,0.0,1.29,Mobile Wallet
+80122,10128,2024-03-18 09:47:00,Completed,Mobile App,Delivery,,2.63,0.97,Mobile Wallet
+80123,10258,2024-03-13 07:23:00,Preparing,Web,Pickup,,0.0,0.64,Card
+80124,10016,2024-03-22 11:12:00,Completed,Web,Pickup,1.0,0.0,1.95,Card
+80125,10127,2024-03-13 03:07:00,Placed,Web,Delivery,,2.73,1.97,PayPal
+80126,10182,2024-03-09 00:20:00,Preparing,Mobile App,Delivery,,3.42,1.4,Mobile Wallet
+80127,10015,2024-03-26 15:03:00,Preparing,Mobile App,Pickup,2.0,0.0,1.08,Card
+80128,10252,2024-03-05 02:35:00,Placed,Web,Delivery,,2.8,0.04,PayPal
+80129,10001,2024-03-06 22:31:00,Completed,Web,Pickup,2.0,0.0,1.84,PayPal
+80130,10031,2024-03-07 17:20:00,Preparing,Web,Delivery,,3.54,1.72,Card
+80131,10192,2024-03-16 07:36:00,Completed,Mobile App,Pickup,1.0,0.0,0.27,Card
+80132,10375,2024-03-30 13:04:00,Completed,Web,Pickup,,0.0,1.41,Mobile Wallet
+80133,10356,2024-03-27 19:17:00,Preparing,Mobile App,Pickup,2.0,0.0,0.61,Mobile Wallet
+80134,10151,2024-03-09 02:06:00,Placed,Mobile App,Delivery,,3.55,1.54,Mobile Wallet
+80135,10017,2024-03-28 09:58:00,Completed,Web,Delivery,,2.92,0.21,PayPal
+80136,10073,2024-03-11 19:57:00,Completed,Mobile App,Pickup,1.0,0.0,0.34,Card
+80137,10421,2024-03-01 12:26:00,Completed,Web,Pickup,,0.0,0.5,Card
+80138,10180,2024-03-01 01:23:00,Placed,Mobile App,Pickup,1.0,0.0,0.88,PayPal
+80139,10497,2024-03-19 20:13:00,Cancelled,Mobile App,Delivery,,2.05,0.75,PayPal
+80140,10404,2024-03-08 09:39:00,Cancelled,Web,Delivery,,3.4,0.07,Card
+80141,10164,2024-03-04 09:02:00,Completed,Web,Pickup,1.0,0.0,1.78,Card
+80142,10375,2024-03-25 21:31:00,Placed,Mobile App,Delivery,,2.78,1.23,PayPal
+80143,10361,2024-03-20 15:07:00,Preparing,Mobile App,Delivery,,1.47,0.2,Card
+80144,10499,2024-03-19 15:02:00,Completed,Mobile App,Delivery,,1.89,0.19,PayPal
+80145,10293,2024-03-03 11:32:00,Completed,Web,Pickup,2.0,0.0,0.86,PayPal
+80146,10422,2024-03-05 09:56:00,Placed,Web,Pickup,2.0,0.0,0.34,PayPal
+80147,10042,2024-03-15 00:48:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.98,Mobile Wallet
+80148,10136,2024-03-30 05:05:00,Cancelled,Web,Delivery,,2.11,0.76,Card
+80149,10229,2024-03-12 23:35:00,Cancelled,Mobile App,Delivery,,1.79,1.67,Mobile Wallet
+80150,10032,2024-03-05 09:37:00,Placed,Mobile App,Delivery,,3.42,0.83,Mobile Wallet
+80151,10117,2024-03-18 14:49:00,Cancelled,Mobile App,Delivery,,2.72,0.47,PayPal
+80152,10041,2024-03-23 20:25:00,Preparing,Web,Pickup,1.0,0.0,1.9,PayPal
+80153,10089,2024-03-10 15:26:00,Preparing,Web,Delivery,,1.13,0.16,Mobile Wallet
+80154,10223,2024-03-29 13:05:00,Preparing,Mobile App,Delivery,,1.96,1.45,Card
+80155,10045,2024-03-26 02:59:00,Completed,Mobile App,Pickup,,0.0,1.04,Card
+80156,10403,2024-03-19 20:40:00,Preparing,Web,Pickup,1.0,0.0,1.13,Mobile Wallet
+80157,10389,2024-03-05 19:22:00,Placed,Mobile App,Delivery,,3.6,1.76,PayPal
+80158,10136,2024-03-27 00:48:00,Cancelled,Web,Pickup,,0.0,0.34,PayPal
+80159,10074,2024-03-19 00:18:00,Completed,Web,Pickup,1.0,0.0,0.1,PayPal
+80160,10472,2024-03-01 22:05:00,Completed,Mobile App,Pickup,3.0,0.0,0.62,PayPal
+80161,10440,2024-03-11 08:59:00,Preparing,Mobile App,Delivery,,3.92,0.89,PayPal
+80162,10138,2024-03-09 13:16:00,Cancelled,Web,Pickup,1.0,0.0,1.83,PayPal
+80163,10380,2024-03-03 13:23:00,Preparing,Web,Pickup,3.0,0.0,0.62,Mobile Wallet
+80164,10207,2024-03-24 20:39:00,Placed,Web,Delivery,,1.58,1.67,Card
+80165,10128,2024-03-21 18:33:00,Placed,Mobile App,Delivery,,3.11,0.55,PayPal
+80166,10259,2024-03-02 09:22:00,Preparing,Mobile App,Pickup,1.0,0.0,0.98,PayPal
+80167,10091,2024-03-16 16:00:00,Preparing,Mobile App,Pickup,3.0,0.0,1.5,Mobile Wallet
+80168,10047,2024-03-18 14:13:00,Placed,Web,Pickup,1.0,0.0,1.71,Card
+80169,10439,2024-03-30 11:06:00,Preparing,Web,Delivery,,1.81,0.82,Card
+80170,10443,2024-03-22 13:50:00,Preparing,Web,Delivery,,2.8,0.02,PayPal
+80171,10312,2024-03-20 06:54:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.92,Card
+80172,10239,2024-03-27 14:24:00,Placed,Web,Pickup,,0.0,1.02,Mobile Wallet
+80173,10495,2024-03-14 14:00:00,Placed,Mobile App,Pickup,3.0,0.0,0.13,PayPal
+80174,10328,2024-03-12 21:14:00,Completed,Web,Pickup,3.0,0.0,0.3,Card
+80175,10461,2024-03-28 07:23:00,Cancelled,Mobile App,Delivery,,3.04,1.44,Mobile Wallet
+80176,10255,2024-03-20 01:11:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.47,Mobile Wallet
+80177,10363,2024-03-16 14:49:00,Preparing,Mobile App,Delivery,,3.72,1.34,Mobile Wallet
+80178,10154,2024-03-30 22:17:00,Preparing,Mobile App,Delivery,,1.29,0.26,PayPal
+80179,10372,2024-03-16 06:36:00,Placed,Web,Delivery,,2.07,1.49,PayPal
+80180,10216,2024-03-12 20:36:00,Completed,Mobile App,Pickup,3.0,0.0,1.7,PayPal
+80181,10028,2024-03-22 11:47:00,Preparing,Web,Delivery,,3.6,0.76,PayPal
+80182,10212,2024-03-07 20:41:00,Preparing,Web,Delivery,,2.03,1.97,PayPal
+80183,10074,2024-03-04 16:16:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.26,Card
+80184,10161,2024-03-01 05:08:00,Cancelled,Mobile App,Delivery,,1.63,1.55,Mobile Wallet
+80185,10392,2024-03-23 06:44:00,Placed,Web,Delivery,,2.84,1.27,PayPal
+80186,10220,2024-03-01 05:05:00,Placed,Web,Pickup,,0.0,1.46,Card
+80187,10457,2024-03-01 19:34:00,Placed,Web,Pickup,2.0,0.0,0.45,PayPal
+80188,10160,2024-03-05 16:11:00,Cancelled,Mobile App,Delivery,,1.5,1.65,PayPal
+80189,10486,2024-03-24 16:17:00,Completed,Mobile App,Pickup,,0.0,1.78,Card
+80190,10176,2024-03-09 13:48:00,Preparing,Mobile App,Pickup,3.0,0.0,0.04,Card
+80191,10373,2024-03-10 14:40:00,Placed,Web,Delivery,,1.37,1.42,Card
+80192,10193,2024-03-28 00:43:00,Placed,Web,Pickup,1.0,0.0,1.31,Card
+80193,10025,2024-03-19 23:13:00,Cancelled,Mobile App,Delivery,,1.37,0.51,Mobile Wallet
+80194,10079,2024-03-29 16:28:00,Placed,Mobile App,Delivery,,2.26,0.2,Mobile Wallet
+80195,10139,2024-03-20 01:28:00,Placed,Web,Delivery,,1.85,1.57,PayPal
+80196,10102,2024-03-12 23:15:00,Preparing,Mobile App,Delivery,,3.11,0.59,Card
+80197,10281,2024-03-22 21:00:00,Completed,Web,Pickup,2.0,0.0,0.01,Mobile Wallet
+80198,10046,2024-03-27 03:07:00,Cancelled,Web,Delivery,,3.85,1.56,Card
+80199,10371,2024-03-12 15:30:00,Preparing,Mobile App,Delivery,,3.97,0.59,PayPal
+80200,10026,2024-03-08 22:49:00,Placed,Mobile App,Delivery,,2.08,1.35,PayPal
+80201,10379,2024-03-05 07:45:00,Placed,Web,Delivery,,3.56,1.33,Card
+80202,10169,2024-03-29 07:10:00,Completed,Web,Pickup,,0.0,0.75,PayPal
+80203,10094,2024-03-19 05:45:00,Cancelled,Mobile App,Delivery,,1.82,0.77,PayPal
+80204,10410,2024-03-06 03:29:00,Preparing,Web,Pickup,2.0,0.0,1.96,Card
+80205,10054,2024-03-26 21:26:00,Cancelled,Web,Pickup,,0.0,1.22,PayPal
+80206,10314,2024-03-06 22:42:00,Cancelled,Mobile App,Delivery,,1.34,0.82,Card
+80207,10033,2024-03-01 13:30:00,Preparing,Mobile App,Pickup,3.0,0.0,1.04,Mobile Wallet
+80208,10359,2024-03-20 16:47:00,Preparing,Mobile App,Delivery,,2.04,1.35,PayPal
+80209,10077,2024-03-01 12:43:00,Preparing,Mobile App,Delivery,,3.56,1.74,Card
+80210,10385,2024-03-11 23:07:00,Completed,Mobile App,Pickup,3.0,0.0,0.1,Card
+80211,10282,2024-03-11 16:40:00,Placed,Mobile App,Pickup,,0.0,0.89,Mobile Wallet
+80212,10230,2024-03-23 16:26:00,Cancelled,Mobile App,Delivery,,1.36,0.99,Mobile Wallet
+80213,10010,2024-03-19 08:39:00,Cancelled,Web,Delivery,,2.67,0.0,Card
+80214,10406,2024-03-30 18:59:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.73,Card
+80215,10419,2024-03-21 16:23:00,Completed,Mobile App,Delivery,,3.15,0.73,PayPal
+80216,10059,2024-03-30 23:42:00,Preparing,Web,Delivery,,2.02,1.66,PayPal
+80217,10281,2024-03-03 02:00:00,Preparing,Mobile App,Pickup,1.0,0.0,0.28,Mobile Wallet
+80218,10381,2024-03-12 13:45:00,Preparing,Web,Pickup,1.0,0.0,0.24,PayPal
+80219,10111,2024-03-16 09:06:00,Placed,Mobile App,Pickup,2.0,0.0,0.09,Mobile Wallet
+80220,10429,2024-03-21 12:04:00,Cancelled,Web,Delivery,,3.89,0.01,Mobile Wallet
+80221,10025,2024-03-24 03:14:00,Preparing,Web,Pickup,,0.0,1.46,Card
+80222,10054,2024-03-23 22:37:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.96,Mobile Wallet
+80223,10391,2024-03-13 10:50:00,Cancelled,Mobile App,Delivery,,3.91,0.91,Card
+80224,10071,2024-03-25 22:21:00,Completed,Web,Pickup,3.0,0.0,0.4,Mobile Wallet
+80225,10366,2024-03-07 00:54:00,Preparing,Mobile App,Pickup,3.0,0.0,1.42,PayPal
+80226,10288,2024-03-25 07:09:00,Completed,Mobile App,Pickup,,0.0,1.62,Mobile Wallet
+80227,10055,2024-03-18 08:00:00,Preparing,Web,Delivery,,3.01,0.4,Card
+80228,10147,2024-03-03 19:45:00,Completed,Web,Pickup,2.0,0.0,1.51,Card
+80229,10184,2024-03-29 00:57:00,Preparing,Mobile App,Pickup,1.0,0.0,0.48,Mobile Wallet
+80230,10148,2024-03-18 08:47:00,Cancelled,Mobile App,Delivery,,3.87,1.95,PayPal
+80231,10495,2024-03-01 14:09:00,Completed,Web,Delivery,,2.86,1.56,PayPal
+80232,10425,2024-03-29 20:15:00,Completed,Web,Delivery,,3.33,1.93,PayPal
+80233,10230,2024-03-04 09:20:00,Preparing,Web,Delivery,,3.21,0.24,Card
+80234,10220,2024-03-06 22:04:00,Preparing,Mobile App,Pickup,3.0,0.0,0.01,PayPal
+80235,10364,2024-03-02 19:37:00,Preparing,Mobile App,Delivery,,2.79,1.55,Mobile Wallet
+80236,10316,2024-03-27 01:30:00,Completed,Web,Pickup,,0.0,1.57,PayPal
+80237,10270,2024-03-09 08:50:00,Placed,Web,Delivery,,2.25,1.07,Card
+80238,10179,2024-03-10 17:02:00,Completed,Mobile App,Delivery,,2.08,0.44,Mobile Wallet
+80239,10272,2024-03-06 05:18:00,Completed,Mobile App,Pickup,1.0,0.0,0.48,Mobile Wallet
+80240,10315,2024-03-02 19:33:00,Completed,Mobile App,Delivery,,3.75,1.89,PayPal
+80241,10132,2024-03-24 12:33:00,Completed,Mobile App,Pickup,1.0,0.0,0.97,PayPal
+80242,10460,2024-03-15 13:52:00,Placed,Web,Delivery,,1.5,1.91,Mobile Wallet
+80243,10274,2024-03-29 12:46:00,Placed,Web,Delivery,,3.01,1.55,Mobile Wallet
+80244,10218,2024-03-10 08:32:00,Cancelled,Web,Delivery,,3.24,0.31,PayPal
+80245,10368,2024-03-04 23:35:00,Placed,Web,Pickup,1.0,0.0,0.36,PayPal
+80246,10286,2024-03-27 04:00:00,Preparing,Mobile App,Delivery,,2.22,0.9,PayPal
+80247,10222,2024-03-18 17:26:00,Placed,Web,Pickup,1.0,0.0,1.28,Mobile Wallet
+80248,10033,2024-03-04 07:17:00,Completed,Web,Delivery,,1.87,1.37,Mobile Wallet
+80249,10045,2024-03-18 08:36:00,Cancelled,Web,Pickup,,0.0,0.95,Mobile Wallet
+80250,10113,2024-03-18 19:04:00,Completed,Web,Delivery,,1.89,1.77,Mobile Wallet
+80251,10332,2024-03-26 04:35:00,Preparing,Web,Pickup,1.0,0.0,0.08,Mobile Wallet
+80252,10306,2024-03-14 20:48:00,Preparing,Mobile App,Pickup,1.0,0.0,0.42,Mobile Wallet
+80253,10436,2024-03-08 07:48:00,Preparing,Web,Delivery,,2.85,0.51,Card
+80254,10093,2024-03-25 23:29:00,Cancelled,Web,Delivery,,1.87,0.13,Card
+80255,10102,2024-03-17 06:05:00,Preparing,Web,Pickup,3.0,0.0,0.2,Mobile Wallet
+80256,10036,2024-03-15 11:06:00,Cancelled,Mobile App,Delivery,,1.99,1.32,Mobile Wallet
+80257,10300,2024-03-26 17:44:00,Completed,Mobile App,Delivery,,3.88,0.34,PayPal
+80258,10127,2024-03-30 03:57:00,Cancelled,Mobile App,Delivery,,3.52,0.27,Mobile Wallet
+80259,10170,2024-03-21 06:26:00,Completed,Mobile App,Pickup,,0.0,0.97,Card
+80260,10090,2024-03-13 18:30:00,Preparing,Web,Delivery,,1.79,1.77,Card
+80261,10373,2024-03-01 20:20:00,Placed,Mobile App,Delivery,,3.31,0.43,Card
+80262,10283,2024-03-30 18:14:00,Preparing,Mobile App,Pickup,,0.0,0.78,Mobile Wallet
+80263,10376,2024-03-22 03:34:00,Placed,Mobile App,Pickup,2.0,0.0,0.73,Card
+80264,10340,2024-03-28 22:41:00,Preparing,Web,Delivery,,2.34,0.36,Mobile Wallet
+80265,10338,2024-03-23 00:06:00,Completed,Web,Delivery,,1.66,0.98,Card
+80266,10136,2024-03-02 22:45:00,Preparing,Mobile App,Pickup,2.0,0.0,0.78,PayPal
+80267,10452,2024-03-02 19:35:00,Completed,Web,Delivery,,3.11,1.04,PayPal
+80268,10428,2024-03-18 03:24:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.18,Card
+80269,10265,2024-03-11 03:27:00,Cancelled,Mobile App,Pickup,,0.0,1.63,PayPal
+80270,10250,2024-03-23 20:08:00,Preparing,Mobile App,Pickup,1.0,0.0,0.33,Card
+80271,10264,2024-03-07 20:06:00,Preparing,Web,Pickup,2.0,0.0,0.72,Mobile Wallet
+80272,10419,2024-03-11 11:35:00,Cancelled,Mobile App,Delivery,,3.16,0.96,PayPal
+80273,10246,2024-03-27 21:18:00,Preparing,Mobile App,Delivery,,1.07,0.09,Mobile Wallet
+80274,10304,2024-03-07 03:09:00,Placed,Web,Delivery,,1.17,0.52,Card
+80275,10265,2024-03-13 21:36:00,Placed,Web,Pickup,1.0,0.0,0.9,PayPal
+80276,10445,2024-03-10 23:36:00,Cancelled,Web,Pickup,2.0,0.0,1.59,Card
+80277,10320,2024-03-16 14:17:00,Cancelled,Web,Pickup,2.0,0.0,0.46,PayPal
+80278,10068,2024-03-01 18:05:00,Preparing,Mobile App,Delivery,,3.48,1.21,Card
+80279,10244,2024-03-25 04:27:00,Placed,Web,Delivery,,2.45,0.26,Mobile Wallet
+80280,10277,2024-03-30 13:08:00,Cancelled,Mobile App,Delivery,,2.11,0.09,Mobile Wallet
+80281,10220,2024-03-22 22:36:00,Cancelled,Mobile App,Delivery,,2.77,1.48,Mobile Wallet
+80282,10295,2024-03-20 08:44:00,Preparing,Mobile App,Delivery,,2.43,0.47,Card
+80283,10146,2024-03-09 14:27:00,Placed,Web,Pickup,3.0,0.0,1.16,Card
+80284,10267,2024-03-18 01:37:00,Preparing,Mobile App,Delivery,,2.23,0.21,PayPal
+80285,10334,2024-03-25 09:34:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.22,Mobile Wallet
+80286,10204,2024-03-19 19:21:00,Cancelled,Web,Delivery,,2.11,1.11,PayPal
+80287,10158,2024-03-07 06:48:00,Placed,Web,Pickup,,0.0,0.89,Mobile Wallet
+80288,10487,2024-03-05 13:31:00,Preparing,Mobile App,Delivery,,3.36,1.6,Mobile Wallet
+80289,10357,2024-03-08 07:34:00,Cancelled,Web,Delivery,,3.41,1.65,PayPal
+80290,10475,2024-03-03 21:59:00,Completed,Web,Pickup,1.0,0.0,0.74,Mobile Wallet
+80291,10020,2024-03-28 22:36:00,Completed,Web,Pickup,,0.0,1.89,Card
+80292,10328,2024-03-01 11:41:00,Preparing,Mobile App,Pickup,,0.0,0.39,Mobile Wallet
+80293,10262,2024-03-28 23:57:00,Preparing,Web,Delivery,,2.08,1.31,Card
+80294,10045,2024-03-17 01:42:00,Cancelled,Mobile App,Pickup,,0.0,1.17,Mobile Wallet
+80295,10008,2024-03-05 02:29:00,Completed,Mobile App,Delivery,,2.04,1.63,Card
+80296,10311,2024-03-21 16:43:00,Cancelled,Web,Delivery,,1.78,0.81,Card
+80297,10287,2024-03-23 21:35:00,Completed,Mobile App,Delivery,,3.84,1.61,PayPal
+80298,10449,2024-03-18 03:52:00,Cancelled,Web,Pickup,,0.0,1.51,PayPal
+80299,10349,2024-03-22 22:26:00,Placed,Mobile App,Pickup,1.0,0.0,0.14,Mobile Wallet
+80300,10404,2024-03-11 11:08:00,Completed,Mobile App,Delivery,,3.87,1.03,Card
+80301,10359,2024-03-14 01:47:00,Placed,Mobile App,Pickup,2.0,0.0,1.35,PayPal
+80302,10039,2024-03-22 16:31:00,Completed,Mobile App,Delivery,,1.66,1.15,Card
+80303,10485,2024-03-23 17:02:00,Preparing,Web,Delivery,,3.21,1.75,Card
+80304,10118,2024-03-12 08:44:00,Completed,Web,Delivery,,3.34,0.24,Card
+80305,10347,2024-03-25 15:26:00,Placed,Mobile App,Pickup,1.0,0.0,0.74,PayPal
+80306,10253,2024-03-09 07:44:00,Completed,Mobile App,Pickup,,0.0,0.44,Mobile Wallet
+80307,10066,2024-03-24 22:14:00,Cancelled,Mobile App,Delivery,,3.82,0.07,PayPal
+80308,10202,2024-03-21 19:22:00,Placed,Mobile App,Delivery,,1.95,0.02,Mobile Wallet
+80309,10108,2024-03-15 19:27:00,Completed,Mobile App,Pickup,1.0,0.0,0.37,PayPal
+80310,10122,2024-03-28 21:39:00,Completed,Mobile App,Pickup,,0.0,0.37,PayPal
+80311,10108,2024-03-17 14:45:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.9,Mobile Wallet
+80312,10068,2024-03-05 13:05:00,Completed,Web,Delivery,,2.67,1.71,Card
+80313,10075,2024-03-22 12:37:00,Placed,Web,Delivery,,2.26,0.27,Mobile Wallet
+80314,10265,2024-03-14 15:43:00,Completed,Web,Pickup,,0.0,0.8,Mobile Wallet
+80315,10084,2024-03-10 19:20:00,Completed,Mobile App,Delivery,,3.52,0.19,Mobile Wallet
+80316,10172,2024-03-17 09:33:00,Completed,Mobile App,Pickup,3.0,0.0,0.04,Card
+80317,10180,2024-03-27 06:04:00,Preparing,Mobile App,Delivery,,2.07,1.35,PayPal
+80318,10397,2024-03-18 08:13:00,Completed,Mobile App,Pickup,1.0,0.0,1.26,Card
+80319,10445,2024-03-30 03:41:00,Completed,Mobile App,Delivery,,2.89,1.14,Card
+80320,10041,2024-03-16 15:19:00,Preparing,Mobile App,Delivery,,1.95,0.58,PayPal
+80321,10310,2024-03-21 05:56:00,Completed,Mobile App,Pickup,3.0,0.0,0.83,Card
+80322,10438,2024-03-06 16:34:00,Preparing,Mobile App,Delivery,,3.82,1.4,Card
+80323,10108,2024-03-19 01:40:00,Placed,Web,Delivery,,1.19,1.76,Mobile Wallet
+80324,10028,2024-03-19 01:38:00,Placed,Web,Delivery,,1.79,0.31,Mobile Wallet
+80325,10477,2024-03-11 10:31:00,Preparing,Mobile App,Pickup,3.0,0.0,0.89,Card
+80326,10068,2024-03-02 07:12:00,Placed,Mobile App,Delivery,,3.58,0.65,PayPal
+80327,10240,2024-03-07 03:34:00,Preparing,Mobile App,Pickup,,0.0,1.26,Mobile Wallet
+80328,10450,2024-03-16 19:12:00,Cancelled,Web,Pickup,3.0,0.0,1.61,PayPal
+80329,10158,2024-03-12 19:46:00,Preparing,Mobile App,Pickup,,0.0,0.02,Mobile Wallet
+80330,10418,2024-03-16 15:36:00,Completed,Mobile App,Delivery,,2.61,1.38,PayPal
+80331,10485,2024-03-01 09:58:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.19,Card
+80332,10281,2024-03-19 17:43:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.5,Mobile Wallet
+80333,10378,2024-03-11 00:56:00,Completed,Web,Pickup,,0.0,0.84,Card
+80334,10265,2024-03-30 12:17:00,Completed,Mobile App,Pickup,3.0,0.0,0.38,Card
+80335,10094,2024-03-14 04:18:00,Placed,Mobile App,Delivery,,2.85,0.54,Mobile Wallet
+80336,10252,2024-03-15 14:13:00,Placed,Web,Delivery,,1.15,1.07,Card
+80337,10498,2024-03-13 20:08:00,Completed,Web,Delivery,,3.15,1.45,Card
+80338,10047,2024-03-01 16:05:00,Cancelled,Web,Delivery,,2.03,0.62,PayPal
+80339,10191,2024-03-16 00:43:00,Placed,Web,Pickup,1.0,0.0,0.11,PayPal
+80340,10037,2024-03-09 17:55:00,Completed,Mobile App,Pickup,2.0,0.0,1.66,Card
+80341,10499,2024-03-18 12:18:00,Cancelled,Web,Delivery,,3.21,0.07,PayPal
+80342,10377,2024-03-24 17:13:00,Preparing,Mobile App,Delivery,,2.17,1.92,PayPal
+80343,10082,2024-03-26 00:17:00,Placed,Mobile App,Delivery,,2.44,0.6,PayPal
+80344,10455,2024-03-10 21:52:00,Placed,Web,Delivery,,2.9,0.65,Card
+80345,10407,2024-03-19 00:19:00,Preparing,Web,Pickup,1.0,0.0,1.94,Mobile Wallet
+80346,10402,2024-03-17 21:39:00,Placed,Web,Pickup,2.0,0.0,0.32,Card
+80347,10352,2024-03-03 17:17:00,Completed,Web,Pickup,1.0,0.0,1.4,Card
+80348,10065,2024-03-15 09:57:00,Completed,Mobile App,Pickup,2.0,0.0,1.47,Card
+80349,10353,2024-03-07 03:09:00,Completed,Web,Pickup,3.0,0.0,0.97,PayPal
+80350,10287,2024-03-09 15:17:00,Preparing,Mobile App,Pickup,,0.0,0.65,PayPal
+80351,10141,2024-03-04 03:13:00,Preparing,Mobile App,Delivery,,1.89,0.53,PayPal
+80352,10233,2024-03-30 00:53:00,Cancelled,Web,Delivery,,3.65,1.24,PayPal
+80353,10398,2024-03-15 14:17:00,Placed,Mobile App,Delivery,,1.57,1.37,Mobile Wallet
+80354,10079,2024-03-19 15:36:00,Completed,Web,Pickup,3.0,0.0,0.19,Mobile Wallet
+80355,10035,2024-03-06 21:44:00,Preparing,Web,Delivery,,1.61,0.97,Card
+80356,10017,2024-03-24 22:20:00,Completed,Web,Pickup,,0.0,0.73,Mobile Wallet
+80357,10368,2024-03-01 14:17:00,Preparing,Mobile App,Delivery,,3.79,1.66,PayPal
+80358,10411,2024-03-17 10:13:00,Cancelled,Mobile App,Delivery,,3.38,0.12,Mobile Wallet
+80359,10137,2024-03-04 04:52:00,Completed,Web,Delivery,,3.83,1.92,Card
+80360,10052,2024-03-25 04:42:00,Cancelled,Web,Delivery,,1.58,1.31,Mobile Wallet
+80361,10321,2024-03-26 09:56:00,Cancelled,Web,Delivery,,3.3,1.15,Mobile Wallet
+80362,10235,2024-03-08 14:12:00,Preparing,Mobile App,Pickup,1.0,0.0,1.01,Mobile Wallet
+80363,10081,2024-03-15 08:13:00,Completed,Mobile App,Pickup,3.0,0.0,0.82,Mobile Wallet
+80364,10221,2024-03-26 15:06:00,Preparing,Mobile App,Pickup,2.0,0.0,1.53,Mobile Wallet
+80365,10131,2024-03-21 08:47:00,Cancelled,Web,Pickup,,0.0,1.45,PayPal
+80366,10306,2024-03-24 13:22:00,Preparing,Mobile App,Delivery,,1.02,1.97,Card
+80367,10439,2024-03-13 13:25:00,Preparing,Web,Pickup,1.0,0.0,0.08,PayPal
+80368,10080,2024-03-13 01:26:00,Completed,Web,Delivery,,1.7,1.62,Card
+80369,10293,2024-03-04 12:19:00,Completed,Mobile App,Pickup,2.0,0.0,0.35,Mobile Wallet
+80370,10360,2024-03-28 02:09:00,Completed,Web,Delivery,,3.19,1.15,Card
+80371,10400,2024-03-16 05:14:00,Completed,Mobile App,Delivery,,2.25,1.74,Card
+80372,10383,2024-03-29 20:22:00,Cancelled,Web,Delivery,,1.91,0.08,Mobile Wallet
+80373,10290,2024-03-15 20:59:00,Preparing,Web,Delivery,,1.15,1.46,PayPal
+80374,10498,2024-03-11 02:34:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.57,Card
+80375,10068,2024-03-22 15:45:00,Placed,Mobile App,Pickup,1.0,0.0,0.53,PayPal
+80376,10257,2024-03-07 03:18:00,Cancelled,Web,Pickup,2.0,0.0,0.98,Mobile Wallet
+80377,10293,2024-03-26 12:56:00,Preparing,Web,Delivery,,1.21,1.55,PayPal
+80378,10351,2024-03-06 02:54:00,Cancelled,Mobile App,Delivery,,2.1,0.38,PayPal
+80379,10305,2024-03-14 20:56:00,Preparing,Mobile App,Delivery,,2.85,1.98,PayPal
+80380,10320,2024-03-21 01:06:00,Placed,Web,Delivery,,1.6,0.75,Mobile Wallet
+80381,10437,2024-03-06 02:44:00,Placed,Web,Delivery,,3.85,1.85,PayPal
+80382,10008,2024-03-14 21:16:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.05,Card
+80383,10379,2024-03-10 06:36:00,Completed,Mobile App,Delivery,,2.87,1.98,Mobile Wallet
+80384,10358,2024-03-18 03:21:00,Placed,Mobile App,Delivery,,1.51,0.57,Mobile Wallet
+80385,10317,2024-03-22 03:51:00,Placed,Web,Pickup,1.0,0.0,0.78,PayPal
+80386,10340,2024-03-01 20:50:00,Completed,Mobile App,Pickup,1.0,0.0,0.46,PayPal
+80387,10261,2024-03-15 08:33:00,Cancelled,Web,Delivery,,1.56,1.0,PayPal
+80388,10288,2024-03-02 19:25:00,Preparing,Mobile App,Delivery,,2.0,0.79,Card
+80389,10010,2024-03-17 04:10:00,Completed,Web,Pickup,3.0,0.0,1.99,Mobile Wallet
+80390,10142,2024-03-29 11:31:00,Completed,Mobile App,Delivery,,3.67,1.63,Card
+80391,10484,2024-03-07 21:42:00,Completed,Mobile App,Pickup,2.0,0.0,1.31,Card
+80392,10374,2024-03-19 23:50:00,Preparing,Web,Pickup,2.0,0.0,0.85,PayPal
+80393,10466,2024-03-25 16:15:00,Preparing,Web,Pickup,,0.0,1.3,Mobile Wallet
+80394,10278,2024-03-07 06:51:00,Completed,Web,Delivery,,2.29,1.82,Card
+80395,10336,2024-03-15 10:47:00,Placed,Web,Delivery,,1.55,1.68,Card
+80396,10373,2024-03-15 12:05:00,Cancelled,Mobile App,Delivery,,1.91,1.49,Mobile Wallet
+80397,10478,2024-03-09 13:16:00,Placed,Web,Pickup,2.0,0.0,0.37,Mobile Wallet
+80398,10316,2024-03-28 03:23:00,Preparing,Web,Pickup,2.0,0.0,1.37,PayPal
+80399,10041,2024-03-23 20:40:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.37,PayPal
+80400,10252,2024-03-08 10:53:00,Preparing,Web,Pickup,2.0,0.0,0.06,Card
+80401,10474,2024-03-11 03:05:00,Preparing,Web,Pickup,,0.0,0.13,PayPal
+80402,10444,2024-03-21 19:45:00,Preparing,Mobile App,Pickup,3.0,0.0,0.81,Card
+80403,10312,2024-03-18 22:31:00,Placed,Web,Pickup,3.0,0.0,0.9,Card
+80404,10450,2024-03-24 14:33:00,Cancelled,Web,Delivery,,2.67,1.03,Mobile Wallet
+80405,10493,2024-03-09 15:22:00,Completed,Mobile App,Delivery,,2.19,0.61,PayPal
+80406,10237,2024-03-20 05:26:00,Completed,Web,Delivery,,3.07,1.81,PayPal
+80407,10425,2024-03-23 18:51:00,Placed,Web,Pickup,1.0,0.0,1.56,Mobile Wallet
+80408,10280,2024-03-18 21:20:00,Cancelled,Mobile App,Delivery,,2.35,0.36,Mobile Wallet
+80409,10460,2024-03-21 16:38:00,Placed,Mobile App,Delivery,,1.97,1.3,Mobile Wallet
+80410,10408,2024-03-06 14:56:00,Placed,Web,Delivery,,3.12,1.27,Card
+80411,10269,2024-03-18 05:37:00,Cancelled,Web,Pickup,2.0,0.0,1.54,PayPal
+80412,10290,2024-03-08 09:04:00,Preparing,Web,Delivery,,3.31,0.1,PayPal
+80413,10159,2024-03-29 12:15:00,Preparing,Web,Pickup,3.0,0.0,1.8,Card
+80414,10002,2024-03-21 20:57:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.09,Card
+80415,10312,2024-03-10 20:53:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.82,Card
+80416,10308,2024-03-12 03:17:00,Completed,Web,Delivery,,1.15,0.3,Mobile Wallet
+80417,10179,2024-03-07 14:47:00,Placed,Mobile App,Delivery,,1.99,0.18,Card
+80418,10214,2024-03-08 08:13:00,Completed,Web,Delivery,,3.9,1.5,PayPal
+80419,10477,2024-03-05 05:43:00,Completed,Mobile App,Delivery,,2.11,0.76,Card
+80420,10389,2024-03-14 07:51:00,Cancelled,Web,Pickup,1.0,0.0,0.24,PayPal
+80421,10169,2024-03-10 12:20:00,Placed,Web,Pickup,2.0,0.0,1.14,Mobile Wallet
+80422,10271,2024-03-23 00:17:00,Completed,Mobile App,Delivery,,2.83,0.63,Mobile Wallet
+80423,10295,2024-03-28 22:58:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.99,Card
+80424,10453,2024-03-14 05:17:00,Preparing,Web,Delivery,,1.35,0.93,Card
+80425,10378,2024-03-29 00:04:00,Cancelled,Mobile App,Delivery,,1.14,0.7,Mobile Wallet
+80426,10109,2024-03-30 03:43:00,Preparing,Mobile App,Delivery,,1.76,0.14,PayPal
+80427,10260,2024-03-06 04:20:00,Completed,Mobile App,Pickup,1.0,0.0,0.79,Mobile Wallet
+80428,10316,2024-03-08 23:50:00,Preparing,Mobile App,Delivery,,3.5,1.84,PayPal
+80429,10470,2024-03-30 09:13:00,Preparing,Mobile App,Pickup,1.0,0.0,0.31,PayPal
+80430,10457,2024-03-19 20:08:00,Placed,Mobile App,Pickup,,0.0,1.13,Mobile Wallet
+80431,10162,2024-03-10 11:28:00,Completed,Mobile App,Delivery,,1.2,0.3,Card
+80432,10174,2024-03-26 23:39:00,Cancelled,Web,Pickup,2.0,0.0,1.19,PayPal
+80433,10362,2024-03-13 08:32:00,Cancelled,Web,Pickup,1.0,0.0,0.99,Card
+80434,10191,2024-03-10 20:04:00,Completed,Web,Pickup,3.0,0.0,0.22,Card
+80435,10399,2024-03-05 05:08:00,Cancelled,Web,Delivery,,3.4,1.81,Card
+80436,10098,2024-03-24 19:56:00,Completed,Mobile App,Pickup,,0.0,0.29,Card
+80437,10421,2024-03-10 08:07:00,Placed,Mobile App,Delivery,,2.16,1.73,Card
+80438,10003,2024-03-28 01:07:00,Placed,Mobile App,Pickup,1.0,0.0,0.93,Card
+80439,10053,2024-03-27 06:50:00,Completed,Web,Pickup,1.0,0.0,0.64,Card
+80440,10147,2024-03-21 01:48:00,Placed,Mobile App,Pickup,3.0,0.0,0.3,PayPal
+80441,10059,2024-03-29 08:25:00,Placed,Web,Delivery,,2.63,1.1,PayPal
+80442,10073,2024-03-08 19:04:00,Placed,Mobile App,Pickup,2.0,0.0,1.23,PayPal
+80443,10277,2024-03-06 22:04:00,Placed,Mobile App,Pickup,1.0,0.0,1.81,Card
+80444,10055,2024-03-04 22:03:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.36,Mobile Wallet
+80445,10457,2024-03-15 05:16:00,Completed,Web,Pickup,3.0,0.0,1.43,Mobile Wallet
+80446,10415,2024-03-22 04:39:00,Preparing,Web,Delivery,,3.44,1.84,PayPal
+80447,10050,2024-03-30 07:52:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.46,Card
+80448,10074,2024-03-18 20:15:00,Preparing,Mobile App,Pickup,3.0,0.0,1.58,PayPal
+80449,10233,2024-03-03 23:23:00,Cancelled,Web,Pickup,1.0,0.0,0.7,PayPal
+80450,10434,2024-03-13 20:18:00,Completed,Web,Delivery,,2.52,0.81,Mobile Wallet
+80451,10408,2024-03-15 19:56:00,Placed,Mobile App,Delivery,,2.6,0.8,PayPal
+80452,10123,2024-03-25 22:30:00,Preparing,Mobile App,Delivery,,2.15,0.68,Mobile Wallet
+80453,10303,2024-03-26 19:32:00,Completed,Web,Pickup,,0.0,0.35,Mobile Wallet
+80454,10040,2024-03-27 22:48:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.11,PayPal
+80455,10091,2024-03-04 04:01:00,Placed,Mobile App,Pickup,,0.0,0.65,Mobile Wallet
+80456,10339,2024-03-05 02:53:00,Preparing,Web,Delivery,,3.66,1.81,Mobile Wallet
+80457,10415,2024-03-07 16:15:00,Preparing,Mobile App,Delivery,,2.59,0.78,Mobile Wallet
+80458,10229,2024-03-10 08:38:00,Completed,Mobile App,Delivery,,2.71,1.83,PayPal
+80459,10471,2024-03-05 01:31:00,Placed,Mobile App,Pickup,3.0,0.0,1.7,PayPal
+80460,10032,2024-03-01 00:55:00,Completed,Web,Pickup,1.0,0.0,1.72,Card
+80461,10121,2024-03-29 10:54:00,Completed,Mobile App,Pickup,,0.0,0.81,PayPal
+80462,10280,2024-03-08 21:24:00,Cancelled,Web,Delivery,,1.56,0.77,PayPal
+80463,10431,2024-03-14 03:05:00,Preparing,Web,Pickup,2.0,0.0,0.02,Mobile Wallet
+80464,10009,2024-03-23 03:36:00,Cancelled,Web,Delivery,,1.25,1.28,PayPal
+80465,10441,2024-03-29 08:45:00,Preparing,Mobile App,Pickup,,0.0,1.02,Mobile Wallet
+80466,10420,2024-03-17 04:05:00,Preparing,Web,Pickup,,0.0,0.85,Card
+80467,10296,2024-03-23 20:01:00,Completed,Mobile App,Pickup,2.0,0.0,1.85,Mobile Wallet
+80468,10188,2024-03-02 17:21:00,Cancelled,Mobile App,Delivery,,1.34,0.96,Mobile Wallet
+80469,10041,2024-03-24 22:58:00,Completed,Mobile App,Delivery,,2.55,1.05,Mobile Wallet
+80470,10046,2024-03-22 12:02:00,Placed,Mobile App,Delivery,,2.84,1.81,Mobile Wallet
+80471,10399,2024-03-22 08:07:00,Cancelled,Mobile App,Delivery,,2.72,0.66,PayPal
+80472,10492,2024-03-08 14:57:00,Placed,Mobile App,Pickup,3.0,0.0,1.45,Mobile Wallet
+80473,10134,2024-03-29 15:21:00,Cancelled,Web,Delivery,,2.72,1.31,PayPal
+80474,10415,2024-03-14 01:16:00,Cancelled,Web,Delivery,,1.38,0.15,PayPal
+80475,10130,2024-03-29 00:36:00,Completed,Mobile App,Delivery,,3.57,0.03,Card
+80476,10310,2024-03-27 22:22:00,Preparing,Mobile App,Delivery,,2.11,0.35,Mobile Wallet
+80477,10121,2024-03-25 00:02:00,Placed,Mobile App,Pickup,2.0,0.0,1.97,Card
+80478,10305,2024-03-23 13:42:00,Cancelled,Mobile App,Delivery,,1.71,0.88,Mobile Wallet
+80479,10086,2024-03-27 07:03:00,Completed,Web,Delivery,,2.93,1.51,Card
+80480,10027,2024-03-22 02:49:00,Cancelled,Mobile App,Delivery,,1.9,1.49,Mobile Wallet
+80481,10120,2024-03-22 14:22:00,Completed,Web,Pickup,,0.0,1.06,PayPal
+80482,10007,2024-03-18 09:15:00,Completed,Web,Pickup,,0.0,0.19,Mobile Wallet
+80483,10327,2024-03-28 18:48:00,Completed,Mobile App,Pickup,,0.0,0.54,Card
+80484,10131,2024-03-12 00:06:00,Preparing,Mobile App,Pickup,,0.0,1.36,Card
+80485,10161,2024-03-01 09:15:00,Placed,Web,Delivery,,2.23,1.05,Mobile Wallet
+80486,10229,2024-03-13 21:26:00,Completed,Web,Pickup,2.0,0.0,0.07,Mobile Wallet
+80487,10048,2024-03-28 00:57:00,Preparing,Web,Delivery,,3.12,0.24,Mobile Wallet
+80488,10067,2024-03-06 01:04:00,Preparing,Mobile App,Pickup,2.0,0.0,0.59,Mobile Wallet
+80489,10480,2024-03-30 01:43:00,Cancelled,Mobile App,Delivery,,3.31,1.38,Mobile Wallet
+80490,10395,2024-03-08 08:54:00,Placed,Mobile App,Pickup,3.0,0.0,1.55,PayPal
+80491,10199,2024-03-12 18:03:00,Completed,Web,Pickup,1.0,0.0,0.88,PayPal
+80492,10476,2024-03-28 18:36:00,Cancelled,Web,Delivery,,2.94,0.22,Mobile Wallet
+80493,10394,2024-03-28 22:36:00,Placed,Mobile App,Pickup,2.0,0.0,1.43,Card
+80494,10018,2024-03-04 04:54:00,Completed,Mobile App,Delivery,,1.06,1.0,Mobile Wallet
+80495,10328,2024-03-02 17:19:00,Cancelled,Mobile App,Delivery,,1.45,0.66,PayPal
+80496,10295,2024-03-24 10:56:00,Cancelled,Mobile App,Delivery,,2.31,1.69,Card
+80497,10277,2024-03-01 03:36:00,Cancelled,Mobile App,Delivery,,1.36,1.07,PayPal
+80498,10171,2024-03-03 12:17:00,Placed,Mobile App,Pickup,,0.0,1.07,PayPal
+80499,10042,2024-03-30 11:33:00,Preparing,Web,Pickup,3.0,0.0,1.11,PayPal
+80500,10339,2024-03-14 14:26:00,Cancelled,Web,Delivery,,2.89,0.72,Card
+80501,10454,2024-03-07 08:51:00,Placed,Web,Pickup,2.0,0.0,0.05,Mobile Wallet
+80502,10123,2024-03-03 20:48:00,Completed,Mobile App,Pickup,,0.0,1.07,PayPal
+80503,10495,2024-03-02 16:27:00,Completed,Web,Delivery,,2.01,1.44,PayPal
+80504,10061,2024-03-30 18:10:00,Cancelled,Web,Delivery,,3.22,0.47,Card
+80505,10019,2024-03-23 06:00:00,Placed,Mobile App,Delivery,,3.72,1.24,Card
+80506,10360,2024-03-01 15:41:00,Preparing,Web,Delivery,,3.71,1.64,Card
+80507,10234,2024-03-27 21:34:00,Placed,Web,Delivery,,1.34,1.19,Mobile Wallet
+80508,10113,2024-03-10 05:20:00,Cancelled,Mobile App,Delivery,,3.43,1.96,Mobile Wallet
+80509,10206,2024-03-27 05:06:00,Preparing,Mobile App,Pickup,1.0,0.0,1.67,Card
+80510,10392,2024-03-27 23:48:00,Preparing,Mobile App,Delivery,,1.19,0.55,PayPal
+80511,10087,2024-03-20 23:08:00,Preparing,Web,Pickup,2.0,0.0,0.27,Mobile Wallet
+80512,10314,2024-03-01 17:04:00,Cancelled,Web,Pickup,2.0,0.0,0.01,Card
+80513,10475,2024-03-30 15:53:00,Completed,Mobile App,Delivery,,3.08,1.58,PayPal
+80514,10355,2024-03-10 09:10:00,Preparing,Mobile App,Delivery,,2.57,0.82,Card
+80515,10313,2024-03-28 03:17:00,Preparing,Mobile App,Delivery,,2.84,0.18,PayPal
+80516,10179,2024-03-26 09:10:00,Preparing,Web,Pickup,1.0,0.0,0.24,Mobile Wallet
+80517,10049,2024-03-22 03:02:00,Preparing,Mobile App,Pickup,2.0,0.0,0.11,Card
+80518,10408,2024-03-22 14:11:00,Cancelled,Web,Delivery,,1.48,1.85,Card
+80519,10331,2024-03-10 12:55:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.67,PayPal
+80520,10023,2024-03-03 09:17:00,Preparing,Web,Delivery,,3.36,0.97,Card
+80521,10037,2024-03-21 05:51:00,Completed,Mobile App,Delivery,,1.6,1.35,PayPal
+80522,10118,2024-03-15 20:13:00,Preparing,Web,Delivery,,1.71,0.83,Card
+80523,10193,2024-03-04 08:18:00,Cancelled,Mobile App,Delivery,,1.16,0.87,Card
+80524,10476,2024-03-18 15:04:00,Completed,Web,Pickup,2.0,0.0,0.92,Card
+80525,10324,2024-03-10 04:52:00,Completed,Web,Pickup,3.0,0.0,0.06,Mobile Wallet
+80526,10031,2024-03-06 01:21:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.84,PayPal
+80527,10113,2024-03-30 00:51:00,Preparing,Web,Pickup,2.0,0.0,0.17,Mobile Wallet
+80528,10251,2024-03-27 22:09:00,Cancelled,Mobile App,Delivery,,1.84,1.46,Mobile Wallet
+80529,10447,2024-03-12 06:41:00,Completed,Mobile App,Delivery,,2.74,1.78,Mobile Wallet
+80530,10485,2024-03-27 02:38:00,Placed,Mobile App,Delivery,,3.94,0.08,PayPal
+80531,10376,2024-03-20 08:58:00,Cancelled,Mobile App,Delivery,,3.43,1.39,Card
+80532,10232,2024-03-04 18:45:00,Placed,Mobile App,Pickup,2.0,0.0,1.9,Card
+80533,10184,2024-03-30 11:23:00,Placed,Web,Pickup,2.0,0.0,0.96,PayPal
+80534,10083,2024-03-21 16:48:00,Cancelled,Web,Pickup,1.0,0.0,1.75,PayPal
+80535,10095,2024-03-29 19:50:00,Placed,Web,Pickup,,0.0,0.77,Mobile Wallet
+80536,10171,2024-03-14 11:57:00,Cancelled,Mobile App,Delivery,,3.09,1.23,Mobile Wallet
+80537,10407,2024-03-04 16:25:00,Completed,Web,Delivery,,2.54,1.82,PayPal
+80538,10455,2024-03-06 01:12:00,Cancelled,Mobile App,Delivery,,2.4,0.08,PayPal
+80539,10090,2024-03-26 12:29:00,Preparing,Web,Delivery,,3.94,0.48,Card
+80540,10333,2024-03-11 06:14:00,Completed,Mobile App,Pickup,2.0,0.0,1.8,Mobile Wallet
+80541,10349,2024-03-03 11:29:00,Placed,Mobile App,Pickup,3.0,0.0,0.69,PayPal
+80542,10257,2024-03-22 09:32:00,Completed,Mobile App,Delivery,,2.86,1.6,Mobile Wallet
+80543,10415,2024-03-09 13:43:00,Cancelled,Web,Delivery,,1.24,1.8,PayPal
+80544,10491,2024-03-05 23:27:00,Preparing,Mobile App,Delivery,,1.34,0.3,Card
+80545,10448,2024-03-24 16:43:00,Placed,Mobile App,Delivery,,2.25,1.36,Card
+80546,10243,2024-03-21 04:48:00,Placed,Mobile App,Pickup,,0.0,0.38,Card
+80547,10447,2024-03-24 15:33:00,Completed,Mobile App,Delivery,,2.74,1.31,PayPal
+80548,10249,2024-03-14 20:08:00,Preparing,Mobile App,Pickup,,0.0,0.34,PayPal
+80549,10117,2024-03-14 02:43:00,Placed,Web,Pickup,3.0,0.0,0.71,PayPal
+80550,10490,2024-03-29 03:42:00,Preparing,Mobile App,Delivery,,1.55,0.35,Mobile Wallet
+80551,10355,2024-03-08 08:07:00,Preparing,Web,Delivery,,1.12,0.63,Card
+80552,10226,2024-03-09 09:31:00,Preparing,Web,Pickup,3.0,0.0,1.33,PayPal
+80553,10076,2024-03-25 13:40:00,Preparing,Mobile App,Pickup,,0.0,0.24,Card
+80554,10208,2024-03-21 20:18:00,Completed,Web,Pickup,2.0,0.0,0.01,Mobile Wallet
+80555,10280,2024-03-22 13:38:00,Completed,Web,Pickup,3.0,0.0,1.6,Mobile Wallet
+80556,10465,2024-03-06 02:40:00,Cancelled,Web,Pickup,3.0,0.0,0.28,Mobile Wallet
+80557,10060,2024-03-19 06:41:00,Preparing,Mobile App,Pickup,1.0,0.0,0.71,PayPal
+80558,10029,2024-03-27 13:15:00,Preparing,Mobile App,Delivery,,1.59,0.17,PayPal
+80559,10347,2024-03-24 07:00:00,Cancelled,Web,Delivery,,2.47,1.21,Mobile Wallet
+80560,10484,2024-03-17 10:22:00,Cancelled,Web,Delivery,,3.15,0.86,PayPal
+80561,10191,2024-03-13 22:54:00,Completed,Mobile App,Delivery,,1.92,0.89,Mobile Wallet
+80562,10045,2024-03-21 05:12:00,Cancelled,Mobile App,Delivery,,1.87,1.61,PayPal
+80563,10374,2024-03-27 17:21:00,Placed,Web,Pickup,2.0,0.0,0.42,PayPal
+80564,10445,2024-03-27 21:10:00,Cancelled,Web,Pickup,1.0,0.0,0.01,Mobile Wallet
+80565,10469,2024-03-08 23:01:00,Cancelled,Web,Pickup,,0.0,0.4,PayPal
+80566,10149,2024-03-14 17:51:00,Completed,Mobile App,Pickup,1.0,0.0,1.12,PayPal
+80567,10115,2024-03-01 02:40:00,Preparing,Mobile App,Delivery,,1.9,1.28,Mobile Wallet
+80568,10242,2024-03-30 18:08:00,Completed,Mobile App,Delivery,,1.54,1.81,Mobile Wallet
+80569,10126,2024-03-06 10:22:00,Completed,Mobile App,Delivery,,3.98,0.13,Mobile Wallet
+80570,10186,2024-03-12 17:42:00,Cancelled,Web,Pickup,,0.0,0.75,Mobile Wallet
+80571,10295,2024-03-12 19:29:00,Preparing,Web,Delivery,,1.44,0.92,Mobile Wallet
+80572,10070,2024-03-03 09:46:00,Completed,Mobile App,Pickup,2.0,0.0,0.84,PayPal
+80573,10025,2024-03-25 02:28:00,Placed,Web,Pickup,3.0,0.0,1.53,Card
+80574,10392,2024-03-28 06:00:00,Preparing,Mobile App,Delivery,,3.62,1.65,Mobile Wallet
+80575,10410,2024-03-17 11:58:00,Placed,Mobile App,Pickup,3.0,0.0,1.65,Card
+80576,10071,2024-03-23 01:38:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.84,Card
+80577,10053,2024-03-08 00:48:00,Preparing,Web,Delivery,,3.39,1.12,Mobile Wallet
+80578,10426,2024-03-19 23:51:00,Cancelled,Web,Delivery,,1.35,0.26,Card
+80579,10246,2024-03-17 12:01:00,Preparing,Mobile App,Pickup,3.0,0.0,1.78,Mobile Wallet
+80580,10268,2024-03-14 20:47:00,Placed,Web,Pickup,2.0,0.0,0.44,Mobile Wallet
+80581,10073,2024-03-14 23:47:00,Preparing,Web,Delivery,,1.39,0.16,Mobile Wallet
+80582,10391,2024-03-04 12:54:00,Placed,Mobile App,Delivery,,3.27,0.09,Card
+80583,10017,2024-03-22 08:21:00,Placed,Mobile App,Delivery,,1.13,0.6,Card
+80584,10387,2024-03-06 15:12:00,Preparing,Web,Delivery,,1.55,0.7,Card
+80585,10075,2024-03-17 00:41:00,Preparing,Web,Pickup,3.0,0.0,1.01,Card
+80586,10051,2024-03-25 01:37:00,Preparing,Web,Delivery,,3.89,0.34,Mobile Wallet
+80587,10003,2024-03-10 17:45:00,Cancelled,Mobile App,Delivery,,3.09,0.37,Mobile Wallet
+80588,10491,2024-03-09 05:32:00,Completed,Mobile App,Delivery,,2.27,1.03,PayPal
+80589,10058,2024-03-22 04:53:00,Placed,Web,Pickup,1.0,0.0,0.99,PayPal
+80590,10361,2024-03-04 17:50:00,Completed,Mobile App,Pickup,1.0,0.0,0.23,PayPal
+80591,10234,2024-03-11 06:42:00,Cancelled,Mobile App,Pickup,,0.0,1.97,PayPal
+80592,10097,2024-03-22 15:33:00,Completed,Web,Delivery,,1.04,1.35,Mobile Wallet
+80593,10054,2024-03-24 18:53:00,Placed,Web,Pickup,,0.0,0.29,PayPal
+80594,10356,2024-03-08 16:17:00,Placed,Mobile App,Delivery,,3.93,0.68,Mobile Wallet
+80595,10433,2024-03-11 14:21:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.56,Mobile Wallet
+80596,10393,2024-03-17 04:57:00,Cancelled,Mobile App,Pickup,,0.0,1.98,Mobile Wallet
+80597,10143,2024-03-21 16:34:00,Placed,Web,Delivery,,1.75,0.99,Mobile Wallet
+80598,10483,2024-03-02 08:27:00,Placed,Web,Delivery,,3.49,1.0,Card
+80599,10498,2024-03-18 09:56:00,Completed,Web,Delivery,,1.91,1.25,Card
+80600,10339,2024-03-10 04:33:00,Completed,Mobile App,Pickup,,0.0,0.98,PayPal
+80601,10278,2024-03-02 10:30:00,Cancelled,Web,Pickup,1.0,0.0,0.77,PayPal
+80602,10437,2024-03-21 22:04:00,Placed,Web,Pickup,,0.0,0.35,Mobile Wallet
+80603,10441,2024-03-23 08:49:00,Cancelled,Web,Pickup,2.0,0.0,0.62,PayPal
+80604,10250,2024-03-26 21:20:00,Cancelled,Mobile App,Delivery,,2.43,1.71,Mobile Wallet
+80605,10029,2024-03-23 12:20:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.53,PayPal
+80606,10165,2024-03-02 06:44:00,Placed,Web,Delivery,,3.51,0.7,Mobile Wallet
+80607,10299,2024-03-29 10:50:00,Completed,Mobile App,Delivery,,1.29,0.69,PayPal
+80608,10211,2024-03-12 02:45:00,Preparing,Web,Pickup,1.0,0.0,1.3,Mobile Wallet
+80609,10044,2024-03-14 21:02:00,Placed,Mobile App,Delivery,,1.51,1.08,Card
+80610,10236,2024-03-13 03:13:00,Placed,Mobile App,Pickup,,0.0,1.18,PayPal
+80611,10194,2024-03-27 01:21:00,Placed,Mobile App,Pickup,3.0,0.0,0.2,Mobile Wallet
+80612,10106,2024-03-23 21:09:00,Completed,Web,Pickup,,0.0,1.23,PayPal
+80613,10497,2024-03-23 14:48:00,Placed,Web,Pickup,2.0,0.0,0.57,Card
+80614,10153,2024-03-29 10:11:00,Placed,Web,Pickup,2.0,0.0,1.18,PayPal
+80615,10035,2024-03-10 13:05:00,Completed,Web,Pickup,,0.0,1.3,PayPal
+80616,10259,2024-03-25 13:46:00,Completed,Web,Pickup,,0.0,0.83,PayPal
+80617,10320,2024-03-01 20:19:00,Preparing,Mobile App,Pickup,2.0,0.0,0.43,Mobile Wallet
+80618,10481,2024-03-30 00:47:00,Cancelled,Web,Pickup,3.0,0.0,1.04,PayPal
+80619,10237,2024-03-11 22:33:00,Preparing,Mobile App,Delivery,,3.53,0.82,Card
+80620,10325,2024-03-19 18:29:00,Completed,Mobile App,Delivery,,2.94,0.51,Mobile Wallet
+80621,10121,2024-03-06 04:02:00,Preparing,Web,Pickup,2.0,0.0,0.06,PayPal
+80622,10238,2024-03-20 04:57:00,Placed,Web,Pickup,,0.0,0.32,Card
+80623,10015,2024-03-30 23:26:00,Preparing,Web,Pickup,3.0,0.0,1.93,PayPal
+80624,10401,2024-03-03 12:25:00,Placed,Mobile App,Delivery,,2.8,1.73,PayPal
+80625,10460,2024-03-19 01:30:00,Preparing,Web,Pickup,1.0,0.0,0.22,Mobile Wallet
+80626,10257,2024-03-24 18:07:00,Completed,Mobile App,Delivery,,3.65,0.48,Card
+80627,10396,2024-03-27 14:14:00,Cancelled,Web,Pickup,3.0,0.0,1.87,Card
+80628,10074,2024-03-08 23:18:00,Preparing,Mobile App,Delivery,,2.32,0.51,Mobile Wallet
+80629,10029,2024-03-06 03:23:00,Completed,Mobile App,Pickup,3.0,0.0,0.95,Card
+80630,10494,2024-03-17 12:29:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.64,Card
+80631,10331,2024-03-03 11:43:00,Preparing,Mobile App,Delivery,,2.66,0.62,Mobile Wallet
+80632,10186,2024-03-25 08:15:00,Preparing,Mobile App,Delivery,,2.17,1.82,PayPal
+80633,10475,2024-03-05 02:34:00,Preparing,Mobile App,Pickup,3.0,0.0,0.42,Card
+80634,10469,2024-03-30 07:53:00,Cancelled,Web,Pickup,3.0,0.0,0.55,Card
+80635,10422,2024-03-19 19:03:00,Completed,Mobile App,Pickup,,0.0,1.75,Card
+80636,10423,2024-03-12 21:02:00,Placed,Mobile App,Delivery,,2.26,1.46,Mobile Wallet
+80637,10378,2024-03-02 05:52:00,Placed,Web,Pickup,,0.0,1.26,Mobile Wallet
+80638,10070,2024-03-19 05:37:00,Preparing,Mobile App,Delivery,,1.94,0.16,Card
+80639,10128,2024-03-28 00:49:00,Cancelled,Mobile App,Delivery,,2.35,1.75,Card
+80640,10134,2024-03-27 23:44:00,Completed,Mobile App,Delivery,,1.6,0.83,Card
+80641,10202,2024-03-01 22:38:00,Placed,Web,Pickup,2.0,0.0,1.81,PayPal
+80642,10102,2024-03-03 06:22:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.2,Card
+80643,10046,2024-03-26 19:34:00,Placed,Web,Pickup,2.0,0.0,1.44,PayPal
+80644,10396,2024-03-06 09:26:00,Preparing,Web,Pickup,,0.0,0.38,PayPal
+80645,10148,2024-03-06 22:12:00,Cancelled,Web,Pickup,,0.0,1.2,PayPal
+80646,10373,2024-03-20 00:55:00,Preparing,Mobile App,Delivery,,3.38,0.06,PayPal
+80647,10121,2024-03-17 19:44:00,Cancelled,Web,Pickup,2.0,0.0,0.02,Card
+80648,10447,2024-03-10 15:47:00,Cancelled,Mobile App,Pickup,,0.0,1.47,PayPal
+80649,10038,2024-03-26 08:23:00,Placed,Web,Delivery,,2.0,0.47,PayPal
+80650,10311,2024-03-01 05:51:00,Completed,Mobile App,Delivery,,1.91,0.79,PayPal
+80651,10068,2024-03-27 10:02:00,Preparing,Mobile App,Delivery,,1.51,0.99,PayPal
+80652,10450,2024-03-05 01:55:00,Completed,Mobile App,Pickup,2.0,0.0,0.28,Card
+80653,10161,2024-03-06 19:40:00,Cancelled,Mobile App,Delivery,,3.24,1.85,PayPal
+80654,10463,2024-03-24 12:40:00,Completed,Mobile App,Pickup,3.0,0.0,1.79,PayPal
+80655,10378,2024-03-26 06:56:00,Cancelled,Web,Pickup,2.0,0.0,0.38,Card
+80656,10118,2024-03-02 15:10:00,Cancelled,Mobile App,Delivery,,1.49,0.93,Card
+80657,10459,2024-03-21 02:15:00,Completed,Mobile App,Pickup,1.0,0.0,0.92,Card
+80658,10434,2024-03-06 15:03:00,Completed,Web,Delivery,,1.61,0.57,Card
+80659,10384,2024-03-27 13:23:00,Placed,Web,Pickup,2.0,0.0,0.83,Card
+80660,10127,2024-03-15 22:58:00,Placed,Mobile App,Pickup,1.0,0.0,1.36,Mobile Wallet
+80661,10063,2024-03-27 20:48:00,Placed,Mobile App,Pickup,3.0,0.0,0.31,Card
+80662,10236,2024-03-29 14:19:00,Completed,Web,Pickup,,0.0,0.66,Card
+80663,10336,2024-03-26 21:40:00,Preparing,Web,Pickup,3.0,0.0,1.73,Mobile Wallet
+80664,10145,2024-03-04 05:14:00,Cancelled,Web,Pickup,1.0,0.0,0.8,Card
+80665,10123,2024-03-01 22:24:00,Preparing,Web,Pickup,1.0,0.0,0.78,PayPal
+80666,10146,2024-03-06 11:43:00,Completed,Mobile App,Delivery,,3.4,1.47,PayPal
+80667,10463,2024-03-17 08:10:00,Placed,Mobile App,Delivery,,2.54,0.98,PayPal
+80668,10244,2024-03-05 02:32:00,Cancelled,Mobile App,Pickup,,0.0,1.23,PayPal
+80669,10323,2024-03-02 20:10:00,Completed,Mobile App,Pickup,1.0,0.0,1.35,Mobile Wallet
+80670,10352,2024-03-23 13:01:00,Placed,Mobile App,Delivery,,2.4,0.16,PayPal
+80671,10154,2024-03-06 19:34:00,Completed,Web,Delivery,,2.57,0.59,Card
+80672,10283,2024-03-03 01:15:00,Placed,Mobile App,Delivery,,2.24,0.93,Mobile Wallet
+80673,10292,2024-03-12 14:22:00,Placed,Web,Pickup,3.0,0.0,0.23,Mobile Wallet
+80674,10237,2024-03-09 07:01:00,Cancelled,Web,Delivery,,1.25,1.75,PayPal
+80675,10161,2024-03-29 09:22:00,Completed,Mobile App,Pickup,,0.0,1.93,Card
+80676,10109,2024-03-04 13:26:00,Completed,Web,Delivery,,2.3,0.04,PayPal
+80677,10060,2024-03-08 19:34:00,Cancelled,Mobile App,Delivery,,3.08,1.74,Mobile Wallet
+80678,10309,2024-03-29 03:33:00,Completed,Mobile App,Pickup,3.0,0.0,1.61,Card
+80679,10065,2024-03-01 15:09:00,Preparing,Web,Delivery,,3.45,1.39,Card
+80680,10440,2024-03-10 12:32:00,Cancelled,Web,Delivery,,2.95,0.87,Mobile Wallet
+80681,10440,2024-03-04 22:02:00,Completed,Mobile App,Delivery,,1.44,0.84,Card
+80682,10086,2024-03-21 06:20:00,Cancelled,Mobile App,Delivery,,1.06,0.9,Card
+80683,10104,2024-03-03 07:37:00,Completed,Web,Pickup,,0.0,0.21,Mobile Wallet
+80684,10222,2024-03-27 08:03:00,Completed,Web,Pickup,,0.0,0.97,PayPal
+80685,10263,2024-03-03 18:18:00,Placed,Mobile App,Pickup,2.0,0.0,1.15,Mobile Wallet
+80686,10033,2024-03-22 13:00:00,Placed,Mobile App,Pickup,,0.0,1.25,Mobile Wallet
+80687,10178,2024-03-01 22:43:00,Preparing,Mobile App,Pickup,,0.0,1.45,PayPal
+80688,10177,2024-03-24 02:28:00,Preparing,Mobile App,Pickup,2.0,0.0,1.84,Mobile Wallet
+80689,10337,2024-03-14 08:27:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.67,Mobile Wallet
+80690,10335,2024-03-08 08:58:00,Preparing,Mobile App,Pickup,,0.0,1.38,Card
+80691,10342,2024-03-08 21:16:00,Preparing,Web,Pickup,2.0,0.0,1.21,Card
+80692,10407,2024-03-14 19:40:00,Preparing,Web,Pickup,,0.0,1.11,Card
+80693,10184,2024-03-08 05:14:00,Preparing,Web,Pickup,3.0,0.0,1.61,PayPal
+80694,10221,2024-03-29 02:32:00,Preparing,Web,Delivery,,2.69,0.97,PayPal
+80695,10402,2024-03-26 08:25:00,Completed,Web,Pickup,1.0,0.0,1.71,Mobile Wallet
+80696,10310,2024-03-03 07:04:00,Cancelled,Mobile App,Delivery,,3.89,1.51,Card
+80697,10401,2024-03-26 14:22:00,Placed,Web,Delivery,,1.5,0.24,Card
+80698,10467,2024-03-14 07:04:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.47,Card
+80699,10079,2024-03-07 06:29:00,Placed,Web,Pickup,3.0,0.0,0.88,PayPal
+80700,10394,2024-03-12 03:57:00,Cancelled,Mobile App,Delivery,,1.86,0.34,PayPal
+80701,10191,2024-03-29 15:31:00,Preparing,Web,Pickup,3.0,0.0,1.51,Mobile Wallet
+80702,10216,2024-03-07 06:43:00,Cancelled,Mobile App,Delivery,,3.75,1.8,Mobile Wallet
+80703,10407,2024-03-21 03:24:00,Preparing,Web,Pickup,1.0,0.0,1.44,Mobile Wallet
+80704,10484,2024-03-04 20:36:00,Completed,Mobile App,Delivery,,2.2,1.54,PayPal
+80705,10032,2024-03-30 04:39:00,Preparing,Web,Pickup,1.0,0.0,1.96,Mobile Wallet
+80706,10410,2024-03-19 07:05:00,Completed,Mobile App,Pickup,,0.0,1.82,Card
+80707,10424,2024-03-19 09:12:00,Cancelled,Web,Pickup,2.0,0.0,1.78,Mobile Wallet
+80708,10404,2024-03-30 12:36:00,Cancelled,Web,Pickup,3.0,0.0,1.76,Card
+80709,10019,2024-03-06 17:37:00,Completed,Web,Pickup,,0.0,0.19,Mobile Wallet
+80710,10160,2024-03-02 01:34:00,Placed,Mobile App,Pickup,2.0,0.0,0.48,PayPal
+80711,10372,2024-03-03 17:28:00,Completed,Mobile App,Pickup,1.0,0.0,1.25,PayPal
+80712,10064,2024-03-30 15:01:00,Placed,Mobile App,Delivery,,1.89,1.47,PayPal
+80713,10174,2024-03-27 11:15:00,Preparing,Mobile App,Delivery,,1.9,1.33,Mobile Wallet
+80714,10294,2024-03-18 04:30:00,Preparing,Web,Delivery,,1.98,1.16,PayPal
+80715,10233,2024-03-07 16:04:00,Cancelled,Mobile App,Delivery,,1.25,0.12,Card
+80716,10244,2024-03-21 07:19:00,Placed,Mobile App,Delivery,,3.03,0.81,Mobile Wallet
+80717,10266,2024-03-27 14:12:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.99,Mobile Wallet
+80718,10477,2024-03-08 09:52:00,Preparing,Web,Pickup,,0.0,0.97,PayPal
+80719,10067,2024-03-10 16:15:00,Cancelled,Mobile App,Delivery,,1.1,0.31,Mobile Wallet
+80720,10190,2024-03-28 09:06:00,Cancelled,Web,Delivery,,1.36,1.14,Card
+80721,10268,2024-03-06 08:36:00,Completed,Mobile App,Delivery,,3.97,0.61,PayPal
+80722,10015,2024-03-07 11:15:00,Cancelled,Web,Delivery,,3.81,0.61,PayPal
+80723,10111,2024-03-23 05:53:00,Placed,Web,Delivery,,2.64,0.14,Card
+80724,10214,2024-03-26 17:57:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.56,PayPal
+80725,10428,2024-03-07 07:18:00,Cancelled,Mobile App,Delivery,,3.0,0.3,Mobile Wallet
+80726,10167,2024-03-29 10:24:00,Cancelled,Mobile App,Delivery,,1.7,0.79,Mobile Wallet
+80727,10024,2024-03-30 09:30:00,Placed,Web,Pickup,3.0,0.0,1.41,Mobile Wallet
+80728,10323,2024-03-30 07:19:00,Placed,Web,Pickup,1.0,0.0,1.91,Mobile Wallet
+80729,10296,2024-03-26 22:51:00,Preparing,Mobile App,Delivery,,2.51,0.04,Mobile Wallet
+80730,10480,2024-03-01 20:43:00,Completed,Web,Delivery,,1.74,1.41,Mobile Wallet
+80731,10228,2024-03-25 06:46:00,Completed,Mobile App,Delivery,,2.77,0.98,Card
+80732,10175,2024-03-19 21:13:00,Placed,Mobile App,Pickup,2.0,0.0,0.76,Card
+80733,10059,2024-03-25 15:46:00,Preparing,Mobile App,Delivery,,1.43,0.51,Card
+80734,10079,2024-03-08 16:48:00,Placed,Mobile App,Pickup,,0.0,0.36,Mobile Wallet
+80735,10030,2024-03-05 11:51:00,Completed,Web,Pickup,,0.0,0.83,PayPal
+80736,10133,2024-03-03 08:39:00,Preparing,Web,Pickup,1.0,0.0,1.5,Mobile Wallet
+80737,10122,2024-03-06 05:41:00,Completed,Web,Pickup,,0.0,0.64,Mobile Wallet
+80738,10209,2024-03-23 00:50:00,Placed,Mobile App,Delivery,,2.9,1.83,Card
+80739,10138,2024-03-12 05:02:00,Preparing,Mobile App,Delivery,,2.7,0.89,Mobile Wallet
+80740,10257,2024-03-07 11:30:00,Completed,Web,Delivery,,3.35,1.08,PayPal
+80741,10493,2024-03-01 01:05:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.31,Card
+80742,10001,2024-03-22 22:40:00,Completed,Mobile App,Delivery,,3.52,0.76,PayPal
+80743,10432,2024-03-27 15:08:00,Completed,Web,Delivery,,1.48,1.07,Card
+80744,10154,2024-03-18 23:46:00,Placed,Web,Delivery,,3.18,2.0,PayPal
+80745,10108,2024-03-29 21:46:00,Completed,Mobile App,Pickup,3.0,0.0,0.55,Mobile Wallet
+80746,10165,2024-03-21 22:13:00,Completed,Web,Pickup,2.0,0.0,1.83,Card
+80747,10331,2024-03-28 16:57:00,Cancelled,Web,Delivery,,3.7,1.35,PayPal
+80748,10285,2024-03-25 11:46:00,Placed,Web,Pickup,,0.0,1.08,Mobile Wallet
+80749,10228,2024-03-17 01:33:00,Cancelled,Mobile App,Delivery,,2.16,1.68,Mobile Wallet
+80750,10005,2024-03-22 01:23:00,Completed,Web,Delivery,,2.33,0.44,Card
+80751,10389,2024-03-09 17:10:00,Placed,Mobile App,Pickup,3.0,0.0,1.62,Card
+80752,10120,2024-03-02 16:11:00,Completed,Mobile App,Pickup,3.0,0.0,1.81,Mobile Wallet
+80753,10311,2024-03-01 07:47:00,Preparing,Mobile App,Delivery,,1.33,0.55,Mobile Wallet
+80754,10253,2024-03-26 02:41:00,Preparing,Web,Delivery,,1.2,0.26,Card
+80755,10066,2024-03-24 19:20:00,Completed,Web,Pickup,2.0,0.0,1.7,Card
+80756,10497,2024-03-01 02:08:00,Cancelled,Web,Pickup,,0.0,1.71,PayPal
+80757,10222,2024-03-06 12:56:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.72,Card
+80758,10453,2024-03-03 03:17:00,Completed,Mobile App,Delivery,,2.6,0.63,PayPal
+80759,10100,2024-03-27 00:34:00,Placed,Web,Pickup,1.0,0.0,1.96,PayPal
+80760,10491,2024-03-12 09:02:00,Preparing,Web,Delivery,,1.99,0.13,Mobile Wallet
+80761,10050,2024-03-22 20:15:00,Cancelled,Web,Delivery,,2.78,1.25,PayPal
+80762,10431,2024-03-05 21:47:00,Cancelled,Web,Pickup,2.0,0.0,1.92,Card
+80763,10421,2024-03-04 07:38:00,Cancelled,Web,Pickup,2.0,0.0,1.25,Mobile Wallet
+80764,10064,2024-03-03 18:17:00,Placed,Mobile App,Delivery,,1.94,1.7,Card
+80765,10401,2024-03-03 19:43:00,Cancelled,Web,Delivery,,1.9,1.25,Card
+80766,10053,2024-03-26 10:51:00,Placed,Mobile App,Delivery,,3.55,0.8,Mobile Wallet
+80767,10386,2024-03-28 06:53:00,Placed,Mobile App,Pickup,2.0,0.0,0.77,PayPal
+80768,10451,2024-03-16 10:57:00,Placed,Mobile App,Delivery,,2.55,1.18,Card
+80769,10053,2024-03-28 02:05:00,Placed,Web,Delivery,,3.71,0.25,Mobile Wallet
+80770,10132,2024-03-22 21:48:00,Cancelled,Web,Pickup,,0.0,0.49,Card
+80771,10031,2024-03-15 04:25:00,Cancelled,Mobile App,Delivery,,1.93,1.77,Card
+80772,10076,2024-03-28 10:59:00,Completed,Mobile App,Pickup,3.0,0.0,0.74,Card
+80773,10266,2024-03-03 14:36:00,Preparing,Web,Delivery,,2.27,0.39,Card
+80774,10328,2024-03-04 02:42:00,Completed,Web,Delivery,,3.0,1.39,PayPal
+80775,10308,2024-03-29 00:56:00,Completed,Mobile App,Pickup,3.0,0.0,0.66,Card
+80776,10233,2024-03-23 13:41:00,Preparing,Web,Delivery,,2.92,1.39,PayPal
+80777,10320,2024-03-11 21:04:00,Cancelled,Mobile App,Delivery,,3.42,0.75,PayPal
+80778,10095,2024-03-17 12:17:00,Placed,Web,Delivery,,2.07,1.11,Card
+80779,10149,2024-03-29 17:35:00,Completed,Web,Pickup,2.0,0.0,1.95,Card
+80780,10102,2024-03-10 23:08:00,Completed,Web,Pickup,2.0,0.0,0.68,Mobile Wallet
+80781,10126,2024-03-09 22:04:00,Placed,Web,Delivery,,3.53,1.82,Card
+80782,10426,2024-03-18 05:53:00,Placed,Mobile App,Delivery,,3.81,0.61,Card
+80783,10190,2024-03-24 23:32:00,Cancelled,Web,Pickup,2.0,0.0,0.24,Card
+80784,10407,2024-03-09 17:22:00,Cancelled,Mobile App,Delivery,,1.95,0.86,Mobile Wallet
+80785,10126,2024-03-29 00:52:00,Preparing,Mobile App,Delivery,,3.37,0.66,Card
+80786,10323,2024-03-24 03:09:00,Cancelled,Web,Pickup,2.0,0.0,1.45,PayPal
+80787,10405,2024-03-08 14:52:00,Cancelled,Mobile App,Delivery,,2.5,0.93,PayPal
+80788,10365,2024-03-23 12:26:00,Cancelled,Mobile App,Pickup,,0.0,1.16,Mobile Wallet
+80789,10472,2024-03-10 10:19:00,Preparing,Web,Delivery,,2.36,0.47,Card
+80790,10157,2024-03-27 00:05:00,Preparing,Mobile App,Pickup,,0.0,0.51,Card
+80791,10069,2024-03-14 10:16:00,Cancelled,Mobile App,Delivery,,1.69,0.08,Mobile Wallet
+80792,10319,2024-03-21 12:46:00,Cancelled,Mobile App,Pickup,,0.0,0.82,PayPal
+80793,10163,2024-03-02 02:59:00,Preparing,Mobile App,Pickup,,0.0,0.47,Mobile Wallet
+80794,10039,2024-03-14 09:41:00,Placed,Mobile App,Pickup,1.0,0.0,1.85,Card
+80795,10061,2024-03-17 09:28:00,Placed,Web,Delivery,,2.0,1.35,PayPal
+80796,10155,2024-03-28 11:45:00,Preparing,Mobile App,Pickup,2.0,0.0,0.02,PayPal
+80797,10145,2024-03-19 11:11:00,Placed,Mobile App,Pickup,,0.0,1.31,Card
+80798,10444,2024-03-11 07:51:00,Preparing,Mobile App,Pickup,2.0,0.0,0.47,Mobile Wallet
+80799,10403,2024-03-16 12:05:00,Placed,Mobile App,Pickup,,0.0,1.69,PayPal
+80800,10395,2024-03-20 23:09:00,Cancelled,Web,Pickup,2.0,0.0,0.75,Mobile Wallet
+80801,10448,2024-03-14 21:45:00,Placed,Mobile App,Delivery,,3.43,1.67,PayPal
+80802,10116,2024-03-19 08:35:00,Completed,Mobile App,Pickup,,0.0,1.17,Mobile Wallet
+80803,10403,2024-03-07 07:58:00,Preparing,Mobile App,Delivery,,2.7,1.6,Mobile Wallet
+80804,10294,2024-03-10 07:02:00,Cancelled,Web,Pickup,,0.0,1.07,Card
+80805,10244,2024-03-15 23:10:00,Cancelled,Mobile App,Delivery,,1.28,0.21,Mobile Wallet
+80806,10091,2024-03-28 11:02:00,Cancelled,Web,Delivery,,1.56,0.14,PayPal
+80807,10146,2024-03-11 14:32:00,Completed,Web,Delivery,,2.36,0.74,Card
+80808,10088,2024-03-18 19:11:00,Preparing,Web,Pickup,,0.0,0.26,PayPal
+80809,10245,2024-03-18 16:53:00,Preparing,Web,Delivery,,3.61,0.62,Mobile Wallet
+80810,10341,2024-03-28 11:24:00,Completed,Web,Pickup,2.0,0.0,1.0,Mobile Wallet
+80811,10235,2024-03-01 08:07:00,Preparing,Mobile App,Pickup,2.0,0.0,0.13,PayPal
+80812,10310,2024-03-24 22:22:00,Completed,Mobile App,Delivery,,2.38,1.15,Mobile Wallet
+80813,10047,2024-03-16 18:46:00,Completed,Mobile App,Pickup,,0.0,1.23,Card
+80814,10213,2024-03-09 04:08:00,Cancelled,Mobile App,Delivery,,2.15,1.32,Mobile Wallet
+80815,10292,2024-03-18 21:51:00,Placed,Web,Delivery,,3.66,0.32,Mobile Wallet
+80816,10276,2024-03-10 21:18:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.98,Mobile Wallet
+80817,10063,2024-03-05 18:55:00,Completed,Mobile App,Pickup,1.0,0.0,0.9,PayPal
+80818,10107,2024-03-22 00:48:00,Placed,Web,Delivery,,2.92,1.35,PayPal
+80819,10196,2024-03-09 20:20:00,Cancelled,Web,Pickup,,0.0,0.02,Card
+80820,10364,2024-03-15 21:17:00,Cancelled,Mobile App,Delivery,,2.38,0.17,Mobile Wallet
+80821,10125,2024-03-22 10:13:00,Completed,Web,Pickup,2.0,0.0,0.34,Card
+80822,10311,2024-03-09 01:35:00,Completed,Web,Delivery,,2.6,0.78,Card
+80823,10344,2024-03-13 10:27:00,Preparing,Mobile App,Delivery,,2.07,0.43,Card
+80824,10458,2024-03-21 02:50:00,Placed,Web,Delivery,,2.17,0.62,Card
+80825,10307,2024-03-03 05:09:00,Cancelled,Web,Delivery,,3.79,0.75,Card
+80826,10103,2024-03-01 17:31:00,Cancelled,Web,Delivery,,3.97,0.67,Card
+80827,10349,2024-03-11 00:55:00,Placed,Web,Delivery,,3.17,0.09,Mobile Wallet
+80828,10056,2024-03-26 13:54:00,Preparing,Web,Pickup,3.0,0.0,1.87,PayPal
+80829,10481,2024-03-11 13:51:00,Preparing,Web,Pickup,1.0,0.0,0.71,Card
+80830,10008,2024-03-01 13:05:00,Cancelled,Web,Pickup,3.0,0.0,0.92,Card
+80831,10337,2024-03-02 23:59:00,Placed,Web,Pickup,3.0,0.0,0.82,Mobile Wallet
+80832,10256,2024-03-25 09:39:00,Preparing,Mobile App,Delivery,,3.88,1.2,Mobile Wallet
+80833,10357,2024-03-16 02:41:00,Preparing,Mobile App,Pickup,2.0,0.0,1.96,Mobile Wallet
+80834,10247,2024-03-16 06:01:00,Placed,Mobile App,Delivery,,2.15,1.28,Card
+80835,10258,2024-03-11 14:04:00,Placed,Web,Delivery,,1.93,1.48,Card
+80836,10318,2024-03-03 17:27:00,Preparing,Mobile App,Delivery,,2.5,0.4,PayPal
+80837,10105,2024-03-11 20:01:00,Cancelled,Mobile App,Delivery,,1.4,0.64,Card
+80838,10267,2024-03-02 01:52:00,Preparing,Mobile App,Pickup,3.0,0.0,0.69,Card
+80839,10277,2024-03-12 07:15:00,Preparing,Mobile App,Delivery,,2.56,0.37,Mobile Wallet
+80840,10004,2024-03-23 09:00:00,Placed,Web,Delivery,,1.16,1.98,Card
+80841,10065,2024-03-08 21:42:00,Preparing,Web,Delivery,,2.52,0.85,PayPal
+80842,10160,2024-03-09 23:45:00,Preparing,Mobile App,Delivery,,1.53,0.5,PayPal
+80843,10296,2024-03-13 08:56:00,Cancelled,Web,Pickup,2.0,0.0,1.9,PayPal
+80844,10204,2024-03-22 10:08:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.01,Mobile Wallet
+80845,10222,2024-03-22 22:28:00,Placed,Mobile App,Delivery,,2.28,0.17,PayPal
+80846,10305,2024-03-26 03:51:00,Preparing,Mobile App,Delivery,,2.14,0.61,PayPal
+80847,10193,2024-03-16 03:58:00,Preparing,Mobile App,Pickup,1.0,0.0,0.39,Card
+80848,10003,2024-03-23 18:53:00,Completed,Mobile App,Delivery,,2.21,0.83,PayPal
+80849,10497,2024-03-23 06:43:00,Completed,Web,Pickup,,0.0,0.82,Card
+80850,10472,2024-03-18 12:19:00,Preparing,Web,Delivery,,3.29,1.91,Mobile Wallet
+80851,10179,2024-03-03 15:01:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.47,Card
+80852,10245,2024-03-17 10:45:00,Placed,Web,Delivery,,1.78,0.91,Mobile Wallet
+80853,10076,2024-03-28 09:42:00,Preparing,Web,Pickup,2.0,0.0,0.23,Card
+80854,10330,2024-03-27 16:14:00,Placed,Web,Pickup,,0.0,1.75,Card
+80855,10425,2024-03-14 18:06:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.47,Mobile Wallet
+80856,10446,2024-03-05 23:21:00,Completed,Web,Delivery,,1.81,0.42,Mobile Wallet
+80857,10204,2024-03-08 15:56:00,Cancelled,Web,Pickup,1.0,0.0,0.19,Mobile Wallet
+80858,10214,2024-03-20 14:42:00,Preparing,Web,Pickup,3.0,0.0,0.75,Mobile Wallet
+80859,10069,2024-03-23 03:21:00,Preparing,Web,Delivery,,2.35,1.63,Card
+80860,10103,2024-03-09 07:35:00,Preparing,Mobile App,Delivery,,3.95,1.74,PayPal
+80861,10321,2024-03-29 23:09:00,Preparing,Web,Delivery,,1.88,0.76,PayPal
+80862,10033,2024-03-27 15:40:00,Preparing,Mobile App,Pickup,1.0,0.0,0.97,Card
+80863,10005,2024-03-13 02:37:00,Placed,Web,Delivery,,1.29,1.04,Card
+80864,10193,2024-03-22 12:53:00,Completed,Mobile App,Pickup,,0.0,0.67,Mobile Wallet
+80865,10456,2024-03-11 21:42:00,Completed,Mobile App,Pickup,3.0,0.0,0.76,Card
+80866,10500,2024-03-05 13:25:00,Placed,Mobile App,Pickup,3.0,0.0,1.74,PayPal
+80867,10372,2024-03-02 04:02:00,Placed,Mobile App,Delivery,,3.85,1.5,Card
+80868,10189,2024-03-24 10:25:00,Cancelled,Web,Pickup,,0.0,0.01,Mobile Wallet
+80869,10491,2024-03-29 20:15:00,Completed,Web,Pickup,1.0,0.0,1.94,Mobile Wallet
+80870,10167,2024-03-28 14:44:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.48,Card
+80871,10179,2024-03-30 23:04:00,Placed,Mobile App,Pickup,,0.0,0.59,Card
+80872,10365,2024-03-24 16:02:00,Placed,Web,Delivery,,2.49,0.17,Mobile Wallet
+80873,10281,2024-03-21 07:27:00,Placed,Mobile App,Pickup,2.0,0.0,1.33,Card
+80874,10125,2024-03-08 18:09:00,Placed,Web,Delivery,,2.3,1.43,Card
+80875,10476,2024-03-13 18:13:00,Preparing,Mobile App,Pickup,,0.0,1.33,Mobile Wallet
+80876,10064,2024-03-25 07:51:00,Cancelled,Web,Delivery,,3.39,0.67,Card
+80877,10478,2024-03-30 07:24:00,Completed,Mobile App,Delivery,,3.73,1.49,Mobile Wallet
+80878,10196,2024-03-11 04:10:00,Completed,Web,Pickup,2.0,0.0,0.58,Card
+80879,10046,2024-03-06 06:49:00,Completed,Web,Pickup,2.0,0.0,1.71,PayPal
+80880,10296,2024-03-15 03:28:00,Placed,Web,Delivery,,3.54,1.96,PayPal
+80881,10395,2024-03-24 15:42:00,Preparing,Web,Pickup,2.0,0.0,0.79,Mobile Wallet
+80882,10437,2024-03-07 14:03:00,Completed,Web,Pickup,3.0,0.0,1.0,PayPal
+80883,10076,2024-03-02 13:30:00,Completed,Mobile App,Pickup,2.0,0.0,1.0,Mobile Wallet
+80884,10064,2024-03-29 17:18:00,Preparing,Mobile App,Pickup,,0.0,0.58,PayPal
+80885,10031,2024-03-10 14:02:00,Preparing,Web,Pickup,2.0,0.0,1.85,Card
+80886,10439,2024-03-14 14:41:00,Preparing,Web,Pickup,,0.0,1.1,PayPal
+80887,10217,2024-03-18 19:28:00,Cancelled,Web,Pickup,3.0,0.0,1.06,PayPal
+80888,10145,2024-03-25 22:34:00,Cancelled,Web,Delivery,,1.39,1.5,Mobile Wallet
+80889,10444,2024-03-14 20:07:00,Cancelled,Web,Delivery,,2.73,0.88,PayPal
+80890,10150,2024-03-10 13:07:00,Preparing,Web,Delivery,,3.21,0.02,Mobile Wallet
+80891,10439,2024-03-07 17:13:00,Cancelled,Mobile App,Delivery,,3.04,0.34,Card
+80892,10050,2024-03-09 04:12:00,Placed,Web,Pickup,,0.0,1.96,Mobile Wallet
+80893,10174,2024-03-29 12:49:00,Cancelled,Web,Pickup,2.0,0.0,0.07,Card
+80894,10204,2024-03-28 03:09:00,Preparing,Mobile App,Pickup,3.0,0.0,1.55,Mobile Wallet
+80895,10338,2024-03-22 02:27:00,Cancelled,Mobile App,Delivery,,2.9,0.89,Card
+80896,10062,2024-03-04 18:15:00,Placed,Mobile App,Delivery,,2.92,1.82,Card
+80897,10012,2024-03-05 07:16:00,Preparing,Mobile App,Pickup,3.0,0.0,0.97,Mobile Wallet
+80898,10360,2024-03-27 00:08:00,Preparing,Web,Pickup,3.0,0.0,0.65,Mobile Wallet
+80899,10466,2024-03-19 10:43:00,Placed,Mobile App,Delivery,,2.67,1.07,Mobile Wallet
+80900,10251,2024-03-24 14:46:00,Placed,Web,Delivery,,3.9,1.8,Card
+80901,10442,2024-03-01 05:48:00,Cancelled,Mobile App,Delivery,,1.37,0.26,Card
+80902,10335,2024-03-04 23:55:00,Completed,Web,Delivery,,1.25,0.25,PayPal
+80903,10187,2024-03-20 06:05:00,Placed,Web,Delivery,,1.9,1.89,Mobile Wallet
+80904,10464,2024-03-07 08:45:00,Cancelled,Mobile App,Pickup,,0.0,1.05,PayPal
+80905,10311,2024-03-05 12:08:00,Placed,Web,Delivery,,1.11,0.28,Card
+80906,10491,2024-03-28 09:42:00,Preparing,Mobile App,Delivery,,1.83,1.46,PayPal
+80907,10039,2024-03-18 09:00:00,Preparing,Mobile App,Pickup,3.0,0.0,0.91,PayPal
+80908,10347,2024-03-25 09:21:00,Preparing,Web,Pickup,2.0,0.0,1.26,PayPal
+80909,10325,2024-03-17 22:28:00,Preparing,Mobile App,Delivery,,3.46,0.63,PayPal
+80910,10195,2024-03-28 11:18:00,Preparing,Web,Delivery,,1.81,1.06,Mobile Wallet
+80911,10281,2024-03-15 23:44:00,Placed,Mobile App,Pickup,1.0,0.0,1.82,PayPal
+80912,10075,2024-03-13 10:53:00,Placed,Web,Delivery,,2.13,1.94,PayPal
+80913,10488,2024-03-06 14:53:00,Preparing,Mobile App,Delivery,,2.77,1.61,Card
+80914,10271,2024-03-26 02:25:00,Completed,Web,Pickup,3.0,0.0,1.79,Card
+80915,10163,2024-03-16 17:01:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.18,PayPal
+80916,10005,2024-03-30 22:14:00,Preparing,Web,Delivery,,2.14,1.47,Card
+80917,10471,2024-03-28 16:51:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.37,PayPal
+80918,10409,2024-03-13 13:16:00,Cancelled,Web,Pickup,3.0,0.0,0.61,Card
+80919,10486,2024-03-15 05:35:00,Placed,Web,Pickup,,0.0,0.15,Card
+80920,10484,2024-03-08 12:20:00,Placed,Web,Delivery,,3.23,1.11,PayPal
+80921,10414,2024-03-20 07:06:00,Preparing,Mobile App,Delivery,,2.49,1.37,Mobile Wallet
+80922,10455,2024-03-19 10:52:00,Placed,Web,Delivery,,3.73,1.49,Mobile Wallet
+80923,10218,2024-03-25 00:50:00,Placed,Mobile App,Pickup,2.0,0.0,1.93,Mobile Wallet
+80924,10477,2024-03-08 22:56:00,Placed,Mobile App,Delivery,,3.52,1.03,Card
+80925,10217,2024-03-08 18:12:00,Completed,Web,Pickup,,0.0,0.68,Mobile Wallet
+80926,10128,2024-03-14 04:49:00,Completed,Mobile App,Delivery,,1.88,0.43,Mobile Wallet
+80927,10324,2024-03-14 20:56:00,Placed,Mobile App,Pickup,2.0,0.0,1.78,PayPal
+80928,10030,2024-03-29 00:19:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.6,Card
+80929,10003,2024-03-19 07:09:00,Completed,Web,Pickup,2.0,0.0,0.2,PayPal
+80930,10102,2024-03-25 01:54:00,Preparing,Mobile App,Delivery,,1.37,0.97,Card
+80931,10394,2024-03-22 10:07:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.6,PayPal
+80932,10457,2024-03-25 09:55:00,Completed,Web,Delivery,,3.97,1.31,PayPal
+80933,10083,2024-03-17 02:22:00,Cancelled,Web,Delivery,,2.08,1.74,Card
+80934,10057,2024-03-13 23:11:00,Placed,Web,Delivery,,2.18,1.49,Card
+80935,10083,2024-03-22 19:31:00,Completed,Web,Delivery,,2.26,1.1,Mobile Wallet
+80936,10366,2024-03-15 18:51:00,Cancelled,Mobile App,Delivery,,1.39,1.92,Card
+80937,10065,2024-03-16 15:52:00,Placed,Web,Delivery,,1.16,1.66,PayPal
+80938,10500,2024-03-20 18:24:00,Cancelled,Mobile App,Delivery,,1.85,0.17,PayPal
+80939,10127,2024-03-24 06:24:00,Preparing,Web,Delivery,,1.84,0.23,PayPal
+80940,10359,2024-03-20 12:45:00,Preparing,Mobile App,Delivery,,3.12,1.62,Mobile Wallet
+80941,10374,2024-03-09 14:04:00,Preparing,Web,Delivery,,1.36,0.8,PayPal
+80942,10099,2024-03-20 09:38:00,Placed,Web,Delivery,,1.27,0.1,PayPal
+80943,10269,2024-03-11 02:14:00,Completed,Mobile App,Pickup,2.0,0.0,0.96,Mobile Wallet
+80944,10219,2024-03-14 20:21:00,Placed,Mobile App,Delivery,,2.09,1.89,Mobile Wallet
+80945,10215,2024-03-15 13:21:00,Placed,Web,Delivery,,1.12,0.1,Mobile Wallet
+80946,10165,2024-03-13 23:38:00,Cancelled,Mobile App,Delivery,,3.73,0.2,Card
+80947,10130,2024-03-16 05:07:00,Completed,Web,Pickup,3.0,0.0,0.19,Card
+80948,10350,2024-03-16 01:46:00,Completed,Mobile App,Delivery,,3.23,1.18,Mobile Wallet
+80949,10191,2024-03-30 14:14:00,Completed,Web,Delivery,,2.75,0.17,Card
+80950,10067,2024-03-02 20:49:00,Preparing,Web,Delivery,,3.11,1.85,Card
+80951,10483,2024-03-22 13:57:00,Preparing,Web,Pickup,3.0,0.0,0.09,Card
+80952,10215,2024-03-17 15:46:00,Cancelled,Web,Pickup,3.0,0.0,1.82,Card
+80953,10248,2024-03-08 14:20:00,Completed,Web,Pickup,1.0,0.0,0.58,Mobile Wallet
+80954,10032,2024-03-19 02:10:00,Cancelled,Web,Delivery,,1.5,1.5,PayPal
+80955,10288,2024-03-28 15:14:00,Completed,Web,Pickup,,0.0,0.37,Card
+80956,10293,2024-03-27 22:44:00,Placed,Mobile App,Delivery,,2.51,1.44,PayPal
+80957,10156,2024-03-14 11:42:00,Completed,Web,Delivery,,1.51,0.09,Card
+80958,10150,2024-03-30 02:37:00,Preparing,Mobile App,Delivery,,3.78,0.54,Card
+80959,10329,2024-03-10 13:20:00,Placed,Web,Delivery,,2.95,1.27,PayPal
+80960,10167,2024-03-25 23:57:00,Completed,Web,Delivery,,2.23,1.22,PayPal
+80961,10030,2024-03-17 04:16:00,Preparing,Mobile App,Delivery,,1.53,1.94,Mobile Wallet
+80962,10337,2024-03-18 09:13:00,Completed,Web,Delivery,,3.45,0.44,PayPal
+80963,10105,2024-03-21 07:12:00,Preparing,Mobile App,Pickup,2.0,0.0,0.74,PayPal
+80964,10048,2024-03-21 21:46:00,Preparing,Web,Pickup,2.0,0.0,0.38,PayPal
+80965,10483,2024-03-30 11:18:00,Completed,Web,Delivery,,1.93,1.77,PayPal
+80966,10352,2024-03-04 03:51:00,Preparing,Web,Delivery,,2.28,0.91,Mobile Wallet
+80967,10497,2024-03-24 23:22:00,Preparing,Web,Pickup,1.0,0.0,1.21,PayPal
+80968,10197,2024-03-06 00:11:00,Placed,Web,Delivery,,1.4,1.54,PayPal
+80969,10074,2024-03-01 10:15:00,Placed,Mobile App,Delivery,,3.56,0.17,Card
+80970,10246,2024-03-14 23:44:00,Completed,Mobile App,Pickup,2.0,0.0,0.31,Card
+80971,10279,2024-03-01 23:09:00,Placed,Web,Pickup,1.0,0.0,1.09,Card
+80972,10262,2024-03-01 01:19:00,Preparing,Web,Pickup,2.0,0.0,0.45,PayPal
+80973,10076,2024-03-11 06:43:00,Cancelled,Web,Pickup,3.0,0.0,0.98,Card
+80974,10115,2024-03-13 19:48:00,Completed,Web,Delivery,,2.85,0.24,Card
+80975,10459,2024-03-28 12:16:00,Preparing,Web,Delivery,,2.29,0.67,Card
+80976,10348,2024-03-14 17:23:00,Completed,Mobile App,Pickup,2.0,0.0,1.75,PayPal
+80977,10470,2024-03-13 01:53:00,Placed,Web,Pickup,3.0,0.0,1.72,Card
+80978,10399,2024-03-15 13:48:00,Preparing,Mobile App,Delivery,,2.34,1.59,PayPal
+80979,10418,2024-03-06 03:36:00,Cancelled,Mobile App,Delivery,,1.43,0.65,Card
+80980,10094,2024-03-15 12:46:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.96,PayPal
+80981,10309,2024-03-30 18:17:00,Preparing,Mobile App,Pickup,2.0,0.0,0.84,PayPal
+80982,10276,2024-03-18 12:06:00,Placed,Mobile App,Pickup,2.0,0.0,1.05,Mobile Wallet
+80983,10416,2024-03-04 23:18:00,Preparing,Mobile App,Delivery,,1.01,1.99,Card
+80984,10186,2024-03-06 00:19:00,Placed,Mobile App,Pickup,2.0,0.0,0.72,Card
+80985,10151,2024-03-26 02:23:00,Cancelled,Web,Pickup,2.0,0.0,0.42,Card
+80986,10029,2024-03-06 08:03:00,Preparing,Mobile App,Delivery,,3.2,1.39,PayPal
+80987,10191,2024-03-05 19:47:00,Placed,Mobile App,Delivery,,3.51,1.74,Card
+80988,10076,2024-03-04 14:16:00,Preparing,Web,Pickup,2.0,0.0,0.02,PayPal
+80989,10077,2024-03-22 09:06:00,Preparing,Mobile App,Delivery,,2.41,1.45,PayPal
+80990,10401,2024-03-14 01:13:00,Placed,Web,Delivery,,1.18,1.28,Mobile Wallet
+80991,10385,2024-03-23 21:43:00,Preparing,Web,Delivery,,2.19,0.85,PayPal
+80992,10284,2024-03-11 08:17:00,Cancelled,Web,Pickup,3.0,0.0,0.54,Card
+80993,10268,2024-03-10 15:24:00,Cancelled,Web,Pickup,2.0,0.0,0.44,Card
+80994,10422,2024-03-22 07:39:00,Cancelled,Mobile App,Delivery,,2.96,0.81,PayPal
+80995,10085,2024-03-17 21:45:00,Cancelled,Web,Delivery,,1.81,0.21,PayPal
+80996,10309,2024-03-11 21:37:00,Completed,Web,Pickup,1.0,0.0,1.08,Card
+80997,10109,2024-03-15 01:38:00,Preparing,Web,Delivery,,2.92,0.06,PayPal
+80998,10044,2024-03-26 15:45:00,Cancelled,Web,Delivery,,1.14,0.19,PayPal
+80999,10005,2024-03-19 02:52:00,Preparing,Mobile App,Pickup,3.0,0.0,1.5,Mobile Wallet
+81000,10183,2024-03-05 10:21:00,Completed,Mobile App,Delivery,,3.69,1.01,Mobile Wallet
+81001,10414,2024-03-02 01:52:00,Cancelled,Mobile App,Delivery,,2.76,1.7,PayPal
+81002,10083,2024-03-22 01:50:00,Placed,Web,Delivery,,3.86,0.46,Card
+81003,10414,2024-03-08 07:54:00,Completed,Mobile App,Delivery,,3.36,0.68,PayPal
+81004,10320,2024-03-18 15:23:00,Preparing,Web,Pickup,1.0,0.0,1.99,Mobile Wallet
+81005,10039,2024-03-26 19:12:00,Cancelled,Web,Delivery,,3.41,0.29,PayPal
+81006,10281,2024-03-23 16:56:00,Placed,Mobile App,Delivery,,1.94,1.87,Card
+81007,10035,2024-03-17 01:58:00,Placed,Web,Pickup,3.0,0.0,0.36,PayPal
+81008,10133,2024-03-21 02:49:00,Preparing,Web,Pickup,3.0,0.0,1.94,PayPal
+81009,10021,2024-03-19 05:55:00,Cancelled,Web,Pickup,3.0,0.0,0.88,Mobile Wallet
+81010,10433,2024-03-04 19:11:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.53,Mobile Wallet
+81011,10022,2024-03-12 03:24:00,Placed,Web,Delivery,,3.56,0.58,Card
+81012,10292,2024-03-11 03:37:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.34,PayPal
+81013,10239,2024-03-05 23:11:00,Placed,Web,Pickup,,0.0,1.46,PayPal
+81014,10394,2024-03-19 06:34:00,Completed,Web,Pickup,2.0,0.0,0.63,Mobile Wallet
+81015,10249,2024-03-22 16:09:00,Placed,Mobile App,Delivery,,2.36,1.09,PayPal
+81016,10075,2024-03-15 13:43:00,Placed,Mobile App,Delivery,,1.19,1.62,PayPal
+81017,10243,2024-03-03 11:04:00,Preparing,Web,Delivery,,3.86,1.37,PayPal
+81018,10130,2024-03-04 19:18:00,Preparing,Web,Delivery,,1.82,0.16,Mobile Wallet
+81019,10232,2024-03-12 19:23:00,Preparing,Web,Pickup,2.0,0.0,0.18,PayPal
+81020,10176,2024-03-10 00:55:00,Completed,Mobile App,Pickup,2.0,0.0,0.96,Mobile Wallet
+81021,10353,2024-03-20 21:05:00,Completed,Mobile App,Delivery,,3.47,1.12,Mobile Wallet
+81022,10102,2024-03-27 07:51:00,Preparing,Mobile App,Delivery,,2.99,1.65,Mobile Wallet
+81023,10381,2024-03-07 20:23:00,Cancelled,Web,Pickup,1.0,0.0,1.0,PayPal
+81024,10059,2024-03-24 16:44:00,Placed,Mobile App,Pickup,3.0,0.0,1.89,Card
+81025,10325,2024-03-02 15:51:00,Preparing,Web,Pickup,1.0,0.0,0.84,Mobile Wallet
+81026,10397,2024-03-28 08:23:00,Cancelled,Web,Delivery,,2.04,1.9,Mobile Wallet
+81027,10296,2024-03-17 20:25:00,Completed,Web,Delivery,,1.91,0.61,Card
+81028,10359,2024-03-19 20:15:00,Cancelled,Mobile App,Pickup,,0.0,0.7,Mobile Wallet
+81029,10219,2024-03-09 00:02:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.75,Mobile Wallet
+81030,10305,2024-03-25 16:50:00,Cancelled,Mobile App,Delivery,,1.86,1.32,Mobile Wallet
+81031,10224,2024-03-04 23:42:00,Placed,Web,Pickup,1.0,0.0,1.3,Mobile Wallet
+81032,10478,2024-03-23 14:12:00,Placed,Mobile App,Pickup,1.0,0.0,1.01,Card
+81033,10342,2024-03-10 15:25:00,Preparing,Mobile App,Pickup,,0.0,1.1,Card
+81034,10101,2024-03-16 22:57:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.82,Mobile Wallet
+81035,10361,2024-03-18 01:12:00,Preparing,Mobile App,Pickup,1.0,0.0,0.54,Mobile Wallet
+81036,10136,2024-03-11 23:50:00,Placed,Mobile App,Pickup,,0.0,0.07,Card
+81037,10079,2024-03-16 06:00:00,Preparing,Mobile App,Pickup,3.0,0.0,0.48,PayPal
+81038,10099,2024-03-27 07:10:00,Cancelled,Web,Pickup,1.0,0.0,1.88,PayPal
+81039,10373,2024-03-19 08:18:00,Completed,Web,Delivery,,2.31,0.2,Card
+81040,10259,2024-03-29 17:42:00,Cancelled,Mobile App,Delivery,,3.51,0.32,PayPal
+81041,10105,2024-03-05 05:52:00,Placed,Mobile App,Delivery,,1.03,1.54,Card
+81042,10015,2024-03-27 00:33:00,Cancelled,Web,Delivery,,3.23,0.26,PayPal
+81043,10325,2024-03-11 21:50:00,Preparing,Mobile App,Pickup,2.0,0.0,0.39,Card
+81044,10372,2024-03-03 08:31:00,Completed,Web,Pickup,3.0,0.0,1.87,Mobile Wallet
+81045,10012,2024-03-06 01:10:00,Cancelled,Web,Delivery,,1.32,0.56,Card
+81046,10048,2024-03-23 11:50:00,Completed,Web,Delivery,,2.17,0.98,Card
+81047,10212,2024-03-23 03:24:00,Placed,Web,Delivery,,3.06,0.75,PayPal
+81048,10325,2024-03-09 04:23:00,Completed,Web,Pickup,2.0,0.0,1.81,Mobile Wallet
+81049,10291,2024-03-06 08:01:00,Completed,Mobile App,Delivery,,2.45,1.23,Mobile Wallet
+81050,10003,2024-03-24 17:53:00,Completed,Web,Delivery,,1.58,0.06,Card
+81051,10266,2024-03-10 20:15:00,Completed,Web,Delivery,,3.7,0.06,Card
+81052,10113,2024-03-06 18:15:00,Completed,Mobile App,Delivery,,2.44,1.91,PayPal
+81053,10363,2024-03-23 13:32:00,Cancelled,Mobile App,Pickup,,0.0,1.84,PayPal
+81054,10089,2024-03-13 19:01:00,Cancelled,Web,Delivery,,2.75,1.53,PayPal
+81055,10085,2024-03-23 04:50:00,Cancelled,Mobile App,Delivery,,2.27,1.49,PayPal
+81056,10319,2024-03-28 15:19:00,Cancelled,Mobile App,Delivery,,1.6,0.71,Mobile Wallet
+81057,10420,2024-03-21 10:52:00,Preparing,Web,Delivery,,3.87,0.51,PayPal
+81058,10151,2024-03-02 08:42:00,Placed,Web,Pickup,,0.0,1.62,PayPal
+81059,10405,2024-03-17 06:45:00,Preparing,Web,Delivery,,1.65,0.74,Card
+81060,10400,2024-03-01 10:31:00,Completed,Web,Pickup,1.0,0.0,1.43,Card
+81061,10239,2024-03-26 13:27:00,Placed,Mobile App,Pickup,2.0,0.0,0.57,Card
+81062,10270,2024-03-05 16:24:00,Completed,Web,Delivery,,2.72,1.29,Mobile Wallet
+81063,10388,2024-03-15 13:39:00,Preparing,Web,Pickup,3.0,0.0,0.1,PayPal
+81064,10256,2024-03-13 11:44:00,Cancelled,Web,Delivery,,1.37,0.34,PayPal
+81065,10303,2024-03-27 05:35:00,Placed,Mobile App,Pickup,2.0,0.0,0.04,Mobile Wallet
+81066,10003,2024-03-06 23:09:00,Cancelled,Web,Pickup,3.0,0.0,1.79,Mobile Wallet
+81067,10021,2024-03-04 03:51:00,Cancelled,Web,Pickup,1.0,0.0,1.66,PayPal
+81068,10371,2024-03-15 10:27:00,Completed,Mobile App,Pickup,3.0,0.0,0.16,PayPal
+81069,10253,2024-03-18 21:37:00,Completed,Mobile App,Delivery,,2.48,1.28,Card
+81070,10432,2024-03-02 07:59:00,Preparing,Web,Pickup,1.0,0.0,1.65,Card
+81071,10054,2024-03-11 07:13:00,Preparing,Web,Pickup,,0.0,0.38,PayPal
+81072,10418,2024-03-03 09:20:00,Completed,Web,Delivery,,1.33,1.89,Card
+81073,10136,2024-03-13 06:48:00,Preparing,Web,Pickup,,0.0,1.17,Card
+81074,10065,2024-03-27 14:01:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.34,Mobile Wallet
+81075,10271,2024-03-27 07:12:00,Cancelled,Mobile App,Delivery,,3.93,0.64,Mobile Wallet
+81076,10248,2024-03-05 04:16:00,Completed,Mobile App,Delivery,,3.13,0.71,Card
+81077,10338,2024-03-04 13:12:00,Placed,Mobile App,Delivery,,1.18,0.03,Card
+81078,10240,2024-03-23 04:38:00,Placed,Mobile App,Pickup,2.0,0.0,0.42,Mobile Wallet
+81079,10390,2024-03-21 15:54:00,Preparing,Web,Pickup,3.0,0.0,1.83,Card
+81080,10470,2024-03-21 14:10:00,Preparing,Mobile App,Pickup,,0.0,0.38,PayPal
+81081,10217,2024-03-14 23:29:00,Placed,Web,Delivery,,2.38,0.21,Card
+81082,10124,2024-03-21 23:22:00,Preparing,Mobile App,Delivery,,1.09,1.32,PayPal
+81083,10181,2024-03-26 01:04:00,Placed,Mobile App,Pickup,1.0,0.0,0.86,Card
+81084,10204,2024-03-03 10:03:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.74,Card
+81085,10333,2024-03-09 19:49:00,Completed,Web,Pickup,,0.0,0.81,Mobile Wallet
+81086,10142,2024-03-05 23:15:00,Placed,Web,Pickup,,0.0,1.92,Card
+81087,10059,2024-03-02 14:58:00,Completed,Web,Delivery,,1.2,0.2,Card
+81088,10452,2024-03-18 21:08:00,Placed,Web,Pickup,,0.0,1.47,Mobile Wallet
+81089,10138,2024-03-08 18:48:00,Preparing,Mobile App,Pickup,2.0,0.0,1.27,Mobile Wallet
+81090,10306,2024-03-05 06:56:00,Preparing,Mobile App,Pickup,1.0,0.0,1.48,Mobile Wallet
+81091,10123,2024-03-15 08:11:00,Placed,Web,Delivery,,1.56,1.8,Card
+81092,10493,2024-03-22 14:23:00,Cancelled,Mobile App,Delivery,,1.06,1.95,Card
+81093,10088,2024-03-28 00:48:00,Completed,Mobile App,Delivery,,2.75,0.98,Card
+81094,10242,2024-03-03 01:20:00,Placed,Mobile App,Delivery,,3.51,1.05,Card
+81095,10387,2024-03-05 06:34:00,Placed,Mobile App,Delivery,,3.41,0.67,PayPal
+81096,10377,2024-03-23 03:22:00,Completed,Mobile App,Pickup,3.0,0.0,0.92,PayPal
+81097,10155,2024-03-06 03:09:00,Completed,Web,Pickup,,0.0,0.3,PayPal
+81098,10439,2024-03-07 10:42:00,Completed,Mobile App,Delivery,,1.09,1.16,Mobile Wallet
+81099,10499,2024-03-10 09:20:00,Placed,Web,Pickup,3.0,0.0,1.84,PayPal
+81100,10328,2024-03-13 11:11:00,Cancelled,Web,Delivery,,1.8,1.36,PayPal
+81101,10201,2024-03-15 01:51:00,Preparing,Web,Pickup,3.0,0.0,1.16,Mobile Wallet
+81102,10176,2024-03-20 17:27:00,Cancelled,Mobile App,Delivery,,1.87,1.94,PayPal
+81103,10475,2024-03-22 05:20:00,Preparing,Mobile App,Delivery,,2.87,1.33,PayPal
+81104,10250,2024-03-14 09:55:00,Placed,Mobile App,Pickup,1.0,0.0,0.08,PayPal
+81105,10423,2024-03-03 10:06:00,Cancelled,Mobile App,Delivery,,1.02,0.7,Card
+81106,10026,2024-03-16 22:31:00,Completed,Web,Pickup,2.0,0.0,1.91,Mobile Wallet
+81107,10139,2024-03-09 22:52:00,Cancelled,Web,Delivery,,1.87,0.06,PayPal
+81108,10128,2024-03-19 03:56:00,Placed,Mobile App,Pickup,,0.0,1.84,Mobile Wallet
+81109,10160,2024-03-26 15:56:00,Cancelled,Mobile App,Delivery,,3.41,0.28,Card
+81110,10129,2024-03-19 22:43:00,Preparing,Mobile App,Delivery,,1.91,0.59,Mobile Wallet
+81111,10237,2024-03-18 02:39:00,Cancelled,Web,Delivery,,1.42,0.88,PayPal
+81112,10258,2024-03-17 02:52:00,Cancelled,Mobile App,Pickup,,0.0,0.84,PayPal
+81113,10237,2024-03-26 10:28:00,Placed,Mobile App,Delivery,,1.27,0.28,PayPal
+81114,10403,2024-03-27 09:52:00,Completed,Web,Delivery,,2.86,1.8,PayPal
+81115,10028,2024-03-19 08:07:00,Placed,Mobile App,Pickup,2.0,0.0,1.61,Mobile Wallet
+81116,10236,2024-03-04 20:28:00,Placed,Mobile App,Delivery,,3.49,1.3,PayPal
+81117,10305,2024-03-14 05:23:00,Cancelled,Mobile App,Delivery,,3.59,0.24,Mobile Wallet
+81118,10346,2024-03-10 07:59:00,Preparing,Mobile App,Delivery,,1.41,1.79,Mobile Wallet
+81119,10437,2024-03-14 16:39:00,Completed,Web,Delivery,,3.42,1.25,Card
+81120,10059,2024-03-01 00:02:00,Preparing,Web,Delivery,,2.56,0.49,Card
+81121,10243,2024-03-24 00:28:00,Cancelled,Mobile App,Delivery,,1.17,0.24,PayPal
+81122,10248,2024-03-11 16:36:00,Completed,Mobile App,Delivery,,3.58,1.23,PayPal
+81123,10075,2024-03-09 09:51:00,Preparing,Web,Delivery,,1.51,1.48,Mobile Wallet
+81124,10103,2024-03-14 04:47:00,Completed,Web,Pickup,,0.0,1.92,PayPal
+81125,10189,2024-03-18 13:25:00,Placed,Mobile App,Pickup,,0.0,0.83,PayPal
+81126,10076,2024-03-13 21:34:00,Cancelled,Web,Delivery,,2.69,0.02,PayPal
+81127,10018,2024-03-17 03:27:00,Preparing,Mobile App,Pickup,1.0,0.0,1.76,PayPal
+81128,10142,2024-03-08 04:55:00,Completed,Web,Delivery,,2.05,1.41,PayPal
+81129,10263,2024-03-08 22:35:00,Preparing,Mobile App,Delivery,,2.97,1.13,PayPal
+81130,10367,2024-03-13 16:01:00,Completed,Mobile App,Delivery,,1.2,1.68,PayPal
+81131,10193,2024-03-27 05:11:00,Completed,Web,Pickup,2.0,0.0,1.4,Mobile Wallet
+81132,10490,2024-03-04 01:48:00,Placed,Web,Pickup,,0.0,1.7,Card
+81133,10119,2024-03-05 20:01:00,Cancelled,Mobile App,Delivery,,1.97,0.46,Mobile Wallet
+81134,10408,2024-03-05 19:09:00,Preparing,Mobile App,Delivery,,3.27,0.84,Card
+81135,10032,2024-03-02 16:52:00,Placed,Mobile App,Pickup,1.0,0.0,1.53,Mobile Wallet
+81136,10324,2024-03-08 22:07:00,Completed,Web,Delivery,,3.1,0.76,Mobile Wallet
+81137,10294,2024-03-09 21:46:00,Completed,Mobile App,Delivery,,2.31,0.57,Card
+81138,10380,2024-03-20 18:06:00,Preparing,Web,Delivery,,2.75,1.26,Mobile Wallet
+81139,10050,2024-03-02 12:18:00,Preparing,Web,Delivery,,2.08,0.82,Mobile Wallet
+81140,10443,2024-03-16 12:08:00,Preparing,Mobile App,Delivery,,1.57,0.41,PayPal
+81141,10257,2024-03-29 03:32:00,Preparing,Web,Pickup,3.0,0.0,0.88,Mobile Wallet
+81142,10193,2024-03-26 21:39:00,Placed,Web,Delivery,,3.35,0.6,Card
+81143,10256,2024-03-03 08:13:00,Completed,Web,Delivery,,1.67,1.88,PayPal
+81144,10200,2024-03-08 04:25:00,Completed,Web,Pickup,1.0,0.0,1.07,Card
+81145,10437,2024-03-29 03:43:00,Placed,Web,Pickup,,0.0,1.17,PayPal
+81146,10335,2024-03-02 11:15:00,Completed,Mobile App,Delivery,,1.78,0.67,Card
+81147,10072,2024-03-25 21:33:00,Completed,Web,Delivery,,1.71,0.15,Mobile Wallet
+81148,10464,2024-03-16 17:45:00,Placed,Mobile App,Delivery,,2.79,1.22,Card
+81149,10455,2024-03-13 07:28:00,Placed,Web,Pickup,2.0,0.0,0.07,Mobile Wallet
+81150,10116,2024-03-22 17:39:00,Completed,Web,Pickup,,0.0,0.04,Card
+81151,10014,2024-03-25 07:28:00,Cancelled,Web,Delivery,,2.66,0.1,PayPal
+81152,10357,2024-03-20 13:22:00,Cancelled,Web,Delivery,,1.35,0.24,Mobile Wallet
+81153,10463,2024-03-09 19:30:00,Completed,Mobile App,Pickup,3.0,0.0,1.84,Card
+81154,10119,2024-03-27 18:55:00,Placed,Web,Delivery,,2.24,1.51,Mobile Wallet
+81155,10291,2024-03-01 16:16:00,Preparing,Web,Delivery,,1.23,0.25,Card
+81156,10145,2024-03-15 07:06:00,Completed,Web,Delivery,,3.99,0.26,PayPal
+81157,10246,2024-03-30 21:10:00,Placed,Web,Delivery,,1.75,1.09,PayPal
+81158,10362,2024-03-21 04:27:00,Completed,Mobile App,Pickup,2.0,0.0,1.56,PayPal
+81159,10445,2024-03-24 23:27:00,Completed,Mobile App,Delivery,,3.09,1.01,Card
+81160,10178,2024-03-13 17:35:00,Placed,Web,Pickup,,0.0,1.82,Mobile Wallet
+81161,10119,2024-03-06 14:04:00,Completed,Web,Pickup,2.0,0.0,0.07,Card
+81162,10358,2024-03-06 04:46:00,Placed,Mobile App,Pickup,,0.0,1.67,PayPal
+81163,10143,2024-03-04 20:17:00,Placed,Mobile App,Pickup,3.0,0.0,1.71,PayPal
+81164,10254,2024-03-18 09:53:00,Cancelled,Mobile App,Delivery,,1.13,0.41,Card
+81165,10338,2024-03-14 21:18:00,Placed,Mobile App,Pickup,1.0,0.0,1.87,Mobile Wallet
+81166,10387,2024-03-27 21:29:00,Preparing,Web,Pickup,3.0,0.0,0.68,Mobile Wallet
+81167,10223,2024-03-05 23:17:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.72,Mobile Wallet
+81168,10238,2024-03-08 09:32:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.49,Card
+81169,10068,2024-03-13 18:35:00,Completed,Web,Delivery,,4.0,1.54,PayPal
+81170,10173,2024-03-29 00:20:00,Completed,Mobile App,Pickup,1.0,0.0,0.54,PayPal
+81171,10401,2024-03-06 15:46:00,Completed,Mobile App,Delivery,,3.51,1.7,PayPal
+81172,10237,2024-03-21 00:29:00,Placed,Mobile App,Delivery,,1.11,0.72,Mobile Wallet
+81173,10433,2024-03-19 14:18:00,Placed,Web,Delivery,,1.83,1.22,PayPal
+81174,10489,2024-03-21 01:04:00,Preparing,Mobile App,Delivery,,3.3,0.55,PayPal
+81175,10066,2024-03-29 16:29:00,Preparing,Web,Delivery,,3.61,1.31,Card
+81176,10059,2024-03-09 09:15:00,Cancelled,Mobile App,Delivery,,1.13,1.43,Card
+81177,10488,2024-03-01 17:36:00,Completed,Web,Pickup,3.0,0.0,1.2,PayPal
+81178,10056,2024-03-24 01:42:00,Cancelled,Web,Delivery,,2.53,0.47,PayPal
+81179,10293,2024-03-04 05:58:00,Cancelled,Mobile App,Pickup,,0.0,0.29,PayPal
+81180,10311,2024-03-19 13:47:00,Completed,Mobile App,Pickup,3.0,0.0,1.88,PayPal
+81181,10319,2024-03-08 07:06:00,Completed,Web,Delivery,,1.87,0.3,Mobile Wallet
+81182,10014,2024-03-28 17:13:00,Preparing,Mobile App,Delivery,,2.53,1.56,Mobile Wallet
+81183,10402,2024-03-18 05:47:00,Placed,Web,Pickup,2.0,0.0,0.76,Mobile Wallet
+81184,10041,2024-03-11 05:18:00,Cancelled,Web,Delivery,,3.54,1.06,Card
+81185,10311,2024-03-15 10:10:00,Completed,Web,Pickup,,0.0,1.67,PayPal
+81186,10467,2024-03-15 23:00:00,Preparing,Mobile App,Delivery,,1.69,0.63,Card
+81187,10355,2024-03-21 06:04:00,Cancelled,Mobile App,Delivery,,1.24,1.12,Card
+81188,10469,2024-03-28 13:03:00,Preparing,Mobile App,Pickup,,0.0,1.57,Card
+81189,10292,2024-03-25 11:13:00,Preparing,Mobile App,Delivery,,3.02,1.33,Mobile Wallet
+81190,10134,2024-03-15 06:48:00,Placed,Web,Pickup,3.0,0.0,0.82,Mobile Wallet
+81191,10076,2024-03-09 04:30:00,Cancelled,Web,Pickup,2.0,0.0,0.33,PayPal
+81192,10135,2024-03-06 18:03:00,Placed,Mobile App,Pickup,1.0,0.0,0.05,Card
+81193,10038,2024-03-24 10:24:00,Cancelled,Mobile App,Delivery,,2.06,0.8,Mobile Wallet
+81194,10124,2024-03-16 07:53:00,Completed,Web,Pickup,1.0,0.0,1.99,Card
+81195,10038,2024-03-19 14:36:00,Cancelled,Mobile App,Pickup,,0.0,0.58,PayPal
+81196,10359,2024-03-09 08:22:00,Placed,Web,Delivery,,3.69,1.19,PayPal
+81197,10346,2024-03-15 14:00:00,Cancelled,Web,Pickup,,0.0,1.02,Mobile Wallet
+81198,10144,2024-03-11 13:41:00,Completed,Mobile App,Delivery,,2.02,1.13,Mobile Wallet
+81199,10297,2024-03-15 16:35:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.51,Card
+81200,10022,2024-03-20 14:15:00,Completed,Mobile App,Delivery,,1.3,0.57,Card
+81201,10148,2024-03-20 23:24:00,Preparing,Web,Pickup,,0.0,0.58,PayPal
+81202,10311,2024-03-11 13:03:00,Completed,Web,Delivery,,1.29,1.1,Mobile Wallet
+81203,10387,2024-03-02 05:52:00,Placed,Web,Delivery,,1.02,1.67,Card
+81204,10190,2024-03-13 19:50:00,Cancelled,Mobile App,Delivery,,2.56,1.66,PayPal
+81205,10471,2024-03-06 11:00:00,Cancelled,Mobile App,Delivery,,2.48,0.17,Card
+81206,10143,2024-03-17 02:21:00,Placed,Web,Delivery,,3.18,0.65,Mobile Wallet
+81207,10172,2024-03-29 16:48:00,Placed,Mobile App,Pickup,,0.0,1.78,Card
+81208,10222,2024-03-24 17:23:00,Completed,Web,Delivery,,3.52,1.32,Mobile Wallet
+81209,10019,2024-03-12 04:36:00,Preparing,Mobile App,Delivery,,3.62,0.44,Card
+81210,10136,2024-03-23 01:12:00,Preparing,Mobile App,Pickup,2.0,0.0,0.57,Card
+81211,10326,2024-03-24 11:56:00,Preparing,Web,Delivery,,2.3,0.98,Mobile Wallet
+81212,10107,2024-03-02 18:23:00,Cancelled,Mobile App,Delivery,,2.84,1.26,Card
+81213,10327,2024-03-25 03:24:00,Preparing,Mobile App,Pickup,,0.0,1.68,PayPal
+81214,10343,2024-03-29 16:09:00,Cancelled,Mobile App,Pickup,,0.0,1.09,PayPal
+81215,10050,2024-03-06 02:44:00,Completed,Mobile App,Delivery,,3.91,0.65,Mobile Wallet
+81216,10218,2024-03-09 00:27:00,Cancelled,Mobile App,Delivery,,2.98,0.7,PayPal
+81217,10361,2024-03-23 00:22:00,Cancelled,Mobile App,Delivery,,3.06,0.06,PayPal
+81218,10260,2024-03-19 14:44:00,Placed,Mobile App,Delivery,,1.78,0.64,PayPal
+81219,10415,2024-03-19 03:27:00,Completed,Web,Pickup,,0.0,0.54,Mobile Wallet
+81220,10113,2024-03-15 00:58:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.44,Card
+81221,10275,2024-03-29 10:58:00,Placed,Mobile App,Delivery,,1.39,1.08,Mobile Wallet
+81222,10011,2024-03-16 04:02:00,Completed,Web,Pickup,1.0,0.0,1.31,Mobile Wallet
+81223,10108,2024-03-08 03:28:00,Cancelled,Web,Pickup,2.0,0.0,0.58,Card
+81224,10467,2024-03-19 19:32:00,Preparing,Web,Pickup,3.0,0.0,1.88,Card
+81225,10433,2024-03-24 23:08:00,Placed,Mobile App,Delivery,,3.37,0.08,PayPal
+81226,10155,2024-03-11 11:13:00,Preparing,Web,Delivery,,1.82,0.25,PayPal
+81227,10336,2024-03-13 06:54:00,Placed,Web,Pickup,2.0,0.0,0.15,Mobile Wallet
+81228,10361,2024-03-01 16:06:00,Preparing,Web,Pickup,1.0,0.0,1.47,PayPal
+81229,10100,2024-03-20 08:22:00,Placed,Mobile App,Pickup,3.0,0.0,0.55,Card
+81230,10052,2024-03-18 03:19:00,Completed,Mobile App,Pickup,,0.0,0.19,PayPal
+81231,10288,2024-03-13 22:39:00,Preparing,Mobile App,Pickup,,0.0,0.03,PayPal
+81232,10373,2024-03-25 21:00:00,Placed,Mobile App,Pickup,3.0,0.0,0.45,Card
+81233,10204,2024-03-21 08:20:00,Completed,Mobile App,Delivery,,2.69,1.29,PayPal
+81234,10074,2024-03-05 08:11:00,Preparing,Web,Delivery,,3.59,0.98,Card
+81235,10043,2024-03-19 08:23:00,Cancelled,Web,Delivery,,1.18,0.99,PayPal
+81236,10160,2024-03-02 15:52:00,Completed,Mobile App,Pickup,2.0,0.0,1.74,PayPal
+81237,10354,2024-03-26 14:18:00,Cancelled,Mobile App,Delivery,,1.94,1.3,PayPal
+81238,10237,2024-03-05 18:44:00,Cancelled,Web,Pickup,1.0,0.0,0.75,Card
+81239,10083,2024-03-08 13:31:00,Preparing,Mobile App,Delivery,,3.61,0.23,PayPal
+81240,10254,2024-03-29 11:56:00,Cancelled,Web,Delivery,,3.25,1.09,PayPal
+81241,10005,2024-03-20 19:39:00,Completed,Mobile App,Pickup,1.0,0.0,1.04,Mobile Wallet
+81242,10456,2024-03-07 10:34:00,Completed,Web,Pickup,2.0,0.0,1.61,Mobile Wallet
+81243,10191,2024-03-22 01:35:00,Preparing,Mobile App,Pickup,,0.0,1.85,Mobile Wallet
+81244,10437,2024-03-08 11:23:00,Cancelled,Web,Delivery,,1.95,0.36,PayPal
+81245,10035,2024-03-15 04:36:00,Preparing,Web,Delivery,,3.08,1.08,PayPal
+81246,10049,2024-03-29 10:38:00,Cancelled,Web,Delivery,,1.2,1.27,Card
+81247,10177,2024-03-09 18:24:00,Completed,Mobile App,Delivery,,3.46,1.74,Mobile Wallet
+81248,10374,2024-03-29 10:07:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.12,Mobile Wallet
+81249,10338,2024-03-04 12:37:00,Preparing,Web,Delivery,,3.19,0.56,PayPal
+81250,10289,2024-03-06 18:23:00,Cancelled,Mobile App,Delivery,,2.73,1.71,Mobile Wallet
+81251,10142,2024-03-08 15:36:00,Placed,Web,Pickup,2.0,0.0,1.98,Card
+81252,10476,2024-03-07 12:33:00,Preparing,Mobile App,Delivery,,3.62,0.65,Card
+81253,10071,2024-03-22 11:12:00,Completed,Mobile App,Pickup,,0.0,1.0,Card
+81254,10124,2024-03-18 13:06:00,Cancelled,Mobile App,Pickup,,0.0,0.62,Mobile Wallet
+81255,10163,2024-03-28 13:14:00,Preparing,Web,Delivery,,3.84,1.67,Mobile Wallet
+81256,10074,2024-03-23 07:18:00,Completed,Web,Pickup,,0.0,1.12,PayPal
+81257,10334,2024-03-02 03:37:00,Completed,Mobile App,Pickup,2.0,0.0,1.54,PayPal
+81258,10373,2024-03-29 01:54:00,Preparing,Mobile App,Pickup,2.0,0.0,0.75,Mobile Wallet
+81259,10006,2024-03-21 02:52:00,Completed,Web,Delivery,,1.02,0.62,Card
+81260,10467,2024-03-23 21:11:00,Placed,Mobile App,Pickup,3.0,0.0,0.07,PayPal
+81261,10329,2024-03-02 23:58:00,Completed,Mobile App,Pickup,,0.0,1.25,Mobile Wallet
+81262,10422,2024-03-22 10:14:00,Cancelled,Mobile App,Delivery,,1.52,1.5,Mobile Wallet
+81263,10385,2024-03-02 17:43:00,Completed,Web,Delivery,,2.84,1.43,Mobile Wallet
+81264,10377,2024-03-06 23:47:00,Placed,Mobile App,Delivery,,3.5,0.24,PayPal
+81265,10327,2024-03-15 07:13:00,Placed,Mobile App,Delivery,,3.95,0.39,Mobile Wallet
+81266,10378,2024-03-16 03:21:00,Completed,Web,Delivery,,3.72,1.17,PayPal
+81267,10265,2024-03-19 08:22:00,Cancelled,Web,Delivery,,1.19,1.65,Mobile Wallet
+81268,10076,2024-03-08 20:30:00,Cancelled,Web,Pickup,1.0,0.0,0.55,Card
+81269,10353,2024-03-29 21:55:00,Placed,Mobile App,Pickup,2.0,0.0,0.55,PayPal
+81270,10061,2024-03-26 20:35:00,Placed,Mobile App,Pickup,,0.0,0.18,Card
+81271,10094,2024-03-09 10:47:00,Completed,Web,Delivery,,3.3,1.58,Card
+81272,10327,2024-03-04 16:46:00,Preparing,Mobile App,Pickup,,0.0,1.67,Mobile Wallet
+81273,10483,2024-03-07 00:58:00,Completed,Web,Delivery,,2.14,0.57,PayPal
+81274,10072,2024-03-11 06:48:00,Preparing,Mobile App,Pickup,,0.0,1.77,Card
+81275,10152,2024-03-13 00:57:00,Placed,Mobile App,Pickup,,0.0,0.71,PayPal
+81276,10179,2024-03-02 16:07:00,Cancelled,Web,Pickup,2.0,0.0,1.08,Card
+81277,10360,2024-03-30 09:36:00,Completed,Web,Pickup,3.0,0.0,0.68,Mobile Wallet
+81278,10283,2024-03-24 08:37:00,Preparing,Mobile App,Pickup,1.0,0.0,0.44,PayPal
+81279,10017,2024-03-24 12:44:00,Preparing,Mobile App,Delivery,,1.42,1.17,PayPal
+81280,10289,2024-03-15 16:06:00,Placed,Mobile App,Pickup,1.0,0.0,1.74,Card
+81281,10082,2024-03-16 05:35:00,Completed,Web,Pickup,,0.0,0.37,PayPal
+81282,10157,2024-03-22 05:54:00,Preparing,Web,Delivery,,2.32,1.23,Mobile Wallet
+81283,10295,2024-03-22 13:16:00,Preparing,Mobile App,Pickup,,0.0,1.45,Mobile Wallet
+81284,10173,2024-03-14 15:52:00,Placed,Web,Pickup,,0.0,1.53,Mobile Wallet
+81285,10056,2024-03-13 06:12:00,Cancelled,Web,Pickup,,0.0,0.33,Card
+81286,10473,2024-03-26 20:23:00,Preparing,Web,Pickup,2.0,0.0,1.33,Card
+81287,10497,2024-03-15 01:48:00,Preparing,Mobile App,Delivery,,2.38,0.33,Card
+81288,10338,2024-03-10 02:53:00,Preparing,Mobile App,Delivery,,1.92,0.37,Card
+81289,10224,2024-03-12 03:18:00,Preparing,Mobile App,Delivery,,1.01,0.32,Card
+81290,10242,2024-03-22 11:53:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.41,Card
+81291,10199,2024-03-15 11:43:00,Preparing,Mobile App,Delivery,,3.32,1.8,Mobile Wallet
+81292,10374,2024-03-25 07:23:00,Placed,Mobile App,Pickup,,0.0,0.98,Mobile Wallet
+81293,10497,2024-03-11 02:08:00,Preparing,Web,Delivery,,2.11,0.68,Card
+81294,10313,2024-03-30 09:08:00,Preparing,Web,Pickup,1.0,0.0,1.0,Card
+81295,10109,2024-03-05 05:25:00,Completed,Mobile App,Pickup,,0.0,1.31,PayPal
+81296,10078,2024-03-18 14:30:00,Cancelled,Web,Pickup,3.0,0.0,0.52,PayPal
+81297,10092,2024-03-19 02:57:00,Placed,Mobile App,Delivery,,3.42,0.69,Mobile Wallet
+81298,10052,2024-03-08 07:43:00,Completed,Web,Pickup,1.0,0.0,1.15,PayPal
+81299,10352,2024-03-23 02:59:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.54,PayPal
+81300,10218,2024-03-28 11:19:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.56,Mobile Wallet
+81301,10172,2024-03-09 03:20:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.74,Card
+81302,10077,2024-03-16 08:13:00,Completed,Web,Delivery,,2.54,1.23,PayPal
+81303,10223,2024-03-22 03:38:00,Completed,Web,Delivery,,1.36,0.98,PayPal
+81304,10026,2024-03-20 08:58:00,Completed,Mobile App,Pickup,3.0,0.0,1.53,Card
+81305,10278,2024-03-14 08:17:00,Completed,Mobile App,Pickup,2.0,0.0,0.04,PayPal
+81306,10153,2024-03-28 02:44:00,Placed,Mobile App,Delivery,,3.2,1.06,PayPal
+81307,10128,2024-03-04 19:48:00,Placed,Web,Delivery,,3.18,1.27,PayPal
+81308,10458,2024-03-21 20:17:00,Preparing,Mobile App,Pickup,3.0,0.0,0.08,PayPal
+81309,10191,2024-03-07 16:17:00,Placed,Mobile App,Delivery,,2.54,1.45,PayPal
+81310,10475,2024-03-19 05:42:00,Placed,Web,Pickup,,0.0,1.9,PayPal
+81311,10370,2024-03-20 17:25:00,Placed,Web,Delivery,,2.71,1.99,Mobile Wallet
+81312,10264,2024-03-03 05:20:00,Completed,Mobile App,Delivery,,1.65,1.87,PayPal
+81313,10383,2024-03-13 14:23:00,Placed,Mobile App,Delivery,,3.73,1.36,PayPal
+81314,10003,2024-03-01 20:26:00,Cancelled,Web,Pickup,2.0,0.0,0.55,PayPal
+81315,10307,2024-03-11 01:44:00,Preparing,Web,Pickup,1.0,0.0,1.42,Card
+81316,10033,2024-03-27 18:09:00,Cancelled,Mobile App,Pickup,,0.0,1.08,PayPal
+81317,10477,2024-03-16 14:35:00,Completed,Mobile App,Delivery,,2.04,0.89,PayPal
+81318,10438,2024-03-25 05:20:00,Preparing,Mobile App,Pickup,2.0,0.0,0.51,Card
+81319,10339,2024-03-29 17:38:00,Cancelled,Mobile App,Delivery,,1.25,1.5,Mobile Wallet
+81320,10190,2024-03-15 08:25:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.06,Mobile Wallet
+81321,10300,2024-03-29 09:51:00,Completed,Mobile App,Delivery,,2.25,1.53,PayPal
+81322,10285,2024-03-18 01:54:00,Preparing,Mobile App,Pickup,2.0,0.0,1.21,Card
+81323,10050,2024-03-10 14:48:00,Placed,Mobile App,Pickup,2.0,0.0,0.36,Card
+81324,10393,2024-03-17 00:30:00,Preparing,Mobile App,Pickup,,0.0,1.8,PayPal
+81325,10164,2024-03-29 19:32:00,Completed,Mobile App,Pickup,1.0,0.0,0.45,PayPal
+81326,10254,2024-03-21 10:55:00,Preparing,Web,Pickup,3.0,0.0,0.8,Card
+81327,10273,2024-03-30 20:44:00,Preparing,Web,Pickup,,0.0,0.77,Mobile Wallet
+81328,10215,2024-03-09 14:18:00,Placed,Web,Pickup,,0.0,0.28,Mobile Wallet
+81329,10258,2024-03-28 06:53:00,Cancelled,Web,Delivery,,1.98,0.5,Mobile Wallet
+81330,10321,2024-03-17 20:27:00,Placed,Mobile App,Pickup,1.0,0.0,1.1,Card
+81331,10436,2024-03-21 20:00:00,Completed,Web,Delivery,,1.53,1.87,Card
+81332,10166,2024-03-14 08:00:00,Placed,Web,Delivery,,1.62,0.92,Card
+81333,10351,2024-03-09 01:11:00,Cancelled,Web,Pickup,2.0,0.0,1.61,PayPal
+81334,10447,2024-03-12 03:27:00,Cancelled,Web,Delivery,,1.02,0.06,Mobile Wallet
+81335,10209,2024-03-04 04:51:00,Cancelled,Mobile App,Pickup,,0.0,1.77,Mobile Wallet
+81336,10062,2024-03-20 22:58:00,Cancelled,Web,Delivery,,1.88,0.8,Mobile Wallet
+81337,10394,2024-03-17 12:54:00,Cancelled,Mobile App,Delivery,,2.29,0.25,Card
+81338,10434,2024-03-08 16:32:00,Completed,Mobile App,Pickup,1.0,0.0,1.31,Card
+81339,10468,2024-03-22 23:07:00,Preparing,Mobile App,Delivery,,1.29,1.28,Card
+81340,10235,2024-03-12 19:59:00,Completed,Mobile App,Pickup,2.0,0.0,1.38,PayPal
+81341,10404,2024-03-26 20:39:00,Completed,Web,Pickup,3.0,0.0,1.52,Card
+81342,10268,2024-03-11 01:24:00,Completed,Mobile App,Pickup,1.0,0.0,1.43,PayPal
+81343,10484,2024-03-26 20:00:00,Completed,Mobile App,Delivery,,3.14,1.35,Card
+81344,10381,2024-03-07 16:02:00,Completed,Mobile App,Delivery,,1.77,0.46,Card
+81345,10299,2024-03-27 14:08:00,Placed,Mobile App,Pickup,2.0,0.0,0.73,Mobile Wallet
+81346,10382,2024-03-29 03:31:00,Preparing,Mobile App,Pickup,,0.0,1.29,Mobile Wallet
+81347,10437,2024-03-18 04:51:00,Cancelled,Web,Pickup,3.0,0.0,1.74,PayPal
+81348,10090,2024-03-01 15:32:00,Placed,Mobile App,Pickup,,0.0,0.45,Card
+81349,10115,2024-03-13 15:59:00,Placed,Web,Delivery,,2.07,0.92,Mobile Wallet
+81350,10465,2024-03-24 20:28:00,Preparing,Web,Delivery,,2.09,0.07,Mobile Wallet
+81351,10051,2024-03-13 08:31:00,Placed,Web,Pickup,1.0,0.0,0.89,Mobile Wallet
+81352,10127,2024-03-12 15:41:00,Preparing,Web,Delivery,,1.69,1.43,Card
+81353,10021,2024-03-05 03:47:00,Preparing,Web,Pickup,3.0,0.0,1.81,Card
+81354,10268,2024-03-10 10:53:00,Preparing,Web,Pickup,1.0,0.0,1.17,Mobile Wallet
+81355,10245,2024-03-25 10:28:00,Placed,Mobile App,Pickup,1.0,0.0,1.58,Card
+81356,10101,2024-03-21 02:40:00,Placed,Mobile App,Pickup,1.0,0.0,0.39,Mobile Wallet
+81357,10302,2024-03-28 05:29:00,Cancelled,Mobile App,Delivery,,2.71,1.16,Card
+81358,10369,2024-03-27 19:16:00,Cancelled,Web,Pickup,2.0,0.0,0.5,PayPal
+81359,10308,2024-03-29 17:21:00,Preparing,Mobile App,Pickup,,0.0,1.01,Mobile Wallet
+81360,10146,2024-03-25 05:17:00,Preparing,Mobile App,Pickup,3.0,0.0,0.55,Mobile Wallet
+81361,10258,2024-03-06 01:45:00,Preparing,Mobile App,Pickup,,0.0,0.01,Mobile Wallet
+81362,10241,2024-03-09 03:17:00,Placed,Mobile App,Pickup,2.0,0.0,1.35,Card
+81363,10474,2024-03-30 00:44:00,Preparing,Web,Pickup,3.0,0.0,1.56,Card
+81364,10110,2024-03-15 13:32:00,Cancelled,Web,Pickup,3.0,0.0,1.37,Mobile Wallet
+81365,10108,2024-03-15 17:38:00,Preparing,Web,Delivery,,3.3,1.57,Card
+81366,10313,2024-03-15 19:43:00,Cancelled,Mobile App,Delivery,,3.34,0.54,PayPal
+81367,10242,2024-03-07 14:21:00,Completed,Mobile App,Pickup,3.0,0.0,1.45,Mobile Wallet
+81368,10162,2024-03-20 08:32:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.01,PayPal
+81369,10029,2024-03-30 09:22:00,Preparing,Mobile App,Pickup,3.0,0.0,1.53,Card
+81370,10420,2024-03-10 11:51:00,Completed,Mobile App,Delivery,,3.5,0.05,PayPal
+81371,10405,2024-03-26 09:33:00,Preparing,Web,Pickup,3.0,0.0,1.24,PayPal
+81372,10439,2024-03-04 09:17:00,Preparing,Web,Pickup,1.0,0.0,0.65,PayPal
+81373,10483,2024-03-18 18:03:00,Cancelled,Web,Pickup,1.0,0.0,0.56,Mobile Wallet
+81374,10301,2024-03-05 14:47:00,Placed,Mobile App,Pickup,1.0,0.0,0.55,PayPal
+81375,10225,2024-03-22 11:22:00,Preparing,Web,Pickup,1.0,0.0,0.65,Mobile Wallet
+81376,10212,2024-03-07 20:17:00,Completed,Web,Delivery,,2.69,0.88,PayPal
+81377,10294,2024-03-01 23:52:00,Preparing,Web,Pickup,3.0,0.0,1.74,Mobile Wallet
+81378,10365,2024-03-21 06:58:00,Preparing,Web,Pickup,3.0,0.0,0.64,Card
+81379,10236,2024-03-10 01:20:00,Completed,Mobile App,Pickup,3.0,0.0,1.21,Card
+81380,10072,2024-03-30 05:29:00,Cancelled,Mobile App,Delivery,,2.19,0.97,Card
+81381,10426,2024-03-24 07:31:00,Completed,Web,Delivery,,2.7,1.99,Mobile Wallet
+81382,10448,2024-03-13 20:43:00,Completed,Web,Pickup,,0.0,1.47,Mobile Wallet
+81383,10048,2024-03-25 04:49:00,Preparing,Web,Delivery,,2.72,0.94,Mobile Wallet
+81384,10098,2024-03-20 14:42:00,Completed,Mobile App,Delivery,,2.35,1.76,Mobile Wallet
+81385,10078,2024-03-09 06:26:00,Completed,Mobile App,Pickup,1.0,0.0,1.06,Mobile Wallet
+81386,10379,2024-03-19 06:30:00,Completed,Web,Pickup,1.0,0.0,1.25,PayPal
+81387,10010,2024-03-11 06:00:00,Completed,Mobile App,Delivery,,1.45,1.71,Mobile Wallet
+81388,10346,2024-03-30 17:55:00,Preparing,Mobile App,Pickup,,0.0,1.79,Mobile Wallet
+81389,10445,2024-03-09 14:16:00,Preparing,Web,Delivery,,1.93,0.2,Mobile Wallet
+81390,10309,2024-03-06 19:04:00,Completed,Web,Delivery,,1.98,0.63,Card
+81391,10337,2024-03-10 04:18:00,Completed,Web,Delivery,,2.27,0.54,Card
+81392,10396,2024-03-07 05:58:00,Cancelled,Web,Pickup,1.0,0.0,1.67,PayPal
+81393,10014,2024-03-18 07:30:00,Placed,Mobile App,Pickup,2.0,0.0,0.88,Card
+81394,10106,2024-03-05 05:25:00,Preparing,Web,Pickup,1.0,0.0,0.33,Card
+81395,10062,2024-03-15 10:07:00,Cancelled,Web,Pickup,3.0,0.0,0.42,Card
+81396,10410,2024-03-12 14:50:00,Placed,Mobile App,Pickup,,0.0,0.03,PayPal
+81397,10412,2024-03-05 13:17:00,Completed,Mobile App,Pickup,,0.0,1.89,Card
+81398,10223,2024-03-04 20:14:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.03,PayPal
+81399,10374,2024-03-07 09:43:00,Preparing,Web,Pickup,1.0,0.0,1.13,Card
+81400,10266,2024-03-07 09:09:00,Cancelled,Web,Delivery,,1.18,1.6,Mobile Wallet
+81401,10339,2024-03-29 02:32:00,Cancelled,Web,Pickup,3.0,0.0,0.84,Card
+81402,10480,2024-03-09 06:22:00,Completed,Web,Delivery,,3.36,0.06,Card
+81403,10157,2024-03-13 01:38:00,Completed,Web,Pickup,3.0,0.0,1.57,PayPal
+81404,10015,2024-03-07 13:39:00,Cancelled,Web,Pickup,1.0,0.0,1.08,Mobile Wallet
+81405,10370,2024-03-08 04:45:00,Placed,Web,Delivery,,2.05,0.45,PayPal
+81406,10034,2024-03-22 15:34:00,Cancelled,Mobile App,Delivery,,3.57,1.07,Card
+81407,10439,2024-03-15 04:09:00,Cancelled,Mobile App,Delivery,,3.7,0.51,PayPal
+81408,10337,2024-03-22 17:52:00,Cancelled,Web,Pickup,1.0,0.0,0.25,Mobile Wallet
+81409,10067,2024-03-11 06:21:00,Placed,Web,Delivery,,3.15,0.56,Mobile Wallet
+81410,10054,2024-03-11 07:05:00,Completed,Web,Delivery,,3.19,0.6,Mobile Wallet
+81411,10499,2024-03-06 23:51:00,Completed,Mobile App,Pickup,3.0,0.0,0.75,Card
+81412,10297,2024-03-18 12:33:00,Placed,Web,Delivery,,3.94,0.03,Mobile Wallet
+81413,10018,2024-03-08 08:49:00,Cancelled,Mobile App,Delivery,,1.04,0.96,PayPal
+81414,10097,2024-03-10 18:39:00,Cancelled,Mobile App,Pickup,,0.0,1.09,Card
+81415,10382,2024-03-16 08:22:00,Preparing,Mobile App,Pickup,3.0,0.0,0.68,PayPal
+81416,10396,2024-03-16 13:57:00,Completed,Web,Pickup,1.0,0.0,1.56,PayPal
+81417,10329,2024-03-25 17:26:00,Preparing,Web,Delivery,,1.68,0.91,Card
+81418,10062,2024-03-16 19:41:00,Completed,Mobile App,Pickup,2.0,0.0,0.87,Card
+81419,10495,2024-03-19 02:14:00,Preparing,Web,Delivery,,3.52,0.44,Card
+81420,10102,2024-03-26 14:49:00,Placed,Mobile App,Pickup,2.0,0.0,1.08,Mobile Wallet
+81421,10485,2024-03-18 01:01:00,Preparing,Web,Delivery,,3.04,1.27,Mobile Wallet
+81422,10116,2024-03-25 14:43:00,Cancelled,Web,Delivery,,1.84,1.92,PayPal
+81423,10152,2024-03-22 16:30:00,Cancelled,Mobile App,Pickup,,0.0,0.27,PayPal
+81424,10001,2024-03-12 10:31:00,Completed,Web,Delivery,,3.77,1.23,Card
+81425,10031,2024-03-07 13:03:00,Cancelled,Web,Pickup,2.0,0.0,1.53,Card
+81426,10201,2024-03-30 09:41:00,Cancelled,Mobile App,Delivery,,2.77,0.5,PayPal
+81427,10037,2024-03-13 13:42:00,Preparing,Mobile App,Delivery,,1.37,1.48,Mobile Wallet
+81428,10078,2024-03-21 04:17:00,Preparing,Mobile App,Delivery,,3.28,0.02,Card
+81429,10267,2024-03-29 14:32:00,Cancelled,Web,Pickup,1.0,0.0,1.32,PayPal
+81430,10421,2024-03-25 15:11:00,Cancelled,Web,Delivery,,1.21,1.96,Mobile Wallet
+81431,10175,2024-03-18 08:42:00,Completed,Web,Pickup,1.0,0.0,1.25,PayPal
+81432,10300,2024-03-23 04:15:00,Completed,Web,Delivery,,2.57,0.18,Mobile Wallet
+81433,10309,2024-03-23 12:09:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.11,Card
+81434,10443,2024-03-12 10:53:00,Completed,Mobile App,Pickup,3.0,0.0,1.33,PayPal
+81435,10183,2024-03-01 14:07:00,Placed,Mobile App,Delivery,,1.73,0.99,Mobile Wallet
+81436,10223,2024-03-23 04:52:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.08,Card
+81437,10303,2024-03-27 04:44:00,Placed,Web,Delivery,,3.9,0.48,Mobile Wallet
+81438,10345,2024-03-02 19:32:00,Completed,Mobile App,Pickup,,0.0,1.7,Mobile Wallet
+81439,10443,2024-03-19 03:28:00,Cancelled,Web,Delivery,,1.65,0.36,Mobile Wallet
+81440,10485,2024-03-14 07:14:00,Cancelled,Web,Pickup,1.0,0.0,1.46,PayPal
+81441,10184,2024-03-12 07:38:00,Completed,Mobile App,Pickup,3.0,0.0,1.57,PayPal
+81442,10235,2024-03-10 12:41:00,Completed,Mobile App,Pickup,2.0,0.0,1.51,Card
+81443,10433,2024-03-16 04:33:00,Completed,Web,Pickup,1.0,0.0,0.63,PayPal
+81444,10052,2024-03-30 02:27:00,Cancelled,Mobile App,Delivery,,2.87,1.28,PayPal
+81445,10104,2024-03-16 22:56:00,Completed,Mobile App,Pickup,,0.0,1.79,Card
+81446,10492,2024-03-15 16:32:00,Placed,Web,Delivery,,1.57,0.62,Mobile Wallet
+81447,10359,2024-03-19 02:41:00,Placed,Web,Pickup,2.0,0.0,0.19,Mobile Wallet
+81448,10307,2024-03-07 15:12:00,Completed,Mobile App,Pickup,3.0,0.0,0.79,PayPal
+81449,10054,2024-03-15 17:42:00,Preparing,Mobile App,Pickup,1.0,0.0,1.65,Card
+81450,10281,2024-03-13 11:02:00,Placed,Mobile App,Delivery,,1.67,1.39,Card
+81451,10126,2024-03-21 00:59:00,Preparing,Web,Delivery,,1.04,0.49,Card
+81452,10440,2024-03-19 20:46:00,Preparing,Mobile App,Pickup,,0.0,0.37,Mobile Wallet
+81453,10298,2024-03-12 21:37:00,Completed,Mobile App,Pickup,,0.0,0.86,PayPal
+81454,10461,2024-03-15 13:41:00,Completed,Web,Delivery,,3.87,0.27,Mobile Wallet
+81455,10127,2024-03-05 09:32:00,Cancelled,Mobile App,Delivery,,1.31,1.65,Card
+81456,10369,2024-03-22 04:13:00,Completed,Web,Pickup,2.0,0.0,0.92,PayPal
+81457,10255,2024-03-08 19:09:00,Placed,Mobile App,Pickup,1.0,0.0,1.12,Card
+81458,10459,2024-03-07 17:31:00,Placed,Mobile App,Pickup,,0.0,0.13,Mobile Wallet
+81459,10142,2024-03-28 04:53:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.41,Card
+81460,10203,2024-03-21 13:49:00,Completed,Mobile App,Delivery,,1.99,1.14,Mobile Wallet
+81461,10485,2024-03-25 13:24:00,Completed,Web,Pickup,2.0,0.0,1.94,Card
+81462,10365,2024-03-04 05:33:00,Placed,Mobile App,Pickup,1.0,0.0,1.46,Mobile Wallet
+81463,10100,2024-03-28 09:01:00,Preparing,Web,Delivery,,1.09,1.86,Mobile Wallet
+81464,10062,2024-03-05 06:50:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.61,PayPal
+81465,10357,2024-03-16 14:58:00,Preparing,Web,Pickup,2.0,0.0,0.62,Card
+81466,10363,2024-03-23 17:47:00,Placed,Web,Pickup,3.0,0.0,0.52,Card
+81467,10117,2024-03-16 11:03:00,Cancelled,Web,Pickup,1.0,0.0,1.05,Card
+81468,10451,2024-03-26 08:31:00,Placed,Mobile App,Delivery,,1.29,0.0,Mobile Wallet
+81469,10007,2024-03-15 21:01:00,Cancelled,Mobile App,Delivery,,1.08,1.81,Mobile Wallet
+81470,10192,2024-03-08 20:17:00,Preparing,Mobile App,Delivery,,1.55,0.44,PayPal
+81471,10050,2024-03-28 07:03:00,Completed,Web,Delivery,,3.67,1.41,Card
+81472,10260,2024-03-21 06:10:00,Placed,Web,Delivery,,3.81,1.78,Card
+81473,10414,2024-03-05 21:43:00,Completed,Web,Pickup,3.0,0.0,1.18,Card
+81474,10461,2024-03-23 15:34:00,Preparing,Web,Delivery,,3.99,1.84,PayPal
+81475,10476,2024-03-06 07:07:00,Placed,Mobile App,Pickup,,0.0,0.49,Card
+81476,10123,2024-03-19 09:35:00,Placed,Mobile App,Pickup,2.0,0.0,0.12,PayPal
+81477,10416,2024-03-24 15:48:00,Placed,Mobile App,Delivery,,3.74,1.13,Mobile Wallet
+81478,10273,2024-03-13 20:37:00,Completed,Web,Pickup,2.0,0.0,0.9,Card
+81479,10150,2024-03-20 19:17:00,Cancelled,Web,Pickup,,0.0,0.98,PayPal
+81480,10054,2024-03-28 17:54:00,Cancelled,Mobile App,Pickup,,0.0,1.0,PayPal
+81481,10395,2024-03-25 00:13:00,Placed,Web,Delivery,,3.84,0.61,Mobile Wallet
+81482,10383,2024-03-30 04:04:00,Completed,Web,Delivery,,2.6,0.09,PayPal
+81483,10198,2024-03-17 00:13:00,Placed,Mobile App,Delivery,,3.22,1.05,Card
+81484,10261,2024-03-10 18:17:00,Placed,Mobile App,Pickup,1.0,0.0,1.9,Card
+81485,10365,2024-03-10 06:23:00,Cancelled,Web,Pickup,1.0,0.0,1.14,Mobile Wallet
+81486,10008,2024-03-18 08:41:00,Preparing,Web,Delivery,,3.77,0.01,Card
+81487,10338,2024-03-18 17:53:00,Preparing,Mobile App,Pickup,2.0,0.0,1.84,PayPal
+81488,10023,2024-03-07 10:44:00,Preparing,Mobile App,Delivery,,3.65,0.85,Mobile Wallet
+81489,10364,2024-03-30 17:37:00,Completed,Mobile App,Pickup,2.0,0.0,1.38,PayPal
+81490,10422,2024-03-13 15:44:00,Preparing,Mobile App,Pickup,,0.0,0.51,Card
+81491,10321,2024-03-21 10:34:00,Preparing,Web,Pickup,1.0,0.0,0.14,Card
+81492,10060,2024-03-23 05:36:00,Placed,Web,Delivery,,2.61,0.33,Mobile Wallet
+81493,10132,2024-03-25 09:44:00,Completed,Mobile App,Pickup,3.0,0.0,1.71,PayPal
+81494,10056,2024-03-18 23:20:00,Preparing,Web,Delivery,,2.66,1.0,Card
+81495,10266,2024-03-22 08:13:00,Cancelled,Web,Delivery,,1.33,0.08,PayPal
+81496,10095,2024-03-04 01:37:00,Preparing,Mobile App,Delivery,,2.85,0.88,Card
+81497,10227,2024-03-23 22:05:00,Preparing,Web,Delivery,,3.17,0.09,Card
+81498,10486,2024-03-16 12:50:00,Completed,Web,Delivery,,2.05,0.4,Mobile Wallet
+81499,10029,2024-03-07 23:13:00,Completed,Web,Pickup,,0.0,0.45,Mobile Wallet
+81500,10100,2024-03-02 03:38:00,Cancelled,Web,Pickup,,0.0,1.69,Mobile Wallet
+81501,10271,2024-03-07 12:35:00,Completed,Web,Pickup,2.0,0.0,0.22,Card
+81502,10210,2024-03-29 03:39:00,Preparing,Mobile App,Delivery,,2.11,0.29,Card
+81503,10351,2024-03-01 06:26:00,Cancelled,Web,Delivery,,2.69,1.63,Mobile Wallet
+81504,10062,2024-03-29 14:15:00,Placed,Web,Delivery,,1.06,1.65,PayPal
+81505,10480,2024-03-29 00:53:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.82,Card
+81506,10350,2024-03-16 16:59:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.84,Card
+81507,10233,2024-03-07 13:43:00,Completed,Web,Pickup,2.0,0.0,1.93,PayPal
+81508,10132,2024-03-17 18:02:00,Placed,Mobile App,Delivery,,3.42,0.29,PayPal
+81509,10211,2024-03-19 07:20:00,Preparing,Mobile App,Delivery,,1.62,0.81,PayPal
+81510,10236,2024-03-18 16:16:00,Cancelled,Mobile App,Pickup,,0.0,0.68,Mobile Wallet
+81511,10205,2024-03-25 02:49:00,Preparing,Web,Delivery,,1.65,0.38,Card
+81512,10486,2024-03-25 22:47:00,Cancelled,Mobile App,Pickup,,0.0,1.29,Card
+81513,10202,2024-03-22 09:37:00,Placed,Mobile App,Delivery,,1.9,1.67,Mobile Wallet
+81514,10212,2024-03-10 01:48:00,Preparing,Mobile App,Delivery,,2.66,0.31,PayPal
+81515,10480,2024-03-21 03:51:00,Placed,Web,Pickup,2.0,0.0,0.77,Mobile Wallet
+81516,10089,2024-03-30 04:24:00,Cancelled,Web,Pickup,2.0,0.0,0.3,PayPal
+81517,10240,2024-03-06 22:36:00,Cancelled,Mobile App,Delivery,,2.83,1.53,Mobile Wallet
+81518,10377,2024-03-05 10:01:00,Placed,Web,Delivery,,1.06,1.84,Card
+81519,10170,2024-03-15 06:12:00,Completed,Web,Delivery,,3.23,1.92,PayPal
+81520,10431,2024-03-17 12:25:00,Completed,Mobile App,Delivery,,2.43,1.41,PayPal
+81521,10156,2024-03-26 13:43:00,Preparing,Web,Delivery,,1.49,0.24,Mobile Wallet
+81522,10210,2024-03-26 13:29:00,Cancelled,Mobile App,Delivery,,3.07,1.81,Card
+81523,10340,2024-03-21 05:57:00,Placed,Web,Delivery,,1.41,0.76,PayPal
+81524,10245,2024-03-01 21:47:00,Completed,Mobile App,Delivery,,2.75,0.36,Card
+81525,10497,2024-03-16 11:07:00,Placed,Mobile App,Pickup,3.0,0.0,0.14,Card
+81526,10320,2024-03-07 19:16:00,Placed,Web,Pickup,,0.0,1.92,PayPal
+81527,10150,2024-03-17 03:26:00,Cancelled,Web,Delivery,,2.87,1.18,Card
+81528,10187,2024-03-24 08:47:00,Completed,Web,Pickup,2.0,0.0,0.98,Card
+81529,10027,2024-03-14 22:55:00,Completed,Mobile App,Delivery,,3.99,0.68,PayPal
+81530,10384,2024-03-16 03:38:00,Placed,Web,Pickup,1.0,0.0,1.74,Mobile Wallet
+81531,10006,2024-03-14 18:38:00,Cancelled,Web,Delivery,,3.71,0.76,Card
+81532,10356,2024-03-16 06:36:00,Completed,Mobile App,Pickup,,0.0,0.81,PayPal
+81533,10068,2024-03-26 03:20:00,Preparing,Mobile App,Pickup,3.0,0.0,0.56,Card
+81534,10468,2024-03-15 12:00:00,Placed,Web,Pickup,1.0,0.0,1.62,Card
+81535,10125,2024-03-09 01:26:00,Completed,Web,Delivery,,1.46,1.6,Card
+81536,10443,2024-03-01 10:32:00,Placed,Mobile App,Delivery,,3.61,1.23,Card
+81537,10299,2024-03-05 19:35:00,Placed,Web,Pickup,3.0,0.0,1.41,Card
+81538,10471,2024-03-09 10:41:00,Placed,Web,Delivery,,1.01,1.58,Card
+81539,10108,2024-03-04 14:44:00,Cancelled,Mobile App,Delivery,,2.88,0.39,Card
+81540,10363,2024-03-22 08:30:00,Completed,Web,Pickup,2.0,0.0,0.89,Mobile Wallet
+81541,10004,2024-03-09 00:04:00,Preparing,Mobile App,Delivery,,1.43,1.08,Card
+81542,10359,2024-03-04 10:46:00,Preparing,Web,Delivery,,3.55,1.51,Card
+81543,10084,2024-03-28 09:03:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.44,PayPal
+81544,10423,2024-03-25 03:30:00,Placed,Mobile App,Pickup,2.0,0.0,0.56,Card
+81545,10034,2024-03-03 20:34:00,Cancelled,Mobile App,Delivery,,3.71,0.12,PayPal
+81546,10041,2024-03-05 00:22:00,Completed,Mobile App,Pickup,1.0,0.0,1.4,Mobile Wallet
+81547,10348,2024-03-26 21:43:00,Completed,Mobile App,Delivery,,2.35,1.48,PayPal
+81548,10190,2024-03-23 06:12:00,Completed,Web,Pickup,3.0,0.0,0.46,Card
+81549,10022,2024-03-22 03:50:00,Cancelled,Mobile App,Pickup,,0.0,1.85,PayPal
+81550,10238,2024-03-07 22:46:00,Preparing,Mobile App,Pickup,,0.0,0.84,Card
+81551,10448,2024-03-15 09:56:00,Cancelled,Web,Delivery,,2.2,0.03,Mobile Wallet
+81552,10464,2024-03-07 20:58:00,Preparing,Web,Delivery,,1.28,0.78,Card
+81553,10139,2024-03-01 23:40:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.32,Mobile Wallet
+81554,10143,2024-03-09 15:28:00,Cancelled,Mobile App,Delivery,,2.3,1.89,Card
+81555,10250,2024-03-17 01:58:00,Placed,Web,Delivery,,3.86,1.41,Mobile Wallet
+81556,10149,2024-03-11 16:50:00,Cancelled,Web,Delivery,,2.25,0.03,PayPal
+81557,10324,2024-03-16 09:49:00,Completed,Mobile App,Delivery,,2.83,1.2,Mobile Wallet
+81558,10145,2024-03-06 19:57:00,Completed,Mobile App,Pickup,3.0,0.0,0.13,PayPal
+81559,10190,2024-03-10 12:46:00,Completed,Web,Pickup,2.0,0.0,1.82,PayPal
+81560,10325,2024-03-26 06:12:00,Completed,Mobile App,Pickup,3.0,0.0,1.4,Card
+81561,10495,2024-03-27 23:32:00,Preparing,Web,Pickup,2.0,0.0,0.98,PayPal
+81562,10456,2024-03-15 06:22:00,Placed,Mobile App,Delivery,,3.25,1.25,Card
+81563,10271,2024-03-28 10:11:00,Completed,Web,Pickup,,0.0,0.9,Card
+81564,10406,2024-03-17 13:20:00,Placed,Mobile App,Pickup,2.0,0.0,0.49,Mobile Wallet
+81565,10002,2024-03-29 05:55:00,Cancelled,Web,Pickup,3.0,0.0,1.57,PayPal
+81566,10249,2024-03-30 09:25:00,Preparing,Web,Pickup,2.0,0.0,0.59,Card
+81567,10377,2024-03-24 19:48:00,Completed,Web,Delivery,,3.37,0.85,Card
+81568,10153,2024-03-07 13:21:00,Completed,Web,Pickup,2.0,0.0,0.06,Mobile Wallet
+81569,10391,2024-03-17 18:38:00,Cancelled,Web,Pickup,1.0,0.0,0.89,PayPal
+81570,10285,2024-03-28 00:38:00,Cancelled,Mobile App,Delivery,,1.32,0.55,PayPal
+81571,10102,2024-03-08 09:55:00,Preparing,Mobile App,Pickup,3.0,0.0,1.91,Card
+81572,10027,2024-03-17 18:51:00,Preparing,Mobile App,Pickup,,0.0,1.66,PayPal
+81573,10282,2024-03-29 14:54:00,Cancelled,Mobile App,Delivery,,2.19,0.65,Card
+81574,10330,2024-03-26 17:48:00,Placed,Web,Pickup,3.0,0.0,1.45,Mobile Wallet
+81575,10068,2024-03-04 02:09:00,Preparing,Web,Pickup,1.0,0.0,0.2,Card
+81576,10482,2024-03-05 04:20:00,Completed,Mobile App,Delivery,,2.01,0.83,Card
+81577,10253,2024-03-24 21:05:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.39,Mobile Wallet
+81578,10422,2024-03-10 10:22:00,Cancelled,Web,Delivery,,1.35,1.82,PayPal
+81579,10117,2024-03-03 13:43:00,Placed,Web,Delivery,,2.93,1.39,PayPal
+81580,10022,2024-03-10 23:12:00,Preparing,Web,Delivery,,3.86,0.28,PayPal
+81581,10166,2024-03-01 21:01:00,Completed,Mobile App,Pickup,,0.0,0.05,Mobile Wallet
+81582,10357,2024-03-02 19:49:00,Preparing,Web,Pickup,1.0,0.0,0.42,Mobile Wallet
+81583,10252,2024-03-16 21:37:00,Placed,Mobile App,Delivery,,2.53,1.66,PayPal
+81584,10109,2024-03-25 09:42:00,Placed,Mobile App,Delivery,,1.8,0.75,PayPal
+81585,10082,2024-03-28 15:40:00,Completed,Mobile App,Delivery,,1.59,1.8,PayPal
+81586,10062,2024-03-02 07:28:00,Cancelled,Mobile App,Pickup,,0.0,0.41,Card
+81587,10022,2024-03-10 08:33:00,Preparing,Mobile App,Pickup,1.0,0.0,1.67,Mobile Wallet
+81588,10110,2024-03-22 02:34:00,Placed,Web,Pickup,3.0,0.0,1.13,PayPal
+81589,10112,2024-03-15 02:29:00,Placed,Web,Delivery,,3.49,1.72,Card
+81590,10256,2024-03-21 20:07:00,Cancelled,Web,Pickup,3.0,0.0,1.84,PayPal
+81591,10288,2024-03-04 12:50:00,Placed,Web,Pickup,2.0,0.0,1.71,Mobile Wallet
+81592,10026,2024-03-13 11:32:00,Placed,Mobile App,Delivery,,2.34,1.46,Card
+81593,10050,2024-03-17 18:00:00,Preparing,Web,Delivery,,3.91,1.48,PayPal
+81594,10039,2024-03-30 17:56:00,Placed,Mobile App,Pickup,,0.0,1.54,Card
+81595,10155,2024-03-12 22:57:00,Cancelled,Web,Delivery,,1.36,1.27,Mobile Wallet
+81596,10406,2024-03-22 16:28:00,Preparing,Web,Delivery,,1.34,1.45,PayPal
+81597,10446,2024-03-02 00:38:00,Cancelled,Web,Pickup,3.0,0.0,1.46,Card
+81598,10111,2024-03-19 02:13:00,Cancelled,Web,Delivery,,1.11,0.86,PayPal
+81599,10212,2024-03-01 14:29:00,Placed,Web,Delivery,,3.88,1.75,Mobile Wallet
+81600,10145,2024-03-13 03:56:00,Placed,Mobile App,Pickup,2.0,0.0,1.93,Card
+81601,10121,2024-03-30 14:10:00,Placed,Mobile App,Pickup,1.0,0.0,1.12,Mobile Wallet
+81602,10251,2024-03-03 03:39:00,Completed,Mobile App,Delivery,,1.27,0.73,PayPal
+81603,10279,2024-03-17 23:42:00,Completed,Web,Delivery,,1.96,1.28,PayPal
+81604,10090,2024-03-22 06:37:00,Completed,Mobile App,Pickup,3.0,0.0,0.3,Mobile Wallet
+81605,10385,2024-03-17 09:34:00,Cancelled,Web,Pickup,,0.0,1.2,Card
+81606,10171,2024-03-21 12:21:00,Preparing,Web,Pickup,,0.0,0.69,Mobile Wallet
+81607,10075,2024-03-27 02:37:00,Preparing,Web,Pickup,2.0,0.0,1.65,PayPal
+81608,10042,2024-03-23 19:38:00,Placed,Web,Pickup,1.0,0.0,1.15,PayPal
+81609,10479,2024-03-11 07:42:00,Completed,Mobile App,Delivery,,1.35,1.46,PayPal
+81610,10281,2024-03-10 23:17:00,Completed,Mobile App,Pickup,,0.0,1.38,Card
+81611,10116,2024-03-09 13:42:00,Placed,Web,Pickup,2.0,0.0,0.99,Card
+81612,10356,2024-03-19 11:35:00,Completed,Web,Pickup,2.0,0.0,1.08,Card
+81613,10488,2024-03-02 01:40:00,Placed,Web,Delivery,,1.89,0.41,Mobile Wallet
+81614,10037,2024-03-12 12:49:00,Cancelled,Web,Delivery,,2.27,0.72,PayPal
+81615,10006,2024-03-18 15:31:00,Completed,Web,Pickup,3.0,0.0,0.61,Mobile Wallet
+81616,10302,2024-03-23 08:40:00,Placed,Mobile App,Pickup,1.0,0.0,0.64,Card
+81617,10131,2024-03-25 12:45:00,Placed,Mobile App,Pickup,,0.0,1.38,Mobile Wallet
+81618,10451,2024-03-02 05:50:00,Cancelled,Web,Pickup,,0.0,1.93,Card
+81619,10244,2024-03-04 18:37:00,Preparing,Web,Pickup,1.0,0.0,0.91,Mobile Wallet
+81620,10173,2024-03-28 11:18:00,Cancelled,Web,Delivery,,1.97,1.11,Mobile Wallet
+81621,10438,2024-03-28 22:20:00,Cancelled,Web,Pickup,2.0,0.0,0.02,Card
+81622,10304,2024-03-24 01:00:00,Cancelled,Web,Delivery,,2.51,0.93,Mobile Wallet
+81623,10290,2024-03-12 12:33:00,Placed,Mobile App,Pickup,1.0,0.0,0.35,PayPal
+81624,10151,2024-03-02 19:29:00,Completed,Mobile App,Delivery,,2.28,1.37,Card
+81625,10102,2024-03-12 08:01:00,Placed,Mobile App,Pickup,,0.0,1.55,Mobile Wallet
+81626,10464,2024-03-18 03:28:00,Placed,Mobile App,Delivery,,1.55,0.68,Mobile Wallet
+81627,10299,2024-03-21 05:41:00,Placed,Web,Pickup,2.0,0.0,0.33,Card
+81628,10380,2024-03-20 22:31:00,Cancelled,Mobile App,Delivery,,3.38,0.86,Mobile Wallet
+81629,10269,2024-03-20 01:14:00,Cancelled,Web,Pickup,1.0,0.0,0.56,Mobile Wallet
+81630,10360,2024-03-03 23:11:00,Placed,Mobile App,Pickup,1.0,0.0,1.76,Mobile Wallet
+81631,10184,2024-03-24 01:54:00,Preparing,Web,Pickup,,0.0,0.24,Card
+81632,10045,2024-03-09 22:38:00,Cancelled,Mobile App,Delivery,,2.67,0.96,Mobile Wallet
+81633,10095,2024-03-26 11:18:00,Placed,Web,Pickup,1.0,0.0,0.4,PayPal
+81634,10069,2024-03-17 22:10:00,Placed,Web,Pickup,1.0,0.0,0.23,Mobile Wallet
+81635,10137,2024-03-14 19:19:00,Preparing,Mobile App,Delivery,,3.76,1.72,Card
+81636,10097,2024-03-22 18:54:00,Preparing,Web,Pickup,,0.0,0.34,Mobile Wallet
+81637,10325,2024-03-07 15:35:00,Preparing,Web,Delivery,,3.58,0.14,Mobile Wallet
+81638,10038,2024-03-12 05:51:00,Cancelled,Mobile App,Delivery,,3.81,1.66,PayPal
+81639,10031,2024-03-15 14:03:00,Cancelled,Web,Pickup,1.0,0.0,0.39,Mobile Wallet
+81640,10477,2024-03-21 11:19:00,Preparing,Web,Pickup,,0.0,0.96,Mobile Wallet
+81641,10456,2024-03-11 23:36:00,Completed,Mobile App,Pickup,2.0,0.0,1.55,PayPal
+81642,10308,2024-03-19 23:49:00,Placed,Web,Delivery,,3.11,1.55,Mobile Wallet
+81643,10021,2024-03-18 21:33:00,Completed,Mobile App,Pickup,3.0,0.0,1.3,PayPal
+81644,10156,2024-03-22 09:16:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.51,Mobile Wallet
+81645,10302,2024-03-22 08:37:00,Completed,Web,Delivery,,3.07,1.95,Mobile Wallet
+81646,10265,2024-03-12 10:48:00,Completed,Mobile App,Delivery,,3.62,1.19,Card
+81647,10161,2024-03-26 18:14:00,Preparing,Mobile App,Pickup,2.0,0.0,1.94,Card
+81648,10423,2024-03-13 16:13:00,Completed,Mobile App,Pickup,,0.0,1.34,Card
+81649,10394,2024-03-14 10:14:00,Preparing,Mobile App,Delivery,,3.14,1.11,Card
+81650,10409,2024-03-06 08:01:00,Completed,Web,Pickup,2.0,0.0,0.41,Mobile Wallet
+81651,10426,2024-03-30 11:13:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.49,PayPal
+81652,10368,2024-03-25 10:59:00,Completed,Web,Pickup,,0.0,0.51,Card
+81653,10130,2024-03-18 03:18:00,Cancelled,Web,Delivery,,1.2,1.62,PayPal
+81654,10476,2024-03-26 01:27:00,Completed,Mobile App,Pickup,,0.0,0.4,Card
+81655,10219,2024-03-22 16:19:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.63,Card
+81656,10093,2024-03-17 10:40:00,Placed,Web,Delivery,,3.54,0.55,Mobile Wallet
+81657,10275,2024-03-05 08:44:00,Cancelled,Web,Pickup,2.0,0.0,0.08,Mobile Wallet
+81658,10291,2024-03-01 10:45:00,Placed,Mobile App,Delivery,,3.93,1.44,PayPal
+81659,10221,2024-03-11 11:45:00,Preparing,Mobile App,Delivery,,3.78,0.71,Card
+81660,10078,2024-03-26 04:47:00,Completed,Web,Delivery,,1.52,1.93,PayPal
+81661,10105,2024-03-08 07:11:00,Placed,Mobile App,Delivery,,3.43,0.25,Card
+81662,10433,2024-03-12 00:21:00,Cancelled,Web,Pickup,2.0,0.0,1.78,Card
+81663,10144,2024-03-01 03:27:00,Preparing,Mobile App,Delivery,,2.31,1.72,PayPal
+81664,10229,2024-03-11 13:36:00,Placed,Web,Delivery,,2.23,0.89,Card
+81665,10379,2024-03-02 01:09:00,Completed,Web,Pickup,,0.0,1.76,PayPal
+81666,10224,2024-03-01 22:37:00,Cancelled,Mobile App,Pickup,3.0,0.0,1.68,Mobile Wallet
+81667,10106,2024-03-04 12:29:00,Cancelled,Web,Pickup,2.0,0.0,1.58,Card
+81668,10112,2024-03-19 10:28:00,Completed,Web,Pickup,3.0,0.0,1.43,Card
+81669,10195,2024-03-26 15:17:00,Preparing,Web,Pickup,1.0,0.0,0.9,Card
+81670,10200,2024-03-18 08:07:00,Placed,Mobile App,Pickup,3.0,0.0,0.87,PayPal
+81671,10466,2024-03-20 21:42:00,Completed,Mobile App,Pickup,1.0,0.0,0.46,PayPal
+81672,10467,2024-03-08 04:41:00,Preparing,Web,Pickup,,0.0,1.71,Mobile Wallet
+81673,10265,2024-03-02 15:38:00,Cancelled,Mobile App,Delivery,,1.14,0.46,Mobile Wallet
+81674,10469,2024-03-05 04:54:00,Placed,Mobile App,Delivery,,1.24,1.86,PayPal
+81675,10077,2024-03-20 20:06:00,Completed,Web,Pickup,2.0,0.0,0.46,PayPal
+81676,10086,2024-03-11 13:12:00,Placed,Web,Delivery,,2.72,1.57,Mobile Wallet
+81677,10091,2024-03-20 06:19:00,Preparing,Web,Pickup,,0.0,0.03,Card
+81678,10309,2024-03-04 01:35:00,Placed,Mobile App,Delivery,,3.45,0.36,Card
+81679,10399,2024-03-09 03:25:00,Preparing,Web,Pickup,3.0,0.0,0.49,Card
+81680,10167,2024-03-13 09:27:00,Placed,Web,Delivery,,2.18,0.33,PayPal
+81681,10080,2024-03-12 00:14:00,Completed,Mobile App,Delivery,,2.39,0.91,Mobile Wallet
+81682,10057,2024-03-08 09:02:00,Placed,Web,Delivery,,3.95,0.27,PayPal
+81683,10236,2024-03-26 01:05:00,Cancelled,Mobile App,Pickup,,0.0,1.92,Mobile Wallet
+81684,10182,2024-03-24 19:46:00,Cancelled,Web,Pickup,3.0,0.0,1.01,PayPal
+81685,10065,2024-03-10 09:58:00,Placed,Mobile App,Delivery,,3.53,0.23,PayPal
+81686,10196,2024-03-18 00:05:00,Placed,Mobile App,Pickup,3.0,0.0,0.97,Card
+81687,10111,2024-03-21 11:27:00,Preparing,Mobile App,Pickup,2.0,0.0,0.79,Card
+81688,10009,2024-03-20 23:32:00,Completed,Mobile App,Delivery,,2.2,1.43,PayPal
+81689,10452,2024-03-22 02:02:00,Preparing,Mobile App,Delivery,,3.88,0.49,Card
+81690,10460,2024-03-14 10:40:00,Completed,Web,Delivery,,2.05,1.82,Mobile Wallet
+81691,10447,2024-03-28 05:26:00,Completed,Mobile App,Pickup,1.0,0.0,1.64,Mobile Wallet
+81692,10245,2024-03-22 19:41:00,Placed,Mobile App,Delivery,,1.99,0.62,Mobile Wallet
+81693,10085,2024-03-05 14:38:00,Preparing,Mobile App,Delivery,,1.18,1.02,Mobile Wallet
+81694,10267,2024-03-21 09:43:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.6,PayPal
+81695,10178,2024-03-17 17:55:00,Placed,Web,Pickup,3.0,0.0,1.77,PayPal
+81696,10222,2024-03-25 22:33:00,Placed,Web,Delivery,,3.8,0.76,Mobile Wallet
+81697,10366,2024-03-07 13:14:00,Preparing,Web,Pickup,3.0,0.0,0.19,PayPal
+81698,10142,2024-03-02 21:45:00,Placed,Mobile App,Pickup,2.0,0.0,0.02,Card
+81699,10100,2024-03-20 00:07:00,Preparing,Mobile App,Pickup,2.0,0.0,1.09,PayPal
+81700,10470,2024-03-01 00:37:00,Placed,Web,Delivery,,3.58,0.53,PayPal
+81701,10403,2024-03-10 23:18:00,Cancelled,Web,Delivery,,3.77,0.99,Card
+81702,10343,2024-03-29 01:42:00,Completed,Mobile App,Pickup,3.0,0.0,1.91,PayPal
+81703,10296,2024-03-24 23:18:00,Preparing,Mobile App,Pickup,3.0,0.0,1.61,Card
+81704,10116,2024-03-20 17:54:00,Cancelled,Mobile App,Delivery,,1.98,1.02,PayPal
+81705,10499,2024-03-27 22:17:00,Completed,Mobile App,Pickup,1.0,0.0,0.21,Card
+81706,10285,2024-03-10 23:09:00,Preparing,Mobile App,Delivery,,3.72,1.85,Mobile Wallet
+81707,10278,2024-03-19 04:44:00,Cancelled,Mobile App,Pickup,,0.0,0.6,Card
+81708,10084,2024-03-15 06:55:00,Placed,Mobile App,Pickup,1.0,0.0,0.81,PayPal
+81709,10079,2024-03-02 09:25:00,Completed,Mobile App,Pickup,,0.0,0.24,Card
+81710,10250,2024-03-27 18:42:00,Preparing,Mobile App,Pickup,,0.0,0.86,Card
+81711,10147,2024-03-28 18:54:00,Preparing,Mobile App,Delivery,,1.48,0.65,PayPal
+81712,10437,2024-03-05 13:56:00,Placed,Web,Delivery,,3.39,0.02,Mobile Wallet
+81713,10220,2024-03-30 11:45:00,Preparing,Web,Pickup,1.0,0.0,0.0,Card
+81714,10017,2024-03-14 06:18:00,Completed,Mobile App,Delivery,,3.0,0.18,Card
+81715,10458,2024-03-05 13:11:00,Placed,Web,Pickup,3.0,0.0,1.98,Mobile Wallet
+81716,10001,2024-03-08 17:36:00,Cancelled,Mobile App,Delivery,,1.32,1.19,Mobile Wallet
+81717,10429,2024-03-28 21:16:00,Completed,Web,Delivery,,1.19,1.21,PayPal
+81718,10081,2024-03-23 14:13:00,Preparing,Mobile App,Delivery,,1.1,1.7,Mobile Wallet
+81719,10084,2024-03-17 07:51:00,Completed,Mobile App,Pickup,,0.0,1.31,PayPal
+81720,10215,2024-03-15 01:51:00,Completed,Web,Delivery,,1.72,0.3,Card
+81721,10019,2024-03-03 16:10:00,Placed,Web,Delivery,,1.32,0.9,Card
+81722,10371,2024-03-13 20:32:00,Completed,Mobile App,Delivery,,2.74,1.44,PayPal
+81723,10210,2024-03-30 07:45:00,Completed,Web,Delivery,,3.69,1.31,PayPal
+81724,10081,2024-03-16 16:55:00,Placed,Web,Pickup,2.0,0.0,0.06,PayPal
+81725,10200,2024-03-23 15:31:00,Cancelled,Mobile App,Delivery,,3.35,1.73,PayPal
+81726,10069,2024-03-30 23:09:00,Completed,Web,Pickup,,0.0,0.01,Card
+81727,10489,2024-03-05 05:49:00,Cancelled,Mobile App,Pickup,,0.0,0.3,Card
+81728,10123,2024-03-10 04:55:00,Preparing,Mobile App,Pickup,3.0,0.0,0.08,Card
+81729,10324,2024-03-28 23:36:00,Completed,Mobile App,Pickup,3.0,0.0,0.01,PayPal
+81730,10396,2024-03-10 14:32:00,Preparing,Mobile App,Delivery,,3.04,1.72,Mobile Wallet
+81731,10259,2024-03-25 01:31:00,Preparing,Mobile App,Pickup,,0.0,1.54,Mobile Wallet
+81732,10410,2024-03-21 16:55:00,Completed,Mobile App,Delivery,,1.13,0.67,PayPal
+81733,10302,2024-03-22 14:17:00,Cancelled,Mobile App,Delivery,,3.74,1.22,Card
+81734,10473,2024-03-21 10:43:00,Completed,Mobile App,Pickup,2.0,0.0,1.78,Card
+81735,10419,2024-03-27 09:02:00,Completed,Mobile App,Delivery,,1.8,1.06,Card
+81736,10114,2024-03-19 01:36:00,Placed,Mobile App,Pickup,2.0,0.0,0.1,Card
+81737,10411,2024-03-01 17:51:00,Completed,Web,Pickup,,0.0,0.99,Mobile Wallet
+81738,10110,2024-03-11 16:30:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.35,Mobile Wallet
+81739,10103,2024-03-20 13:07:00,Placed,Mobile App,Delivery,,2.94,1.89,Card
+81740,10051,2024-03-12 18:00:00,Preparing,Mobile App,Delivery,,3.02,0.83,PayPal
+81741,10105,2024-03-17 10:46:00,Placed,Mobile App,Delivery,,1.93,1.08,Mobile Wallet
+81742,10328,2024-03-04 11:15:00,Preparing,Web,Delivery,,3.56,0.01,Card
+81743,10034,2024-03-06 03:49:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.24,Mobile Wallet
+81744,10239,2024-03-22 21:38:00,Completed,Web,Delivery,,2.07,0.18,Card
+81745,10199,2024-03-25 19:37:00,Completed,Web,Delivery,,3.73,1.24,Card
+81746,10033,2024-03-07 15:15:00,Completed,Web,Delivery,,2.57,1.38,Card
+81747,10246,2024-03-16 11:34:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.21,Mobile Wallet
+81748,10398,2024-03-08 14:58:00,Preparing,Mobile App,Pickup,2.0,0.0,1.55,Mobile Wallet
+81749,10358,2024-03-11 07:40:00,Cancelled,Mobile App,Delivery,,2.16,1.29,Card
+81750,10461,2024-03-02 15:44:00,Cancelled,Web,Delivery,,1.01,0.71,Mobile Wallet
+81751,10479,2024-03-19 21:52:00,Placed,Mobile App,Pickup,3.0,0.0,1.72,Card
+81752,10069,2024-03-28 01:30:00,Placed,Web,Delivery,,2.42,1.11,Mobile Wallet
+81753,10372,2024-03-29 10:36:00,Placed,Mobile App,Pickup,1.0,0.0,0.49,Mobile Wallet
+81754,10421,2024-03-02 18:31:00,Placed,Web,Pickup,3.0,0.0,1.88,Mobile Wallet
+81755,10494,2024-03-12 18:06:00,Cancelled,Web,Delivery,,1.84,1.7,Card
+81756,10500,2024-03-23 16:15:00,Completed,Mobile App,Pickup,1.0,0.0,0.81,Card
+81757,10146,2024-03-05 05:39:00,Preparing,Web,Pickup,2.0,0.0,0.73,Card
+81758,10500,2024-03-15 11:40:00,Placed,Web,Pickup,3.0,0.0,1.15,Mobile Wallet
+81759,10410,2024-03-11 12:52:00,Placed,Mobile App,Delivery,,1.93,1.52,Mobile Wallet
+81760,10468,2024-03-25 23:35:00,Completed,Mobile App,Delivery,,1.3,0.81,Card
+81761,10160,2024-03-30 22:35:00,Completed,Mobile App,Pickup,1.0,0.0,1.48,Card
+81762,10036,2024-03-27 18:35:00,Placed,Web,Delivery,,3.67,0.09,PayPal
+81763,10208,2024-03-13 00:40:00,Preparing,Web,Delivery,,1.25,0.34,Mobile Wallet
+81764,10471,2024-03-29 17:02:00,Placed,Mobile App,Delivery,,1.66,1.42,Card
+81765,10378,2024-03-19 13:32:00,Placed,Mobile App,Delivery,,2.73,1.46,Card
+81766,10253,2024-03-03 16:50:00,Cancelled,Web,Delivery,,2.84,0.78,Mobile Wallet
+81767,10150,2024-03-19 09:50:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.54,Mobile Wallet
+81768,10439,2024-03-20 02:59:00,Completed,Mobile App,Delivery,,1.0,0.23,Mobile Wallet
+81769,10098,2024-03-27 05:49:00,Preparing,Web,Pickup,2.0,0.0,1.93,Card
+81770,10068,2024-03-11 12:09:00,Preparing,Web,Delivery,,3.19,1.37,Card
+81771,10495,2024-03-13 14:03:00,Placed,Web,Delivery,,2.96,1.43,Mobile Wallet
+81772,10008,2024-03-16 12:51:00,Preparing,Mobile App,Pickup,1.0,0.0,0.29,Mobile Wallet
+81773,10332,2024-03-17 18:46:00,Completed,Mobile App,Delivery,,2.14,1.04,PayPal
+81774,10228,2024-03-29 21:38:00,Preparing,Web,Delivery,,2.17,0.38,Mobile Wallet
+81775,10440,2024-03-23 07:06:00,Cancelled,Mobile App,Delivery,,2.31,0.5,PayPal
+81776,10238,2024-03-03 19:04:00,Placed,Mobile App,Delivery,,2.57,0.41,Card
+81777,10452,2024-03-13 21:35:00,Completed,Web,Pickup,2.0,0.0,0.85,Card
+81778,10243,2024-03-27 16:35:00,Cancelled,Mobile App,Delivery,,1.91,0.45,Card
+81779,10353,2024-03-18 18:38:00,Completed,Web,Pickup,,0.0,0.96,PayPal
+81780,10464,2024-03-01 18:43:00,Preparing,Mobile App,Delivery,,2.15,1.97,Mobile Wallet
+81781,10261,2024-03-05 23:57:00,Completed,Mobile App,Delivery,,2.57,1.38,PayPal
+81782,10442,2024-03-01 22:10:00,Placed,Web,Pickup,,0.0,0.48,PayPal
+81783,10130,2024-03-26 07:15:00,Preparing,Mobile App,Delivery,,3.93,0.01,Card
+81784,10168,2024-03-01 01:35:00,Cancelled,Web,Pickup,3.0,0.0,0.37,Mobile Wallet
+81785,10157,2024-03-13 09:01:00,Preparing,Mobile App,Pickup,3.0,0.0,1.34,Mobile Wallet
+81786,10290,2024-03-18 06:58:00,Cancelled,Web,Pickup,1.0,0.0,1.78,PayPal
+81787,10024,2024-03-22 10:52:00,Preparing,Mobile App,Pickup,3.0,0.0,0.99,PayPal
+81788,10491,2024-03-04 11:18:00,Placed,Web,Delivery,,1.69,1.73,Card
+81789,10240,2024-03-05 16:04:00,Cancelled,Web,Pickup,1.0,0.0,0.44,Card
+81790,10112,2024-03-02 15:59:00,Completed,Web,Pickup,1.0,0.0,1.84,PayPal
+81791,10062,2024-03-10 12:22:00,Placed,Mobile App,Pickup,,0.0,1.85,Mobile Wallet
+81792,10061,2024-03-12 09:24:00,Preparing,Web,Delivery,,2.43,0.55,Card
+81793,10337,2024-03-23 06:43:00,Preparing,Mobile App,Delivery,,3.66,0.2,Mobile Wallet
+81794,10299,2024-03-27 04:47:00,Completed,Web,Delivery,,2.28,0.7,PayPal
+81795,10386,2024-03-02 05:22:00,Placed,Web,Pickup,2.0,0.0,1.33,Card
+81796,10089,2024-03-11 15:49:00,Placed,Web,Delivery,,1.59,0.42,Card
+81797,10152,2024-03-21 10:56:00,Preparing,Web,Pickup,1.0,0.0,0.06,Mobile Wallet
+81798,10468,2024-03-17 16:28:00,Completed,Mobile App,Delivery,,1.46,0.13,Card
+81799,10243,2024-03-08 19:11:00,Completed,Web,Pickup,1.0,0.0,1.07,Mobile Wallet
+81800,10432,2024-03-04 20:39:00,Preparing,Web,Pickup,1.0,0.0,0.15,PayPal
+81801,10056,2024-03-08 13:31:00,Completed,Mobile App,Pickup,2.0,0.0,1.77,Card
+81802,10425,2024-03-21 10:29:00,Cancelled,Web,Delivery,,2.83,1.59,PayPal
+81803,10162,2024-03-01 21:52:00,Preparing,Mobile App,Pickup,2.0,0.0,0.59,Mobile Wallet
+81804,10239,2024-03-27 11:02:00,Placed,Web,Delivery,,3.7,0.46,Mobile Wallet
+81805,10274,2024-03-26 11:44:00,Cancelled,Mobile App,Delivery,,3.73,1.16,Mobile Wallet
+81806,10419,2024-03-03 09:42:00,Preparing,Web,Delivery,,3.4,0.48,Card
+81807,10261,2024-03-11 23:46:00,Placed,Mobile App,Delivery,,2.58,0.19,PayPal
+81808,10171,2024-03-09 02:45:00,Placed,Mobile App,Delivery,,2.47,1.68,Card
+81809,10412,2024-03-29 22:57:00,Placed,Web,Delivery,,2.87,0.14,Mobile Wallet
+81810,10325,2024-03-15 15:32:00,Cancelled,Web,Delivery,,3.04,1.99,PayPal
+81811,10016,2024-03-01 12:35:00,Placed,Web,Delivery,,3.59,1.45,Card
+81812,10166,2024-03-29 23:49:00,Placed,Web,Delivery,,3.06,0.96,Card
+81813,10225,2024-03-29 17:03:00,Placed,Web,Pickup,1.0,0.0,1.98,PayPal
+81814,10195,2024-03-23 22:31:00,Completed,Mobile App,Delivery,,1.78,0.17,Card
+81815,10308,2024-03-23 08:27:00,Placed,Web,Pickup,3.0,0.0,0.35,PayPal
+81816,10257,2024-03-15 07:05:00,Cancelled,Mobile App,Delivery,,1.12,0.87,Card
+81817,10023,2024-03-01 03:03:00,Completed,Web,Delivery,,2.13,1.27,Card
+81818,10186,2024-03-19 10:34:00,Cancelled,Web,Pickup,2.0,0.0,0.47,Card
+81819,10409,2024-03-15 15:19:00,Completed,Web,Pickup,2.0,0.0,0.73,Card
+81820,10402,2024-03-26 03:31:00,Placed,Mobile App,Pickup,1.0,0.0,0.11,Card
+81821,10124,2024-03-29 03:07:00,Completed,Web,Pickup,,0.0,1.54,Mobile Wallet
+81822,10488,2024-03-06 17:22:00,Placed,Web,Delivery,,1.8,0.09,Card
+81823,10444,2024-03-25 01:20:00,Placed,Web,Pickup,3.0,0.0,0.52,Mobile Wallet
+81824,10133,2024-03-25 21:59:00,Cancelled,Mobile App,Delivery,,3.64,0.5,Card
+81825,10194,2024-03-25 01:04:00,Placed,Mobile App,Delivery,,1.8,0.31,Card
+81826,10073,2024-03-08 18:38:00,Completed,Mobile App,Pickup,3.0,0.0,0.6,Card
+81827,10125,2024-03-17 18:14:00,Cancelled,Web,Pickup,2.0,0.0,0.21,PayPal
+81828,10043,2024-03-18 18:11:00,Completed,Mobile App,Pickup,1.0,0.0,0.31,PayPal
+81829,10388,2024-03-09 11:48:00,Cancelled,Web,Pickup,1.0,0.0,1.44,PayPal
+81830,10175,2024-03-14 08:56:00,Preparing,Web,Delivery,,3.01,0.94,PayPal
+81831,10211,2024-03-24 08:18:00,Placed,Web,Pickup,3.0,0.0,1.46,PayPal
+81832,10124,2024-03-13 12:50:00,Completed,Web,Delivery,,2.4,1.66,Card
+81833,10345,2024-03-14 04:25:00,Placed,Mobile App,Pickup,1.0,0.0,0.48,Card
+81834,10107,2024-03-24 22:45:00,Completed,Mobile App,Pickup,2.0,0.0,1.77,Card
+81835,10203,2024-03-07 10:27:00,Placed,Web,Delivery,,1.28,1.2,Mobile Wallet
+81836,10239,2024-03-25 18:36:00,Placed,Web,Delivery,,1.72,0.18,Mobile Wallet
+81837,10102,2024-03-07 03:08:00,Cancelled,Mobile App,Pickup,2.0,0.0,2.0,Card
+81838,10452,2024-03-04 11:55:00,Placed,Mobile App,Pickup,1.0,0.0,1.52,PayPal
+81839,10200,2024-03-22 00:18:00,Cancelled,Web,Delivery,,1.03,0.37,Card
+81840,10416,2024-03-27 16:10:00,Placed,Mobile App,Delivery,,3.34,0.22,Card
+81841,10429,2024-03-12 02:56:00,Cancelled,Mobile App,Delivery,,2.42,1.41,PayPal
+81842,10374,2024-03-19 21:50:00,Placed,Web,Pickup,1.0,0.0,0.78,Mobile Wallet
+81843,10406,2024-03-03 15:17:00,Placed,Mobile App,Pickup,2.0,0.0,1.21,Card
+81844,10446,2024-03-25 12:58:00,Completed,Web,Pickup,1.0,0.0,0.46,Mobile Wallet
+81845,10245,2024-03-27 16:40:00,Preparing,Mobile App,Pickup,1.0,0.0,0.39,Mobile Wallet
+81846,10081,2024-03-28 14:32:00,Preparing,Web,Delivery,,1.72,0.55,PayPal
+81847,10215,2024-03-05 04:44:00,Completed,Web,Delivery,,3.09,1.71,PayPal
+81848,10067,2024-03-17 16:40:00,Placed,Mobile App,Pickup,1.0,0.0,0.48,PayPal
+81849,10220,2024-03-24 15:15:00,Placed,Web,Pickup,1.0,0.0,1.49,PayPal
+81850,10400,2024-03-02 22:02:00,Preparing,Web,Delivery,,2.56,0.41,PayPal
+81851,10204,2024-03-02 05:47:00,Cancelled,Web,Delivery,,3.05,0.15,Mobile Wallet
+81852,10109,2024-03-08 23:42:00,Preparing,Mobile App,Delivery,,3.69,0.71,PayPal
+81853,10261,2024-03-20 20:29:00,Placed,Mobile App,Delivery,,2.88,0.97,Mobile Wallet
+81854,10330,2024-03-29 06:29:00,Preparing,Mobile App,Delivery,,1.87,1.93,Card
+81855,10124,2024-03-25 00:30:00,Cancelled,Web,Pickup,1.0,0.0,0.69,Card
+81856,10245,2024-03-19 13:03:00,Placed,Web,Delivery,,1.7,0.75,Mobile Wallet
+81857,10064,2024-03-05 15:55:00,Completed,Mobile App,Delivery,,3.07,0.04,Card
+81858,10260,2024-03-14 04:02:00,Completed,Web,Pickup,1.0,0.0,1.87,Mobile Wallet
+81859,10232,2024-03-19 08:01:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.74,Mobile Wallet
+81860,10152,2024-03-24 18:23:00,Completed,Web,Pickup,1.0,0.0,1.07,PayPal
+81861,10297,2024-03-07 16:29:00,Completed,Web,Pickup,2.0,0.0,0.59,Mobile Wallet
+81862,10455,2024-03-08 23:16:00,Preparing,Web,Pickup,2.0,0.0,0.37,Card
+81863,10151,2024-03-20 13:32:00,Cancelled,Web,Delivery,,2.22,1.4,Mobile Wallet
+81864,10243,2024-03-19 02:42:00,Placed,Mobile App,Delivery,,3.29,1.94,Card
+81865,10329,2024-03-10 19:49:00,Completed,Web,Pickup,2.0,0.0,1.04,Card
+81866,10167,2024-03-24 16:12:00,Preparing,Web,Pickup,2.0,0.0,1.67,PayPal
+81867,10424,2024-03-16 16:29:00,Cancelled,Web,Delivery,,3.94,1.8,Mobile Wallet
+81868,10313,2024-03-02 08:42:00,Preparing,Mobile App,Pickup,3.0,0.0,1.18,PayPal
+81869,10279,2024-03-20 18:12:00,Completed,Web,Delivery,,3.35,0.76,PayPal
+81870,10177,2024-03-10 20:37:00,Placed,Mobile App,Pickup,1.0,0.0,1.62,Card
+81871,10345,2024-03-09 15:50:00,Completed,Mobile App,Delivery,,3.94,1.5,PayPal
+81872,10432,2024-03-13 03:41:00,Cancelled,Web,Delivery,,1.72,1.59,PayPal
+81873,10436,2024-03-02 08:10:00,Preparing,Mobile App,Pickup,1.0,0.0,1.5,Card
+81874,10004,2024-03-18 17:12:00,Placed,Web,Pickup,,0.0,0.23,PayPal
+81875,10258,2024-03-04 09:58:00,Placed,Web,Delivery,,3.44,0.67,Card
+81876,10025,2024-03-18 01:48:00,Placed,Mobile App,Delivery,,1.24,1.26,Card
+81877,10440,2024-03-21 14:56:00,Cancelled,Web,Pickup,1.0,0.0,1.73,Mobile Wallet
+81878,10101,2024-03-29 12:49:00,Preparing,Web,Pickup,,0.0,1.46,Card
+81879,10327,2024-03-01 18:22:00,Cancelled,Mobile App,Pickup,3.0,0.0,0.89,PayPal
+81880,10201,2024-03-03 15:33:00,Cancelled,Web,Delivery,,3.18,1.53,PayPal
+81881,10344,2024-03-28 03:19:00,Preparing,Mobile App,Delivery,,1.06,1.6,Mobile Wallet
+81882,10447,2024-03-18 11:56:00,Placed,Web,Pickup,,0.0,1.13,Mobile Wallet
+81883,10035,2024-03-19 01:56:00,Completed,Web,Pickup,1.0,0.0,1.94,Card
+81884,10104,2024-03-05 01:24:00,Preparing,Mobile App,Pickup,2.0,0.0,0.72,Card
+81885,10104,2024-03-05 22:44:00,Cancelled,Web,Pickup,,0.0,0.93,Card
+81886,10435,2024-03-05 15:02:00,Placed,Web,Delivery,,1.0,0.23,PayPal
+81887,10122,2024-03-22 06:53:00,Cancelled,Mobile App,Pickup,2.0,0.0,0.75,Card
+81888,10112,2024-03-25 19:29:00,Completed,Mobile App,Pickup,1.0,0.0,0.53,Card
+81889,10372,2024-03-27 08:12:00,Completed,Web,Delivery,,1.42,0.79,Mobile Wallet
+81890,10023,2024-03-20 14:56:00,Completed,Mobile App,Delivery,,3.98,0.47,Card
+81891,10350,2024-03-19 03:06:00,Cancelled,Web,Pickup,1.0,0.0,1.86,PayPal
+81892,10380,2024-03-09 11:52:00,Placed,Web,Pickup,2.0,0.0,1.67,Mobile Wallet
+81893,10048,2024-03-05 15:46:00,Preparing,Mobile App,Pickup,2.0,0.0,1.04,PayPal
+81894,10088,2024-03-28 14:27:00,Cancelled,Web,Pickup,,0.0,1.52,Card
+81895,10448,2024-03-06 05:35:00,Preparing,Mobile App,Delivery,,2.23,0.68,Mobile Wallet
+81896,10385,2024-03-23 10:17:00,Cancelled,Mobile App,Pickup,1.0,0.0,1.36,Card
+81897,10233,2024-03-19 07:48:00,Cancelled,Web,Pickup,1.0,0.0,1.8,Mobile Wallet
+81898,10400,2024-03-01 16:53:00,Completed,Web,Delivery,,2.13,0.29,Mobile Wallet
+81899,10431,2024-03-09 05:05:00,Preparing,Mobile App,Delivery,,1.98,0.32,PayPal
+81900,10348,2024-03-16 05:57:00,Cancelled,Web,Pickup,1.0,0.0,1.37,PayPal
+81901,10292,2024-03-04 07:35:00,Preparing,Web,Delivery,,3.95,0.28,Mobile Wallet
+81902,10204,2024-03-26 08:58:00,Completed,Web,Pickup,1.0,0.0,0.86,Mobile Wallet
+81903,10278,2024-03-08 04:56:00,Preparing,Web,Pickup,1.0,0.0,1.7,Card
+81904,10488,2024-03-25 16:19:00,Cancelled,Mobile App,Delivery,,2.52,0.58,Card
+81905,10153,2024-03-30 10:59:00,Placed,Mobile App,Pickup,1.0,0.0,0.69,Mobile Wallet
+81906,10280,2024-03-30 19:15:00,Cancelled,Web,Pickup,1.0,0.0,0.71,Card
+81907,10121,2024-03-18 18:31:00,Cancelled,Web,Pickup,,0.0,1.08,Mobile Wallet
+81908,10096,2024-03-29 00:22:00,Cancelled,Mobile App,Delivery,,2.14,0.16,Mobile Wallet
+81909,10033,2024-03-28 18:45:00,Cancelled,Mobile App,Pickup,,0.0,1.08,Mobile Wallet
+81910,10295,2024-03-08 00:06:00,Preparing,Mobile App,Pickup,,0.0,1.03,Card
+81911,10253,2024-03-30 06:39:00,Completed,Web,Delivery,,2.2,0.37,Mobile Wallet
+81912,10406,2024-03-17 18:41:00,Placed,Mobile App,Delivery,,3.65,1.33,PayPal
+81913,10387,2024-03-29 04:42:00,Completed,Mobile App,Pickup,,0.0,1.14,Card
+81914,10345,2024-03-08 15:24:00,Completed,Web,Delivery,,3.34,0.69,PayPal
+81915,10138,2024-03-24 19:53:00,Cancelled,Mobile App,Pickup,2.0,0.0,1.19,Card
+81916,10072,2024-03-09 10:49:00,Preparing,Web,Pickup,3.0,0.0,1.37,Mobile Wallet
+81917,10295,2024-03-11 02:41:00,Preparing,Web,Pickup,,0.0,0.68,Card
+81918,10134,2024-03-15 22:07:00,Preparing,Mobile App,Delivery,,3.17,1.86,Card
+81919,10468,2024-03-08 15:09:00,Preparing,Mobile App,Pickup,,0.0,1.89,Card
+81920,10445,2024-03-16 15:00:00,Completed,Web,Delivery,,1.67,1.98,Mobile Wallet
+81921,10055,2024-03-17 15:33:00,Placed,Mobile App,Pickup,3.0,0.0,1.04,PayPal
+81922,10487,2024-03-28 18:09:00,Completed,Mobile App,Pickup,1.0,0.0,1.55,PayPal
+81923,10423,2024-03-01 08:18:00,Preparing,Mobile App,Pickup,2.0,0.0,1.26,Card
+81924,10450,2024-03-06 03:38:00,Cancelled,Mobile App,Delivery,,1.49,0.4,Mobile Wallet
+81925,10171,2024-03-13 05:57:00,Placed,Web,Delivery,,3.52,0.42,PayPal
+81926,10046,2024-03-21 15:32:00,Placed,Mobile App,Pickup,3.0,0.0,1.66,Card
+81927,10055,2024-03-08 21:31:00,Completed,Web,Delivery,,3.45,0.95,Mobile Wallet
+81928,10050,2024-03-20 09:34:00,Cancelled,Mobile App,Delivery,,1.14,1.92,PayPal
+81929,10488,2024-03-30 06:40:00,Placed,Mobile App,Delivery,,3.85,1.58,Card
+81930,10398,2024-03-21 18:45:00,Cancelled,Web,Pickup,2.0,0.0,1.39,Mobile Wallet
+81931,10243,2024-03-28 12:53:00,Preparing,Mobile App,Delivery,,1.02,0.72,Card
+81932,10433,2024-03-08 09:48:00,Preparing,Mobile App,Pickup,,0.0,1.11,PayPal
+81933,10214,2024-03-15 18:23:00,Cancelled,Mobile App,Delivery,,2.62,0.56,Card
+81934,10071,2024-03-24 05:17:00,Completed,Mobile App,Pickup,3.0,0.0,1.08,PayPal
+81935,10376,2024-03-15 10:36:00,Completed,Web,Pickup,3.0,0.0,1.0,PayPal
+81936,10491,2024-03-04 18:38:00,Cancelled,Mobile App,Delivery,,1.08,1.87,Card
+81937,10452,2024-03-02 22:49:00,Preparing,Mobile App,Delivery,,2.12,0.46,Mobile Wallet
+81938,10450,2024-03-04 07:27:00,Preparing,Web,Delivery,,2.93,1.65,Card
+81939,10410,2024-03-04 03:37:00,Preparing,Web,Pickup,3.0,0.0,0.65,PayPal
+81940,10018,2024-03-29 19:51:00,Cancelled,Web,Delivery,,3.05,0.57,PayPal
+81941,10436,2024-03-27 16:32:00,Cancelled,Web,Pickup,,0.0,1.0,Mobile Wallet
+81942,10480,2024-03-20 06:06:00,Cancelled,Mobile App,Delivery,,3.16,0.59,PayPal
+81943,10077,2024-03-06 21:42:00,Completed,Web,Delivery,,3.76,0.58,Card
+81944,10270,2024-03-08 20:49:00,Placed,Web,Delivery,,1.57,0.13,Card
+81945,10311,2024-03-30 08:40:00,Placed,Mobile App,Delivery,,2.87,0.12,Mobile Wallet
+81946,10005,2024-03-24 15:31:00,Preparing,Mobile App,Delivery,,1.79,0.32,Mobile Wallet
+81947,10284,2024-03-02 02:27:00,Preparing,Mobile App,Pickup,3.0,0.0,0.81,Mobile Wallet
+81948,10045,2024-03-09 05:20:00,Completed,Mobile App,Pickup,2.0,0.0,0.93,PayPal
+81949,10383,2024-03-23 00:28:00,Preparing,Mobile App,Pickup,3.0,0.0,0.31,Mobile Wallet
+81950,10483,2024-03-15 19:27:00,Preparing,Web,Delivery,,2.53,1.55,Mobile Wallet
+81951,10380,2024-03-30 22:21:00,Preparing,Web,Pickup,,0.0,0.78,Mobile Wallet
+81952,10445,2024-03-21 00:05:00,Placed,Mobile App,Delivery,,1.53,0.91,Card
+81953,10102,2024-03-26 16:34:00,Preparing,Web,Pickup,2.0,0.0,0.65,Card
+81954,10080,2024-03-19 17:56:00,Preparing,Web,Delivery,,3.2,1.6,Mobile Wallet
+81955,10438,2024-03-30 03:26:00,Completed,Web,Delivery,,2.66,0.29,Card
+81956,10167,2024-03-27 06:53:00,Preparing,Mobile App,Pickup,2.0,0.0,1.11,PayPal
+81957,10137,2024-03-23 06:13:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.44,PayPal
+81958,10149,2024-03-01 21:21:00,Completed,Mobile App,Delivery,,3.6,1.16,PayPal
+81959,10313,2024-03-09 05:06:00,Cancelled,Mobile App,Delivery,,1.01,1.14,PayPal
+81960,10036,2024-03-03 12:33:00,Completed,Web,Delivery,,3.0,1.19,Mobile Wallet
+81961,10467,2024-03-10 18:00:00,Cancelled,Mobile App,Pickup,1.0,0.0,0.28,Mobile Wallet
+81962,10485,2024-03-06 22:43:00,Preparing,Web,Delivery,,3.44,1.51,Card
+81963,10069,2024-03-03 11:17:00,Preparing,Web,Pickup,,0.0,0.08,Card
+81964,10136,2024-03-24 14:28:00,Cancelled,Mobile App,Pickup,,0.0,1.37,Mobile Wallet
+81965,10379,2024-03-09 09:41:00,Preparing,Mobile App,Pickup,3.0,0.0,1.85,Card
+81966,10104,2024-03-13 15:47:00,Completed,Web,Delivery,,3.77,1.29,Mobile Wallet
+81967,10438,2024-03-21 22:40:00,Placed,Mobile App,Pickup,1.0,0.0,1.67,Card
+81968,10489,2024-03-26 23:09:00,Placed,Web,Delivery,,3.34,1.29,Card
+81969,10399,2024-03-05 05:00:00,Completed,Web,Pickup,1.0,0.0,0.96,Mobile Wallet
+81970,10445,2024-03-03 13:55:00,Preparing,Web,Delivery,,2.73,1.98,Card
+81971,10108,2024-03-28 16:51:00,Placed,Web,Pickup,1.0,0.0,0.8,Mobile Wallet
+81972,10078,2024-03-06 06:13:00,Preparing,Web,Delivery,,1.35,1.37,Mobile Wallet
+81973,10492,2024-03-22 05:36:00,Preparing,Web,Pickup,,0.0,0.23,Mobile Wallet
+81974,10345,2024-03-06 06:37:00,Placed,Mobile App,Delivery,,2.21,0.26,Card
+81975,10022,2024-03-29 02:29:00,Placed,Mobile App,Delivery,,1.41,0.69,Mobile Wallet
+81976,10474,2024-03-10 00:12:00,Preparing,Web,Pickup,2.0,0.0,0.59,Card
+81977,10221,2024-03-10 11:37:00,Placed,Web,Pickup,3.0,0.0,0.91,Mobile Wallet
+81978,10416,2024-03-07 19:26:00,Completed,Web,Pickup,1.0,0.0,0.2,PayPal
+81979,10012,2024-03-16 08:15:00,Placed,Mobile App,Pickup,2.0,0.0,1.96,Card
+81980,10306,2024-03-06 20:41:00,Placed,Web,Pickup,,0.0,1.4,PayPal
+81981,10496,2024-03-04 00:06:00,Placed,Web,Pickup,,0.0,1.43,Mobile Wallet
+81982,10306,2024-03-27 13:17:00,Cancelled,Web,Pickup,2.0,0.0,1.55,Card
+81983,10497,2024-03-07 10:58:00,Completed,Web,Pickup,1.0,0.0,0.85,PayPal
+81984,10282,2024-03-18 15:06:00,Completed,Web,Pickup,3.0,0.0,0.42,Card
+81985,10133,2024-03-08 02:34:00,Placed,Web,Delivery,,3.97,1.86,PayPal
+81986,10064,2024-03-22 19:32:00,Preparing,Mobile App,Pickup,2.0,0.0,0.56,Card
+81987,10307,2024-03-21 03:59:00,Placed,Mobile App,Delivery,,2.28,1.18,PayPal
+81988,10117,2024-03-06 18:09:00,Completed,Web,Delivery,,2.03,0.52,Card
+81989,10424,2024-03-11 02:18:00,Completed,Web,Delivery,,1.75,0.25,Mobile Wallet
+81990,10186,2024-03-26 16:30:00,Cancelled,Mobile App,Pickup,,0.0,0.85,PayPal
+81991,10319,2024-03-17 21:06:00,Cancelled,Mobile App,Delivery,,2.12,0.85,Card
+81992,10485,2024-03-12 10:27:00,Cancelled,Web,Delivery,,1.41,1.62,PayPal
+81993,10223,2024-03-06 00:45:00,Placed,Web,Delivery,,3.31,1.59,Mobile Wallet
+81994,10063,2024-03-10 10:20:00,Placed,Mobile App,Delivery,,2.66,0.2,PayPal
+81995,10142,2024-03-23 06:06:00,Preparing,Mobile App,Delivery,,2.55,1.09,Mobile Wallet
+81996,10050,2024-03-05 21:18:00,Preparing,Web,Pickup,,0.0,1.74,Card
+81997,10499,2024-03-22 02:13:00,Placed,Web,Pickup,1.0,0.0,1.02,PayPal
+81998,10232,2024-03-12 05:14:00,Placed,Mobile App,Delivery,,3.14,0.66,Card
+81999,10417,2024-03-25 03:39:00,Completed,Mobile App,Pickup,3.0,0.0,0.6,PayPal
+82000,10090,2024-03-09 22:41:00,Placed,Web,Delivery,,2.7,0.36,Mobile Wallet

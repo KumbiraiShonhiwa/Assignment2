@@ -1,0 +1,2001 @@
+email,sales_channel,discount_amount,delivery_fee,points,vists
+danielle.johnson@example.com,Web,1.84,0.0,6,4
+danielle.johnson@example.com,Mobile App,0.76,3.52,-14,4
+danielle.johnson@example.com,Web,1.23,3.77,6,4
+danielle.johnson@example.com,Mobile App,1.19,1.32,-19,4
+robert.cole@example.com,Web,0.8,3.39,14,3
+robert.cole@example.com,Mobile App,1.09,0.0,-10,3
+robert.cole@example.com,Web,1.57,0.0,18,3
+jessica.herrera@example.com,Mobile App,0.93,0.0,27,7
+jessica.herrera@example.com,Mobile App,0.37,3.09,9,7
+jessica.herrera@example.com,Mobile App,0.83,2.21,-2,7
+jessica.herrera@example.com,Web,0.2,0.0,-16,7
+jessica.herrera@example.com,Web,0.06,1.58,19,7
+jessica.herrera@example.com,Web,1.79,0.0,3,7
+jessica.herrera@example.com,Web,0.55,0.0,-3,7
+francisco.kelly@example.com,Web,1.98,1.16,39,3
+francisco.kelly@example.com,Mobile App,1.08,1.43,-91,3
+francisco.kelly@example.com,Web,0.23,0.0,19,3
+carl.gentry@example.com,Web,0.44,2.33,18,6
+carl.gentry@example.com,Web,1.04,1.29,-60,6
+carl.gentry@example.com,Web,1.47,2.14,20,6
+carl.gentry@example.com,Mobile App,1.5,0.0,-84,6
+carl.gentry@example.com,Mobile App,1.04,0.0,11,6
+carl.gentry@example.com,Mobile App,0.32,1.79,45,6
+rachael.ross@example.com,Web,0.62,1.02,-58,3
+rachael.ross@example.com,Web,0.76,3.71,-20,3
+rachael.ross@example.com,Web,0.61,0.0,-24,3
+allison.maddox@example.com,Web,0.19,0.0,21,2
+allison.maddox@example.com,Mobile App,1.81,1.08,-1,2
+william.rodriguez@example.com,Mobile App,1.63,2.04,39,5
+william.rodriguez@example.com,Mobile App,0.05,0.0,-12,5
+william.rodriguez@example.com,Web,0.92,0.0,8,5
+william.rodriguez@example.com,Web,0.01,3.77,-18,5
+william.rodriguez@example.com,Mobile App,0.29,0.0,-80,5
+john.allen@example.com,Mobile App,1.92,1.0,-37,3
+john.allen@example.com,Web,1.28,1.25,-95,3
+john.allen@example.com,Mobile App,1.43,2.2,-25,3
+tamara.hickman@example.com,Web,0.0,2.67,42,3
+tamara.hickman@example.com,Web,1.99,0.0,9,3
+tamara.hickman@example.com,Mobile App,1.71,1.45,26,3
+chad.welch@example.com,Web,1.31,0.0,-37,1
+ashley.kennedy@example.com,Mobile App,0.97,0.0,10,3
+ashley.kennedy@example.com,Web,0.56,1.32,11,3
+ashley.kennedy@example.com,Mobile App,1.96,0.0,-69,3
+rachel.martin@example.com,Web,1.64,0.0,1,4
+rachel.martin@example.com,Web,0.1,2.66,8,4
+rachel.martin@example.com,Mobile App,1.56,2.53,-41,4
+rachel.martin@example.com,Mobile App,0.88,0.0,8,4
+amy.adkins@example.com,Mobile App,1.08,0.0,15,5
+amy.adkins@example.com,Web,1.93,0.0,-17,5
+amy.adkins@example.com,Web,0.61,3.81,-68,5
+amy.adkins@example.com,Web,0.26,3.23,11,5
+amy.adkins@example.com,Web,1.08,0.0,42,5
+richard.david@example.com,Web,0.92,0.0,8,3
+richard.david@example.com,Web,1.95,0.0,8,3
+richard.david@example.com,Web,1.45,3.59,43,3
+elizabeth.edwards@example.com,Web,0.21,2.92,-5,5
+elizabeth.edwards@example.com,Web,0.73,0.0,-94,5
+elizabeth.edwards@example.com,Mobile App,0.6,1.13,0,5
+elizabeth.edwards@example.com,Mobile App,1.17,1.42,-1,5
+elizabeth.edwards@example.com,Mobile App,0.18,3.0,34,5
+sarah.ibarra@example.com,Mobile App,1.0,1.06,37,4
+sarah.ibarra@example.com,Mobile App,1.76,0.0,28,4
+sarah.ibarra@example.com,Mobile App,0.96,1.04,-1,4
+sarah.ibarra@example.com,Web,0.57,3.05,-94,4
+sheila.taylor@example.com,Mobile App,1.24,3.72,40,4
+sheila.taylor@example.com,Web,0.19,0.0,50,4
+sheila.taylor@example.com,Mobile App,0.44,3.62,-74,4
+sheila.taylor@example.com,Web,0.9,1.32,45,4
+christopher.henderson@example.com,Web,1.89,0.0,-26,1
+mike.tran@example.com,Web,0.88,0.0,-80,4
+mike.tran@example.com,Web,1.66,0.0,-11,4
+mike.tran@example.com,Web,1.81,0.0,15,4
+mike.tran@example.com,Mobile App,1.3,0.0,-56,4
+nicole.johnson@example.com,Web,0.58,3.56,47,6
+nicole.johnson@example.com,Mobile App,0.57,1.3,-89,6
+nicole.johnson@example.com,Mobile App,1.85,0.0,31,6
+nicole.johnson@example.com,Web,0.28,3.86,-95,6
+nicole.johnson@example.com,Mobile App,1.67,0.0,29,6
+nicole.johnson@example.com,Mobile App,0.69,1.41,-54,6
+james.murphy@example.com,Web,0.97,3.36,-8,4
+james.murphy@example.com,Mobile App,0.85,3.65,-54,4
+james.murphy@example.com,Web,1.27,2.13,-13,4
+james.murphy@example.com,Mobile App,0.47,3.98,-14,4
+michael.hartman@example.com,Web,1.41,0.0,-65,2
+michael.hartman@example.com,Mobile App,0.99,0.0,21,2
+elizabeth.martinez@example.com,Web,0.3,1.2,-8,5
+elizabeth.martinez@example.com,Mobile App,0.51,1.37,-89,5
+elizabeth.martinez@example.com,Web,1.46,0.0,-1,5
+elizabeth.martinez@example.com,Web,1.53,0.0,-80,5
+elizabeth.martinez@example.com,Mobile App,1.26,1.24,-96,5
+kevin.clark@example.com,Mobile App,1.35,2.08,24,4
+kevin.clark@example.com,Web,1.91,0.0,0,4
+kevin.clark@example.com,Mobile App,1.53,0.0,37,4
+kevin.clark@example.com,Mobile App,1.46,2.34,-75,4
+clarence.crane@example.com,Mobile App,1.49,1.9,48,3
+clarence.crane@example.com,Mobile App,0.68,3.99,6,3
+clarence.crane@example.com,Mobile App,1.66,0.0,34,3
+james.horton@example.com,Web,0.76,3.6,-73,3
+james.horton@example.com,Web,0.31,1.79,-20,3
+james.horton@example.com,Mobile App,1.61,0.0,13,3
+elizabeth.travis@example.com,Mobile App,0.17,1.59,34,6
+elizabeth.travis@example.com,Mobile App,1.53,0.0,18,6
+elizabeth.travis@example.com,Mobile App,0.95,0.0,7,6
+elizabeth.travis@example.com,Mobile App,1.39,3.2,10,6
+elizabeth.travis@example.com,Mobile App,1.53,0.0,-3,6
+elizabeth.travis@example.com,Web,0.45,0.0,-66,6
+scott.reeves@example.com,Web,0.83,0.0,-50,3
+scott.reeves@example.com,Mobile App,0.6,0.0,29,3
+scott.reeves@example.com,Mobile App,1.94,1.53,-52,3
+mark.owens@example.com,Web,1.72,3.54,31,6
+mark.owens@example.com,Mobile App,0.84,0.0,4,6
+mark.owens@example.com,Mobile App,1.77,1.93,-63,6
+mark.owens@example.com,Web,1.85,0.0,-65,6
+mark.owens@example.com,Web,1.53,0.0,5,6
+mark.owens@example.com,Web,0.39,0.0,-19,6
+amanda.navarro@example.com,Mobile App,0.83,3.42,-27,5
+amanda.navarro@example.com,Web,1.72,0.0,-51,5
+amanda.navarro@example.com,Web,1.96,0.0,-45,5
+amanda.navarro@example.com,Web,1.5,1.5,-12,5
+amanda.navarro@example.com,Mobile App,1.53,0.0,-16,5
+christopher.patterson@example.com,Mobile App,1.04,0.0,17,7
+christopher.patterson@example.com,Web,1.37,1.87,-95,7
+christopher.patterson@example.com,Mobile App,1.25,0.0,-57,7
+christopher.patterson@example.com,Mobile App,0.97,0.0,-23,7
+christopher.patterson@example.com,Mobile App,1.08,0.0,4,7
+christopher.patterson@example.com,Web,1.38,2.57,20,7
+christopher.patterson@example.com,Mobile App,1.08,0.0,-97,7
+brett.crane@example.com,Mobile App,1.07,3.57,27,3
+brett.crane@example.com,Mobile App,0.12,3.71,37,3
+brett.crane@example.com,Mobile App,0.24,0.0,-23,3
+stacie.marshall@example.com,Web,0.97,1.61,-11,5
+stacie.marshall@example.com,Web,1.3,0.0,-3,5
+stacie.marshall@example.com,Web,0.36,0.0,17,5
+stacie.marshall@example.com,Web,1.08,3.08,22,5
+stacie.marshall@example.com,Web,1.94,0.0,19,5
+charles.vaughn@example.com,Mobile App,1.32,1.99,-33,3
+charles.vaughn@example.com,Web,0.09,3.67,-45,3
+charles.vaughn@example.com,Web,1.19,3.0,-8,3
+daniel.yu@example.com,Mobile App,1.66,0.0,-81,4
+daniel.yu@example.com,Mobile App,1.35,1.6,-67,4
+daniel.yu@example.com,Mobile App,1.48,1.37,-98,4
+daniel.yu@example.com,Web,0.72,2.27,-70,4
+joshua.hayes@example.com,Web,0.47,2.0,1,4
+joshua.hayes@example.com,Mobile App,0.8,2.06,-39,4
+joshua.hayes@example.com,Mobile App,0.58,0.0,14,4
+joshua.hayes@example.com,Mobile App,1.66,3.81,-45,4
+stacy.miller@example.com,Mobile App,1.15,1.66,-39,5
+stacy.miller@example.com,Mobile App,1.85,0.0,14,5
+stacy.miller@example.com,Mobile App,0.91,0.0,-2,5
+stacy.miller@example.com,Web,0.29,3.41,-2,5
+stacy.miller@example.com,Mobile App,1.54,0.0,8,5
+maurice.barajas@example.com,Mobile App,1.11,0.0,-72,1
+james.rodgers@example.com,Web,1.9,0.0,-1,6
+james.rodgers@example.com,Mobile App,0.58,1.95,-87,6
+james.rodgers@example.com,Mobile App,0.37,0.0,-67,6
+james.rodgers@example.com,Mobile App,1.05,2.55,-49,6
+james.rodgers@example.com,Web,1.06,3.54,18,6
+james.rodgers@example.com,Mobile App,1.4,0.0,15,6
+brian.carter@example.com,Mobile App,0.98,0.0,5,3
+brian.carter@example.com,Web,1.11,0.0,-47,3
+brian.carter@example.com,Web,1.15,0.0,-99,3
+danny.jones@example.com,Web,0.99,1.18,-90,2
+danny.jones@example.com,Mobile App,0.31,0.0,-6,2
+shannon.ramos@example.com,Mobile App,0.31,0.0,9,4
+shannon.ramos@example.com,Web,1.32,3.54,16,4
+shannon.ramos@example.com,Mobile App,1.08,1.51,-1,4
+shannon.ramos@example.com,Web,0.19,1.14,-66,4
+charles.smith@example.com,Web,1.29,0.0,0,7
+charles.smith@example.com,Mobile App,1.04,0.0,48,7
+charles.smith@example.com,Web,0.95,0.0,-83,7
+charles.smith@example.com,Mobile App,1.17,0.0,8,7
+charles.smith@example.com,Mobile App,1.61,1.87,11,7
+charles.smith@example.com,Mobile App,0.96,2.67,-51,7
+charles.smith@example.com,Mobile App,0.93,0.0,11,7
+deborah.kerr@example.com,Web,1.56,3.85,-18,5
+deborah.kerr@example.com,Mobile App,1.81,2.84,-24,5
+deborah.kerr@example.com,Web,1.44,0.0,-62,5
+deborah.kerr@example.com,Web,1.71,0.0,11,5
+deborah.kerr@example.com,Mobile App,1.66,0.0,22,5
+vincent.snyder@example.com,Web,0.66,3.51,11,4
+vincent.snyder@example.com,Web,1.71,0.0,50,4
+vincent.snyder@example.com,Web,0.62,2.03,6,4
+vincent.snyder@example.com,Mobile App,1.23,0.0,-25,4
+barbara.hines@example.com,Web,1.27,0.0,-75,7
+barbara.hines@example.com,Mobile App,1.5,2.38,-41,7
+barbara.hines@example.com,Web,0.24,3.12,12,7
+barbara.hines@example.com,Web,0.38,0.0,-53,7
+barbara.hines@example.com,Web,0.98,2.17,-48,7
+barbara.hines@example.com,Web,0.94,2.72,-78,7
+barbara.hines@example.com,Mobile App,1.04,0.0,4,7
+elizabeth.hodge@example.com,Web,0.12,2.78,-5,3
+elizabeth.hodge@example.com,Mobile App,0.11,0.0,-15,3
+elizabeth.hodge@example.com,Web,1.27,1.2,-94,3
+april.dean@example.com,Mobile App,0.46,0.0,37,10
+april.dean@example.com,Web,1.25,2.78,-22,10
+april.dean@example.com,Web,1.96,0.0,31,10
+april.dean@example.com,Web,0.82,2.08,-53,10
+april.dean@example.com,Mobile App,0.65,3.91,-96,10
+april.dean@example.com,Mobile App,0.36,0.0,11,10
+april.dean@example.com,Web,1.41,3.67,45,10
+april.dean@example.com,Web,1.48,3.91,-22,10
+april.dean@example.com,Mobile App,1.92,1.14,-1,10
+april.dean@example.com,Web,1.74,0.0,-55,10
+ricky.walker@example.com,Web,0.34,3.89,6,3
+ricky.walker@example.com,Web,0.89,0.0,44,3
+ricky.walker@example.com,Mobile App,0.83,3.02,19,3
+patrick.weeks@example.com,Web,1.31,1.58,-20,4
+patrick.weeks@example.com,Mobile App,0.19,0.0,9,4
+patrick.weeks@example.com,Web,1.15,0.0,7,4
+patrick.weeks@example.com,Mobile App,1.28,2.87,29,4
+kathryn.bennett@example.com,Web,0.64,0.0,2,4
+kathryn.bennett@example.com,Web,1.12,3.39,47,4
+kathryn.bennett@example.com,Mobile App,0.8,3.55,-17,4
+kathryn.bennett@example.com,Web,0.25,3.71,43,4
+cory.lozano@example.com,Web,1.22,0.0,-4,7
+cory.lozano@example.com,Mobile App,1.96,0.0,-18,7
+cory.lozano@example.com,Web,0.29,0.0,-26,7
+cory.lozano@example.com,Web,0.38,0.0,-32,7
+cory.lozano@example.com,Web,0.6,3.19,-77,7
+cory.lozano@example.com,Mobile App,1.65,0.0,-71,7
+cory.lozano@example.com,Mobile App,1.0,0.0,-19,7
+norman.stewart@example.com,Web,0.4,3.01,5,4
+norman.stewart@example.com,Mobile App,0.36,0.0,21,4
+norman.stewart@example.com,Mobile App,1.04,0.0,-4,4
+norman.stewart@example.com,Web,0.95,3.45,-23,4
+anthony.nguyen@example.com,Web,1.87,0.0,0,5
+anthony.nguyen@example.com,Web,0.47,2.53,9,5
+anthony.nguyen@example.com,Web,0.33,0.0,7,5
+anthony.nguyen@example.com,Web,1.0,2.66,39,5
+anthony.nguyen@example.com,Mobile App,1.77,0.0,14,5
+monica.harvey@example.com,Web,1.49,2.18,-14,2
+monica.harvey@example.com,Web,0.27,3.95,3,2
+charles.landry@example.com,Web,0.99,0.0,-22,1
+kenneth.lyons@example.com,Web,1.66,2.02,-34,7
+kenneth.lyons@example.com,Web,1.1,2.63,46,7
+kenneth.lyons@example.com,Mobile App,0.51,1.43,13,7
+kenneth.lyons@example.com,Mobile App,1.89,0.0,-7,7
+kenneth.lyons@example.com,Web,0.2,1.2,-28,7
+kenneth.lyons@example.com,Web,0.49,2.56,39,7
+kenneth.lyons@example.com,Mobile App,1.43,1.13,13,7
+christine.byrd@example.com,Mobile App,0.41,2.37,0,4
+christine.byrd@example.com,Mobile App,0.71,0.0,31,4
+christine.byrd@example.com,Mobile App,1.74,3.08,-67,4
+christine.byrd@example.com,Web,0.33,2.61,44,4
+nancy.diaz@example.com,Web,0.47,3.22,8,4
+nancy.diaz@example.com,Web,1.35,2.0,36,4
+nancy.diaz@example.com,Mobile App,0.18,0.0,-87,4
+nancy.diaz@example.com,Web,0.55,2.43,20,4
+david.richardson@example.com,Mobile App,1.82,2.92,-2,8
+david.richardson@example.com,Web,0.8,1.88,46,8
+david.richardson@example.com,Web,0.42,0.0,31,8
+david.richardson@example.com,Mobile App,0.87,0.0,-14,8
+david.richardson@example.com,Mobile App,1.61,0.0,-57,8
+david.richardson@example.com,Web,1.65,1.06,10,8
+david.richardson@example.com,Mobile App,0.41,0.0,-26,8
+david.richardson@example.com,Mobile App,1.85,0.0,1,8
+debra.wilson@example.com,Web,0.8,1.59,-16,4
+debra.wilson@example.com,Mobile App,0.31,0.0,12,4
+debra.wilson@example.com,Mobile App,0.9,0.0,11,4
+debra.wilson@example.com,Mobile App,0.2,2.66,-83,4
+robert.newton@example.com,Mobile App,1.47,1.89,19,6
+robert.newton@example.com,Mobile App,1.7,1.94,-3,6
+robert.newton@example.com,Web,0.67,3.39,-53,6
+robert.newton@example.com,Mobile App,0.58,0.0,5,6
+robert.newton@example.com,Mobile App,0.04,3.07,10,6
+robert.newton@example.com,Mobile App,0.56,0.0,-53,6
+cory.jennings@example.com,Mobile App,1.47,0.0,-82,6
+cory.jennings@example.com,Web,1.39,3.45,15,6
+cory.jennings@example.com,Web,0.85,2.52,-66,6
+cory.jennings@example.com,Web,1.66,1.16,-44,6
+cory.jennings@example.com,Mobile App,1.34,0.0,23,6
+cory.jennings@example.com,Mobile App,0.23,3.53,-15,6
+vanessa.buchanan@example.com,Mobile App,0.07,3.82,18,3
+vanessa.buchanan@example.com,Web,1.7,0.0,-47,3
+vanessa.buchanan@example.com,Web,1.31,3.61,7,3
+vanessa.fernandez@example.com,Web,1.25,0.0,-6,6
+vanessa.fernandez@example.com,Mobile App,0.59,0.0,-18,6
+vanessa.fernandez@example.com,Mobile App,0.31,1.1,-83,6
+vanessa.fernandez@example.com,Web,1.85,3.11,-47,6
+vanessa.fernandez@example.com,Web,0.56,3.15,44,6
+vanessa.fernandez@example.com,Mobile App,0.48,0.0,20,6
+alicia.reese@example.com,Mobile App,1.21,3.48,-49,9
+alicia.reese@example.com,Web,1.71,2.67,9,9
+alicia.reese@example.com,Mobile App,0.65,3.58,27,9
+alicia.reese@example.com,Mobile App,0.53,0.0,21,9
+alicia.reese@example.com,Mobile App,0.99,1.51,-16,9
+alicia.reese@example.com,Web,1.54,4.0,17,9
+alicia.reese@example.com,Mobile App,0.56,0.0,-29,9
+alicia.reese@example.com,Web,0.2,0.0,-1,9
+alicia.reese@example.com,Web,1.37,3.19,24,9
+gina.henry@example.com,Mobile App,0.08,1.69,-46,6
+gina.henry@example.com,Web,1.63,2.35,4,6
+gina.henry@example.com,Web,0.23,0.0,-8,6
+gina.henry@example.com,Web,0.01,0.0,33,6
+gina.henry@example.com,Web,1.11,2.42,-9,6
+gina.henry@example.com,Web,0.08,0.0,-77,6
+cory.miles@example.com,Web,0.63,2.35,-59,3
+cory.miles@example.com,Mobile App,0.84,0.0,45,3
+cory.miles@example.com,Mobile App,0.16,1.94,40,3
+gloria.wells@example.com,Web,0.4,0.0,18,4
+gloria.wells@example.com,Mobile App,1.84,0.0,-11,4
+gloria.wells@example.com,Mobile App,1.0,0.0,5,4
+gloria.wells@example.com,Mobile App,1.08,0.0,-92,4
+michael.ortega@example.com,Web,0.15,1.71,13,5
+michael.ortega@example.com,Mobile App,1.77,0.0,28,5
+michael.ortega@example.com,Mobile App,0.97,2.19,-34,5
+michael.ortega@example.com,Web,1.37,0.0,-22,5
+audrey.aguirre@example.com,Mobile App,0.34,0.0,-12,4
+audrey.aguirre@example.com,Mobile App,1.23,0.0,49,4
+audrey.aguirre@example.com,Web,0.16,1.39,31,4
+audrey.aguirre@example.com,Mobile App,0.6,0.0,-67,4
+molly.knight@example.com,Web,1.13,0.0,28,8
+molly.knight@example.com,Web,0.1,0.0,-58,8
+molly.knight@example.com,Mobile App,1.26,0.0,-12,8
+molly.knight@example.com,Mobile App,1.58,0.0,-80,8
+molly.knight@example.com,Mobile App,0.51,2.32,22,8
+molly.knight@example.com,Mobile App,0.17,3.56,19,8
+molly.knight@example.com,Web,0.98,3.59,30,8
+molly.knight@example.com,Web,1.12,0.0,28,8
+emily.nelson@example.com,Web,0.27,2.26,1,6
+emily.nelson@example.com,Web,1.01,0.0,-99,6
+emily.nelson@example.com,Web,1.94,2.13,10,6
+emily.nelson@example.com,Mobile App,1.62,1.19,18,6
+emily.nelson@example.com,Web,1.48,1.51,-40,6
+emily.nelson@example.com,Web,1.65,0.0,-91,6
+tracey.brown@example.com,Mobile App,0.24,0.0,-86,9
+tracey.brown@example.com,Mobile App,0.74,0.0,-5,9
+tracey.brown@example.com,Web,0.23,0.0,2,9
+tracey.brown@example.com,Mobile App,1.0,0.0,-15,9
+tracey.brown@example.com,Web,0.98,0.0,12,9
+tracey.brown@example.com,Web,0.02,0.0,45,9
+tracey.brown@example.com,Web,0.02,2.69,27,9
+tracey.brown@example.com,Web,0.33,0.0,20,9
+tracey.brown@example.com,Web,0.55,0.0,-79,9
+jane.mason@example.com,Mobile App,1.74,3.56,9,5
+jane.mason@example.com,Mobile App,1.45,2.41,50,5
+jane.mason@example.com,Web,1.23,2.54,17,5
+jane.mason@example.com,Web,0.46,0.0,-79,5
+jane.mason@example.com,Web,0.58,3.76,-8,5
+george.meza@example.com,Web,0.52,0.0,46,5
+george.meza@example.com,Mobile App,1.06,0.0,-61,5
+george.meza@example.com,Mobile App,0.02,3.28,-98,5
+george.meza@example.com,Web,1.93,1.52,-20,5
+george.meza@example.com,Web,1.37,1.35,39,5
+charles.schultz@example.com,Mobile App,0.2,2.26,-94,6
+charles.schultz@example.com,Web,0.19,0.0,7,6
+charles.schultz@example.com,Web,0.88,0.0,27,6
+charles.schultz@example.com,Mobile App,0.36,0.0,9,6
+charles.schultz@example.com,Mobile App,0.48,0.0,-10,6
+charles.schultz@example.com,Mobile App,0.24,0.0,8,6
+kathleen.cole@example.com,Web,1.62,1.7,3,3
+kathleen.cole@example.com,Mobile App,0.91,2.39,-11,3
+kathleen.cole@example.com,Web,1.6,3.2,41,3
+steven.johnson@example.com,Mobile App,0.82,0.0,-3,4
+steven.johnson@example.com,Mobile App,1.7,1.1,36,4
+steven.johnson@example.com,Web,0.06,0.0,21,4
+steven.johnson@example.com,Web,0.55,1.72,-98,4
+walter.rosario@example.com,Mobile App,0.6,2.44,33,3
+walter.rosario@example.com,Web,0.37,0.0,-95,3
+walter.rosario@example.com,Mobile App,1.8,1.59,-48,3
+paul.schroeder@example.com,Web,1.75,0.0,-6,5
+paul.schroeder@example.com,Web,1.74,2.08,36,5
+paul.schroeder@example.com,Web,1.1,2.26,-69,5
+paul.schroeder@example.com,Web,0.46,3.86,24,5
+paul.schroeder@example.com,Mobile App,0.23,3.61,-83,5
+diana.bates@example.com,Web,0.74,0.0,33,5
+diana.bates@example.com,Mobile App,0.19,3.52,20,5
+diana.bates@example.com,Mobile App,0.44,0.0,-74,5
+diana.bates@example.com,Mobile App,0.81,0.0,-31,5
+diana.bates@example.com,Mobile App,1.31,0.0,-76,5
+henry.lewis@example.com,Web,0.21,1.81,15,3
+henry.lewis@example.com,Mobile App,1.49,2.27,14,3
+henry.lewis@example.com,Mobile App,1.02,1.18,15,3
+marie.wise@example.com,Web,1.51,2.93,6,3
+marie.wise@example.com,Mobile App,0.9,1.06,-4,3
+marie.wise@example.com,Web,1.57,2.72,-89,3
+kristen.mckee@example.com,Web,0.27,0.0,-2,1
+monique.williams@example.com,Mobile App,1.72,2.7,5,4
+monique.williams@example.com,Web,0.26,0.0,15,4
+monique.williams@example.com,Mobile App,0.98,2.75,26,4
+monique.williams@example.com,Web,1.52,0.0,-54,4
+michael.johnson@example.com,Web,0.16,1.13,15,9
+michael.johnson@example.com,Web,1.53,2.75,22,9
+michael.johnson@example.com,Web,0.3,0.0,23,9
+michael.johnson@example.com,Web,0.42,1.59,-83,9
+lacey.taylor@example.com,Web,1.77,1.79,-75,5
+lacey.taylor@example.com,Web,0.48,3.94,-12,5
+lacey.taylor@example.com,Mobile App,0.45,0.0,18,5
+lacey.taylor@example.com,Mobile App,0.3,0.0,-73,5
+lacey.taylor@example.com,Web,0.36,2.7,11,5
+john.martinez@example.com,Mobile App,1.5,0.0,3,8
+john.martinez@example.com,Mobile App,0.65,0.0,41,8
+john.martinez@example.com,Web,0.14,1.56,-19,8
+john.martinez@example.com,Web,0.03,0.0,-89,8
+ruben.mendez@example.com,Mobile App,0.93,1.21,-57,2
+ruben.mendez@example.com,Mobile App,0.69,3.42,43,2
+cynthia.zavala@example.com,Web,0.13,1.87,7,2
+cynthia.zavala@example.com,Web,0.55,3.54,9,2
+steven.dominguez@example.com,Mobile App,0.77,1.82,-30,4
+steven.dominguez@example.com,Mobile App,0.54,2.85,12,4
+steven.dominguez@example.com,Mobile App,0.96,0.0,-70,4
+steven.dominguez@example.com,Web,1.58,3.3,31,4
+justin.atkins@example.com,Web,0.77,0.0,20,4
+justin.atkins@example.com,Web,1.11,2.07,16,4
+justin.atkins@example.com,Mobile App,0.88,2.85,38,4
+justin.atkins@example.com,Web,0.4,0.0,7,4
+sandra.stone@example.com,Mobile App,0.16,2.14,-50,1
+sean.robbins@example.com,Mobile App,1.82,1.91,31,4
+sean.robbins@example.com,Web,1.35,1.04,-17,4
+sean.robbins@example.com,Mobile App,1.09,0.0,10,4
+sean.robbins@example.com,Web,0.34,0.0,-78,4
+stephanie.thomas@example.com,Mobile App,0.29,0.0,-4,3
+stephanie.thomas@example.com,Mobile App,1.76,2.35,-81,3
+stephanie.thomas@example.com,Web,1.93,0.0,-100,3
+audrey.moreno@example.com,Web,0.1,1.27,-81,2
+audrey.moreno@example.com,Web,1.88,0.0,14,2
+sabrina.henry@example.com,Web,1.96,0.0,23,5
+sabrina.henry@example.com,Mobile App,0.55,0.0,-66,5
+sabrina.henry@example.com,Web,1.86,1.09,17,5
+sabrina.henry@example.com,Web,1.69,0.0,-27,5
+sabrina.henry@example.com,Mobile App,1.09,0.0,13,5
+jennifer.ho@example.com,Mobile App,1.82,0.0,-52,3
+jennifer.ho@example.com,Mobile App,0.39,0.0,5,3
+jennifer.ho@example.com,Web,1.46,0.0,-71,3
+david.henson@example.com,Mobile App,0.59,3.11,-46,11
+david.henson@example.com,Web,0.2,0.0,46,11
+david.henson@example.com,Mobile App,1.2,0.0,-18,11
+david.henson@example.com,Web,0.68,0.0,30,11
+david.henson@example.com,Mobile App,0.97,1.37,5,11
+david.henson@example.com,Mobile App,1.65,2.99,-92,11
+david.henson@example.com,Mobile App,1.08,0.0,9,11
+david.henson@example.com,Mobile App,1.91,0.0,-30,11
+david.henson@example.com,Mobile App,1.55,0.0,26,11
+david.henson@example.com,Mobile App,2.0,0.0,5,11
+david.henson@example.com,Web,0.65,0.0,-14,11
+melvin.humphrey@example.com,Web,0.67,3.97,5,4
+melvin.humphrey@example.com,Mobile App,1.74,3.95,-52,4
+melvin.humphrey@example.com,Web,1.92,0.0,-98,4
+melvin.humphrey@example.com,Mobile App,1.89,2.94,-49,4
+patty.singleton@example.com,Web,0.21,0.0,-1,5
+patty.singleton@example.com,Mobile App,1.79,0.0,19,5
+patty.singleton@example.com,Mobile App,0.72,0.0,18,5
+patty.singleton@example.com,Web,0.93,0.0,-78,5
+patty.singleton@example.com,Web,1.29,3.77,-15,5
+rachel.morgan@example.com,Mobile App,0.64,1.4,-19,5
+rachel.morgan@example.com,Mobile App,0.74,0.0,-8,5
+rachel.morgan@example.com,Mobile App,1.54,1.03,8,5
+rachel.morgan@example.com,Mobile App,0.25,3.43,-21,5
+rachel.morgan@example.com,Mobile App,1.08,1.93,-26,5
+keith.frye@example.com,Web,1.59,3.35,40,5
+keith.frye@example.com,Web,0.28,3.92,-42,5
+keith.frye@example.com,Web,1.23,0.0,32,5
+keith.frye@example.com,Web,0.33,0.0,35,5
+keith.frye@example.com,Web,1.58,0.0,46,5
+luis.travis@example.com,Web,1.35,2.92,-58,3
+luis.travis@example.com,Mobile App,1.26,2.84,-12,3
+luis.travis@example.com,Mobile App,1.77,0.0,5,3
+sonia.lin@example.com,Mobile App,0.37,0.0,6,8
+sonia.lin@example.com,Mobile App,0.9,0.0,7,8
+sonia.lin@example.com,Web,1.76,1.19,34,8
+sonia.lin@example.com,Mobile App,0.55,0.0,-13,8
+sonia.lin@example.com,Web,0.58,0.0,20,8
+sonia.lin@example.com,Web,1.57,3.3,33,8
+sonia.lin@example.com,Mobile App,0.39,2.88,30,8
+sonia.lin@example.com,Web,0.8,0.0,13,8
+jason.gomez@example.com,Mobile App,0.14,1.76,0,6
+jason.gomez@example.com,Web,0.04,2.3,47,6
+jason.gomez@example.com,Web,0.06,2.92,-17,6
+jason.gomez@example.com,Mobile App,1.31,0.0,-81,6
+jason.gomez@example.com,Mobile App,0.75,1.8,4,6
+jason.gomez@example.com,Mobile App,0.71,3.69,-29,6
+michael.morales@example.com,Web,1.37,0.0,10,3
+michael.morales@example.com,Web,1.13,0.0,34,3
+michael.morales@example.com,Mobile App,0.35,0.0,-12,3
+david.davis@example.com,Mobile App,0.09,0.0,-92,4
+david.davis@example.com,Web,0.14,2.64,39,4
+david.davis@example.com,Web,0.86,1.11,18,4
+david.davis@example.com,Mobile App,0.79,0.0,42,4
+stephen.obrien@example.com,Web,1.72,3.49,-48,4
+stephen.obrien@example.com,Web,1.43,0.0,35,4
+stephen.obrien@example.com,Web,1.84,0.0,0,4
+stephen.obrien@example.com,Mobile App,0.53,0.0,2,4
+micheal.nunez@example.com,Web,1.77,1.89,-69,5
+micheal.nunez@example.com,Mobile App,1.96,3.43,28,5
+micheal.nunez@example.com,Web,0.17,0.0,14,5
+micheal.nunez@example.com,Mobile App,1.91,2.44,6,5
+micheal.nunez@example.com,Mobile App,0.44,0.0,29,5
+anthony.vaughan@example.com,Mobile App,0.1,0.0,1,1
+janice.stone@example.com,Mobile App,1.28,1.9,11,3
+janice.stone@example.com,Web,0.24,2.85,13,3
+janice.stone@example.com,Web,0.92,2.07,-17,3
+chelsea.lee@example.com,Mobile App,1.17,0.0,-17,5
+chelsea.lee@example.com,Web,0.04,0.0,9,5
+chelsea.lee@example.com,Web,1.92,1.84,-57,5
+chelsea.lee@example.com,Web,0.99,0.0,5,5
+chelsea.lee@example.com,Mobile App,1.02,1.98,-3,5
+keith.berry@example.com,Mobile App,0.47,2.72,7,5
+keith.berry@example.com,Web,0.71,0.0,20,5
+keith.berry@example.com,Web,1.05,0.0,-60,5
+keith.berry@example.com,Web,1.39,2.93,-5,5
+keith.berry@example.com,Web,0.52,2.03,-18,5
+james.ryan@example.com,Web,0.24,3.34,10,3
+james.ryan@example.com,Web,0.83,1.71,36,3
+james.ryan@example.com,Mobile App,0.93,1.49,-18,3
+mark.kennedy@example.com,Mobile App,0.55,1.09,10,4
+mark.kennedy@example.com,Mobile App,0.46,1.97,-79,4
+mark.kennedy@example.com,Web,1.51,2.24,18,4
+mark.kennedy@example.com,Web,0.07,0.0,-19,4
+sarah.johnson@example.com,Web,1.06,0.0,4,2
+sarah.johnson@example.com,Mobile App,1.81,0.0,-12,2
+melissa.mcdonald@example.com,Mobile App,0.81,0.0,-39,6
+melissa.mcdonald@example.com,Mobile App,1.97,0.0,18,6
+melissa.mcdonald@example.com,Web,0.06,0.0,-67,6
+melissa.mcdonald@example.com,Web,0.02,0.0,-65,6
+melissa.mcdonald@example.com,Mobile App,1.12,0.0,-2,6
+melissa.mcdonald@example.com,Web,1.08,0.0,29,6
+danielle.sullivan@example.com,Mobile App,0.37,0.0,-56,3
+danielle.sullivan@example.com,Web,0.64,0.0,-56,3
+danielle.sullivan@example.com,Mobile App,0.75,0.0,32,3
+brandi.berry@example.com,Mobile App,0.68,2.15,27,6
+brandi.berry@example.com,Mobile App,1.07,0.0,-59,6
+brandi.berry@example.com,Web,0.78,0.0,40,6
+brandi.berry@example.com,Web,1.8,1.56,13,6
+brandi.berry@example.com,Mobile App,0.12,0.0,9,6
+brandi.berry@example.com,Mobile App,0.08,0.0,-71,6
+timothy.gibson@example.com,Mobile App,1.32,1.09,20,6
+timothy.gibson@example.com,Web,1.99,0.0,24,6
+timothy.gibson@example.com,Mobile App,0.62,0.0,-52,6
+timothy.gibson@example.com,Web,1.54,0.0,-12,6
+timothy.gibson@example.com,Web,1.66,2.4,35,6
+timothy.gibson@example.com,Web,0.69,0.0,-98,6
+rebecca.harris@example.com,Mobile App,1.69,0.0,-58,6
+rebecca.harris@example.com,Mobile App,1.92,2.68,-8,6
+rebecca.harris@example.com,Web,0.34,0.0,-19,6
+rebecca.harris@example.com,Web,1.43,2.3,-16,6
+rebecca.harris@example.com,Web,1.6,1.46,-40,6
+rebecca.harris@example.com,Web,0.21,0.0,-19,6
+david.perry@example.com,Mobile App,0.13,3.98,12,4
+david.perry@example.com,Web,1.82,3.53,14,4
+david.perry@example.com,Mobile App,0.66,3.37,47,4
+david.perry@example.com,Web,0.49,1.04,41,4
+amber.brown@example.com,Web,1.97,2.73,-23,6
+amber.brown@example.com,Mobile App,0.27,3.52,13,6
+amber.brown@example.com,Mobile App,1.36,0.0,-69,6
+amber.brown@example.com,Web,0.23,1.84,-23,6
+amber.brown@example.com,Web,1.43,1.69,-11,6
+amber.brown@example.com,Mobile App,1.65,1.31,38,6
+dean.dalton@example.com,Mobile App,0.97,2.63,-99,6
+dean.dalton@example.com,Mobile App,0.55,3.11,50,6
+dean.dalton@example.com,Mobile App,1.75,2.35,-14,6
+dean.dalton@example.com,Mobile App,0.43,1.88,-10,6
+dean.dalton@example.com,Mobile App,1.84,0.0,-90,6
+dean.dalton@example.com,Web,1.27,3.18,-60,6
+john.reed@example.com,Mobile App,0.59,1.91,-59,1
+scott.fernandez@example.com,Mobile App,0.03,3.57,-16,5
+scott.fernandez@example.com,Web,0.19,0.0,28,5
+scott.fernandez@example.com,Web,0.16,1.82,-95,5
+scott.fernandez@example.com,Web,1.62,1.2,5,5
+scott.fernandez@example.com,Mobile App,0.01,3.93,-89,5
+angela.vargas@example.com,Web,1.45,0.0,48,3
+angela.vargas@example.com,Mobile App,1.36,0.0,-24,3
+angela.vargas@example.com,Mobile App,1.38,0.0,4,3
+john.perez@example.com,Mobile App,0.97,0.0,-33,4
+john.perez@example.com,Web,0.49,0.0,-46,4
+john.perez@example.com,Mobile App,1.71,0.0,-17,4
+john.perez@example.com,Mobile App,0.29,3.42,29,4
+melanie.davis@example.com,Web,1.5,0.0,-63,4
+melanie.davis@example.com,Web,1.94,0.0,-19,4
+melanie.davis@example.com,Mobile App,0.5,3.64,39,4
+melanie.davis@example.com,Web,1.86,3.97,11,4
+jason.lee@example.com,Web,1.31,2.72,-79,4
+jason.lee@example.com,Mobile App,0.83,1.6,-79,4
+jason.lee@example.com,Web,0.82,0.0,-5,4
+jason.lee@example.com,Mobile App,1.86,3.17,-21,4
+nicole.owens@example.com,Mobile App,1.17,0.0,42,3
+nicole.owens@example.com,Mobile App,1.72,1.17,18,3
+nicole.owens@example.com,Mobile App,0.05,0.0,-3,3
+mark.james@example.com,Web,0.76,2.11,-47,7
+mark.james@example.com,Web,0.34,0.0,-14,7
+mark.james@example.com,Mobile App,0.78,0.0,-12,7
+mark.james@example.com,Mobile App,0.07,0.0,-41,7
+mark.james@example.com,Web,1.17,0.0,-3,7
+mark.james@example.com,Mobile App,0.57,0.0,45,7
+mark.james@example.com,Mobile App,1.37,0.0,-98,7
+jack.preston@example.com,Web,1.92,3.83,-20,3
+jack.preston@example.com,Mobile App,1.72,3.76,2,3
+jack.preston@example.com,Mobile App,0.44,0.0,36,3
+donna.smith@example.com,Web,1.83,0.0,-80,4
+donna.smith@example.com,Mobile App,0.89,2.7,-97,4
+donna.smith@example.com,Mobile App,1.27,0.0,-12,4
+donna.smith@example.com,Mobile App,1.19,0.0,32,4
+daniel.davis@example.com,Web,1.57,1.85,-30,3
+daniel.davis@example.com,Web,0.06,1.87,-20,3
+daniel.davis@example.com,Mobile App,0.32,0.0,-1,3
+jason.parrish@example.com,Mobile App,0.53,1.89,-14,1
+sarah.evans@example.com,Mobile App,1.63,3.67,42,7
+sarah.evans@example.com,Web,1.92,0.0,1,7
+sarah.evans@example.com,Web,1.41,2.05,-19,7
+sarah.evans@example.com,Web,1.98,0.0,11,7
+sarah.evans@example.com,Mobile App,1.41,0.0,29,7
+sarah.evans@example.com,Mobile App,0.02,0.0,-20,7
+sarah.evans@example.com,Mobile App,1.09,2.55,-7,7
+matthew.mack@example.com,Web,0.99,1.75,8,4
+matthew.mack@example.com,Mobile App,1.71,0.0,12,4
+matthew.mack@example.com,Web,0.65,3.18,-27,4
+matthew.mack@example.com,Mobile App,1.89,2.3,40,4
+lauren.marquez@example.com,Mobile App,1.13,2.02,47,2
+lauren.marquez@example.com,Mobile App,1.72,2.31,-8,2
+curtis.miller@example.com,Web,0.8,0.0,36,6
+curtis.miller@example.com,Mobile App,1.31,0.0,18,6
+curtis.miller@example.com,Web,1.5,1.39,29,6
+curtis.miller@example.com,Web,0.26,3.99,-9,6
+curtis.miller@example.com,Mobile App,0.13,0.0,5,6
+curtis.miller@example.com,Mobile App,1.93,0.0,-74,6
+jenny.hansen@example.com,Web,1.16,0.0,-20,5
+jenny.hansen@example.com,Mobile App,1.47,3.4,-20,5
+jenny.hansen@example.com,Web,0.74,2.36,0,5
+jenny.hansen@example.com,Mobile App,0.55,0.0,-40,5
+jenny.hansen@example.com,Web,0.73,0.0,34,5
+joshua.evans@example.com,Web,1.51,0.0,-9,3
+joshua.evans@example.com,Mobile App,0.3,0.0,-20,3
+joshua.evans@example.com,Mobile App,0.65,1.48,-4,3
+martin.oliver@example.com,Mobile App,1.73,2.86,-25,4
+martin.oliver@example.com,Mobile App,1.95,3.87,-77,4
+martin.oliver@example.com,Web,1.2,0.0,-16,4
+martin.oliver@example.com,Web,0.58,0.0,36,4
+mark.ramirez@example.com,Mobile App,1.12,0.0,-23,4
+mark.ramirez@example.com,Web,1.95,0.0,-20,4
+mark.ramirez@example.com,Web,0.03,2.25,-56,4
+mark.ramirez@example.com,Mobile App,1.16,3.6,6,4
+cynthia.allen@example.com,Mobile App,0.91,1.5,0,7
+cynthia.allen@example.com,Web,1.93,0.0,37,7
+cynthia.allen@example.com,Web,0.02,3.21,30,7
+cynthia.allen@example.com,Mobile App,0.54,3.78,-51,7
+cynthia.allen@example.com,Web,0.98,0.0,23,7
+cynthia.allen@example.com,Web,1.18,2.87,34,7
+cynthia.allen@example.com,Mobile App,0.54,0.0,39,7
+gabriel.salazar@example.com,Mobile App,1.54,3.55,19,5
+gabriel.salazar@example.com,Web,0.42,0.0,26,5
+gabriel.salazar@example.com,Web,1.62,0.0,-1,5
+gabriel.salazar@example.com,Mobile App,1.37,2.28,-72,5
+gabriel.salazar@example.com,Web,1.4,2.22,7,5
+steven.frazier@example.com,Mobile App,0.71,0.0,-20,4
+steven.frazier@example.com,Mobile App,0.27,0.0,5,4
+steven.frazier@example.com,Web,0.06,0.0,20,4
+steven.frazier@example.com,Web,1.07,0.0,-99,4
+adriana.bailey@example.com,Mobile App,0.17,3.59,9,5
+adriana.bailey@example.com,Web,1.18,0.0,-14,5
+adriana.bailey@example.com,Mobile App,1.06,3.2,-50,5
+adriana.bailey@example.com,Web,0.06,0.0,33,5
+adriana.bailey@example.com,Mobile App,0.69,0.0,15,5
+greg.moore@example.com,Mobile App,0.26,1.29,10,3
+greg.moore@example.com,Web,0.59,2.57,48,3
+greg.moore@example.com,Web,2.0,3.18,30,3
+paul.bush@example.com,Mobile App,0.02,0.0,13,4
+paul.bush@example.com,Web,0.3,0.0,13,4
+paul.bush@example.com,Web,0.25,1.82,-15,4
+paul.bush@example.com,Web,1.27,1.36,9,4
+allison.fowler@example.com,Mobile App,0.66,3.41,26,4
+allison.fowler@example.com,Web,0.09,1.51,41,4
+allison.fowler@example.com,Web,0.24,1.49,-97,4
+allison.fowler@example.com,Mobile App,1.51,0.0,22,4
+john.wilson@example.com,Web,0.84,2.53,44,6
+john.wilson@example.com,Web,0.95,1.0,-62,6
+john.wilson@example.com,Mobile App,0.51,0.0,-59,6
+john.wilson@example.com,Web,1.23,2.32,-5,6
+john.wilson@example.com,Web,1.57,0.0,-71,6
+john.wilson@example.com,Mobile App,1.34,0.0,0,6
+jacob.wilkinson@example.com,Mobile App,0.2,0.0,-86,3
+jacob.wilkinson@example.com,Web,0.89,0.0,-17,3
+jacob.wilkinson@example.com,Mobile App,0.02,0.0,15,3
+ariana.flynn@example.com,Web,1.8,0.0,-78,1
+madeline.richardson@example.com,Mobile App,1.65,1.5,-32,6
+madeline.richardson@example.com,Mobile App,0.48,0.0,2,6
+madeline.richardson@example.com,Mobile App,0.5,1.53,-82,6
+madeline.richardson@example.com,Mobile App,0.28,3.41,-79,6
+madeline.richardson@example.com,Mobile App,1.74,0.0,8,6
+madeline.richardson@example.com,Mobile App,1.48,0.0,-10,6
+brianna.bell@example.com,Mobile App,1.55,1.63,-32,5
+brianna.bell@example.com,Web,1.05,2.23,-11,5
+brianna.bell@example.com,Mobile App,1.85,3.24,5,5
+brianna.bell@example.com,Mobile App,1.93,0.0,-27,5
+brianna.bell@example.com,Mobile App,1.94,0.0,-93,5
+kelly.armstrong@example.com,Mobile App,0.3,1.2,19,3
+kelly.armstrong@example.com,Mobile App,0.01,0.0,29,3
+kelly.armstrong@example.com,Mobile App,0.59,0.0,-20,3
+shannon.schultz@example.com,Mobile App,0.47,0.0,-18,3
+shannon.schultz@example.com,Mobile App,1.18,0.0,45,3
+shannon.schultz@example.com,Web,1.67,3.84,-19,3
+mallory.simpson@example.com,Web,1.0,0.0,-15,3
+mallory.simpson@example.com,Web,1.78,0.0,-36,3
+mallory.simpson@example.com,Mobile App,0.45,0.0,5,3
+james.barker@example.com,Web,0.7,3.51,-31,3
+james.barker@example.com,Web,1.83,0.0,-79,3
+james.barker@example.com,Mobile App,0.2,3.73,-6,3
+ruben.davis@example.com,Web,0.92,1.62,-12,3
+ruben.davis@example.com,Mobile App,0.05,0.0,-31,3
+ruben.davis@example.com,Web,0.96,3.06,-15,3
+vanessa.henderson@example.com,Mobile App,0.79,1.7,-93,6
+vanessa.henderson@example.com,Mobile App,1.48,0.0,26,6
+vanessa.henderson@example.com,Web,1.22,2.23,14,6
+vanessa.henderson@example.com,Web,0.33,2.18,8,6
+vanessa.henderson@example.com,Web,1.67,0.0,-10,6
+vanessa.henderson@example.com,Mobile App,1.11,0.0,18,6
+karen.anderson@example.com,Web,0.37,0.0,15,1
+brittany.cruz@example.com,Web,0.75,0.0,24,2
+brittany.cruz@example.com,Web,1.14,0.0,-21,2
+debbie.bowers@example.com,Mobile App,0.97,0.0,-57,2
+debbie.bowers@example.com,Web,1.92,3.23,-69,2
+robert.payne@example.com,Mobile App,1.07,0.0,-17,5
+robert.payne@example.com,Mobile App,1.23,3.09,-79,5
+robert.payne@example.com,Web,0.69,0.0,-76,5
+robert.payne@example.com,Mobile App,1.68,2.47,-48,5
+robert.payne@example.com,Web,0.42,3.52,37,5
+katie.henderson@example.com,Mobile App,0.04,0.0,-32,3
+katie.henderson@example.com,Mobile App,1.78,0.0,7,3
+katie.henderson@example.com,Mobile App,1.74,0.0,45,3
+kyle.kim@example.com,Mobile App,0.54,0.0,10,3
+kyle.kim@example.com,Web,1.53,0.0,-76,3
+kyle.kim@example.com,Web,1.11,1.97,17,3
+derrick.smith@example.com,Web,1.19,0.0,14,3
+derrick.smith@example.com,Mobile App,1.33,1.9,23,3
+derrick.smith@example.com,Web,0.07,0.0,-59,3
+courtney.crawford@example.com,Mobile App,0.76,0.0,-14,3
+courtney.crawford@example.com,Web,1.25,0.0,18,3
+courtney.crawford@example.com,Web,0.94,3.01,-5,3
+patrick.hernandez@example.com,Mobile App,0.04,0.0,26,3
+patrick.hernandez@example.com,Mobile App,0.96,0.0,-14,3
+patrick.hernandez@example.com,Mobile App,1.94,1.87,-51,3
+harry.brock@example.com,Mobile App,1.84,0.0,17,3
+harry.brock@example.com,Mobile App,1.74,3.46,11,3
+harry.brock@example.com,Mobile App,1.62,0.0,-10,3
+kristen.stevenson@example.com,Mobile App,1.45,0.0,-27,3
+kristen.stevenson@example.com,Web,1.82,0.0,8,3
+kristen.stevenson@example.com,Web,1.77,0.0,-100,3
+stephanie.smith@example.com,Mobile App,0.13,0.0,5,7
+stephanie.smith@example.com,Mobile App,0.44,2.08,28,7
+stephanie.smith@example.com,Mobile App,0.18,1.99,15,7
+stephanie.smith@example.com,Web,0.24,0.0,-15,7
+stephanie.smith@example.com,Mobile App,1.47,0.0,41,7
+stephanie.smith@example.com,Mobile App,0.59,0.0,-7,7
+stephanie.smith@example.com,Web,1.08,0.0,-20,7
+stephen.adkins@example.com,Mobile App,0.88,0.0,-20,2
+stephen.adkins@example.com,Mobile App,1.35,2.07,-3,2
+leslie.owen@example.com,Web,0.63,0.0,-42,2
+leslie.owen@example.com,Mobile App,0.86,0.0,19,2
+david.howard@example.com,Mobile App,0.3,2.34,3,3
+david.howard@example.com,Mobile App,1.4,3.42,35,3
+david.howard@example.com,Web,1.01,0.0,-45,3
+brandon.evans@example.com,Mobile App,1.01,3.69,-5,2
+brandon.evans@example.com,Mobile App,0.99,1.73,-12,2
+david.colon@example.com,Mobile App,0.48,0.0,-61,5
+david.colon@example.com,Web,0.96,0.0,-8,5
+david.colon@example.com,Web,1.61,0.0,10,5
+david.colon@example.com,Mobile App,1.57,0.0,15,5
+david.colon@example.com,Web,0.24,0.0,21,5
+ryan.ramsey@example.com,Web,0.92,0.0,-15,2
+ryan.ramsey@example.com,Mobile App,1.09,0.0,-63,2
+robert.pierce@example.com,Web,0.75,0.0,-69,5
+robert.pierce@example.com,Mobile App,1.82,2.17,17,5
+robert.pierce@example.com,Mobile App,0.72,0.0,-13,5
+robert.pierce@example.com,Web,0.47,0.0,13,5
+robert.pierce@example.com,Mobile App,0.85,0.0,-28,5
+timothy.harrington@example.com,Web,1.89,1.9,-52,2
+timothy.harrington@example.com,Web,0.98,0.0,5,2
+yvonne.dickson@example.com,Mobile App,0.96,1.34,41,1
+linda.wolfe@example.com,Web,1.02,1.69,13,3
+linda.wolfe@example.com,Web,0.01,0.0,-64,3
+linda.wolfe@example.com,Mobile App,0.83,0.0,-8,3
+brian.guzman@example.com,Web,1.14,1.36,-8,6
+brian.guzman@example.com,Web,0.24,0.0,19,6
+brian.guzman@example.com,Mobile App,1.66,2.56,-74,6
+brian.guzman@example.com,Mobile App,0.06,0.0,24,6
+brian.guzman@example.com,Web,0.46,0.0,13,6
+brian.guzman@example.com,Web,1.82,0.0,26,6
+kim.mathis@example.com,Web,0.11,0.0,30,8
+kim.mathis@example.com,Web,0.22,0.0,18,8
+kim.mathis@example.com,Mobile App,0.89,1.92,-18,8
+kim.mathis@example.com,Web,1.51,0.0,-17,8
+kim.mathis@example.com,Web,0.17,2.75,-19,8
+kim.mathis@example.com,Mobile App,1.74,3.51,-25,8
+kim.mathis@example.com,Mobile App,1.85,0.0,18,8
+kim.mathis@example.com,Mobile App,1.45,2.54,-14,8
+heather.mcfarland@example.com,Mobile App,0.27,0.0,-12,2
+heather.mcfarland@example.com,Mobile App,0.44,1.55,-13,2
+lisa.carr@example.com,Web,1.31,0.0,-35,6
+lisa.carr@example.com,Mobile App,0.87,1.16,-8,6
+lisa.carr@example.com,Mobile App,0.39,0.0,40,6
+lisa.carr@example.com,Mobile App,0.67,0.0,-40,6
+lisa.carr@example.com,Web,1.4,0.0,41,6
+lisa.carr@example.com,Web,0.6,3.35,-16,6
+michael.buchanan@example.com,Mobile App,0.2,0.0,-47,2
+michael.buchanan@example.com,Mobile App,0.31,1.8,7,2
+lauren.johnson@example.com,Mobile App,0.98,3.29,-64,4
+lauren.johnson@example.com,Web,1.06,1.81,5,4
+lauren.johnson@example.com,Web,0.9,0.0,-89,4
+lauren.johnson@example.com,Mobile App,0.17,1.78,12,4
+janet.reynolds@example.com,Web,0.02,0.0,-98,3
+janet.reynolds@example.com,Web,0.58,0.0,13,3
+janet.reynolds@example.com,Mobile App,0.97,0.0,10,3
+philip.dunn@example.com,Web,1.54,1.4,-55,1
+megan.parker@example.com,Mobile App,1.05,3.22,-12,1
+mary.elliott@example.com,Web,0.88,0.0,-15,3
+mary.elliott@example.com,Mobile App,1.8,3.32,50,3
+mary.elliott@example.com,Web,1.24,3.73,13,3
+ashley.young@example.com,Web,1.07,0.0,-5,4
+ashley.young@example.com,Mobile App,0.87,0.0,4,4
+ashley.young@example.com,Mobile App,1.73,3.35,37,4
+ashley.young@example.com,Web,0.37,1.03,36,4
+christian.vega@example.com,Web,1.16,0.0,37,3
+christian.vega@example.com,Mobile App,0.5,2.77,34,3
+christian.vega@example.com,Web,1.53,3.18,-50,3
+stephen.marks@example.com,Mobile App,0.02,1.95,11,3
+stephen.marks@example.com,Web,1.81,0.0,-20,3
+stephen.marks@example.com,Mobile App,1.67,1.9,-7,3
+nicole.humphrey@example.com,Mobile App,1.14,1.99,19,2
+nicole.humphrey@example.com,Web,1.2,1.28,18,2
+hannah.williams@example.com,Web,1.11,2.11,11,8
+hannah.williams@example.com,Mobile App,1.01,0.0,-91,8
+hannah.williams@example.com,Web,0.19,0.0,15,8
+hannah.williams@example.com,Mobile App,1.55,0.0,6,8
+hannah.williams@example.com,Mobile App,0.74,0.0,12,8
+hannah.williams@example.com,Mobile App,1.29,2.69,1,8
+hannah.williams@example.com,Web,0.15,3.05,17,8
+hannah.williams@example.com,Web,0.86,0.0,12,8
+jacob.lewis@example.com,Web,0.38,1.65,-17,1
+brian.johnson@example.com,Mobile App,1.67,0.0,-75,1
+gregory.harrell@example.com,Web,1.67,1.58,29,1
+tammie.vincent@example.com,Web,0.01,0.0,-87,2
+tammie.vincent@example.com,Web,0.34,1.25,-67,2
+rodney.bennett@example.com,Mobile App,1.83,2.9,12,2
+rodney.bennett@example.com,Mobile App,1.77,0.0,20,2
+timothy.rogers@example.com,Mobile App,0.29,2.11,-2,3
+timothy.rogers@example.com,Mobile App,1.81,3.07,37,3
+timothy.rogers@example.com,Web,1.31,3.69,-81,3
+jordan.barnes@example.com,Web,1.3,0.0,-2,3
+jordan.barnes@example.com,Mobile App,0.81,1.62,29,3
+jordan.barnes@example.com,Web,1.46,0.0,22,3
+joyce.hardy@example.com,Web,1.97,2.03,8,5
+joyce.hardy@example.com,Web,0.75,3.06,27,5
+joyce.hardy@example.com,Web,0.88,2.69,15,5
+joyce.hardy@example.com,Mobile App,0.31,2.66,-2,5
+joyce.hardy@example.com,Web,1.75,3.88,0,5
+melissa.ruiz@example.com,Mobile App,1.32,2.15,-35,1
+vanessa.orozco@example.com,Web,1.5,3.9,3,4
+vanessa.orozco@example.com,Mobile App,1.56,0.0,23,4
+vanessa.orozco@example.com,Web,0.75,0.0,16,4
+vanessa.orozco@example.com,Mobile App,0.56,2.62,-45,4
+tracy.gallagher@example.com,Web,0.1,1.12,-4,5
+tracy.gallagher@example.com,Web,1.82,0.0,7,5
+tracy.gallagher@example.com,Web,0.28,0.0,19,5
+tracy.gallagher@example.com,Web,0.3,1.72,2,5
+tracy.gallagher@example.com,Web,1.71,3.09,38,5
+alexis.morris@example.com,Mobile App,1.7,0.0,5,2
+alexis.morris@example.com,Mobile App,1.8,3.75,1,2
+jessica.carlson@example.com,Web,1.06,0.0,13,3
+jessica.carlson@example.com,Web,0.68,0.0,-67,3
+jessica.carlson@example.com,Web,0.21,2.38,-58,3
+debra.johnson@example.com,Web,0.31,3.24,-2,4
+debra.johnson@example.com,Mobile App,1.93,0.0,-72,4
+debra.johnson@example.com,Mobile App,0.7,2.98,25,4
+debra.johnson@example.com,Mobile App,1.56,0.0,14,4
+jamie.jennings@example.com,Mobile App,1.89,2.09,-7,3
+jamie.jennings@example.com,Mobile App,0.75,0.0,7,3
+jamie.jennings@example.com,Mobile App,0.63,0.0,6,3
+tyler.lynch@example.com,Web,1.46,0.0,8,5
+tyler.lynch@example.com,Mobile App,0.01,0.0,-6,5
+tyler.lynch@example.com,Mobile App,1.48,2.77,5,5
+tyler.lynch@example.com,Web,0.0,0.0,-13,5
+tyler.lynch@example.com,Web,1.49,0.0,-16,5
+mary.caldwell@example.com,Web,0.36,2.44,-74,5
+mary.caldwell@example.com,Mobile App,1.53,0.0,-87,5
+mary.caldwell@example.com,Web,0.97,2.69,-60,5
+mary.caldwell@example.com,Mobile App,0.71,3.78,13,5
+mary.caldwell@example.com,Web,0.91,0.0,-96,5
+melissa.ward@example.com,Web,1.28,0.0,-11,6
+melissa.ward@example.com,Web,0.97,0.0,5,6
+melissa.ward@example.com,Mobile App,0.72,0.0,2,6
+melissa.ward@example.com,Mobile App,0.17,2.28,-11,6
+melissa.ward@example.com,Web,1.32,3.52,-34,6
+melissa.ward@example.com,Web,0.76,3.8,40,6
+ricardo.bryant@example.com,Mobile App,1.45,1.96,21,6
+ricardo.bryant@example.com,Mobile App,1.72,0.0,-52,6
+ricardo.bryant@example.com,Web,0.98,1.36,11,6
+ricardo.bryant@example.com,Mobile App,0.03,0.0,-72,6
+ricardo.bryant@example.com,Mobile App,0.08,0.0,-98,6
+ricardo.bryant@example.com,Web,1.59,3.31,-50,6
+michelle.hobbs@example.com,Web,1.3,0.0,19,3
+michelle.hobbs@example.com,Mobile App,0.32,1.01,48,3
+michelle.hobbs@example.com,Mobile App,1.68,0.0,-49,3
+april.watts@example.com,Web,0.65,0.0,-15,2
+april.watts@example.com,Web,1.98,0.0,21,2
+charles.vasquez@example.com,Web,1.33,0.0,37,1
+shane.gates@example.com,Web,0.09,3.17,5,1
+jamie.powers@example.com,Web,0.37,0.0,-4,5
+jamie.powers@example.com,Web,0.92,1.13,28,5
+jamie.powers@example.com,Mobile App,0.98,2.77,-2,5
+jamie.powers@example.com,Mobile App,1.68,2.16,30,5
+jamie.powers@example.com,Web,0.38,2.17,-10,5
+amy.brooks@example.com,Mobile App,1.67,1.79,41,4
+amy.brooks@example.com,Mobile App,1.83,2.71,-55,4
+amy.brooks@example.com,Web,0.07,0.0,9,4
+amy.brooks@example.com,Web,0.89,2.23,-7,4
+makayla.lee@example.com,Mobile App,0.99,1.36,-15,2
+makayla.lee@example.com,Web,0.24,3.21,20,2
+joshua.stuart@example.com,Mobile App,1.9,0.0,-9,4
+joshua.stuart@example.com,Web,0.18,0.0,-16,4
+joshua.stuart@example.com,Mobile App,1.74,0.0,5,4
+joshua.stuart@example.com,Mobile App,0.66,3.14,-20,4
+tina.santos@example.com,Web,1.24,3.65,9,6
+tina.santos@example.com,Web,0.7,0.0,15,6
+tina.santos@example.com,Mobile App,0.12,1.25,-52,6
+tina.santos@example.com,Web,1.39,2.92,-36,6
+tina.santos@example.com,Web,1.93,0.0,20,6
+tina.santos@example.com,Web,1.8,0.0,13,6
+lindsey.mills@example.com,Web,1.19,1.34,8,2
+lindsey.mills@example.com,Mobile App,1.97,0.0,-86,2
+karen.johnson@example.com,Mobile App,1.01,0.0,-2,4
+karen.johnson@example.com,Mobile App,0.13,0.0,-71,4
+karen.johnson@example.com,Mobile App,1.38,0.0,-11,4
+karen.johnson@example.com,Mobile App,1.51,0.0,-4,4
+alexander.king@example.com,Web,1.72,2.96,-16,7
+alexander.king@example.com,Mobile App,1.18,0.0,6,7
+alexander.king@example.com,Web,0.66,0.0,-14,7
+alexander.king@example.com,Mobile App,1.3,3.49,-18,7
+alexander.king@example.com,Mobile App,1.21,0.0,-12,7
+alexander.king@example.com,Mobile App,0.68,0.0,7,7
+alexander.king@example.com,Mobile App,1.92,0.0,13,7
+nicholas.patterson@example.com,Web,1.81,3.07,-54,7
+nicholas.patterson@example.com,Mobile App,0.82,3.53,-71,7
+nicholas.patterson@example.com,Web,1.75,1.25,6,7
+nicholas.patterson@example.com,Web,0.88,1.42,-20,7
+nicholas.patterson@example.com,Mobile App,0.28,1.27,-93,7
+nicholas.patterson@example.com,Mobile App,0.72,1.11,14,7
+nicholas.patterson@example.com,Web,0.75,0.0,-82,7
+kim.garrett@example.com,Web,0.32,0.0,31,4
+kim.garrett@example.com,Mobile App,1.49,0.0,15,4
+kim.garrett@example.com,Mobile App,0.84,0.0,-100,4
+kim.garrett@example.com,Mobile App,0.41,2.57,19,4
+nicole.alvarado@example.com,Web,1.02,0.0,5,6
+nicole.alvarado@example.com,Web,1.46,0.0,-20,6
+nicole.alvarado@example.com,Mobile App,0.57,0.0,-21,6
+nicole.alvarado@example.com,Web,0.18,2.07,43,6
+nicole.alvarado@example.com,Web,0.46,3.7,13,6
+nicole.alvarado@example.com,Web,0.18,1.72,11,6
+ruth.landry@example.com,Mobile App,1.26,0.0,-2,4
+ruth.landry@example.com,Mobile App,0.42,0.0,13,4
+ruth.landry@example.com,Mobile App,1.53,2.83,-40,4
+ruth.landry@example.com,Web,0.44,0.0,-61,4
+amanda.sims@example.com,Mobile App,0.09,0.0,38,2
+amanda.sims@example.com,Mobile App,1.35,0.0,-81,2
+brian.bauer@example.com,Mobile App,1.81,1.54,43,4
+brian.bauer@example.com,Mobile App,1.05,3.51,21,4
+brian.bauer@example.com,Mobile App,1.41,0.0,-16,4
+brian.bauer@example.com,Mobile App,1.45,0.0,-4,4
+adam.cortez@example.com,Mobile App,0.38,0.0,-82,7
+adam.cortez@example.com,Web,1.37,3.86,-97,7
+adam.cortez@example.com,Mobile App,0.24,1.17,-18,7
+adam.cortez@example.com,Mobile App,0.45,1.91,25,7
+adam.cortez@example.com,Web,1.07,0.0,49,7
+adam.cortez@example.com,Mobile App,1.94,3.29,-96,7
+adam.cortez@example.com,Mobile App,0.72,1.02,-50,7
+patrick.short@example.com,Web,0.26,2.45,-33,5
+patrick.short@example.com,Mobile App,1.23,0.0,20,5
+patrick.short@example.com,Mobile App,0.81,3.03,44,5
+patrick.short@example.com,Mobile App,0.21,1.28,10,5
+patrick.short@example.com,Web,0.91,0.0,35,5
+angela.peters@example.com,Web,0.62,3.61,-72,7
+angela.peters@example.com,Web,0.91,1.78,-12,7
+angela.peters@example.com,Mobile App,1.58,0.0,37,7
+angela.peters@example.com,Mobile App,0.36,2.75,34,7
+angela.peters@example.com,Mobile App,0.62,1.99,5,7
+angela.peters@example.com,Mobile App,0.39,0.0,-56,7
+angela.peters@example.com,Web,0.75,1.7,-40,7
+douglas.white@example.com,Mobile App,0.09,1.07,-33,5
+douglas.white@example.com,Mobile App,1.78,0.0,3,5
+douglas.white@example.com,Mobile App,0.31,0.0,41,5
+douglas.white@example.com,Web,1.09,1.75,-3,5
+douglas.white@example.com,Mobile App,0.21,0.0,14,5
+stephanie.howard@example.com,Mobile App,1.28,2.15,31,1
+gary.edwards@example.com,Web,0.58,0.0,14,3
+gary.edwards@example.com,Mobile App,0.71,3.13,16,3
+gary.edwards@example.com,Mobile App,1.23,3.58,8,3
+debbie.miller@example.com,Mobile App,0.98,2.23,33,4
+debbie.miller@example.com,Mobile App,0.34,0.0,15,4
+debbie.miller@example.com,Mobile App,1.09,2.36,27,4
+debbie.miller@example.com,Web,0.59,0.0,14,4
+amy.lutz@example.com,Mobile App,0.33,0.0,12,5
+amy.lutz@example.com,Mobile App,1.71,2.43,-88,5
+amy.lutz@example.com,Mobile App,0.08,0.0,45,5
+amy.lutz@example.com,Web,1.41,3.86,5,5
+amy.lutz@example.com,Mobile App,0.86,0.0,25,5
+katherine.taylor@example.com,Web,0.15,3.52,5,4
+katherine.taylor@example.com,Mobile App,1.46,1.84,17,4
+katherine.taylor@example.com,Web,1.8,3.9,6,4
+katherine.taylor@example.com,Mobile App,0.73,1.27,-15,4
+elizabeth.holmes@example.com,Mobile App,1.17,1.56,9,5
+elizabeth.holmes@example.com,Web,0.04,2.8,-77,5
+elizabeth.holmes@example.com,Web,1.07,1.15,10,5
+elizabeth.holmes@example.com,Web,0.06,0.0,23,5
+elizabeth.holmes@example.com,Mobile App,1.66,2.53,6,5
+michael.valdez@example.com,Mobile App,0.6,1.83,-69,7
+michael.valdez@example.com,Mobile App,0.44,0.0,49,7
+michael.valdez@example.com,Web,0.26,1.2,-90,7
+michael.valdez@example.com,Mobile App,1.28,2.48,14,7
+michael.valdez@example.com,Mobile App,1.39,0.0,10,7
+michael.valdez@example.com,Web,0.78,2.84,-29,7
+michael.valdez@example.com,Web,0.37,2.2,27,7
+gabriel.jones@example.com,Web,1.06,0.0,11,4
+gabriel.jones@example.com,Mobile App,0.41,1.13,-47,4
+gabriel.jones@example.com,Web,1.09,3.25,3,4
+gabriel.jones@example.com,Web,0.8,0.0,-60,4
+deborah.jenkins@example.com,Mobile App,1.47,0.0,4,2
+deborah.jenkins@example.com,Mobile App,1.12,0.0,-90,2
+zachary.sullivan@example.com,Mobile App,1.2,3.88,14,4
+zachary.sullivan@example.com,Web,0.34,1.37,13,4
+zachary.sullivan@example.com,Web,1.88,1.67,8,4
+zachary.sullivan@example.com,Web,1.84,0.0,14,4
+lori.white@example.com,Mobile App,0.83,1.31,-44,7
+lori.white@example.com,Web,0.98,0.0,10,7
+lori.white@example.com,Mobile App,1.6,2.86,-63,7
+lori.white@example.com,Mobile App,0.48,3.65,-18,7
+lori.white@example.com,Web,1.08,3.35,8,7
+lori.white@example.com,Web,0.88,0.0,-33,7
+lori.white@example.com,Mobile App,0.87,1.12,12,7
+gregory.valenzuela@example.com,Web,0.64,0.0,7,6
+gregory.valenzuela@example.com,Web,1.48,1.93,38,6
+gregory.valenzuela@example.com,Mobile App,0.84,0.0,-51,6
+gregory.valenzuela@example.com,Web,0.5,1.98,-13,6
+gregory.valenzuela@example.com,Mobile App,0.01,0.0,28,6
+gregory.valenzuela@example.com,Web,0.67,3.44,7,6
+roy.mays@example.com,Mobile App,0.03,0.0,-13,5
+roy.mays@example.com,Mobile App,0.98,0.0,10,5
+roy.mays@example.com,Web,0.83,0.0,20,5
+roy.mays@example.com,Mobile App,0.32,3.51,1,5
+roy.mays@example.com,Mobile App,1.54,0.0,-11,5
+jenna.clarke@example.com,Web,1.54,0.0,25,5
+jenna.clarke@example.com,Mobile App,0.79,0.0,-8,5
+jenna.clarke@example.com,Mobile App,0.64,1.78,21,5
+jenna.clarke@example.com,Web,1.78,3.81,-2,5
+jenna.clarke@example.com,Web,1.87,0.0,39,5
+jon.wyatt@example.com,Web,1.0,1.56,-86,5
+jon.wyatt@example.com,Mobile App,1.9,0.0,33,5
+jon.wyatt@example.com,Mobile App,1.38,2.57,-10,5
+jon.wyatt@example.com,Mobile App,0.19,2.58,44,5
+jon.wyatt@example.com,Mobile App,0.97,2.88,47,5
+maxwell.thornton@example.com,Web,1.31,2.08,11,2
+maxwell.thornton@example.com,Web,0.45,0.0,-62,2
+linda.morrow@example.com,Mobile App,1.15,0.0,-16,2
+linda.morrow@example.com,Mobile App,1.13,2.97,11,2
+sonya.wilkins@example.com,Web,0.72,0.0,4,2
+sonya.wilkins@example.com,Mobile App,1.87,1.65,17,2
+theresa.miller@example.com,Mobile App,1.63,0.0,-16,7
+theresa.miller@example.com,Web,0.9,0.0,34,7
+theresa.miller@example.com,Web,0.8,0.0,6,7
+theresa.miller@example.com,Mobile App,0.38,0.0,-77,7
+theresa.miller@example.com,Web,1.65,1.19,18,7
+theresa.miller@example.com,Mobile App,1.19,3.62,39,7
+theresa.miller@example.com,Mobile App,0.46,1.14,-5,7
+jeremy.mccarty@example.com,Mobile App,1.36,2.39,6,6
+jeremy.mccarty@example.com,Mobile App,1.99,0.0,7,6
+jeremy.mccarty@example.com,Web,0.39,2.27,5,6
+jeremy.mccarty@example.com,Web,0.06,3.7,18,6
+jeremy.mccarty@example.com,Web,1.6,1.18,0,6
+jeremy.mccarty@example.com,Web,0.08,1.33,-51,6
+nancy.li@example.com,Mobile App,0.21,2.23,29,4
+nancy.li@example.com,Mobile App,0.69,0.0,-60,4
+nancy.li@example.com,Web,1.32,0.0,38,4
+nancy.li@example.com,Mobile App,1.6,0.0,18,4
+patrick.kramer@example.com,Web,0.44,0.0,-80,5
+patrick.kramer@example.com,Mobile App,0.61,3.97,-55,5
+patrick.kramer@example.com,Web,0.44,0.0,-5,5
+patrick.kramer@example.com,Mobile App,1.43,0.0,41,5
+patrick.kramer@example.com,Web,1.17,0.0,0,5
+charles.velazquez@example.com,Web,1.54,0.0,16,3
+charles.velazquez@example.com,Mobile App,0.96,0.0,4,3
+charles.velazquez@example.com,Web,0.56,0.0,-65,3
+christine.moore@example.com,Web,0.75,0.0,46,4
+christine.moore@example.com,Web,1.07,2.25,4,4
+christine.moore@example.com,Web,1.29,2.72,-79,4
+christine.moore@example.com,Web,0.13,1.57,-6,4
+misty.henry@example.com,Mobile App,0.63,2.83,-67,5
+misty.henry@example.com,Web,1.79,0.0,-60,5
+misty.henry@example.com,Mobile App,0.64,3.93,-83,5
+misty.henry@example.com,Web,0.22,0.0,-74,5
+misty.henry@example.com,Web,0.9,0.0,-81,5
+helen.stevens@example.com,Mobile App,0.48,0.0,-8,1
+christie.diaz@example.com,Web,0.77,0.0,-65,2
+christie.diaz@example.com,Web,0.9,0.0,-64,2
+ryan.james@example.com,Web,1.55,3.01,-86,2
+ryan.james@example.com,Mobile App,1.16,3.73,27,2
+michele.williams@example.com,Mobile App,1.21,3.02,-15,6
+michele.williams@example.com,Mobile App,1.84,1.24,10,6
+michele.williams@example.com,Mobile App,1.4,0.0,23,6
+michele.williams@example.com,Mobile App,0.53,0.0,-67,6
+michele.williams@example.com,Mobile App,1.08,1.39,14,6
+michele.williams@example.com,Web,0.08,0.0,-80,6
+maurice.jenkins@example.com,Mobile App,1.98,0.0,-19,2
+maurice.jenkins@example.com,Mobile App,1.05,0.0,23,2
+crystal.thomas@example.com,Mobile App,0.09,2.11,-20,4
+crystal.thomas@example.com,Mobile App,1.81,0.0,3,4
+crystal.thomas@example.com,Mobile App,1.07,1.36,-39,4
+crystal.thomas@example.com,Mobile App,0.37,2.56,-86,4
+jennifer.jacobs@example.com,Mobile App,1.66,1.31,9,6
+jennifer.jacobs@example.com,Web,1.82,2.29,-1,6
+jennifer.jacobs@example.com,Web,0.77,0.0,6,6
+jennifer.jacobs@example.com,Mobile App,0.04,0.0,-40,6
+jennifer.jacobs@example.com,Mobile App,0.6,0.0,-4,6
+jennifer.jacobs@example.com,Web,1.7,0.0,14,6
+cody.zuniga@example.com,Web,1.09,0.0,29,3
+cody.zuniga@example.com,Web,1.28,1.96,-11,3
+cody.zuniga@example.com,Web,0.76,3.35,-67,3
+courtney.anderson@example.com,Mobile App,0.36,2.35,42,4
+courtney.anderson@example.com,Web,0.77,1.56,-98,4
+courtney.anderson@example.com,Web,1.6,0.0,46,4
+courtney.anderson@example.com,Web,0.71,0.0,14,4
+brittany.bryant@example.com,Web,0.01,0.0,-19,8
+brittany.bryant@example.com,Mobile App,0.28,0.0,-91,8
+brittany.bryant@example.com,Mobile App,0.5,0.0,13,8
+brittany.bryant@example.com,Mobile App,1.33,0.0,-3,8
+brittany.bryant@example.com,Mobile App,1.82,0.0,48,8
+brittany.bryant@example.com,Mobile App,1.87,1.94,-27,8
+brittany.bryant@example.com,Mobile App,1.39,1.67,-33,8
+brittany.bryant@example.com,Mobile App,1.38,0.0,17,8
+aaron.ochoa@example.com,Mobile App,0.89,0.0,22,3
+aaron.ochoa@example.com,Mobile App,0.65,2.19,18,3
+aaron.ochoa@example.com,Web,0.42,0.0,-98,3
+amy.lopez@example.com,Mobile App,0.03,0.0,-61,4
+amy.lopez@example.com,Mobile App,0.78,0.0,-88,4
+amy.lopez@example.com,Mobile App,0.93,2.24,-68,4
+amy.lopez@example.com,Mobile App,0.44,0.0,-15,4
+renee.aguirre@example.com,Web,0.54,0.0,-17,2
+renee.aguirre@example.com,Mobile App,0.81,0.0,-46,2
+edwin.booker@example.com,Web,1.08,0.0,-17,4
+edwin.booker@example.com,Mobile App,1.21,0.0,-21,4
+edwin.booker@example.com,Mobile App,0.55,1.32,14,4
+edwin.booker@example.com,Mobile App,1.85,3.72,-13,4
+larry.lloyd@example.com,Mobile App,1.11,0.0,34,2
+larry.lloyd@example.com,Mobile App,0.9,2.22,-10,2
+david.tate@example.com,Mobile App,1.61,3.84,-91,2
+david.tate@example.com,Mobile App,0.65,0.0,-75,2
+sharon.moore@example.com,Mobile App,1.62,0.0,-15,5
+sharon.moore@example.com,Mobile App,0.79,2.0,15,5
+sharon.moore@example.com,Web,0.37,0.0,31,5
+sharon.moore@example.com,Mobile App,0.03,0.0,-46,5
+sharon.moore@example.com,Web,1.71,0.0,5,5
+brenda.foster@example.com,Mobile App,2.0,0.0,-73,3
+brenda.foster@example.com,Mobile App,1.71,2.73,18,3
+brenda.foster@example.com,Mobile App,1.74,0.0,-20,3
+sarah.shea@example.com,Web,1.46,1.15,-89,4
+sarah.shea@example.com,Web,0.1,3.31,8,4
+sarah.shea@example.com,Mobile App,0.35,0.0,47,4
+sarah.shea@example.com,Web,1.78,0.0,11,4
+john.williams@example.com,Mobile App,1.23,2.45,-88,3
+john.williams@example.com,Web,0.25,1.23,3,3
+john.williams@example.com,Mobile App,1.44,3.93,-57,3
+shannon.weiss@example.com,Web,0.23,0.0,-16,5
+shannon.weiss@example.com,Web,0.32,3.66,-3,5
+shannon.weiss@example.com,Mobile App,1.34,0.0,-7,5
+shannon.weiss@example.com,Mobile App,1.33,3.02,20,5
+shannon.weiss@example.com,Web,0.28,3.95,18,5
+dominique.ryan@example.com,Web,0.86,0.0,-77,5
+dominique.ryan@example.com,Mobile App,0.35,0.0,11,5
+dominique.ryan@example.com,Web,1.55,1.21,-6,5
+dominique.ryan@example.com,Mobile App,1.44,2.51,34,5
+dominique.ryan@example.com,Mobile App,0.29,0.0,6,5
+morgan.harris@example.com,Web,1.16,1.98,20,4
+morgan.harris@example.com,Web,1.07,0.0,-2,4
+morgan.harris@example.com,Mobile App,0.57,2.31,15,4
+morgan.harris@example.com,Web,1.74,0.0,-53,4
+diana.hebert@example.com,Web,1.11,0.0,26,8
+diana.hebert@example.com,Mobile App,0.47,2.43,-12,8
+diana.hebert@example.com,Mobile App,0.99,0.0,1,8
+diana.hebert@example.com,Mobile App,1.69,2.31,-1,8
+diana.hebert@example.com,Web,0.92,1.44,18,8
+diana.hebert@example.com,Mobile App,1.45,0.0,14,8
+diana.hebert@example.com,Mobile App,1.03,0.0,14,8
+diana.hebert@example.com,Web,0.68,0.0,24,8
+christian.lewis@example.com,Mobile App,1.85,0.0,36,6
+christian.lewis@example.com,Mobile App,0.04,2.51,38,6
+christian.lewis@example.com,Web,1.9,0.0,17,6
+christian.lewis@example.com,Web,1.96,3.54,-74,6
+christian.lewis@example.com,Web,0.61,1.91,13,6
+christian.lewis@example.com,Mobile App,1.61,0.0,38,6
+nicole.jackson@example.com,Mobile App,1.51,0.0,-59,3
+nicole.jackson@example.com,Web,0.03,3.94,48,3
+nicole.jackson@example.com,Web,0.59,0.0,11,3
+kathryn.jordan@example.com,Mobile App,0.86,0.0,-91,1
+derek.zamora@example.com,Mobile App,0.69,1.29,-45,5
+derek.zamora@example.com,Mobile App,0.73,0.0,-13,5
+derek.zamora@example.com,Web,1.41,0.0,5,5
+derek.zamora@example.com,Web,0.33,0.0,-80,5
+derek.zamora@example.com,Web,0.7,2.28,-83,5
+michael.taylor@example.com,Mobile App,0.34,3.88,1,3
+michael.taylor@example.com,Mobile App,1.53,2.25,35,3
+michael.taylor@example.com,Web,0.18,2.57,32,3
+hannah.johnston@example.com,Mobile App,0.55,0.0,20,1
+molly.perez@example.com,Web,0.5,0.0,50,5
+molly.perez@example.com,Mobile App,1.16,2.71,-82,5
+molly.perez@example.com,Mobile App,0.64,0.0,-22,5
+molly.perez@example.com,Web,1.95,3.07,9,5
+molly.perez@example.com,Mobile App,1.22,3.74,-4,5
+wendy.maddox@example.com,Web,0.35,0.0,1,3
+wendy.maddox@example.com,Mobile App,0.04,0.0,35,3
+wendy.maddox@example.com,Web,0.48,3.9,23,3
+warren.ayala@example.com,Web,0.69,1.02,-23,3
+warren.ayala@example.com,Web,0.52,1.17,9,3
+warren.ayala@example.com,Web,0.93,2.51,40,3
+kimberly.morris@example.com,Mobile App,1.98,2.85,-36,5
+kimberly.morris@example.com,Mobile App,0.88,1.71,1,5
+kimberly.morris@example.com,Mobile App,0.61,2.14,-16,5
+kimberly.morris@example.com,Mobile App,1.32,1.86,9,5
+kimberly.morris@example.com,Mobile App,0.24,3.59,24,5
+christina.branch@example.com,Mobile App,0.42,0.0,18,5
+christina.branch@example.com,Mobile App,1.97,1.02,-17,5
+christina.branch@example.com,Mobile App,1.48,0.0,20,5
+christina.branch@example.com,Web,1.4,0.0,-78,5
+christina.branch@example.com,Web,1.55,0.0,-35,5
+keith.cooper@example.com,Mobile App,0.78,0.0,-1,5
+keith.cooper@example.com,Web,0.75,3.79,44,5
+keith.cooper@example.com,Web,1.42,0.0,-17,5
+keith.cooper@example.com,Mobile App,0.79,0.0,2,5
+keith.cooper@example.com,Mobile App,1.18,2.28,32,5
+heather.barnett@example.com,Web,0.3,1.15,4,5
+heather.barnett@example.com,Mobile App,0.66,0.0,47,5
+heather.barnett@example.com,Mobile App,1.01,0.0,4,5
+heather.barnett@example.com,Web,1.55,3.11,-12,5
+heather.barnett@example.com,Web,0.35,0.0,14,5
+michelle.smith@example.com,Mobile App,1.61,0.0,46,6
+michelle.smith@example.com,Mobile App,0.84,0.0,7,6
+michelle.smith@example.com,Web,1.08,0.0,-80,6
+michelle.smith@example.com,Web,0.63,1.98,32,6
+michelle.smith@example.com,Mobile App,0.11,0.0,-5,6
+michelle.smith@example.com,Mobile App,0.36,3.45,3,6
+kevin.burns@example.com,Mobile App,0.83,0.0,3,4
+kevin.burns@example.com,Mobile App,0.35,2.11,38,4
+kevin.burns@example.com,Mobile App,1.51,3.89,19,4
+kevin.burns@example.com,Mobile App,1.15,2.38,-16,4
+penny.sandoval@example.com,Web,0.81,1.78,-78,9
+penny.sandoval@example.com,Mobile App,0.79,1.91,-83,9
+penny.sandoval@example.com,Mobile App,0.55,1.33,-31,9
+penny.sandoval@example.com,Web,0.78,2.6,-17,9
+penny.sandoval@example.com,Web,0.28,1.11,-17,9
+penny.sandoval@example.com,Mobile App,1.88,0.0,-19,9
+penny.sandoval@example.com,Web,1.67,0.0,-16,9
+penny.sandoval@example.com,Web,1.1,1.29,-45,9
+penny.sandoval@example.com,Mobile App,0.12,2.87,-9,9
+jamie.taylor@example.com,Web,0.27,1.04,-32,4
+jamie.taylor@example.com,Mobile App,0.92,0.0,-18,4
+jamie.taylor@example.com,Web,0.9,0.0,36,4
+jamie.taylor@example.com,Mobile App,0.82,0.0,-91,4
+jack.franco@example.com,Mobile App,0.18,2.84,-16,5
+jack.franco@example.com,Web,1.0,0.0,15,5
+jack.franco@example.com,Mobile App,0.54,3.34,-78,5
+jack.franco@example.com,Mobile App,1.18,0.0,-70,5
+jack.franco@example.com,Mobile App,1.14,1.01,23,5
+valerie.jensen@example.com,Mobile App,0.82,1.34,-18,2
+valerie.jensen@example.com,Web,0.01,0.0,-3,2
+jack.hughes@example.com,Mobile App,1.89,3.75,-93,1
+hailey.delacruz@example.com,Web,1.57,0.0,-5,3
+hailey.delacruz@example.com,Web,1.37,0.0,-9,3
+hailey.delacruz@example.com,Mobile App,1.84,3.5,5,3
+margaret.williams@example.com,Web,0.78,0.0,8,1
+kim.mitchell@example.com,Mobile App,1.1,2.24,-34,2
+kim.mitchell@example.com,Mobile App,0.4,2.5,43,2
+derek.gutierrez@example.com,Mobile App,0.82,0.0,50,4
+derek.gutierrez@example.com,Mobile App,0.71,1.6,29,4
+derek.gutierrez@example.com,Web,0.3,1.87,-9,4
+derek.gutierrez@example.com,Mobile App,0.85,2.12,45,4
+alexandria.cruz@example.com,Web,0.46,0.0,0,6
+alexandria.cruz@example.com,Web,0.75,1.6,-17,6
+alexandria.cruz@example.com,Mobile App,0.43,0.0,-43,6
+alexandria.cruz@example.com,Mobile App,0.75,3.42,44,6
+alexandria.cruz@example.com,Web,1.99,0.0,14,6
+alexandria.cruz@example.com,Web,1.92,0.0,-14,6
+keith.white@example.com,Web,1.15,3.3,9,4
+keith.white@example.com,Web,0.76,1.88,36,4
+keith.white@example.com,Mobile App,1.1,0.0,-44,4
+keith.white@example.com,Web,0.14,0.0,-20,4
+melissa.estrada@example.com,Web,0.13,1.07,-18,4
+melissa.estrada@example.com,Mobile App,1.35,0.0,10,4
+melissa.estrada@example.com,Web,1.91,0.0,-61,4
+melissa.estrada@example.com,Web,1.45,0.0,-20,4
+michael.johnson@example.com,Web,0.06,0.0,40,9
+michael.johnson@example.com,Mobile App,1.78,0.0,-99,9
+michael.johnson@example.com,Web,0.76,3.1,-72,9
+michael.johnson@example.com,Mobile App,1.2,2.83,7,9
+michael.johnson@example.com,Mobile App,0.01,0.0,36,9
+cheryl.rodriguez@example.com,Mobile App,0.98,2.36,-1,9
+cheryl.rodriguez@example.com,Mobile App,0.51,2.94,-17,9
+cheryl.rodriguez@example.com,Mobile App,0.63,3.46,46,9
+cheryl.rodriguez@example.com,Web,0.84,0.0,42,9
+cheryl.rodriguez@example.com,Mobile App,0.39,0.0,36,9
+cheryl.rodriguez@example.com,Web,1.81,0.0,20,9
+cheryl.rodriguez@example.com,Mobile App,1.4,0.0,-17,9
+cheryl.rodriguez@example.com,Web,0.14,3.58,42,9
+cheryl.rodriguez@example.com,Web,1.99,3.04,19,9
+travis.white@example.com,Web,0.98,2.3,-53,1
+alex.harris@example.com,Mobile App,0.54,0.0,14,5
+alex.harris@example.com,Mobile App,1.68,0.0,42,5
+alex.harris@example.com,Mobile App,0.39,3.95,-28,5
+alex.harris@example.com,Mobile App,1.67,0.0,-10,5
+alex.harris@example.com,Mobile App,0.89,0.0,11,5
+martha.nielsen@example.com,Web,0.3,0.0,36,6
+martha.nielsen@example.com,Mobile App,0.39,0.0,50,6
+martha.nielsen@example.com,Mobile App,0.66,1.45,-98,6
+martha.nielsen@example.com,Web,1.39,3.0,-76,6
+martha.nielsen@example.com,Web,1.36,1.8,-18,6
+martha.nielsen@example.com,Web,0.01,3.56,-15,6
+jared.jennings@example.com,Web,0.28,0.0,40,6
+jared.jennings@example.com,Web,1.44,2.32,44,6
+jared.jennings@example.com,Web,1.27,2.95,-7,6
+jared.jennings@example.com,Mobile App,1.25,0.0,48,6
+jared.jennings@example.com,Web,0.91,1.68,-18,6
+jared.jennings@example.com,Web,1.04,0.0,-42,6
+janet.edwards@example.com,Web,1.75,0.0,-17,3
+janet.edwards@example.com,Web,1.45,0.0,-75,3
+janet.edwards@example.com,Mobile App,1.93,1.87,8,3
+kristen.strickland@example.com,Mobile App,0.67,0.0,0,3
+kristen.strickland@example.com,Mobile App,0.62,2.66,20,3
+kristen.strickland@example.com,Web,1.35,3.7,35,3
+kayla.garcia@example.com,Web,0.08,0.0,18,2
+kayla.garcia@example.com,Mobile App,1.04,2.14,-27,2
+andrew.blake@example.com,Mobile App,1.8,0.0,-35,2
+andrew.blake@example.com,Web,0.81,0.0,-17,2
+willie.clark@example.com,Mobile App,1.22,0.0,-63,2
+willie.clark@example.com,Mobile App,1.54,0.0,-10,2
+thomas.lowe@example.com,Mobile App,1.38,0.0,10,3
+thomas.lowe@example.com,Web,0.25,1.25,10,3
+thomas.lowe@example.com,Mobile App,0.67,1.78,-41,3
+jennifer.lambert@example.com,Web,0.1,0.0,42,4
+jennifer.lambert@example.com,Web,1.68,1.55,35,4
+jennifer.lambert@example.com,Web,1.73,0.0,-71,4
+jennifer.lambert@example.com,Web,0.15,0.0,40,4
+douglas.huang@example.com,Mobile App,1.67,0.0,-47,6
+douglas.huang@example.com,Web,0.82,0.0,-1,6
+douglas.huang@example.com,Web,0.44,3.45,17,6
+douglas.huang@example.com,Web,0.54,2.27,50,6
+douglas.huang@example.com,Web,0.25,0.0,9,6
+douglas.huang@example.com,Mobile App,0.2,3.66,29,6
+katrina.munoz@example.com,Web,0.98,1.66,-99,7
+katrina.munoz@example.com,Mobile App,0.89,2.9,44,7
+katrina.munoz@example.com,Mobile App,0.03,1.18,-16,7
+katrina.munoz@example.com,Mobile App,1.87,0.0,-18,7
+katrina.munoz@example.com,Web,0.56,3.19,-16,7
+katrina.munoz@example.com,Mobile App,0.37,1.92,39,7
+katrina.munoz@example.com,Mobile App,1.84,0.0,-7,7
+christine.kelley@example.com,Web,1.81,3.66,7,5
+christine.kelley@example.com,Web,0.72,2.89,-67,5
+christine.kelley@example.com,Mobile App,0.98,0.0,14,5
+christine.kelley@example.com,Mobile App,1.5,1.25,-16,5
+christine.kelley@example.com,Web,0.84,0.0,-32,5
+mark.davis@example.com,Web,0.36,2.34,-24,3
+mark.davis@example.com,Mobile App,0.46,0.0,20,3
+mark.davis@example.com,Web,0.76,1.41,-12,3
+daisy.smith@example.com,Mobile App,1.93,0.0,-19,2
+daisy.smith@example.com,Web,1.0,0.0,38,2
+samantha.zuniga@example.com,Web,1.21,0.0,-93,2
+samantha.zuniga@example.com,Mobile App,1.1,0.0,13,2
+daniel.campbell@example.com,Mobile App,1.09,0.0,-12,2
+daniel.campbell@example.com,Mobile App,1.91,0.0,35,2
+don.peters@example.com,Mobile App,0.43,2.07,27,2
+don.peters@example.com,Mobile App,1.6,1.06,50,2
+michelle.english@example.com,Web,0.51,0.0,-11,6
+michelle.english@example.com,Mobile App,1.7,0.0,-83,6
+michelle.english@example.com,Mobile App,0.48,0.0,18,6
+michelle.english@example.com,Mobile App,1.5,3.94,-28,6
+michelle.english@example.com,Web,0.69,3.34,-1,6
+michelle.english@example.com,Mobile App,0.26,2.21,34,6
+tyrone.simon@example.com,Web,0.48,0.0,12,4
+tyrone.simon@example.com,Mobile App,1.79,1.41,-11,4
+tyrone.simon@example.com,Web,1.02,0.0,35,4
+tyrone.simon@example.com,Mobile App,1.79,0.0,24,4
+douglas.simon@example.com,Mobile App,0.11,0.0,-55,4
+douglas.simon@example.com,Mobile App,0.74,0.0,-8,4
+douglas.simon@example.com,Web,1.21,2.47,-35,4
+douglas.simon@example.com,Web,1.26,0.0,-15,4
+taylor.hunt@example.com,Mobile App,1.75,0.0,-87,3
+taylor.hunt@example.com,Mobile App,1.48,2.35,-60,3
+taylor.hunt@example.com,Web,1.37,0.0,-11,3
+veronica.lamb@example.com,Mobile App,0.14,0.0,-81,3
+veronica.lamb@example.com,Mobile App,0.69,0.0,6,3
+veronica.lamb@example.com,Web,0.09,3.17,-63,3
+cassandra.kent@example.com,Mobile App,1.18,3.23,-70,3
+cassandra.kent@example.com,Mobile App,1.84,0.0,-21,3
+cassandra.kent@example.com,Web,1.86,0.0,-32,3
+victoria.townsend@example.com,Mobile App,0.38,2.1,17,3
+victoria.townsend@example.com,Web,1.61,0.0,-15,3
+victoria.townsend@example.com,Web,1.63,2.69,9,3
+thomas.vaughan@example.com,Web,1.4,0.0,21,4
+thomas.vaughan@example.com,Mobile App,0.16,2.4,-2,4
+thomas.vaughan@example.com,Web,0.91,2.28,-5,4
+thomas.vaughan@example.com,Mobile App,1.54,0.0,-18,4
+suzanne.vega@example.com,Web,1.75,3.62,7,5
+suzanne.vega@example.com,Web,0.97,0.0,-75,5
+suzanne.vega@example.com,Mobile App,1.12,3.47,42,5
+suzanne.vega@example.com,Mobile App,0.55,0.0,-12,5
+suzanne.vega@example.com,Web,0.96,0.0,-63,5
+steven.leonard@example.com,Mobile App,1.3,1.94,-77,1
+gina.bell@example.com,Mobile App,0.82,2.57,-9,3
+gina.bell@example.com,Web,0.63,1.12,-97,3
+gina.bell@example.com,Mobile App,1.12,1.24,3,3
+rachel.knight@example.com,Mobile App,0.61,0.0,13,4
+rachel.knight@example.com,Mobile App,0.68,3.93,-62,4
+rachel.knight@example.com,Mobile App,0.81,0.0,37,4
+rachel.knight@example.com,Web,1.08,0.0,13,4
+joshua.brown@example.com,Web,1.65,3.41,12,5
+joshua.brown@example.com,Mobile App,1.96,0.0,-98,5
+joshua.brown@example.com,Web,0.24,1.35,13,5
+joshua.brown@example.com,Web,0.62,0.0,12,5
+joshua.brown@example.com,Web,0.42,0.0,49,5
+jeffery.schneider@example.com,Mobile App,0.57,1.51,10,3
+jeffery.schneider@example.com,Mobile App,1.67,0.0,-65,3
+jeffery.schneider@example.com,Mobile App,1.29,2.16,12,3
+rebecca.andrews@example.com,Web,0.15,0.0,-15,8
+rebecca.andrews@example.com,Mobile App,1.35,2.04,12,8
+rebecca.andrews@example.com,Mobile App,1.35,0.0,47,8
+rebecca.andrews@example.com,Mobile App,1.62,3.12,-3,8
+rebecca.andrews@example.com,Mobile App,0.7,0.0,19,8
+rebecca.andrews@example.com,Web,1.19,3.69,38,8
+rebecca.andrews@example.com,Web,0.19,0.0,-20,8
+rebecca.andrews@example.com,Web,1.51,3.55,-56,8
+michael.castaneda@example.com,Web,1.15,3.19,16,5
+michael.castaneda@example.com,Web,1.64,3.71,-6,5
+michael.castaneda@example.com,Web,0.65,0.0,34,5
+michael.castaneda@example.com,Web,0.68,0.0,-100,5
+michael.castaneda@example.com,Mobile App,1.76,0.0,-24,5
+austin.johnson@example.com,Mobile App,0.2,1.47,-1,5
+austin.johnson@example.com,Mobile App,0.23,0.0,-64,5
+austin.johnson@example.com,Mobile App,0.54,0.0,3,5
+austin.johnson@example.com,Mobile App,0.06,3.06,-14,5
+austin.johnson@example.com,Web,1.47,0.0,-15,5
+richard.lewis@example.com,Web,0.99,0.0,17,2
+richard.lewis@example.com,Mobile App,1.56,0.0,26,2
+alexis.chen@example.com,Mobile App,1.34,3.72,-73,4
+alexis.chen@example.com,Mobile App,1.84,0.0,-55,4
+alexis.chen@example.com,Web,0.52,0.0,-28,4
+alexis.chen@example.com,Web,0.89,0.0,-73,4
+mark.daugherty@example.com,Mobile App,1.55,2.79,-17,3
+mark.daugherty@example.com,Mobile App,0.17,2.38,29,3
+mark.daugherty@example.com,Mobile App,1.38,0.0,19,3
+gary.wood@example.com,Web,0.52,3.03,11,6
+gary.wood@example.com,Mobile App,1.16,0.0,-72,6
+gary.wood@example.com,Web,0.17,2.49,14,6
+gary.wood@example.com,Web,0.64,0.0,-67,6
+gary.wood@example.com,Mobile App,1.46,0.0,7,6
+gary.wood@example.com,Web,1.14,0.0,36,6
+harry.davis@example.com,Mobile App,1.42,0.0,-72,3
+harry.davis@example.com,Mobile App,1.92,1.39,14,3
+harry.davis@example.com,Web,0.19,0.0,37,3
+cheryl.miller@example.com,Mobile App,1.16,0.0,4,2
+cheryl.miller@example.com,Mobile App,1.68,1.2,-17,2
+joshua.lee@example.com,Web,0.36,0.0,-84,3
+joshua.lee@example.com,Mobile App,1.66,3.79,-54,3
+joshua.lee@example.com,Web,0.51,0.0,-5,3
+bradley.yang@example.com,Web,0.5,0.0,-15,2
+bradley.yang@example.com,Web,0.92,0.0,6,2
+jerry.rodriguez@example.com,Web,1.99,2.71,7,2
+jerry.rodriguez@example.com,Web,0.45,2.05,10,2
+gregory.brooks@example.com,Mobile App,0.59,3.97,4,3
+gregory.brooks@example.com,Mobile App,0.16,0.0,49,3
+gregory.brooks@example.com,Mobile App,1.44,2.74,1,3
+jeffrey.phillips@example.com,Mobile App,0.54,1.51,36,7
+jeffrey.phillips@example.com,Web,1.49,2.07,23,7
+jeffrey.phillips@example.com,Mobile App,1.25,0.0,-38,7
+jeffrey.phillips@example.com,Mobile App,1.5,3.85,42,7
+jeffrey.phillips@example.com,Web,1.87,0.0,10,7
+jeffrey.phillips@example.com,Mobile App,0.49,0.0,-1,7
+jeffrey.phillips@example.com,Web,0.79,1.42,0,7
+alexis.patterson@example.com,Web,1.42,1.37,12,7
+alexis.patterson@example.com,Mobile App,0.43,3.31,13,7
+alexis.patterson@example.com,Mobile App,1.49,1.91,9,7
+alexis.patterson@example.com,Mobile App,0.06,3.38,-17,7
+alexis.patterson@example.com,Web,0.2,2.31,20,7
+alexis.patterson@example.com,Mobile App,0.45,0.0,-50,7
+alexis.patterson@example.com,Mobile App,0.75,0.0,-46,7
+arthur.schmidt@example.com,Web,0.85,0.0,-5,7
+arthur.schmidt@example.com,Web,0.42,0.0,6,7
+arthur.schmidt@example.com,Web,0.8,1.36,7,7
+arthur.schmidt@example.com,Mobile App,1.12,0.0,-27,7
+arthur.schmidt@example.com,Mobile App,0.98,0.0,15,7
+arthur.schmidt@example.com,Web,1.13,0.0,8,7
+arthur.schmidt@example.com,Web,0.78,0.0,31,7
+jacqueline.hodge@example.com,Web,1.41,0.0,20,2
+jacqueline.hodge@example.com,Mobile App,1.23,2.78,13,2
+helen.salazar@example.com,Mobile App,1.08,1.07,43,4
+helen.salazar@example.com,Mobile App,0.73,0.0,4,4
+helen.salazar@example.com,Mobile App,1.39,3.43,16,4
+helen.salazar@example.com,Web,1.0,0.0,-85,4
+michael.thompson@example.com,Mobile App,1.92,2.17,-13,5
+michael.thompson@example.com,Mobile App,0.92,0.0,22,5
+michael.thompson@example.com,Mobile App,0.24,3.5,-49,5
+michael.thompson@example.com,Web,1.84,1.06,-17,5
+michael.thompson@example.com,Web,0.85,3.37,-91,5
+jeremiah.gomez@example.com,Web,0.84,0.0,-59,6
+jeremiah.gomez@example.com,Mobile App,0.7,1.14,20,6
+jeremiah.gomez@example.com,Web,1.26,0.0,-90,6
+jeremiah.gomez@example.com,Web,0.38,0.0,-20,6
+jeremiah.gomez@example.com,Web,1.17,3.72,-64,6
+jeremiah.gomez@example.com,Mobile App,1.46,2.73,-16,6
+lauren.dougherty@example.com,Web,1.33,3.56,0,5
+lauren.dougherty@example.com,Mobile App,1.98,2.87,-9,5
+lauren.dougherty@example.com,Web,1.25,0.0,5,5
+lauren.dougherty@example.com,Web,1.76,0.0,-83,5
+lauren.dougherty@example.com,Mobile App,1.85,0.0,-12,5
+tyler.golden@example.com,Mobile App,0.39,1.89,-71,6
+tyler.golden@example.com,Web,0.62,0.0,0,6
+tyler.golden@example.com,Web,1.26,2.75,-33,6
+tyler.golden@example.com,Mobile App,0.86,3.38,6,6
+tyler.golden@example.com,Web,1.67,0.0,-35,6
+tyler.golden@example.com,Web,0.78,0.0,7,6
+diana.buchanan@example.com,Web,0.24,0.0,-31,3
+diana.buchanan@example.com,Web,1.0,0.0,7,3
+diana.buchanan@example.com,Mobile App,0.46,1.77,-7,3
+eddie.mitchell@example.com,Mobile App,1.29,0.0,-58,2
+eddie.mitchell@example.com,Mobile App,0.68,0.0,-7,2
+jorge.lopez@example.com,Web,0.08,1.91,-28,4
+jorge.lopez@example.com,Mobile App,1.36,3.73,8,4
+jorge.lopez@example.com,Web,0.09,2.6,9,4
+jorge.lopez@example.com,Mobile App,0.31,0.0,-98,4
+kayla.gould@example.com,Web,0.2,1.26,7,3
+kayla.gould@example.com,Web,0.83,0.0,-17,3
+kayla.gould@example.com,Web,1.74,0.0,-87,3
+kyle.morales@example.com,Mobile App,0.1,0.0,19,5
+kyle.morales@example.com,Web,0.85,2.19,-26,5
+kyle.morales@example.com,Web,1.43,2.84,-31,5
+kyle.morales@example.com,Web,1.2,0.0,10,5
+kyle.morales@example.com,Mobile App,1.36,0.0,25,5
+amanda.griffin@example.com,Web,0.39,2.1,3,3
+amanda.griffin@example.com,Mobile App,0.77,0.0,-4,3
+amanda.griffin@example.com,Web,1.33,0.0,-72,3
+michael.parker@example.com,Web,0.7,1.55,8,5
+michael.parker@example.com,Mobile App,0.67,3.41,-30,5
+michael.parker@example.com,Web,0.68,0.0,33,5
+michael.parker@example.com,Web,1.67,1.02,14,5
+michael.parker@example.com,Mobile App,1.14,0.0,-33,5
+vanessa.fox@example.com,Web,0.1,0.0,-7,2
+vanessa.fox@example.com,Web,1.44,0.0,-9,2
+bobby.mckenzie@example.com,Mobile App,1.76,3.6,-96,3
+bobby.mckenzie@example.com,Web,0.24,0.0,-13,3
+bobby.mckenzie@example.com,Mobile App,1.62,0.0,-29,3
+robert.vasquez@example.com,Mobile App,0.75,0.0,10,2
+robert.vasquez@example.com,Web,1.83,0.0,26,2
+nathaniel.quinn@example.com,Web,0.52,0.0,16,4
+nathaniel.quinn@example.com,Mobile App,0.91,3.91,-2,4
+nathaniel.quinn@example.com,Mobile App,0.09,3.27,18,4
+nathaniel.quinn@example.com,Web,0.89,0.0,20,4
+brandon.carter@example.com,Web,1.27,2.84,29,3
+brandon.carter@example.com,Mobile App,0.55,1.19,-11,3
+brandon.carter@example.com,Mobile App,1.65,3.62,-1,3
+derrick.campbell@example.com,Mobile App,1.98,0.0,28,2
+derrick.campbell@example.com,Mobile App,1.8,0.0,-70,2
+darryl.anderson@example.com,Mobile App,1.43,0.0,-57,6
+darryl.anderson@example.com,Mobile App,0.34,1.86,-21,6
+darryl.anderson@example.com,Mobile App,0.6,0.0,46,6
+darryl.anderson@example.com,Web,0.63,0.0,13,6
+darryl.anderson@example.com,Mobile App,0.25,2.29,35,6
+darryl.anderson@example.com,Mobile App,1.11,3.14,-41,6
+jeffrey.vincent@example.com,Mobile App,1.55,0.0,40,4
+jeffrey.vincent@example.com,Web,0.75,0.0,7,4
+jeffrey.vincent@example.com,Web,0.79,0.0,16,4
+jeffrey.vincent@example.com,Web,0.61,3.84,37,4
+james.johnson@example.com,Mobile App,1.55,0.0,-32,6
+james.johnson@example.com,Web,1.87,0.0,-100,6
+james.johnson@example.com,Web,0.38,0.0,-95,6
+james.johnson@example.com,Web,1.67,0.0,16,6
+james.johnson@example.com,Web,1.56,0.0,32,6
+james.johnson@example.com,Mobile App,1.72,3.04,5,6
+anthony.thomas@example.com,Web,0.74,0.0,-94,3
+anthony.thomas@example.com,Mobile App,1.26,0.0,3,3
+anthony.thomas@example.com,Web,1.9,2.04,5,3
+juan.winters@example.com,Mobile App,0.28,1.5,-8,4
+juan.winters@example.com,Mobile App,1.37,1.57,46,4
+juan.winters@example.com,Mobile App,1.55,0.0,-8,4
+juan.winters@example.com,Web,1.39,0.0,35,4
+noah.lewis@example.com,Web,1.81,3.4,49,5
+noah.lewis@example.com,Mobile App,0.66,2.72,-84,5
+noah.lewis@example.com,Mobile App,1.59,2.34,-16,5
+noah.lewis@example.com,Web,0.49,0.0,7,5
+noah.lewis@example.com,Web,0.96,0.0,15,5
+christopher.snyder@example.com,Mobile App,0.54,0.0,-75,5
+christopher.snyder@example.com,Mobile App,1.74,2.25,38,5
+christopher.snyder@example.com,Web,1.43,0.0,-16,5
+christopher.snyder@example.com,Web,0.41,2.56,36,5
+christopher.snyder@example.com,Web,0.29,2.13,-12,5
+travis.garcia@example.com,Mobile App,1.73,2.8,-54,5
+travis.garcia@example.com,Web,0.24,1.5,1,5
+travis.garcia@example.com,Web,1.25,1.9,4,5
+travis.garcia@example.com,Web,1.28,1.18,44,5
+travis.garcia@example.com,Mobile App,1.7,3.51,47,5
+richard.hall@example.com,Mobile App,0.01,1.32,43,5
+richard.hall@example.com,Web,0.32,0.0,-48,5
+richard.hall@example.com,Web,1.71,0.0,27,5
+richard.hall@example.com,Web,0.76,0.0,37,5
+richard.hall@example.com,Mobile App,0.11,0.0,44,5
+jerry.dunlap@example.com,Web,1.13,0.0,-43,5
+jerry.dunlap@example.com,Mobile App,1.69,0.0,-3,5
+jerry.dunlap@example.com,Mobile App,1.6,2.7,-68,5
+jerry.dunlap@example.com,Web,1.8,2.86,-14,5
+jerry.dunlap@example.com,Web,0.99,3.77,45,5
+kathleen.guerrero@example.com,Web,0.07,3.4,23,4
+kathleen.guerrero@example.com,Mobile App,1.03,3.87,46,4
+kathleen.guerrero@example.com,Web,1.76,0.0,17,4
+kathleen.guerrero@example.com,Web,1.52,0.0,20,4
+scott.johnson@example.com,Mobile App,0.93,2.5,10,3
+scott.johnson@example.com,Web,0.74,1.65,-56,3
+scott.johnson@example.com,Web,1.24,0.0,6,3
+ashley.alvarez@example.com,Mobile App,0.73,0.0,-62,5
+ashley.alvarez@example.com,Mobile App,0.49,0.0,5,5
+ashley.alvarez@example.com,Web,1.45,1.34,-61,5
+ashley.alvarez@example.com,Mobile App,1.21,0.0,47,5
+ashley.alvarez@example.com,Mobile App,1.33,3.65,45,5
+brandon.hood@example.com,Web,1.94,0.0,15,5
+brandon.hood@example.com,Web,1.82,2.54,22,5
+brandon.hood@example.com,Web,1.11,0.0,-92,5
+brandon.hood@example.com,Web,1.44,0.0,5,5
+brandon.hood@example.com,Mobile App,0.86,1.95,1,5
+christopher.watts@example.com,Web,1.27,3.12,-37,4
+christopher.watts@example.com,Mobile App,0.8,2.6,-10,4
+christopher.watts@example.com,Web,1.85,1.48,-4,4
+christopher.watts@example.com,Mobile App,0.84,3.27,-13,4
+nicholas.myers@example.com,Mobile App,0.06,0.0,2,4
+nicholas.myers@example.com,Web,0.61,0.0,33,4
+nicholas.myers@example.com,Web,0.41,0.0,42,4
+nicholas.myers@example.com,Web,0.73,0.0,-95,4
+james.reid@example.com,Web,1.96,0.0,-5,7
+james.reid@example.com,Mobile App,1.65,0.0,28,7
+james.reid@example.com,Mobile App,1.82,0.0,-62,7
+james.reid@example.com,Mobile App,0.03,0.0,35,7
+james.reid@example.com,Mobile App,0.67,1.13,13,7
+james.reid@example.com,Mobile App,1.52,1.93,11,7
+james.reid@example.com,Web,0.65,0.0,-63,7
+brittany.nelson@example.com,Mobile App,0.12,3.38,-68,2
+brittany.nelson@example.com,Web,0.99,0.0,-70,2
+john.robertson@example.com,Mobile App,1.89,0.0,43,2
+john.robertson@example.com,Web,0.14,2.87,-2,2
+john.francis@example.com,Mobile App,0.27,3.64,-57,1
+laura.collins@example.com,Mobile App,1.37,2.49,14,4
+laura.collins@example.com,Mobile App,1.7,2.76,-37,4
+laura.collins@example.com,Mobile App,0.68,3.36,2,4
+laura.collins@example.com,Web,1.18,0.0,-1,4
+michele.miller@example.com,Web,0.33,3.03,-70,6
+michele.miller@example.com,Web,1.84,3.44,20,6
+michele.miller@example.com,Mobile App,0.78,2.59,25,6
+michele.miller@example.com,Web,0.15,1.38,-53,6
+michele.miller@example.com,Web,1.8,1.24,-3,6
+michele.miller@example.com,Web,0.54,0.0,-19,6
+john.martinez@example.com,Mobile App,1.99,1.01,46,8
+john.martinez@example.com,Mobile App,1.13,3.74,16,8
+john.martinez@example.com,Mobile App,0.22,3.34,-19,8
+john.martinez@example.com,Web,0.2,0.0,20,8
+leslie.coleman@example.com,Mobile App,0.34,2.79,0,2
+leslie.coleman@example.com,Mobile App,0.6,0.0,-65,2
+rebecca.jennings@example.com,Mobile App,1.38,2.61,-58,3
+rebecca.jennings@example.com,Mobile App,0.65,1.43,-10,3
+rebecca.jennings@example.com,Web,1.89,1.33,14,3
+ruth.welch@example.com,Web,1.36,0.0,44,5
+ruth.welch@example.com,Mobile App,0.73,3.15,24,5
+ruth.welch@example.com,Mobile App,0.96,3.16,-51,5
+ruth.welch@example.com,Mobile App,1.06,1.8,17,5
+ruth.welch@example.com,Web,0.48,3.4,4,5
+joan.chavez@example.com,Web,0.85,0.0,-80,3
+joan.chavez@example.com,Web,0.51,3.87,-91,3
+joan.chavez@example.com,Mobile App,0.05,3.5,-14,3
+jennifer.saunders@example.com,Web,0.5,0.0,-67,5
+jennifer.saunders@example.com,Mobile App,1.73,2.16,-79,5
+jennifer.saunders@example.com,Web,1.25,0.0,8,5
+jennifer.saunders@example.com,Web,1.96,1.21,-2,5
+jennifer.saunders@example.com,Web,1.88,0.0,-44,5
+nancy.duffy@example.com,Web,0.34,0.0,-54,6
+nancy.duffy@example.com,Mobile App,1.75,0.0,-15,6
+nancy.duffy@example.com,Mobile App,0.81,2.96,-99,6
+nancy.duffy@example.com,Mobile App,1.5,1.52,-65,6
+nancy.duffy@example.com,Mobile App,0.51,0.0,-91,6
+nancy.duffy@example.com,Web,1.82,1.35,0,6
+roy.green@example.com,Mobile App,0.68,3.49,-12,6
+roy.green@example.com,Mobile App,1.46,2.26,5,6
+roy.green@example.com,Mobile App,0.7,1.02,11,6
+roy.green@example.com,Mobile App,0.56,0.0,-16,6
+roy.green@example.com,Mobile App,1.34,0.0,-96,6
+roy.green@example.com,Mobile App,1.26,0.0,2,6
+sophia.li@example.com,Web,1.78,0.0,-20,3
+sophia.li@example.com,Web,1.8,3.94,-11,3
+sophia.li@example.com,Web,0.25,1.75,2,3
+jose.williamson@example.com,Web,1.93,3.33,-1,4
+jose.williamson@example.com,Web,1.56,0.0,22,4
+jose.williamson@example.com,Mobile App,1.47,0.0,5,4
+jose.williamson@example.com,Web,1.59,2.83,-31,4
+charles.hawkins@example.com,Web,0.26,1.35,18,4
+charles.hawkins@example.com,Mobile App,0.61,3.81,9,4
+charles.hawkins@example.com,Web,1.99,2.7,-3,4
+charles.hawkins@example.com,Mobile App,0.49,0.0,19,4
+donald.wilson@example.com,Mobile App,1.18,0.0,-17,2
+donald.wilson@example.com,Mobile App,0.3,3.0,-25,2
+leslie.vang@example.com,Web,0.01,3.89,-18,3
+leslie.vang@example.com,Web,1.21,1.19,8,3
+leslie.vang@example.com,Mobile App,1.41,2.42,-20,3
+vanessa.hoffman@example.com,Mobile App,1.45,3.55,7,1
+adam.wang@example.com,Web,1.59,0.0,-49,5
+adam.wang@example.com,Web,0.02,0.0,-13,5
+adam.wang@example.com,Web,1.92,0.0,11,5
+adam.wang@example.com,Mobile App,1.41,2.43,-76,5
+adam.wang@example.com,Mobile App,0.32,1.98,8,5
+mary.hernandez@example.com,Web,1.07,1.48,8,4
+mary.hernandez@example.com,Web,1.65,0.0,13,4
+mary.hernandez@example.com,Web,0.15,0.0,20,4
+mary.hernandez@example.com,Web,1.59,1.72,40,4
+david.boyer@example.com,Mobile App,0.56,0.0,-22,7
+david.boyer@example.com,Mobile App,0.53,0.0,19,7
+david.boyer@example.com,Web,1.22,1.83,-89,7
+david.boyer@example.com,Mobile App,0.08,3.37,-19,7
+david.boyer@example.com,Web,0.63,0.0,11,7
+david.boyer@example.com,Web,1.78,0.0,-12,7
+david.boyer@example.com,Mobile App,1.11,0.0,-89,7
+kimberly.mitchell@example.com,Web,0.81,2.52,8,3
+kimberly.mitchell@example.com,Web,0.57,1.61,2,3
+kimberly.mitchell@example.com,Mobile App,1.31,0.0,-87,3
+caroline.davis@example.com,Web,0.23,1.0,17,1
+rebecca.woods@example.com,Web,0.51,2.85,15,4
+rebecca.woods@example.com,Web,1.87,1.53,45,4
+rebecca.woods@example.com,Mobile App,1.5,0.0,10,4
+rebecca.woods@example.com,Web,1.0,0.0,1,4
+robert.marshall@example.com,Web,1.85,3.85,11,8
+robert.marshall@example.com,Web,0.35,0.0,45,8
+robert.marshall@example.com,Web,1.0,0.0,20,8
+robert.marshall@example.com,Web,1.25,3.42,-36,8
+robert.marshall@example.com,Web,1.17,0.0,-11,8
+robert.marshall@example.com,Web,0.36,1.95,14,8
+robert.marshall@example.com,Web,1.74,0.0,3,8
+robert.marshall@example.com,Web,0.02,3.39,-32,8
+lee.ramsey@example.com,Mobile App,1.4,3.82,-80,5
+lee.ramsey@example.com,Mobile App,0.51,0.0,21,5
+lee.ramsey@example.com,Web,0.02,0.0,29,5
+lee.ramsey@example.com,Web,0.29,2.66,-68,5
+lee.ramsey@example.com,Mobile App,1.67,0.0,-10,5
+diana.stevens@example.com,Web,0.82,1.81,12,8
+diana.stevens@example.com,Web,0.08,0.0,39,8
+diana.stevens@example.com,Web,1.1,0.0,-91,8
+diana.stevens@example.com,Mobile App,0.34,3.04,-8,8
+diana.stevens@example.com,Mobile App,1.16,1.09,-41,8
+diana.stevens@example.com,Web,0.65,0.0,17,8
+diana.stevens@example.com,Mobile App,0.51,3.7,-94,8
+diana.stevens@example.com,Mobile App,0.23,1.0,-92,8
+jason.wong@example.com,Mobile App,1.84,2.09,-32,7
+jason.wong@example.com,Mobile App,0.89,3.92,-73,7
+jason.wong@example.com,Web,0.87,2.95,17,7
+jason.wong@example.com,Mobile App,0.84,1.44,33,7
+jason.wong@example.com,Mobile App,0.37,0.0,-58,7
+jason.wong@example.com,Mobile App,0.5,2.31,-80,7
+jason.wong@example.com,Web,1.73,0.0,-66,7
+andrew.cole@example.com,Web,0.77,0.0,34,3
+andrew.cole@example.com,Mobile App,1.02,0.0,-65,3
+andrew.cole@example.com,Web,0.62,0.0,-44,3
+yolanda.johnson@example.com,Mobile App,0.26,1.37,21,2
+yolanda.johnson@example.com,Web,0.48,0.0,-74,2
+pamela.wilson@example.com,Web,0.02,2.8,11,5
+pamela.wilson@example.com,Mobile App,0.41,1.57,-8,5
+pamela.wilson@example.com,Mobile App,1.33,0.0,-48,5
+pamela.wilson@example.com,Web,0.36,1.65,50,5
+pamela.wilson@example.com,Mobile App,1.23,3.61,-46,5
+david.carter@example.com,Mobile App,0.81,0.0,-20,4
+david.carter@example.com,Mobile App,0.47,0.0,19,4
+david.carter@example.com,Web,0.88,2.73,15,4
+david.carter@example.com,Web,0.52,0.0,-34,4
+laura.hahn@example.com,Web,1.59,0.0,-81,8
+laura.hahn@example.com,Mobile App,1.14,2.89,24,8
+laura.hahn@example.com,Web,0.01,0.0,-53,8
+laura.hahn@example.com,Mobile App,1.01,3.09,-98,8
+laura.hahn@example.com,Web,0.2,1.93,41,8
+laura.hahn@example.com,Web,1.98,1.67,20,8
+laura.hahn@example.com,Mobile App,0.91,1.53,-18,8
+laura.hahn@example.com,Web,1.98,2.73,26,8
+david.walker@example.com,Web,0.42,1.81,15,3
+david.walker@example.com,Web,1.46,0.0,11,3
+david.walker@example.com,Web,0.46,0.0,-46,3
+madison.williams@example.com,Mobile App,1.78,2.74,-16,6
+madison.williams@example.com,Mobile App,1.31,2.74,15,6
+madison.williams@example.com,Mobile App,1.47,0.0,13,6
+madison.williams@example.com,Web,0.06,1.02,29,6
+madison.williams@example.com,Mobile App,1.64,0.0,-65,6
+madison.williams@example.com,Web,1.13,0.0,-85,6
+lori.martinez@example.com,Mobile App,1.36,2.25,14,5
+lori.martinez@example.com,Mobile App,1.67,3.43,-5,5
+lori.martinez@example.com,Web,1.47,0.0,-68,5
+lori.martinez@example.com,Web,0.03,2.2,-92,5
+lori.martinez@example.com,Mobile App,0.68,2.23,-60,5
+michael.ortega@example.com,Web,1.51,0.0,44,5
+jennifer.holmes@example.com,Web,1.61,0.0,49,5
+jennifer.holmes@example.com,Web,1.03,2.67,20,5
+jennifer.holmes@example.com,Mobile App,0.28,0.0,-2,5
+jennifer.holmes@example.com,Mobile App,0.4,1.49,-80,5
+jennifer.holmes@example.com,Web,1.65,2.93,37,5
+teresa.barnes@example.com,Mobile App,1.18,2.55,-36,3
+teresa.barnes@example.com,Mobile App,0.0,1.29,45,3
+teresa.barnes@example.com,Web,1.93,0.0,-34,3
+kimberly.ibarra@example.com,Web,1.04,3.11,50,6
+kimberly.ibarra@example.com,Web,1.47,0.0,-72,6
+kimberly.ibarra@example.com,Mobile App,0.49,3.88,-5,6
+kimberly.ibarra@example.com,Web,0.85,0.0,15,6
+kimberly.ibarra@example.com,Mobile App,1.52,0.0,39,6
+kimberly.ibarra@example.com,Mobile App,0.46,2.12,48,6
+andrew.zamora@example.com,Mobile App,0.43,1.01,18,3
+andrew.zamora@example.com,Web,0.93,1.35,45,3
+andrew.zamora@example.com,Mobile App,0.63,2.6,-66,3
+shane.armstrong@example.com,Web,0.05,0.0,-35,1
+emily.klein@example.com,Web,0.65,2.9,10,5
+emily.klein@example.com,Mobile App,0.08,2.4,-34,5
+emily.klein@example.com,Web,1.49,3.73,-10,5
+emily.klein@example.com,Web,0.07,0.0,25,5
+emily.klein@example.com,Web,0.37,0.0,5,5
+jason.miller@example.com,Mobile App,0.76,0.0,27,4
+jason.miller@example.com,Web,1.61,0.0,0,4
+jason.miller@example.com,Mobile App,1.25,3.25,9,4
+jason.miller@example.com,Mobile App,1.55,0.0,-15,4
+david.bush@example.com,Web,0.45,0.0,11,4
+david.bush@example.com,Mobile App,1.13,0.0,0,4
+david.bush@example.com,Web,1.43,0.0,-12,4
+david.bush@example.com,Web,1.31,3.97,0,4
+david.torres@example.com,Web,0.62,2.17,17,3
+david.torres@example.com,Mobile App,0.08,0.0,-6,3
+david.torres@example.com,Web,1.98,0.0,-13,3
+michael.harrell@example.com,Mobile App,1.85,1.81,44,4
+michael.harrell@example.com,Mobile App,0.92,0.0,-47,4
+michael.harrell@example.com,Web,0.67,2.29,-18,4
+michael.harrell@example.com,Mobile App,0.13,0.0,22,4
+christopher.weber@example.com,Web,1.91,1.5,-2,4
+christopher.weber@example.com,Mobile App,1.3,1.97,-53,4
+christopher.weber@example.com,Web,0.22,0.0,-5,4
+christopher.weber@example.com,Web,1.82,2.05,33,4
+dawn.miller@example.com,Mobile App,1.44,3.04,17,4
+dawn.miller@example.com,Web,0.27,3.87,16,4
+dawn.miller@example.com,Web,1.84,3.99,32,4
+dawn.miller@example.com,Web,0.71,1.01,20,4
+andrew.rice@example.com,Mobile App,1.79,0.0,-46,3
+andrew.rice@example.com,Mobile App,0.98,2.54,-71,3
+andrew.rice@example.com,Mobile App,1.84,0.0,35,3
+mark.johnson@example.com,Mobile App,1.05,0.0,7,5
+mark.johnson@example.com,Mobile App,1.22,2.79,-64,5
+mark.johnson@example.com,Web,0.78,1.28,40,5
+mark.johnson@example.com,Mobile App,0.68,1.55,-68,5
+mark.johnson@example.com,Mobile App,1.97,2.15,-19,5
+joel.romero@example.com,Web,0.28,0.0,14,2
+joel.romero@example.com,Web,0.07,2.09,3,2
+kevin.russell@example.com,Web,1.3,0.0,3,3
+kevin.russell@example.com,Mobile App,1.07,2.67,-16,3
+kevin.russell@example.com,Mobile App,0.46,0.0,-10,3
+susan.oliver@example.com,Mobile App,1.47,0.0,2,6
+susan.oliver@example.com,Mobile App,0.63,1.69,-99,6
+susan.oliver@example.com,Web,1.88,0.0,20,6
+susan.oliver@example.com,Mobile App,0.07,0.0,-19,6
+susan.oliver@example.com,Web,1.71,0.0,-97,6
+susan.oliver@example.com,Mobile App,0.28,0.0,-10,6
+chad.davis@example.com,Mobile App,1.28,1.29,4,5
+chad.davis@example.com,Web,1.62,0.0,-31,5
+chad.davis@example.com,Mobile App,0.81,1.3,14,5
+chad.davis@example.com,Mobile App,0.13,1.46,6,5
+chad.davis@example.com,Mobile App,1.89,0.0,-28,5
+matthew.stevens@example.com,Mobile App,1.07,2.14,-1,5
+matthew.stevens@example.com,Web,0.4,0.0,11,5
+matthew.stevens@example.com,Web,0.55,0.0,-2,5
+matthew.stevens@example.com,Mobile App,1.57,0.0,50,5
+matthew.stevens@example.com,Mobile App,1.86,1.24,-13,5
+amanda.stafford@example.com,Mobile App,0.31,0.0,16,4
+amanda.stafford@example.com,Web,1.72,0.0,-90,4
+amanda.stafford@example.com,Mobile App,0.38,0.0,10,4
+amanda.stafford@example.com,Web,0.53,3.58,-18,4
+juan.morse@example.com,Web,1.42,1.75,-72,6
+juan.morse@example.com,Mobile App,1.7,0.0,47,6
+juan.morse@example.com,Mobile App,0.37,0.0,-20,6
+juan.morse@example.com,Mobile App,0.17,2.48,-87,6
+juan.morse@example.com,Web,1.58,1.01,-50,6
+juan.morse@example.com,Mobile App,1.42,1.66,-88,6
+daniel.ramirez@example.com,Mobile App,0.62,0.0,5,3
+daniel.ramirez@example.com,Web,0.47,2.36,43,3
+daniel.ramirez@example.com,Web,1.91,3.29,28,3
+joshua.abbott@example.com,Mobile App,0.8,2.27,-8,3
+joshua.abbott@example.com,Web,1.33,0.0,-15,3
+joshua.abbott@example.com,Mobile App,1.78,0.0,-61,3
+steven.ward@example.com,Web,1.92,0.0,-94,5
+steven.ward@example.com,Mobile App,1.37,0.0,50,5
+steven.ward@example.com,Web,0.13,0.0,24,5
+steven.ward@example.com,Web,1.56,0.0,35,5
+steven.ward@example.com,Web,0.59,0.0,47,5
+charles.wright@example.com,Web,0.74,0.0,15,5
+charles.wright@example.com,Mobile App,1.58,3.08,21,5
+charles.wright@example.com,Mobile App,0.42,0.0,20,5
+charles.wright@example.com,Mobile App,1.33,2.87,-38,5
+charles.wright@example.com,Web,1.9,0.0,-58,5
+john.peterson@example.com,Web,0.22,2.94,21,6
+john.peterson@example.com,Web,0.92,0.0,26,6
+john.peterson@example.com,Mobile App,1.33,0.0,3,6
+john.peterson@example.com,Mobile App,0.65,3.62,-20,6
+john.peterson@example.com,Mobile App,0.49,0.0,29,6
+john.peterson@example.com,Mobile App,0.4,0.0,-12,6
+nicholas.wu@example.com,Web,0.83,1.97,39,7
+nicholas.wu@example.com,Mobile App,0.89,0.0,36,7
+nicholas.wu@example.com,Mobile App,0.76,2.11,47,7
+nicholas.wu@example.com,Web,0.97,0.0,-13,7
+nicholas.wu@example.com,Mobile App,1.03,3.52,-47,7
+nicholas.wu@example.com,Mobile App,0.89,2.04,50,7
+nicholas.wu@example.com,Web,0.96,0.0,16,7
+cody.walton@example.com,Web,0.37,0.0,6,3
+cody.walton@example.com,Mobile App,1.49,3.73,10,3
+cody.walton@example.com,Mobile App,1.01,0.0,-2,3
+shawn.murphy@example.com,Mobile App,1.46,1.35,-22,2
+shawn.murphy@example.com,Mobile App,1.72,0.0,50,2
+jenny.wallace@example.com,Web,1.41,3.09,-12,7
+jenny.wallace@example.com,Mobile App,1.38,3.31,18,7
+jenny.wallace@example.com,Web,1.41,1.74,-14,7
+jenny.wallace@example.com,Web,0.06,3.36,8,7
+jenny.wallace@example.com,Mobile App,1.82,0.0,12,7
+jenny.wallace@example.com,Web,0.77,0.0,45,7
+jenny.wallace@example.com,Mobile App,0.59,3.16,30,7
+carrie.carter@example.com,Web,1.04,0.0,46,2
+carrie.carter@example.com,Web,0.71,0.0,4,2
+james.jones@example.com,Mobile App,0.83,2.01,12,1
+nancy.lozano@example.com,Web,1.0,3.49,12,6
+nancy.lozano@example.com,Web,0.09,0.0,10,6
+nancy.lozano@example.com,Web,1.77,1.93,29,6
+nancy.lozano@example.com,Web,0.57,2.14,11,6
+nancy.lozano@example.com,Web,0.56,0.0,30,6
+nancy.lozano@example.com,Web,1.55,2.53,11,6
+anthony.wilson@example.com,Mobile App,1.31,0.0,47,5
+anthony.wilson@example.com,Web,0.86,3.15,-9,5
+anthony.wilson@example.com,Mobile App,1.54,2.2,7,5
+anthony.wilson@example.com,Web,1.11,3.23,40,5
+anthony.wilson@example.com,Mobile App,1.35,3.14,-1,5
+gregory.green@example.com,Web,1.75,3.21,20,8
+gregory.green@example.com,Mobile App,1.19,0.0,14,8
+gregory.green@example.com,Mobile App,0.08,3.94,0,8
+gregory.green@example.com,Web,1.27,3.04,-7,8
+gregory.green@example.com,Web,1.46,0.0,14,8
+gregory.green@example.com,Web,1.94,0.0,-7,8
+gregory.green@example.com,Web,1.51,3.44,19,8
+gregory.green@example.com,Web,1.62,1.41,-58,8
+tiffany.cuevas@example.com,Mobile App,1.78,0.0,21,4
+tiffany.cuevas@example.com,Web,0.15,0.0,45,4
+tiffany.cuevas@example.com,Web,0.4,2.05,12,4
+tiffany.cuevas@example.com,Mobile App,1.29,0.0,-65,4
+kristine.murphy@example.com,Mobile App,1.6,3.36,22,2
+kristine.murphy@example.com,Mobile App,1.55,0.0,-18,2
+nicole.potter@example.com,Mobile App,1.61,2.77,-28,6
+nicole.potter@example.com,Web,1.2,0.0,-38,6
+nicole.potter@example.com,Web,0.41,1.89,38,6
+nicole.potter@example.com,Web,0.09,1.8,-99,6
+nicole.potter@example.com,Mobile App,0.58,2.52,-14,6
+nicole.potter@example.com,Mobile App,1.58,3.85,-33,6
+shannon.young@example.com,Web,0.23,3.77,21,4
+shannon.young@example.com,Mobile App,0.55,3.3,29,4
+shannon.young@example.com,Mobile App,0.3,0.0,3,4
+shannon.young@example.com,Web,1.29,3.34,33,4
+jerry.williams@example.com,Mobile App,0.35,1.55,-64,2
+jerry.williams@example.com,Web,1.7,0.0,24,2
+michael.miller@example.com,Mobile App,0.3,1.34,-15,7
+michael.miller@example.com,Mobile App,1.03,2.27,-17,7
+michael.miller@example.com,Web,0.13,1.99,32,7
+michael.miller@example.com,Web,1.94,0.0,14,7
+michael.miller@example.com,Mobile App,1.46,1.83,5,7
+michael.miller@example.com,Web,1.73,1.69,13,7
+michael.miller@example.com,Mobile App,1.87,1.08,48,7
+james.munoz@example.com,Mobile App,1.45,0.0,-27,3
+james.munoz@example.com,Web,0.62,1.57,-58,3
+james.munoz@example.com,Web,0.23,0.0,-5,3
+michelle.perez@example.com,Mobile App,0.61,2.19,-47,3
+michelle.perez@example.com,Mobile App,1.31,0.0,16,3
+michelle.perez@example.com,Mobile App,1.95,1.06,-18,3
+angela.brooks@example.com,Mobile App,1.85,3.55,44,3
+angela.brooks@example.com,Mobile App,1.64,0.0,5,3
+angela.brooks@example.com,Web,1.7,1.84,11,3
+ashley.johnson@example.com,Mobile App,0.44,0.0,12,7
+ashley.johnson@example.com,Mobile App,0.13,0.0,14,7
+ashley.johnson@example.com,Web,1.56,2.86,-57,7
+ashley.johnson@example.com,Web,1.44,2.01,-3,7
+ashley.johnson@example.com,Web,0.44,3.52,13,7
+ashley.johnson@example.com,Web,0.98,0.0,-8,7
+ashley.johnson@example.com,Web,1.43,2.96,30,7
+daniel.hudson@example.com,Web,0.65,0.0,47,2
+daniel.hudson@example.com,Web,1.43,0.0,31,2
+kelly.warren@example.com,Mobile App,0.75,2.05,-12,9
+kelly.warren@example.com,Web,0.57,0.0,4,9
+kelly.warren@example.com,Web,1.71,0.0,14,9
+kelly.warren@example.com,Web,0.82,0.0,8,9
+kelly.warren@example.com,Web,1.21,0.0,32,9
+kelly.warren@example.com,Mobile App,0.33,2.38,32,9
+kelly.warren@example.com,Web,0.68,2.11,20,9
+kelly.warren@example.com,Mobile App,0.14,0.0,-5,9
+kelly.warren@example.com,Web,0.85,0.0,49,9
+stephanie.glenn@example.com,Web,1.45,3.15,20,3
+stephanie.glenn@example.com,Mobile App,1.57,0.0,-14,3
+stephanie.glenn@example.com,Web,1.25,1.91,44,3
+vickie.griffin@example.com,Mobile App,0.19,1.89,-62,6
+vickie.griffin@example.com,Web,0.07,3.21,19,6
+vickie.griffin@example.com,Web,1.84,0.0,7,6
+vickie.griffin@example.com,Mobile App,0.75,0.0,-56,6
+vickie.griffin@example.com,Mobile App,0.21,0.0,25,6
+vickie.griffin@example.com,Web,1.02,0.0,47,6
+robert.white@example.com,Mobile App,1.74,0.0,-87,4
+robert.white@example.com,Mobile App,0.17,1.85,-56,4
+robert.white@example.com,Mobile App,0.81,0.0,-20,4
+robert.white@example.com,Web,1.15,0.0,3,4

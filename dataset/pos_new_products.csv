@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,size,unit_cost,list_price,is_active,store_id
+1,Latte L,Coffee,Latte,L,1.11,2.24,True,1
+2,Flat White,Coffee,Flat White,,0.58,1.5,True,1
+3,Flat White M,Coffee,Flat White,M,2.29,5.95,False,3
+4,Chai L,Tea,Chai,L,2.52,3.05,True,2
+5,Coffee Beans,Merchandise,Coffee Beans,,1.19,2.66,True,2
+6,Latte,Coffee,Latte,,0.74,5.05,True,2
+7,Mocha S,Coffee,Mocha,S,2.93,5.13,True,1
+8,Salad,Food,Salad,,0.98,1.79,True,5
+9,Sandwich,Food,Sandwich,,2.64,7.04,False,1
+10,Wrap,Food,Wrap,,2.09,4.23,True,5
+11,Cake,Food,Cake,,2.18,5.84,True,4
+12,Black Tea M,Tea,Black Tea,M,1.66,3.37,True,1
+13,Sandwich,Food,Sandwich,,1.07,1.71,True,1
+14,Coffee Beans,Merchandise,Coffee Beans,,0.67,5.28,True,1
+15,Chai,Tea,Chai,,2.71,6.1,True,2
+16,Cake,Food,Cake,,1.12,4.15,True,2
+17,Gift Card,Merchandise,Gift Card,,1.4,6.39,True,5
+18,Mug,Merchandise,Mug,,2.39,6.76,True,5
+19,Chai S,Tea,Chai,S,1.46,4.64,False,1
+20,Salad,Food,Salad,,2.65,3.2,True,5
+21,Pastry,Food,Pastry,,0.78,3.24,False,2
+22,Cappuccino M,Coffee,Cappuccino,M,1.77,2.75,True,5
+23,Black Tea L,Tea,Black Tea,L,2.41,5.34,True,4
+24,Wrap,Food,Wrap,,0.55,5.23,True,2
+25,Green Tea M,Tea,Green Tea,M,2.7,7.46,True,4
+26,Mug,Merchandise,Mug,,2.94,5.84,True,5
+27,Chai M,Tea,Chai,M,1.16,5.59,False,3
+28,Black Tea L,Tea,Black Tea,L,1.5,5.02,True,1
+29,Gift Card,Merchandise,Gift Card,,0.8,2.31,True,2
+30,Flat White M,Coffee,Flat White,M,1.97,2.5,True,4
+31,Green Tea S,Tea,Green Tea,S,2.65,3.47,True,3
+32,Wrap,Food,Wrap,,1.04,2.14,False,3
+33,Chai,Tea,Chai,,0.98,1.92,False,2
+34,Wrap,Food,Wrap,,1.53,5.92,True,2
+35,Latte,Coffee,Latte,,2.32,6.42,True,3
+36,Black Tea M,Tea,Black Tea,M,1.84,2.97,True,1
+37,Wrap,Food,Wrap,,1.12,5.77,False,1
+38,Latte S,Coffee,Latte,S,2.92,7.59,True,4
+39,Chai,Tea,Chai,,1.7,6.09,True,1
+40,Chai S,Tea,Chai,S,2.96,4.65,False,3
+41,Wrap,Food,Wrap,,2.24,6.03,False,3
+42,Black Tea L,Tea,Black Tea,L,1.04,1.8,True,5
+43,Sandwich,Food,Sandwich,,0.63,3.28,True,3
+44,Flat White S,Coffee,Flat White,S,2.63,3.44,True,1
+45,Chai S,Tea,Chai,S,2.85,5.91,True,4
+46,Mocha L,Coffee,Mocha,L,2.84,4.26,True,5
+47,Herbal Tea,Tea,Herbal Tea,,0.83,4.23,False,1
+48,Sandwich,Food,Sandwich,,0.52,3.82,True,4
+49,Flat White M,Coffee,Flat White,M,1.76,2.86,True,1
+50,Espresso L,Coffee,Espresso,L,1.21,3.68,True,5
+51,Flat White L,Coffee,Flat White,L,2.83,3.8,True,3
+52,Sandwich,Food,Sandwich,,2.72,6.56,True,5
+53,Pastry,Food,Pastry,,2.01,5.74,True,3
+54,Salad,Food,Salad,,1.72,6.29,True,5
+55,Mocha L,Coffee,Mocha,L,0.61,2.61,True,2
+56,Cake,Food,Cake,,2.35,5.33,False,1
+57,Latte S,Coffee,Latte,S,2.86,6.47,True,1
+58,Cappuccino M,Coffee,Cappuccino,M,1.57,2.26,True,2
+59,Cappuccino M,Coffee,Cappuccino,M,2.21,5.71,True,3
+60,Tumbler,Merchandise,Tumbler,,2.81,4.38,True,1
+61,Chai S,Tea,Chai,S,0.95,5.61,False,2
+62,Herbal Tea M,Tea,Herbal Tea,M,2.47,3.46,True,1
+63,Tumbler,Merchandise,Tumbler,,1.0,5.63,True,4
+64,Cake,Food,Cake,,1.06,4.53,False,3
+65,Pastry,Food,Pastry,,2.66,7.51,True,4
+66,Salad,Food,Salad,,1.5,6.42,True,3
+67,Latte L,Coffee,Latte,L,0.95,5.78,True,2
+68,Latte,Coffee,Latte,,1.36,5.4,False,3
+69,Mocha M,Coffee,Mocha,M,1.14,4.83,True,3
+70,Herbal Tea,Tea,Herbal Tea,,0.67,4.16,True,2
+71,Sandwich,Food,Sandwich,,2.3,4.15,True,3
+72,Coffee Beans,Merchandise,Coffee Beans,,1.51,3.34,True,1
+73,Chai,Tea,Chai,,2.19,6.75,True,5
+74,Mug,Merchandise,Mug,,1.26,2.71,True,2
+75,Gift Card,Merchandise,Gift Card,,1.61,3.07,False,5
+76,Green Tea L,Tea,Green Tea,L,1.79,5.14,True,2
+77,Espresso L,Coffee,Espresso,L,1.06,2.46,True,2
+78,Espresso,Coffee,Espresso,,2.03,5.99,False,4
+79,Tumbler,Merchandise,Tumbler,,2.3,4.53,False,4
+80,Black Tea S,Tea,Black Tea,S,2.73,7.1,True,3
+81,Tumbler,Merchandise,Tumbler,,0.94,5.75,False,5
+82,Flat White M,Coffee,Flat White,M,2.79,3.84,True,2
+83,Coffee Beans,Merchandise,Coffee Beans,,2.88,7.39,False,3
+84,Tumbler,Merchandise,Tumbler,,2.36,5.0,True,1
+85,Herbal Tea,Tea,Herbal Tea,,2.07,3.81,True,2
+86,Cake,Food,Cake,,1.18,3.12,True,1
+87,Black Tea M,Tea,Black Tea,M,1.46,2.65,True,3
+88,Mocha,Coffee,Mocha,,1.33,3.93,True,4
+89,Chai,Tea,Chai,,2.76,5.89,True,3
+90,Gift Card,Merchandise,Gift Card,,0.51,2.59,False,1
+91,Tumbler,Merchandise,Tumbler,,1.72,3.45,False,2
+92,Mocha L,Coffee,Mocha,L,2.17,6.26,True,5
+93,Tumbler,Merchandise,Tumbler,,2.95,5.85,False,3
+94,Latte,Coffee,Latte,,0.84,3.42,True,2
+95,Wrap,Food,Wrap,,1.32,3.87,True,4
+96,Coffee Beans,Merchandise,Coffee Beans,,2.38,6.62,True,4
+97,Mocha S,Coffee,Mocha,S,2.37,3.1,True,4
+98,Green Tea S,Tea,Green Tea,S,2.39,7.16,True,2
+99,Flat White M,Coffee,Flat White,M,1.1,3.73,True,3
+100,Chai L,Tea,Chai,L,2.42,3.68,True,2
+101,Herbal Tea S,Tea,Herbal Tea,S,1.95,6.63,False,2
+102,Tumbler,Merchandise,Tumbler,,0.69,4.3,True,5
+103,Cappuccino S,Coffee,Cappuccino,S,2.49,5.54,True,5
+104,Salad,Food,Salad,,1.57,3.74,True,3
+105,Mocha,Coffee,Mocha,,0.76,5.58,False,5
+106,Chai M,Tea,Chai,M,2.33,7.17,True,4
+107,Gift Card,Merchandise,Gift Card,,1.59,5.38,True,5
+108,Cake,Food,Cake,,2.58,3.47,False,4
+109,Chai,Tea,Chai,,1.34,4.06,True,3
+110,Chai M,Tea,Chai,M,1.39,3.05,True,2
+111,Salad,Food,Salad,,0.53,5.3,True,2
+112,Chai,Tea,Chai,,1.89,3.47,False,5
+113,Gift Card,Merchandise,Gift Card,,2.48,3.4,True,4
+114,Tumbler,Merchandise,Tumbler,,1.27,4.39,False,1
+115,Wrap,Food,Wrap,,2.99,5.97,True,1
+116,Coffee Beans,Merchandise,Coffee Beans,,1.27,2.81,True,1
+117,Sandwich,Food,Sandwich,,2.36,7.14,True,2
+118,Black Tea,Tea,Black Tea,,1.19,4.34,True,2
+119,Espresso L,Coffee,Espresso,L,1.07,2.38,True,4
+120,Herbal Tea S,Tea,Herbal Tea,S,2.94,5.93,True,5
+121,Mug,Merchandise,Mug,,2.68,5.76,False,1
+122,Gift Card,Merchandise,Gift Card,,1.35,6.19,True,4
+123,Mug,Merchandise,Mug,,2.56,4.86,True,4
+124,Espresso M,Coffee,Espresso,M,2.53,7.3,True,5
+125,Green Tea,Tea,Green Tea,,2.02,6.08,True,4
+126,Gift Card,Merchandise,Gift Card,,2.77,4.61,False,5
+127,Salad,Food,Salad,,2.05,5.29,True,3
+128,Black Tea L,Tea,Black Tea,L,2.15,3.36,True,5
+129,Espresso S,Coffee,Espresso,S,1.52,5.12,False,1
+130,Sandwich,Food,Sandwich,,1.08,4.76,False,1
+131,Espresso L,Coffee,Espresso,L,2.47,5.78,True,5
+132,Mug,Merchandise,Mug,,1.86,5.27,True,3
+133,Green Tea S,Tea,Green Tea,S,0.91,2.79,True,3
+134,Mug,Merchandise,Mug,,1.67,3.54,False,1
+135,Salad,Food,Salad,,1.85,4.32,True,3
+136,Coffee Beans,Merchandise,Coffee Beans,,2.01,2.63,True,4
+137,Cappuccino S,Coffee,Cappuccino,S,2.41,3.7,False,2
+138,Cake,Food,Cake,,2.99,5.45,False,4
+139,Mocha L,Coffee,Mocha,L,1.52,3.46,True,1
+140,Herbal Tea,Tea,Herbal Tea,,2.23,4.03,False,3
+141,Mocha S,Coffee,Mocha,S,1.29,3.24,False,5
+142,Flat White,Coffee,Flat White,,1.53,2.87,True,2
+143,Gift Card,Merchandise,Gift Card,,2.4,3.82,True,5
+144,Wrap,Food,Wrap,,2.7,5.38,True,1
+145,Black Tea L,Tea,Black Tea,L,1.88,4.87,True,3
+146,Green Tea,Tea,Green Tea,,2.87,6.28,True,5
+147,Coffee Beans,Merchandise,Coffee Beans,,1.77,3.5,False,5
+148,Tumbler,Merchandise,Tumbler,,1.64,2.79,True,2
+149,Green Tea L,Tea,Green Tea,L,2.43,6.77,True,2
+150,Sandwich,Food,Sandwich,,1.21,3.05,False,3
+151,Chai,Tea,Chai,,1.36,4.34,False,2
+152,Coffee Beans,Merchandise,Coffee Beans,,2.67,7.58,True,5
+153,Tumbler,Merchandise,Tumbler,,2.64,4.99,True,5
+154,Gift Card,Merchandise,Gift Card,,1.47,4.96,True,1
+155,Mug,Merchandise,Mug,,0.82,5.66,True,5
+156,Mocha S,Coffee,Mocha,S,1.81,4.37,True,3
+157,Tumbler,Merchandise,Tumbler,,0.69,4.71,True,4
+158,Salad,Food,Salad,,2.23,5.65,True,1
+159,Coffee Beans,Merchandise,Coffee Beans,,2.07,6.56,False,1
+160,Flat White S,Coffee,Flat White,S,1.09,4.67,True,3
+161,Green Tea,Tea,Green Tea,,2.95,6.87,True,3
+162,Tumbler,Merchandise,Tumbler,,2.24,6.81,True,2
+163,Sandwich,Food,Sandwich,,1.23,3.42,True,1
+164,Chai M,Tea,Chai,M,0.92,1.78,False,2
+165,Chai M,Tea,Chai,M,1.08,4.45,False,5
+166,Sandwich,Food,Sandwich,,2.75,5.34,True,1
+167,Green Tea,Tea,Green Tea,,2.86,7.8,True,1
+168,Coffee Beans,Merchandise,Coffee Beans,,1.64,3.5,False,4
+169,Mug,Merchandise,Mug,,1.09,4.16,True,1
+170,Sandwich,Food,Sandwich,,2.94,6.4,True,5
+171,Flat White S,Coffee,Flat White,S,2.78,6.63,True,2
+172,Herbal Tea M,Tea,Herbal Tea,M,2.09,5.38,True,2
+173,Latte L,Coffee,Latte,L,2.47,3.12,True,4
+174,Green Tea L,Tea,Green Tea,L,1.32,3.69,True,5
+175,Herbal Tea L,Tea,Herbal Tea,L,2.58,4.24,False,2
+176,Pastry,Food,Pastry,,2.51,5.12,True,3
+177,Black Tea,Tea,Black Tea,,2.92,7.04,True,5
+178,Mocha S,Coffee,Mocha,S,1.16,2.22,True,5
+179,Salad,Food,Salad,,1.45,4.82,True,4
+180,Espresso,Coffee,Espresso,,0.56,5.04,True,2
+181,Green Tea,Tea,Green Tea,,2.77,4.63,False,5
+182,Espresso S,Coffee,Espresso,S,2.87,4.74,False,2
+183,Latte M,Coffee,Latte,M,2.72,3.83,False,3
+184,Salad,Food,Salad,,1.55,5.39,True,4
+185,Mug,Merchandise,Mug,,2.58,5.85,True,3
+186,Cappuccino M,Coffee,Cappuccino,M,1.61,6.39,True,4
+187,Cappuccino L,Coffee,Cappuccino,L,0.65,2.39,True,5
+188,Mug,Merchandise,Mug,,2.16,5.55,True,4
+189,Cappuccino M,Coffee,Cappuccino,M,2.97,7.01,True,1
+190,Flat White M,Coffee,Flat White,M,1.97,6.13,True,2
+191,Cake,Food,Cake,,2.47,5.65,True,2
+192,Black Tea L,Tea,Black Tea,L,2.5,3.49,True,1
+193,Green Tea L,Tea,Green Tea,L,2.47,4.04,True,3
+194,Espresso L,Coffee,Espresso,L,0.63,4.47,True,1
+195,Mocha,Coffee,Mocha,,2.45,5.26,True,5
+196,Tumbler,Merchandise,Tumbler,,2.86,3.56,True,5
+197,Mug,Merchandise,Mug,,0.65,3.31,False,2
+198,Mug,Merchandise,Mug,,1.73,6.32,True,5
+199,Cappuccino M,Coffee,Cappuccino,M,0.66,2.4,True,2
+200,Coffee Beans,Merchandise,Coffee Beans,,1.63,4.85,True,1
+201,Flat White M,Coffee,Flat White,M,1.58,6.08,False,1
+202,Wrap,Food,Wrap,,1.5,5.28,True,1
+203,Coffee Beans,Merchandise,Coffee Beans,,2.16,4.34,True,2
+204,Mug,Merchandise,Mug,,0.73,1.61,False,1
+205,Cappuccino M,Coffee,Cappuccino,M,1.89,5.03,True,1
+206,Mocha L,Coffee,Mocha,L,2.68,7.42,False,3
+207,Cappuccino L,Coffee,Cappuccino,L,1.38,4.48,True,1
+208,Chai M,Tea,Chai,M,2.62,4.7,True,5
+209,Cappuccino M,Coffee,Cappuccino,M,2.52,6.82,True,2
+210,Sandwich,Food,Sandwich,,0.95,4.61,True,3
+211,Pastry,Food,Pastry,,0.52,4.93,False,4
+212,Espresso S,Coffee,Espresso,S,0.73,3.62,False,2
+213,Gift Card,Merchandise,Gift Card,,1.35,3.52,True,5
+214,Latte M,Coffee,Latte,M,0.89,4.17,True,2
+215,Wrap,Food,Wrap,,2.15,4.84,False,5
+216,Coffee Beans,Merchandise,Coffee Beans,,1.04,3.85,True,5
+217,Mug,Merchandise,Mug,,1.21,4.76,False,4
+218,Sandwich,Food,Sandwich,,1.05,5.98,True,2
+219,Espresso L,Coffee,Espresso,L,2.86,6.81,True,4
+220,Pastry,Food,Pastry,,0.8,3.54,False,4
+221,Black Tea,Tea,Black Tea,,1.83,3.37,True,2
+222,Mocha S,Coffee,Mocha,S,1.59,4.16,True,1
+223,Salad,Food,Salad,,1.57,3.89,False,1
+224,Sandwich,Food,Sandwich,,1.51,6.36,True,4
+225,Coffee Beans,Merchandise,Coffee Beans,,0.72,5.02,True,3
+226,Gift Card,Merchandise,Gift Card,,1.81,4.09,True,4
+227,Cake,Food,Cake,,1.33,2.59,True,4
+228,Herbal Tea L,Tea,Herbal Tea,L,2.32,6.51,True,4
+229,Green Tea M,Tea,Green Tea,M,1.14,2.42,True,1
+230,Espresso,Coffee,Espresso,,1.66,4.7,False,1
+231,Pastry,Food,Pastry,,0.88,1.69,False,1
+232,Pastry,Food,Pastry,,1.98,4.06,True,4
+233,Wrap,Food,Wrap,,1.63,2.39,True,3
+234,Latte,Coffee,Latte,,1.66,4.65,True,1
+235,Tumbler,Merchandise,Tumbler,,1.3,3.94,True,2
+236,Mocha S,Coffee,Mocha,S,2.53,6.8,True,2
+237,Green Tea M,Tea,Green Tea,M,2.27,7.23,True,2
+238,Pastry,Food,Pastry,,2.79,5.03,True,5
+239,Cappuccino S,Coffee,Cappuccino,S,1.32,4.33,False,4
+240,Pastry,Food,Pastry,,2.31,5.76,True,2
+241,Sandwich,Food,Sandwich,,1.96,3.1,True,4
+242,Wrap,Food,Wrap,,0.82,4.51,True,2
+243,Salad,Food,Salad,,1.44,5.5,True,3
+244,Mocha L,Coffee,Mocha,L,0.55,2.44,True,4
+245,Wrap,Food,Wrap,,0.98,5.98,True,2
+246,Cappuccino S,Coffee,Cappuccino,S,1.77,4.7,True,1
+247,Salad,Food,Salad,,0.83,3.03,True,4
+248,Black Tea,Tea,Black Tea,,0.61,2.75,True,5
+249,Coffee Beans,Merchandise,Coffee Beans,,2.38,6.41,True,1
+250,Herbal Tea,Tea,Herbal Tea,,2.76,4.13,False,1
+251,Coffee Beans,Merchandise,Coffee Beans,,2.45,5.21,False,5
+252,Black Tea M,Tea,Black Tea,M,2.68,3.41,False,1
+253,Salad,Food,Salad,,2.84,6.54,True,1
+254,Sandwich,Food,Sandwich,,2.41,4.14,True,2
+255,Mug,Merchandise,Mug,,2.87,4.37,False,2
+256,Sandwich,Food,Sandwich,,1.54,3.82,True,4
+257,Chai S,Tea,Chai,S,1.44,2.07,True,4
+258,Cake,Food,Cake,,0.84,2.63,False,4
+259,Chai,Tea,Chai,,2.04,6.62,True,2
+260,Cake,Food,Cake,,2.59,5.56,False,4
+261,Cappuccino M,Coffee,Cappuccino,M,1.25,1.96,False,1
+262,Mug,Merchandise,Mug,,0.78,5.35,True,2
+263,Black Tea L,Tea,Black Tea,L,1.57,4.84,True,4
+264,Tumbler,Merchandise,Tumbler,,2.16,3.05,True,1
+265,Flat White S,Coffee,Flat White,S,1.48,4.1,False,4
+266,Pastry,Food,Pastry,,2.37,4.48,True,3
+267,Cake,Food,Cake,,2.33,5.66,True,4
+268,Green Tea L,Tea,Green Tea,L,1.87,6.03,True,3
+269,Gift Card,Merchandise,Gift Card,,2.08,6.23,True,4
+270,Mug,Merchandise,Mug,,1.23,1.93,True,5
+271,Cappuccino L,Coffee,Cappuccino,L,1.79,6.74,False,4
+272,Sandwich,Food,Sandwich,,2.38,3.74,True,2
+273,Cappuccino L,Coffee,Cappuccino,L,0.81,2.97,False,2
+274,Gift Card,Merchandise,Gift Card,,1.35,2.69,False,3
+275,Salad,Food,Salad,,1.17,2.04,False,2
+276,Mocha M,Coffee,Mocha,M,1.86,3.81,True,1
+277,Pastry,Food,Pastry,,1.27,4.48,False,5
+278,Chai L,Tea,Chai,L,1.62,5.39,True,5
+279,Coffee Beans,Merchandise,Coffee Beans,,2.1,6.16,True,1
+280,Mocha L,Coffee,Mocha,L,1.78,5.65,True,3
+281,Espresso,Coffee,Espresso,,0.59,1.39,True,1
+282,Wrap,Food,Wrap,,2.87,3.52,True,1
+283,Coffee Beans,Merchandise,Coffee Beans,,1.43,5.36,True,5
+284,Wrap,Food,Wrap,,1.29,3.04,True,4
+285,Espresso,Coffee,Espresso,,1.79,6.4,True,5
+286,Pastry,Food,Pastry,,2.26,3.73,True,5
+287,Tumbler,Merchandise,Tumbler,,0.81,5.15,False,2
+288,Chai S,Tea,Chai,S,2.53,7.38,True,1
+289,Sandwich,Food,Sandwich,,1.87,3.68,True,5
+290,Black Tea L,Tea,Black Tea,L,1.77,2.82,True,1
+291,Black Tea,Tea,Black Tea,,0.57,3.56,True,2
+292,Tumbler,Merchandise,Tumbler,,2.03,2.92,True,1
+293,Gift Card,Merchandise,Gift Card,,1.81,5.77,True,5
+294,Herbal Tea S,Tea,Herbal Tea,S,1.62,5.18,True,1
+295,Black Tea M,Tea,Black Tea,M,1.58,6.18,True,2
+296,Flat White M,Coffee,Flat White,M,1.26,2.49,True,4
+297,Salad,Food,Salad,,2.74,7.05,True,1
+298,Herbal Tea M,Tea,Herbal Tea,M,2.06,5.32,True,5
+299,Black Tea M,Tea,Black Tea,M,2.15,5.89,True,2
+300,Latte S,Coffee,Latte,S,0.61,4.0,True,5
+301,Chai S,Tea,Chai,S,1.75,5.07,True,5
+302,Wrap,Food,Wrap,,1.11,5.24,False,1
+303,Wrap,Food,Wrap,,0.68,1.45,False,5
+304,Gift Card,Merchandise,Gift Card,,1.66,3.69,True,1
+305,Pastry,Food,Pastry,,2.34,6.71,False,4
+306,Herbal Tea S,Tea,Herbal Tea,S,1.3,3.9,True,5
+307,Tumbler,Merchandise,Tumbler,,0.85,1.58,False,5
+308,Tumbler,Merchandise,Tumbler,,2.91,7.47,True,5
+309,Cake,Food,Cake,,2.41,5.15,False,3
+310,Coffee Beans,Merchandise,Coffee Beans,,1.74,2.65,False,3
+311,Tumbler,Merchandise,Tumbler,,1.04,3.13,True,2
+312,Wrap,Food,Wrap,,1.99,6.28,False,3
+313,Salad,Food,Salad,,0.52,1.5,True,2
+314,Pastry,Food,Pastry,,2.41,4.56,False,3
+315,Flat White M,Coffee,Flat White,M,1.41,3.21,False,4
+316,Coffee Beans,Merchandise,Coffee Beans,,2.56,5.86,True,2
+317,Green Tea,Tea,Green Tea,,1.43,6.37,True,3
+318,Black Tea,Tea,Black Tea,,1.75,2.45,True,4
+319,Wrap,Food,Wrap,,1.8,2.97,True,3
+320,Salad,Food,Salad,,1.3,3.57,True,1
+321,Salad,Food,Salad,,2.57,5.47,True,1
+322,Mug,Merchandise,Mug,,1.42,4.95,False,4
+323,Sandwich,Food,Sandwich,,1.99,3.68,True,5
+324,Flat White,Coffee,Flat White,,0.93,4.26,False,5
+325,Black Tea S,Tea,Black Tea,S,1.93,5.58,True,1
+326,Mocha L,Coffee,Mocha,L,1.55,3.91,True,1
+327,Gift Card,Merchandise,Gift Card,,2.68,6.49,True,5
+328,Black Tea L,Tea,Black Tea,L,3.0,5.65,False,2
+329,Cake,Food,Cake,,1.65,4.55,True,5
+330,Salad,Food,Salad,,1.71,6.52,True,3
+331,Cake,Food,Cake,,2.85,7.77,True,2
+332,Chai L,Tea,Chai,L,1.7,4.72,True,3
+333,Sandwich,Food,Sandwich,,1.93,4.87,False,1
+334,Cake,Food,Cake,,1.23,3.02,True,2
+335,Wrap,Food,Wrap,,2.14,6.0,True,3
+336,Herbal Tea L,Tea,Herbal Tea,L,0.84,4.11,True,3
+337,Green Tea M,Tea,Green Tea,M,2.09,2.83,False,2
+338,Wrap,Food,Wrap,,0.75,4.72,True,4
+339,Chai,Tea,Chai,,1.69,3.09,True,5
+340,Pastry,Food,Pastry,,2.11,6.7,True,3
+341,Green Tea M,Tea,Green Tea,M,1.54,5.81,True,5
+342,Gift Card,Merchandise,Gift Card,,0.97,4.84,True,5
+343,Latte L,Coffee,Latte,L,1.92,2.9,True,1
+344,Wrap,Food,Wrap,,2.97,5.91,False,5
+345,Chai L,Tea,Chai,L,0.98,1.99,True,3
+346,Coffee Beans,Merchandise,Coffee Beans,,2.3,2.86,True,1
+347,Salad,Food,Salad,,2.19,3.56,False,2
+348,Coffee Beans,Merchandise,Coffee Beans,,0.72,4.23,True,3
+349,Chai L,Tea,Chai,L,2.84,3.37,False,1
+350,Chai L,Tea,Chai,L,2.89,4.75,True,1
+351,Pastry,Food,Pastry,,2.23,3.01,True,5
+352,Coffee Beans,Merchandise,Coffee Beans,,0.9,4.49,True,2
+353,Cappuccino L,Coffee,Cappuccino,L,2.04,3.53,True,3
+354,Tumbler,Merchandise,Tumbler,,1.64,6.59,True,3
+355,Gift Card,Merchandise,Gift Card,,2.39,6.5,True,5
+356,Green Tea,Tea,Green Tea,,1.82,3.95,True,2
+357,Flat White M,Coffee,Flat White,M,1.93,3.1,True,3
+358,Mug,Merchandise,Mug,,2.2,5.93,False,2
+359,Flat White,Coffee,Flat White,,2.52,5.06,False,3
+360,Mug,Merchandise,Mug,,1.9,5.43,True,5
+361,Mocha L,Coffee,Mocha,L,2.54,6.4,True,4
+362,Mocha L,Coffee,Mocha,L,2.25,5.19,True,3
+363,Mocha S,Coffee,Mocha,S,1.22,2.53,True,1
+364,Coffee Beans,Merchandise,Coffee Beans,,2.98,5.2,False,1
+365,Mug,Merchandise,Mug,,2.21,5.69,True,4
+366,Sandwich,Food,Sandwich,,0.95,3.87,True,3
+367,Green Tea S,Tea,Green Tea,S,2.95,5.53,False,1
+368,Tumbler,Merchandise,Tumbler,,1.12,3.18,True,1
+369,Green Tea S,Tea,Green Tea,S,2.52,4.91,True,3
+370,Black Tea S,Tea,Black Tea,S,0.75,1.4,True,2
+371,Green Tea,Tea,Green Tea,,1.6,4.53,True,3
+372,Herbal Tea M,Tea,Herbal Tea,M,2.54,6.33,True,2
+373,Cake,Food,Cake,,1.25,2.39,True,4
+374,Coffee Beans,Merchandise,Coffee Beans,,1.19,4.2,True,5
+375,Gift Card,Merchandise,Gift Card,,0.62,2.67,False,4
+376,Wrap,Food,Wrap,,1.52,3.37,True,5
+377,Tumbler,Merchandise,Tumbler,,2.62,4.47,True,1
+378,Mug,Merchandise,Mug,,1.91,6.77,True,1
+379,Tumbler,Merchandise,Tumbler,,1.14,3.13,True,1
+380,Coffee Beans,Merchandise,Coffee Beans,,0.73,4.49,True,2
+381,Cappuccino,Coffee,Cappuccino,,2.18,5.39,True,5
+382,Black Tea,Tea,Black Tea,,1.02,5.6,True,1
+383,Espresso M,Coffee,Espresso,M,2.91,3.94,False,3
+384,Black Tea,Tea,Black Tea,,2.79,5.77,True,5
+385,Gift Card,Merchandise,Gift Card,,1.83,3.95,True,5
+386,Salad,Food,Salad,,2.71,5.31,False,2
+387,Cake,Food,Cake,,1.43,3.79,True,4
+388,Green Tea L,Tea,Green Tea,L,1.88,5.01,False,2
+389,Cake,Food,Cake,,0.99,2.53,True,1
+390,Coffee Beans,Merchandise,Coffee Beans,,1.14,5.34,False,3
+391,Tumbler,Merchandise,Tumbler,,2.33,4.41,True,3
+392,Tumbler,Merchandise,Tumbler,,2.79,5.73,True,1
+393,Latte S,Coffee,Latte,S,2.41,4.77,True,3
+394,Espresso S,Coffee,Espresso,S,1.05,3.6,True,2
+395,Gift Card,Merchandise,Gift Card,,0.54,3.43,False,2
+396,Latte L,Coffee,Latte,L,1.84,3.63,False,1
+397,Green Tea S,Tea,Green Tea,S,1.81,3.39,True,3
+398,Pastry,Food,Pastry,,2.49,3.35,False,5
+399,Tumbler,Merchandise,Tumbler,,2.98,4.5,True,4
+400,Latte,Coffee,Latte,,1.45,4.44,True,5
+401,Espresso S,Coffee,Espresso,S,1.75,4.2,True,2
+402,Flat White S,Coffee,Flat White,S,1.07,5.63,False,2
+403,Sandwich,Food,Sandwich,,2.81,6.39,True,2
+404,Espresso L,Coffee,Espresso,L,0.54,1.97,True,2
+405,Mug,Merchandise,Mug,,1.25,4.29,False,4
+406,Wrap,Food,Wrap,,2.39,3.52,True,1
+407,Sandwich,Food,Sandwich,,0.74,2.28,True,2
+408,Salad,Food,Salad,,2.42,7.22,False,3
+409,Sandwich,Food,Sandwich,,2.09,6.12,False,4
+410,Tumbler,Merchandise,Tumbler,,1.39,6.13,False,2
+411,Chai S,Tea,Chai,S,2.43,4.26,True,3
+412,Latte L,Coffee,Latte,L,0.89,4.59,True,2
+413,Coffee Beans,Merchandise,Coffee Beans,,1.4,2.31,True,1
+414,Coffee Beans,Merchandise,Coffee Beans,,2.4,3.36,True,4
+415,Chai,Tea,Chai,,1.89,4.7,True,1
+416,Latte L,Coffee,Latte,L,1.89,5.08,True,4
+417,Mug,Merchandise,Mug,,1.23,3.48,True,2
+418,Black Tea,Tea,Black Tea,,0.92,2.63,True,2
+419,Tumbler,Merchandise,Tumbler,,0.66,3.12,False,4
+420,Wrap,Food,Wrap,,2.46,4.59,True,3
+421,Tumbler,Merchandise,Tumbler,,1.64,2.75,True,3
+422,Coffee Beans,Merchandise,Coffee Beans,,2.6,4.81,True,2
+423,Coffee Beans,Merchandise,Coffee Beans,,1.58,5.79,True,2
+424,Pastry,Food,Pastry,,2.01,5.64,False,1
+425,Cake,Food,Cake,,2.91,7.77,True,2
+426,Tumbler,Merchandise,Tumbler,,1.31,3.07,False,4
+427,Sandwich,Food,Sandwich,,2.83,4.23,True,3
+428,Mocha M,Coffee,Mocha,M,1.6,3.41,True,3
+429,Gift Card,Merchandise,Gift Card,,0.85,2.71,True,1
+430,Chai,Tea,Chai,,0.68,5.64,False,3
+431,Gift Card,Merchandise,Gift Card,,1.86,5.92,True,3
+432,Latte M,Coffee,Latte,M,2.14,4.24,True,5
+433,Coffee Beans,Merchandise,Coffee Beans,,2.91,5.35,True,4
+434,Cappuccino M,Coffee,Cappuccino,M,1.78,4.61,True,5
+435,Coffee Beans,Merchandise,Coffee Beans,,1.48,5.46,True,3
+436,Sandwich,Food,Sandwich,,1.71,3.54,True,1
+437,Espresso L,Coffee,Espresso,L,1.28,3.83,True,1
+438,Coffee Beans,Merchandise,Coffee Beans,,1.69,4.16,False,3
+439,Sandwich,Food,Sandwich,,1.25,5.4,True,2
+440,Cappuccino S,Coffee,Cappuccino,S,2.19,3.43,True,5
+441,Black Tea L,Tea,Black Tea,L,1.9,6.71,True,3
+442,Tumbler,Merchandise,Tumbler,,0.97,4.43,False,1
+443,Flat White M,Coffee,Flat White,M,1.62,4.05,True,1
+444,Black Tea L,Tea,Black Tea,L,2.38,6.52,True,5
+445,Flat White M,Coffee,Flat White,M,1.41,2.8,True,4
+446,Wrap,Food,Wrap,,1.82,5.2,False,3
+447,Mug,Merchandise,Mug,,1.37,5.67,True,3
+448,Salad,Food,Salad,,1.98,5.5,True,4
+449,Espresso L,Coffee,Espresso,L,0.79,2.97,True,5
+450,Gift Card,Merchandise,Gift Card,,1.99,5.08,False,5
+451,Chai M,Tea,Chai,M,1.89,4.59,True,1
+452,Herbal Tea,Tea,Herbal Tea,,2.05,6.44,True,4
+453,Tumbler,Merchandise,Tumbler,,0.99,3.22,False,5
+454,Gift Card,Merchandise,Gift Card,,1.54,5.82,False,2
+455,Green Tea S,Tea,Green Tea,S,2.49,3.98,True,3
+456,Cake,Food,Cake,,1.84,3.1,False,1
+457,Mug,Merchandise,Mug,,1.93,3.64,True,4
+458,Mocha M,Coffee,Mocha,M,2.97,3.93,True,1
+459,Sandwich,Food,Sandwich,,1.62,3.69,True,5
+460,Mug,Merchandise,Mug,,2.44,4.01,True,5
+461,Tumbler,Merchandise,Tumbler,,2.04,6.07,True,2
+462,Flat White L,Coffee,Flat White,L,1.83,5.02,True,3
+463,Pastry,Food,Pastry,,1.22,2.92,True,4
+464,Chai S,Tea,Chai,S,2.98,7.38,True,1
+465,Black Tea M,Tea,Black Tea,M,2.28,6.51,False,3
+466,Tumbler,Merchandise,Tumbler,,1.94,3.65,False,5
+467,Gift Card,Merchandise,Gift Card,,0.69,4.77,True,3
+468,Coffee Beans,Merchandise,Coffee Beans,,2.24,6.69,False,1
+469,Coffee Beans,Merchandise,Coffee Beans,,1.95,6.36,True,3
+470,Coffee Beans,Merchandise,Coffee Beans,,2.63,6.71,False,5
+471,Chai M,Tea,Chai,M,1.74,3.69,True,3
+472,Salad,Food,Salad,,1.94,4.99,False,4
+473,Sandwich,Food,Sandwich,,0.61,3.93,False,3
+474,Latte M,Coffee,Latte,M,1.6,2.1,False,4
+475,Black Tea L,Tea,Black Tea,L,0.9,5.6,True,3
+476,Cappuccino L,Coffee,Cappuccino,L,0.71,4.2,True,5
+477,Mocha L,Coffee,Mocha,L,2.31,6.21,False,2
+478,Latte S,Coffee,Latte,S,1.03,1.88,True,2
+479,Mug,Merchandise,Mug,,0.52,2.57,True,4
+480,Tumbler,Merchandise,Tumbler,,1.69,3.22,True,4
+481,Latte L,Coffee,Latte,L,1.42,3.27,False,2
+482,Black Tea S,Tea,Black Tea,S,1.83,2.37,True,5
+483,Coffee Beans,Merchandise,Coffee Beans,,2.31,5.64,True,5
+484,Gift Card,Merchandise,Gift Card,,2.65,3.54,True,3
+485,Green Tea,Tea,Green Tea,,1.38,3.81,True,4
+486,Herbal Tea S,Tea,Herbal Tea,S,1.12,4.32,True,5
+487,Cappuccino M,Coffee,Cappuccino,M,1.79,4.58,False,1
+488,Sandwich,Food,Sandwich,,2.46,6.53,True,3
+489,Gift Card,Merchandise,Gift Card,,0.78,3.53,True,3
+490,Cappuccino L,Coffee,Cappuccino,L,0.83,5.2,False,2
+491,Salad,Food,Salad,,2.21,6.14,True,4
+492,Flat White S,Coffee,Flat White,S,0.53,2.0,True,5
+493,Coffee Beans,Merchandise,Coffee Beans,,2.07,4.82,False,5
+494,Gift Card,Merchandise,Gift Card,,0.71,3.62,True,3
+495,Sandwich,Food,Sandwich,,1.27,4.07,True,4
+496,Herbal Tea,Tea,Herbal Tea,,1.97,5.9,True,4
+497,Wrap,Food,Wrap,,2.32,6.63,True,4
+498,Green Tea,Tea,Green Tea,,0.79,4.05,True,2
+499,Cake,Food,Cake,,0.8,4.49,True,5
+500,Chai L,Tea,Chai,L,1.81,5.83,True,4
+501,Herbal Tea M,Tea,Herbal Tea,M,2.37,6.8,True,2
+502,Cappuccino,Coffee,Cappuccino,,1.18,1.97,True,1
+503,Gift Card,Merchandise,Gift Card,,1.78,2.53,True,3
+504,Cake,Food,Cake,,1.14,2.1,True,5
+505,Green Tea S,Tea,Green Tea,S,2.65,3.21,True,5
+506,Coffee Beans,Merchandise,Coffee Beans,,1.46,2.64,True,3
+507,Tumbler,Merchandise,Tumbler,,1.3,3.67,True,1
+508,Sandwich,Food,Sandwich,,1.93,2.97,True,2
+509,Black Tea S,Tea,Black Tea,S,2.89,3.7,False,3
+510,Pastry,Food,Pastry,,1.32,4.31,True,2
+511,Cake,Food,Cake,,1.23,5.26,True,2
+512,Coffee Beans,Merchandise,Coffee Beans,,1.98,4.7,True,2
+513,Black Tea S,Tea,Black Tea,S,2.83,3.44,True,1
+514,Cappuccino S,Coffee,Cappuccino,S,2.4,4.59,True,1
+515,Espresso M,Coffee,Espresso,M,1.55,6.38,True,2
+516,Sandwich,Food,Sandwich,,0.61,2.15,False,4
+517,Wrap,Food,Wrap,,2.94,3.82,True,5
+518,Chai S,Tea,Chai,S,1.98,2.76,True,1
+519,Herbal Tea L,Tea,Herbal Tea,L,2.63,7.3,False,4
+520,Pastry,Food,Pastry,,1.63,3.18,True,4
+521,Green Tea M,Tea,Green Tea,M,0.76,3.28,True,5
+522,Mug,Merchandise,Mug,,1.84,6.68,True,2
+523,Coffee Beans,Merchandise,Coffee Beans,,1.66,6.0,True,4
+524,Herbal Tea S,Tea,Herbal Tea,S,1.04,5.39,True,4
+525,Espresso L,Coffee,Espresso,L,1.49,2.21,True,4
+526,Cake,Food,Cake,,0.58,2.9,False,2
+527,Green Tea,Tea,Green Tea,,0.75,4.82,True,2
+528,Latte M,Coffee,Latte,M,0.83,5.04,True,1
+529,Flat White L,Coffee,Flat White,L,2.79,3.63,True,1
+530,Chai M,Tea,Chai,M,0.73,5.04,True,4
+531,Latte,Coffee,Latte,,0.63,5.29,False,2
+532,Gift Card,Merchandise,Gift Card,,0.57,4.14,True,2
+533,Cake,Food,Cake,,2.77,4.51,False,5
+534,Green Tea M,Tea,Green Tea,M,2.12,4.87,False,4
+535,Latte L,Coffee,Latte,L,1.46,3.85,True,1
+536,Mocha L,Coffee,Mocha,L,1.7,5.72,True,5
+537,Wrap,Food,Wrap,,1.18,1.8,True,2
+538,Cappuccino S,Coffee,Cappuccino,S,2.52,5.14,True,1
+539,Black Tea S,Tea,Black Tea,S,1.12,2.71,True,4
+540,Chai L,Tea,Chai,L,2.84,7.8,True,2
+541,Black Tea L,Tea,Black Tea,L,2.52,6.16,True,4
+542,Salad,Food,Salad,,1.91,4.94,True,5
+543,Coffee Beans,Merchandise,Coffee Beans,,0.94,1.61,True,5
+544,Black Tea S,Tea,Black Tea,S,1.82,2.32,True,5
+545,Herbal Tea M,Tea,Herbal Tea,M,2.8,7.1,True,3
+546,Latte M,Coffee,Latte,M,1.97,6.6,True,4
+547,Sandwich,Food,Sandwich,,1.43,6.17,False,5
+548,Cappuccino L,Coffee,Cappuccino,L,1.31,6.2,False,5
+549,Coffee Beans,Merchandise,Coffee Beans,,0.94,5.8,True,4
+550,Black Tea,Tea,Black Tea,,1.27,4.87,True,5
+551,Green Tea,Tea,Green Tea,,2.63,6.6,True,4
+552,Herbal Tea M,Tea,Herbal Tea,M,2.1,3.07,False,2
+553,Herbal Tea S,Tea,Herbal Tea,S,1.09,6.01,True,4
+554,Cappuccino,Coffee,Cappuccino,,0.53,1.97,True,4
+555,Pastry,Food,Pastry,,2.47,6.21,True,3
+556,Gift Card,Merchandise,Gift Card,,2.33,7.19,False,2
+557,Gift Card,Merchandise,Gift Card,,1.38,3.57,False,3
+558,Black Tea,Tea,Black Tea,,0.68,4.99,True,5
+559,Cappuccino L,Coffee,Cappuccino,L,2.88,3.71,True,4
+560,Tumbler,Merchandise,Tumbler,,2.33,5.29,True,2
+561,Salad,Food,Salad,,2.96,7.48,True,3
+562,Tumbler,Merchandise,Tumbler,,2.02,4.47,True,4
+563,Cappuccino M,Coffee,Cappuccino,M,2.94,5.28,True,1
+564,Pastry,Food,Pastry,,1.09,1.81,False,3
+565,Green Tea L,Tea,Green Tea,L,0.51,1.4,False,2
+566,Green Tea S,Tea,Green Tea,S,1.02,4.39,True,3
+567,Mug,Merchandise,Mug,,1.27,3.56,False,3
+568,Sandwich,Food,Sandwich,,2.1,4.34,True,3
+569,Coffee Beans,Merchandise,Coffee Beans,,0.97,1.67,False,5
+570,Coffee Beans,Merchandise,Coffee Beans,,1.07,2.78,True,1
+571,Green Tea S,Tea,Green Tea,S,2.17,6.31,False,2
+572,Green Tea,Tea,Green Tea,,2.55,4.93,False,2
+573,Chai L,Tea,Chai,L,0.7,5.26,True,2
+574,Green Tea,Tea,Green Tea,,0.93,5.86,True,4
+575,Black Tea S,Tea,Black Tea,S,1.56,6.51,False,2
+576,Black Tea L,Tea,Black Tea,L,1.3,5.07,True,2
+577,Mocha,Coffee,Mocha,,1.88,6.23,False,1
+578,Flat White,Coffee,Flat White,,0.78,1.95,True,4
+579,Flat White S,Coffee,Flat White,S,2.46,6.86,True,4
+580,Coffee Beans,Merchandise,Coffee Beans,,1.46,4.15,False,3
+581,Espresso L,Coffee,Espresso,L,1.51,4.79,False,5
+582,Mocha L,Coffee,Mocha,L,2.23,2.95,False,4
+583,Pastry,Food,Pastry,,0.55,4.73,True,4
+584,Pastry,Food,Pastry,,2.61,6.97,True,1
+585,Black Tea L,Tea,Black Tea,L,2.94,5.43,True,2
+586,Wrap,Food,Wrap,,2.01,2.91,False,4
+587,Chai,Tea,Chai,,2.4,6.8,True,4
+588,Green Tea L,Tea,Green Tea,L,2.27,4.59,True,5
+589,Black Tea M,Tea,Black Tea,M,2.59,4.21,False,1
+590,Cappuccino M,Coffee,Cappuccino,M,1.18,5.39,False,5
+591,Latte M,Coffee,Latte,M,1.43,4.6,True,4
+592,Coffee Beans,Merchandise,Coffee Beans,,1.36,5.63,True,4
+593,Cappuccino S,Coffee,Cappuccino,S,1.47,2.7,True,1
+594,Black Tea M,Tea,Black Tea,M,1.17,3.51,True,3
+595,Mocha M,Coffee,Mocha,M,2.12,5.33,True,3
+596,Herbal Tea L,Tea,Herbal Tea,L,2.28,5.97,True,4
+597,Gift Card,Merchandise,Gift Card,,2.63,5.2,True,4
+598,Coffee Beans,Merchandise,Coffee Beans,,2.19,6.4,False,5
+599,Latte L,Coffee,Latte,L,1.9,5.07,True,5
+600,Sandwich,Food,Sandwich,,1.7,3.71,True,5
+601,Pastry,Food,Pastry,,1.15,4.85,True,2
+602,Black Tea M,Tea,Black Tea,M,2.75,6.87,False,4
+603,Cake,Food,Cake,,2.3,5.75,True,2
+604,Wrap,Food,Wrap,,1.51,5.33,True,3
+605,Cake,Food,Cake,,2.22,5.59,False,4
+606,Salad,Food,Salad,,1.25,2.51,True,4
+607,Sandwich,Food,Sandwich,,1.68,5.51,True,1
+608,Sandwich,Food,Sandwich,,1.06,2.56,True,4
+609,Coffee Beans,Merchandise,Coffee Beans,,1.43,4.57,False,3
+610,Mocha S,Coffee,Mocha,S,2.67,5.8,True,4
+611,Tumbler,Merchandise,Tumbler,,1.75,6.15,False,2
+612,Wrap,Food,Wrap,,0.64,4.98,True,4
+613,Herbal Tea,Tea,Herbal Tea,,2.97,7.49,False,2
+614,Herbal Tea M,Tea,Herbal Tea,M,2.45,5.14,True,5
+615,Sandwich,Food,Sandwich,,0.51,2.24,True,5
+616,Chai S,Tea,Chai,S,0.82,3.27,False,1
+617,Gift Card,Merchandise,Gift Card,,2.91,5.13,True,4
+618,Herbal Tea S,Tea,Herbal Tea,S,2.73,6.64,True,5
+619,Latte M,Coffee,Latte,M,1.07,5.52,True,5
+620,Green Tea,Tea,Green Tea,,1.76,3.64,True,1
+621,Cappuccino L,Coffee,Cappuccino,L,1.64,4.48,True,1
+622,Tumbler,Merchandise,Tumbler,,1.36,5.92,True,4
+623,Black Tea,Tea,Black Tea,,0.55,2.06,True,2
+624,Green Tea M,Tea,Green Tea,M,0.81,4.51,True,4
+625,Coffee Beans,Merchandise,Coffee Beans,,2.43,5.73,True,2
+626,Latte S,Coffee,Latte,S,2.22,4.6,False,1
+627,Flat White L,Coffee,Flat White,L,1.69,2.88,True,3
+628,Wrap,Food,Wrap,,2.15,5.63,True,4
+629,Chai S,Tea,Chai,S,1.78,5.06,True,3
+630,Latte,Coffee,Latte,,1.0,2.4,True,2
+631,Herbal Tea,Tea,Herbal Tea,,1.24,1.92,False,4
+632,Chai L,Tea,Chai,L,1.09,1.65,True,3
+633,Flat White,Coffee,Flat White,,0.87,1.78,True,3
+634,Cappuccino M,Coffee,Cappuccino,M,1.64,6.54,True,4
+635,Mug,Merchandise,Mug,,0.75,2.04,True,3
+636,Pastry,Food,Pastry,,2.5,4.41,True,4
+637,Latte S,Coffee,Latte,S,2.63,6.12,True,3
+638,Pastry,Food,Pastry,,2.74,7.54,True,1
+639,Cappuccino L,Coffee,Cappuccino,L,0.96,3.26,False,4
+640,Wrap,Food,Wrap,,2.22,4.87,False,1
+641,Green Tea M,Tea,Green Tea,M,2.24,3.0,True,5
+642,Mocha,Coffee,Mocha,,2.51,6.06,True,1
+643,Coffee Beans,Merchandise,Coffee Beans,,2.03,6.41,True,3
+644,Gift Card,Merchandise,Gift Card,,0.78,3.13,True,2
+645,Cappuccino L,Coffee,Cappuccino,L,0.53,4.94,True,1
+646,Salad,Food,Salad,,1.81,5.46,True,1
+647,Tumbler,Merchandise,Tumbler,,1.7,5.19,False,1
+648,Green Tea S,Tea,Green Tea,S,2.11,3.32,False,2
+649,Tumbler,Merchandise,Tumbler,,0.69,3.4,True,2
+650,Pastry,Food,Pastry,,0.63,2.13,False,1
+651,Tumbler,Merchandise,Tumbler,,0.7,3.2,False,5
+652,Mocha,Coffee,Mocha,,1.29,6.2,True,2
+653,Mocha,Coffee,Mocha,,0.59,3.56,True,2
+654,Salad,Food,Salad,,1.91,5.36,False,2
+655,Pastry,Food,Pastry,,2.56,6.73,False,4
+656,Salad,Food,Salad,,2.42,5.62,True,1
+657,Mug,Merchandise,Mug,,0.74,4.21,True,5
+658,Pastry,Food,Pastry,,2.57,7.41,True,2
+659,Sandwich,Food,Sandwich,,0.61,1.85,True,4
+660,Mug,Merchandise,Mug,,1.14,2.52,True,3
+661,Tumbler,Merchandise,Tumbler,,1.64,5.66,True,3
+662,Mocha S,Coffee,Mocha,S,2.82,7.09,True,2
+663,Gift Card,Merchandise,Gift Card,,2.15,6.95,True,5
+664,Mug,Merchandise,Mug,,1.83,2.55,False,5
+665,Tumbler,Merchandise,Tumbler,,2.23,3.51,True,1
+666,Mocha L,Coffee,Mocha,L,1.76,3.99,True,2
+667,Wrap,Food,Wrap,,2.91,7.78,False,3
+668,Black Tea,Tea,Black Tea,,2.01,6.5,True,1
+669,Salad,Food,Salad,,2.08,3.48,True,5
+670,Cake,Food,Cake,,2.95,6.38,True,1
+671,Sandwich,Food,Sandwich,,2.4,5.43,False,3
+672,Wrap,Food,Wrap,,2.52,5.37,True,5
+673,Tumbler,Merchandise,Tumbler,,0.63,1.38,True,4
+674,Herbal Tea L,Tea,Herbal Tea,L,0.87,1.65,True,4
+675,Green Tea L,Tea,Green Tea,L,2.54,3.5,True,2
+676,Tumbler,Merchandise,Tumbler,,1.78,5.87,True,1
+677,Mocha,Coffee,Mocha,,1.54,5.59,True,5
+678,Latte L,Coffee,Latte,L,1.01,5.42,False,2
+679,Herbal Tea M,Tea,Herbal Tea,M,2.44,7.28,True,1
+680,Tumbler,Merchandise,Tumbler,,2.96,3.8,True,3
+681,Mocha S,Coffee,Mocha,S,1.57,4.57,True,5
+682,Herbal Tea S,Tea,Herbal Tea,S,1.33,5.02,True,1
+683,Espresso L,Coffee,Espresso,L,1.99,5.97,True,5
+684,Coffee Beans,Merchandise,Coffee Beans,,0.68,4.36,True,1
+685,Green Tea M,Tea,Green Tea,M,1.54,4.46,True,3
+686,Cake,Food,Cake,,2.71,6.2,True,5
+687,Pastry,Food,Pastry,,1.05,4.94,False,4
+688,Latte L,Coffee,Latte,L,1.61,6.18,True,3
+689,Cappuccino,Coffee,Cappuccino,,2.79,7.54,False,1
+690,Salad,Food,Salad,,2.31,2.92,True,5
+691,Gift Card,Merchandise,Gift Card,,0.61,5.15,True,3
+692,Salad,Food,Salad,,0.71,1.64,True,1
+693,Espresso M,Coffee,Espresso,M,2.66,5.07,True,4
+694,Chai S,Tea,Chai,S,2.37,3.56,False,4
+695,Sandwich,Food,Sandwich,,0.72,1.46,True,1
+696,Flat White M,Coffee,Flat White,M,2.78,5.11,False,4
+697,Gift Card,Merchandise,Gift Card,,1.29,3.54,True,3
+698,Flat White S,Coffee,Flat White,S,2.39,5.53,True,4
+699,Salad,Food,Salad,,0.77,4.81,True,2
+700,Cappuccino,Coffee,Cappuccino,,1.45,5.65,True,4
+701,Tumbler,Merchandise,Tumbler,,1.83,2.94,False,2
+702,Cake,Food,Cake,,1.25,5.74,True,5
+703,Flat White M,Coffee,Flat White,M,0.81,1.33,False,3
+704,Cappuccino M,Coffee,Cappuccino,M,2.37,6.94,True,5
+705,Chai M,Tea,Chai,M,0.9,2.39,True,5
+706,Green Tea M,Tea,Green Tea,M,2.18,5.23,True,4
+707,Mug,Merchandise,Mug,,1.23,2.03,True,4
+708,Chai L,Tea,Chai,L,1.39,4.91,True,4
+709,Cappuccino S,Coffee,Cappuccino,S,2.75,4.68,False,5
+710,Salad,Food,Salad,,2.15,5.77,True,3
+711,Pastry,Food,Pastry,,2.9,4.16,True,3
+712,Black Tea,Tea,Black Tea,,1.19,3.31,True,2
+713,Gift Card,Merchandise,Gift Card,,1.61,5.6,False,1
+714,Espresso S,Coffee,Espresso,S,2.6,6.96,True,3
+715,Herbal Tea S,Tea,Herbal Tea,S,2.32,6.83,True,4
+716,Tumbler,Merchandise,Tumbler,,2.77,5.75,False,2
+717,Herbal Tea,Tea,Herbal Tea,,1.06,5.03,True,4
+718,Chai S,Tea,Chai,S,1.49,4.25,True,5
+719,Black Tea,Tea,Black Tea,,0.9,3.95,True,5
+720,Coffee Beans,Merchandise,Coffee Beans,,0.6,4.53,True,4
+721,Cappuccino L,Coffee,Cappuccino,L,1.09,4.6,True,3
+722,Gift Card,Merchandise,Gift Card,,2.79,7.26,True,1
+723,Sandwich,Food,Sandwich,,2.26,5.11,True,4
+724,Salad,Food,Salad,,1.86,3.14,False,3
+725,Salad,Food,Salad,,2.13,6.39,True,2
+726,Tumbler,Merchandise,Tumbler,,1.79,3.88,True,4
+727,Gift Card,Merchandise,Gift Card,,2.72,3.25,True,2
+728,Tumbler,Merchandise,Tumbler,,1.07,3.89,True,3
+729,Black Tea M,Tea,Black Tea,M,0.89,4.1,True,3
+730,Chai L,Tea,Chai,L,2.3,4.97,False,3
+731,Tumbler,Merchandise,Tumbler,,1.98,5.39,False,3
+732,Espresso S,Coffee,Espresso,S,0.82,3.99,True,5
+733,Flat White M,Coffee,Flat White,M,0.64,2.3,True,3
+734,Mug,Merchandise,Mug,,2.7,6.48,True,5
+735,Espresso,Coffee,Espresso,,2.02,4.64,False,1
+736,Black Tea,Tea,Black Tea,,2.0,6.08,True,5
+737,Cake,Food,Cake,,2.31,4.35,False,2
+738,Espresso,Coffee,Espresso,,1.46,2.45,True,1
+739,Tumbler,Merchandise,Tumbler,,2.01,3.31,True,2
+740,Latte,Coffee,Latte,,2.15,6.71,True,4
+741,Gift Card,Merchandise,Gift Card,,1.43,2.13,False,4
+742,Chai,Tea,Chai,,1.38,5.5,True,5
+743,Tumbler,Merchandise,Tumbler,,1.14,5.09,True,2
+744,Salad,Food,Salad,,2.69,5.03,True,4
+745,Latte S,Coffee,Latte,S,1.8,3.99,True,4
+746,Wrap,Food,Wrap,,1.41,2.61,True,4
+747,Salad,Food,Salad,,1.56,3.71,True,1
+748,Tumbler,Merchandise,Tumbler,,1.53,5.56,False,1
+749,Herbal Tea,Tea,Herbal Tea,,1.13,3.01,True,3
+750,Tumbler,Merchandise,Tumbler,,2.64,6.11,True,2
+751,Tumbler,Merchandise,Tumbler,,0.75,3.54,True,4
+752,Espresso,Coffee,Espresso,,2.91,3.43,True,2
+753,Chai,Tea,Chai,,0.72,2.4,True,3
+754,Flat White S,Coffee,Flat White,S,2.31,7.0,False,5
+755,Salad,Food,Salad,,0.64,4.62,True,3
+756,Gift Card,Merchandise,Gift Card,,0.53,4.86,True,4
+757,Green Tea M,Tea,Green Tea,M,2.04,5.57,True,5
+758,Green Tea M,Tea,Green Tea,M,0.72,2.46,False,5
+759,Wrap,Food,Wrap,,1.51,2.91,True,3
+760,Latte L,Coffee,Latte,L,2.32,5.34,True,4
+761,Pastry,Food,Pastry,,1.07,5.9,False,5
+762,Mug,Merchandise,Mug,,1.15,3.48,True,3
+763,Flat White L,Coffee,Flat White,L,1.35,2.38,True,3
+764,Wrap,Food,Wrap,,2.92,5.95,True,4
+765,Wrap,Food,Wrap,,2.2,6.73,True,3
+766,Mug,Merchandise,Mug,,1.14,3.36,True,3
+767,Herbal Tea,Tea,Herbal Tea,,2.89,5.71,True,3
+768,Cake,Food,Cake,,1.22,3.52,True,2
+769,Flat White M,Coffee,Flat White,M,1.69,3.78,True,1
+770,Black Tea,Tea,Black Tea,,2.34,3.9,True,2
+771,Cake,Food,Cake,,1.07,5.33,True,3
+772,Green Tea S,Tea,Green Tea,S,2.8,6.34,False,1
+773,Flat White S,Coffee,Flat White,S,2.62,4.79,True,5
+774,Coffee Beans,Merchandise,Coffee Beans,,1.73,6.66,True,2
+775,Tumbler,Merchandise,Tumbler,,2.38,3.46,False,2
+776,Mug,Merchandise,Mug,,1.76,4.03,True,2
+777,Mug,Merchandise,Mug,,2.25,4.82,True,4
+778,Espresso,Coffee,Espresso,,1.95,3.91,True,3
+779,Herbal Tea M,Tea,Herbal Tea,M,1.17,5.98,True,5
+780,Cake,Food,Cake,,1.75,3.2,True,5
+781,Wrap,Food,Wrap,,1.2,2.51,True,5
+782,Green Tea L,Tea,Green Tea,L,2.51,5.51,False,3
+783,Black Tea M,Tea,Black Tea,M,1.68,2.22,False,1
+784,Tumbler,Merchandise,Tumbler,,2.99,7.31,True,2
+785,Coffee Beans,Merchandise,Coffee Beans,,1.13,5.49,True,3
+786,Mug,Merchandise,Mug,,2.23,3.0,True,2
+787,Mug,Merchandise,Mug,,1.62,3.63,True,3
+788,Salad,Food,Salad,,1.89,6.04,True,2
+789,Mocha S,Coffee,Mocha,S,1.38,4.94,True,3
+790,Herbal Tea L,Tea,Herbal Tea,L,1.31,4.11,False,1
+791,Mocha L,Coffee,Mocha,L,1.66,6.46,True,5
+792,Wrap,Food,Wrap,,2.08,5.15,True,2
+793,Espresso L,Coffee,Espresso,L,1.07,3.0,True,3
+794,Salad,Food,Salad,,2.11,3.83,False,1
+795,Salad,Food,Salad,,1.8,4.33,True,1
+796,Green Tea M,Tea,Green Tea,M,2.32,5.8,True,5
+797,Black Tea,Tea,Black Tea,,0.76,1.55,False,3
+798,Latte,Coffee,Latte,,1.81,6.79,True,2
+799,Salad,Food,Salad,,0.89,4.34,False,4
+800,Cake,Food,Cake,,1.12,2.9,True,1
+801,Black Tea S,Tea,Black Tea,S,0.59,2.7,True,1
+802,Gift Card,Merchandise,Gift Card,,2.94,5.87,True,5
+803,Tumbler,Merchandise,Tumbler,,2.92,6.56,True,3
+804,Gift Card,Merchandise,Gift Card,,1.81,5.19,True,4
+805,Wrap,Food,Wrap,,1.85,5.97,False,4
+806,Pastry,Food,Pastry,,1.53,2.73,True,4
+807,Flat White M,Coffee,Flat White,M,1.36,3.97,True,3
+808,Gift Card,Merchandise,Gift Card,,1.25,5.2,True,2
+809,Green Tea L,Tea,Green Tea,L,0.97,5.44,False,1
+810,Tumbler,Merchandise,Tumbler,,0.91,4.73,False,3
+811,Tumbler,Merchandise,Tumbler,,1.16,3.56,True,4
+812,Pastry,Food,Pastry,,2.12,5.01,True,1
+813,Tumbler,Merchandise,Tumbler,,2.63,3.95,True,1
+814,Mocha,Coffee,Mocha,,1.18,4.48,True,4
+815,Sandwich,Food,Sandwich,,0.88,5.74,True,4
+816,Green Tea L,Tea,Green Tea,L,1.17,4.89,True,1
+817,Green Tea M,Tea,Green Tea,M,0.54,2.02,False,5
+818,Wrap,Food,Wrap,,2.99,5.58,True,1
+819,Sandwich,Food,Sandwich,,2.61,7.39,True,2
+820,Wrap,Food,Wrap,,0.68,3.3,True,2
+821,Wrap,Food,Wrap,,2.57,3.62,True,5
+822,Gift Card,Merchandise,Gift Card,,1.12,6.1,True,3
+823,Mug,Merchandise,Mug,,1.8,6.72,False,1
+824,Coffee Beans,Merchandise,Coffee Beans,,2.84,4.05,True,2
+825,Cappuccino,Coffee,Cappuccino,,2.1,3.49,True,1
+826,Green Tea M,Tea,Green Tea,M,2.08,4.04,True,5
+827,Salad,Food,Salad,,0.8,4.85,True,4
+828,Flat White,Coffee,Flat White,,2.22,3.42,True,5
+829,Black Tea,Tea,Black Tea,,0.73,4.01,True,5
+830,Cappuccino M,Coffee,Cappuccino,M,2.25,6.31,True,5
+831,Tumbler,Merchandise,Tumbler,,1.29,4.3,True,2
+832,Tumbler,Merchandise,Tumbler,,0.55,2.75,True,5
+833,Sandwich,Food,Sandwich,,1.71,4.18,True,4
+834,Tumbler,Merchandise,Tumbler,,1.92,4.87,True,4
+835,Coffee Beans,Merchandise,Coffee Beans,,2.67,5.86,True,4
+836,Flat White M,Coffee,Flat White,M,1.62,5.81,True,3
+837,Mug,Merchandise,Mug,,2.44,5.22,True,5
+838,Flat White L,Coffee,Flat White,L,2.44,4.01,True,4
+839,Tumbler,Merchandise,Tumbler,,1.81,4.55,True,3
+840,Pastry,Food,Pastry,,1.52,3.47,True,5
+841,Latte M,Coffee,Latte,M,0.95,1.59,True,5
+842,Tumbler,Merchandise,Tumbler,,0.75,3.82,False,1
+843,Coffee Beans,Merchandise,Coffee Beans,,0.62,2.11,True,5
+844,Espresso,Coffee,Espresso,,2.82,7.06,False,1
+845,Cappuccino,Coffee,Cappuccino,,2.56,6.63,True,2
+846,Salad,Food,Salad,,0.6,1.42,True,2
+847,Espresso S,Coffee,Espresso,S,0.75,2.29,False,3
+848,Black Tea M,Tea,Black Tea,M,1.93,6.69,False,1
+849,Flat White L,Coffee,Flat White,L,2.19,5.85,False,2
+850,Espresso M,Coffee,Espresso,M,1.87,4.64,True,2
+851,Coffee Beans,Merchandise,Coffee Beans,,2.76,5.74,True,2
+852,Wrap,Food,Wrap,,2.41,4.85,True,5
+853,Black Tea,Tea,Black Tea,,2.41,7.08,True,1
+854,Wrap,Food,Wrap,,1.62,3.91,True,2
+855,Salad,Food,Salad,,0.54,1.65,True,1
+856,Cappuccino M,Coffee,Cappuccino,M,1.04,2.96,True,4
+857,Green Tea S,Tea,Green Tea,S,1.65,2.85,True,4
+858,Salad,Food,Salad,,1.12,2.77,True,5
+859,Flat White,Coffee,Flat White,,1.92,3.4,True,4
+860,Wrap,Food,Wrap,,0.93,5.15,True,3
+861,Sandwich,Food,Sandwich,,2.33,5.42,True,1
+862,Cappuccino L,Coffee,Cappuccino,L,2.7,5.15,True,2
+863,Green Tea,Tea,Green Tea,,0.64,3.5,True,3
+864,Herbal Tea M,Tea,Herbal Tea,M,0.88,4.41,False,3
+865,Mug,Merchandise,Mug,,1.06,2.86,False,4
+866,Black Tea L,Tea,Black Tea,L,0.71,3.78,True,1
+867,Coffee Beans,Merchandise,Coffee Beans,,0.71,3.47,True,2
+868,Chai M,Tea,Chai,M,1.72,5.16,True,3
+869,Black Tea S,Tea,Black Tea,S,1.17,3.61,True,5
+870,Mocha,Coffee,Mocha,,1.41,2.77,True,2
+871,Cappuccino M,Coffee,Cappuccino,M,2.97,6.24,False,4
+872,Chai S,Tea,Chai,S,2.81,4.36,True,1
+873,Green Tea S,Tea,Green Tea,S,2.35,3.94,True,5
+874,Sandwich,Food,Sandwich,,1.36,5.48,True,2
+875,Gift Card,Merchandise,Gift Card,,0.56,2.0,True,2
+876,Herbal Tea,Tea,Herbal Tea,,2.06,7.03,True,3
+877,Mug,Merchandise,Mug,,1.14,1.91,True,2
+878,Sandwich,Food,Sandwich,,1.66,6.41,True,1
+879,Coffee Beans,Merchandise,Coffee Beans,,2.16,6.77,True,1
+880,Latte L,Coffee,Latte,L,2.67,6.09,True,2
+881,Mug,Merchandise,Mug,,2.76,5.44,True,3
+882,Black Tea,Tea,Black Tea,,1.9,5.61,True,5
+883,Herbal Tea L,Tea,Herbal Tea,L,1.72,5.57,True,5
+884,Pastry,Food,Pastry,,1.39,3.25,True,3
+885,Cappuccino,Coffee,Cappuccino,,2.73,6.9,True,4
+886,Cake,Food,Cake,,0.88,5.42,True,1
+887,Mocha M,Coffee,Mocha,M,1.54,4.62,False,4
+888,Salad,Food,Salad,,1.32,4.26,True,3
+889,Black Tea M,Tea,Black Tea,M,1.27,4.94,True,4
+890,Tumbler,Merchandise,Tumbler,,2.14,5.18,True,3
+891,Sandwich,Food,Sandwich,,1.89,6.66,True,5
+892,Herbal Tea M,Tea,Herbal Tea,M,2.32,6.26,False,5
+893,Coffee Beans,Merchandise,Coffee Beans,,1.61,6.31,True,4
+894,Black Tea S,Tea,Black Tea,S,0.83,1.45,True,4
+895,Black Tea M,Tea,Black Tea,M,2.22,4.34,False,1
+896,Chai L,Tea,Chai,L,0.96,3.2,False,5
+897,Black Tea M,Tea,Black Tea,M,1.07,3.41,True,1
+898,Wrap,Food,Wrap,,1.06,4.58,True,4
+899,Green Tea M,Tea,Green Tea,M,2.82,7.76,False,3
+900,Wrap,Food,Wrap,,2.72,5.14,True,5
+901,Coffee Beans,Merchandise,Coffee Beans,,1.49,6.22,True,3
+902,Mocha,Coffee,Mocha,,2.57,3.26,True,1
+903,Mug,Merchandise,Mug,,1.89,4.71,True,1
+904,Herbal Tea,Tea,Herbal Tea,,1.5,3.37,True,2
+905,Tumbler,Merchandise,Tumbler,,1.56,4.82,True,5
+906,Chai,Tea,Chai,,0.73,3.48,True,5
+907,Chai,Tea,Chai,,1.31,1.92,False,1
+908,Chai S,Tea,Chai,S,1.13,4.74,True,3
+909,Latte S,Coffee,Latte,S,2.27,5.62,True,5
+910,Tumbler,Merchandise,Tumbler,,1.45,3.66,True,1
+911,Salad,Food,Salad,,2.68,7.06,True,2
+912,Black Tea S,Tea,Black Tea,S,1.55,3.44,False,4
+913,Cake,Food,Cake,,0.79,1.88,True,5
+914,Flat White L,Coffee,Flat White,L,0.53,3.27,False,4
+915,Flat White,Coffee,Flat White,,1.09,4.24,False,3
+916,Gift Card,Merchandise,Gift Card,,1.6,4.81,True,2
+917,Herbal Tea M,Tea,Herbal Tea,M,0.62,1.79,True,5
+918,Espresso S,Coffee,Espresso,S,2.17,6.44,True,4
+919,Sandwich,Food,Sandwich,,0.62,3.0,True,4
+920,Herbal Tea M,Tea,Herbal Tea,M,2.92,6.79,True,1
+921,Latte L,Coffee,Latte,L,1.31,5.85,True,4
+922,Mug,Merchandise,Mug,,1.23,2.34,True,3
+923,Salad,Food,Salad,,1.53,2.97,True,4
+924,Latte S,Coffee,Latte,S,1.71,5.31,True,3
+925,Coffee Beans,Merchandise,Coffee Beans,,1.15,4.24,True,3
+926,Chai,Tea,Chai,,1.73,3.04,True,1
+927,Cake,Food,Cake,,0.5,1.11,True,2
+928,Chai,Tea,Chai,,0.61,2.68,True,3
+929,Espresso L,Coffee,Espresso,L,1.14,1.95,True,4
+930,Sandwich,Food,Sandwich,,0.78,2.78,False,4
+931,Espresso M,Coffee,Espresso,M,1.33,3.35,False,3
+932,Mug,Merchandise,Mug,,2.11,4.78,False,4
+933,Wrap,Food,Wrap,,2.46,4.82,True,5
+934,Salad,Food,Salad,,2.31,4.23,True,1
+935,Herbal Tea L,Tea,Herbal Tea,L,0.67,1.84,True,4
+936,Wrap,Food,Wrap,,2.07,6.36,False,1
+937,Green Tea L,Tea,Green Tea,L,2.26,4.18,True,3
+938,Wrap,Food,Wrap,,0.72,5.17,True,3
+939,Coffee Beans,Merchandise,Coffee Beans,,1.04,2.9,True,3
+940,Sandwich,Food,Sandwich,,2.44,7.05,False,1
+941,Mocha M,Coffee,Mocha,M,0.98,5.64,True,4
+942,Cake,Food,Cake,,2.42,3.36,True,5
+943,Green Tea,Tea,Green Tea,,1.47,5.86,True,1
+944,Cappuccino S,Coffee,Cappuccino,S,2.22,5.39,True,5
+945,Wrap,Food,Wrap,,2.72,3.68,True,4
+946,Flat White L,Coffee,Flat White,L,2.1,3.54,True,4
+947,Herbal Tea L,Tea,Herbal Tea,L,1.83,5.81,True,1
+948,Cake,Food,Cake,,0.89,1.91,True,2
+949,Herbal Tea L,Tea,Herbal Tea,L,1.18,5.92,True,5
+950,Black Tea S,Tea,Black Tea,S,1.28,5.8,False,3
+951,Espresso S,Coffee,Espresso,S,1.68,5.22,True,5
+952,Mug,Merchandise,Mug,,0.72,2.98,False,4
+953,Pastry,Food,Pastry,,1.33,2.72,True,4
+954,Tumbler,Merchandise,Tumbler,,0.73,4.84,False,1
+955,Mocha L,Coffee,Mocha,L,2.21,5.91,False,2
+956,Tumbler,Merchandise,Tumbler,,2.87,4.02,True,3
+957,Wrap,Food,Wrap,,0.96,5.59,True,5
+958,Wrap,Food,Wrap,,1.72,2.51,True,2
+959,Wrap,Food,Wrap,,1.65,2.92,True,3
+960,Green Tea,Tea,Green Tea,,2.54,6.63,True,4
+961,Cappuccino,Coffee,Cappuccino,,1.5,3.86,True,4
+962,Chai,Tea,Chai,,0.67,2.11,False,1
+963,Coffee Beans,Merchandise,Coffee Beans,,1.86,3.42,True,1
+964,Mug,Merchandise,Mug,,1.98,4.56,True,5
+965,Tumbler,Merchandise,Tumbler,,1.27,3.6,True,2
+966,Coffee Beans,Merchandise,Coffee Beans,,1.74,5.21,True,2
+967,Black Tea S,Tea,Black Tea,S,2.39,5.86,False,3
+968,Wrap,Food,Wrap,,2.04,4.55,True,5
+969,Pastry,Food,Pastry,,1.93,6.54,True,1
+970,Coffee Beans,Merchandise,Coffee Beans,,2.98,6.1,False,5
+971,Herbal Tea S,Tea,Herbal Tea,S,1.42,4.39,True,4
+972,Flat White L,Coffee,Flat White,L,0.77,2.54,True,1
+973,Chai,Tea,Chai,,2.06,5.76,False,2
+974,Gift Card,Merchandise,Gift Card,,1.86,5.34,False,1
+975,Black Tea,Tea,Black Tea,,2.61,4.73,False,4
+976,Herbal Tea M,Tea,Herbal Tea,M,0.84,1.66,True,1
+977,Chai,Tea,Chai,,2.94,4.05,True,2
+978,Gift Card,Merchandise,Gift Card,,2.73,6.36,False,4
+979,Chai,Tea,Chai,,1.88,4.41,True,3
+980,Black Tea,Tea,Black Tea,,2.01,5.11,True,5
+981,Wrap,Food,Wrap,,2.82,5.91,True,3
+982,Flat White,Coffee,Flat White,,2.26,3.27,False,4
+983,Espresso L,Coffee,Espresso,L,1.66,2.51,True,4
+984,Chai S,Tea,Chai,S,2.21,5.14,True,4
+985,Cappuccino S,Coffee,Cappuccino,S,1.67,4.48,False,2
+986,Wrap,Food,Wrap,,1.38,6.28,True,4
+987,Cake,Food,Cake,,0.59,5.24,True,5
+988,Sandwich,Food,Sandwich,,2.07,5.17,True,2
+989,Salad,Food,Salad,,0.57,3.25,True,4
+990,Cappuccino L,Coffee,Cappuccino,L,0.83,2.59,True,2
+991,Latte M,Coffee,Latte,M,2.78,6.61,False,5
+992,Cake,Food,Cake,,1.15,4.8,False,5
+993,Green Tea L,Tea,Green Tea,L,2.96,7.81,True,2
+994,Gift Card,Merchandise,Gift Card,,2.43,4.0,False,1
+995,Black Tea L,Tea,Black Tea,L,0.64,2.33,True,3
+996,Espresso,Coffee,Espresso,,1.5,3.36,True,4
+997,Gift Card,Merchandise,Gift Card,,1.69,2.84,False,3
+998,Cappuccino,Coffee,Cappuccino,,1.46,3.38,True,5
+999,Flat White L,Coffee,Flat White,L,2.89,5.33,True,3
+1000,Pastry,Food,Pastry,,1.17,2.11,False,1

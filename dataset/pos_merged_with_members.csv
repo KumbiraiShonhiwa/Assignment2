@@ -1,634 +1,634 @@
-pos_receipt_id,store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,enrolment_date,first_name,last_name,email,date_of_birth,gender,primary_store_id,consent_marketing
-100000,3,05/01/2024 18:23,5002,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100001,1,17/03/2024 07:44,5007,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100002,2,15/01/2024 12:47,5006,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100003,4,01/01/2024 03:38,5002,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100004,4,29/01/2024 17:07,5002,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100005,1,12/01/2024 11:47,5005,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100006,1,12/02/2024 17:11,5005,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100009,1,16/02/2024 10:15,5003,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100011,5,05/02/2024 06:50,5006,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100013,5,18/02/2024 10:09,5001,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100019,5,07/01/2024 16:31,5007,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100022,2,01/03/2024 20:55,5002,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100024,1,17/02/2024 01:37,5003,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100026,4,20/03/2024 06:53,5005,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100027,3,17/02/2024 11:25,5009,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100028,3,19/02/2024 15:34,5004,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100029,5,25/03/2024 15:12,5004,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100030,1,06/02/2024 05:48,5009,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100031,1,10/03/2024 00:07,5004,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100032,3,24/02/2024 14:56,5002,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100033,4,12/03/2024 13:13,5008,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100034,5,05/03/2024 23:14,5008,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100040,3,07/01/2024 07:04,5002,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100041,4,26/03/2024 22:40,5001,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100042,5,12/02/2024 09:00,5006,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100044,5,15/02/2024 14:26,5005,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100047,2,22/03/2024 03:34,5010,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100048,5,05/03/2024 05:43,5001,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100050,4,02/02/2024 13:14,5001,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100051,1,19/01/2024 01:03,5005,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100052,4,15/02/2024 11:54,5004,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100053,5,10/02/2024 07:07,5009,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100054,4,27/02/2024 20:14,5007,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100056,2,13/01/2024 05:57,5004,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100057,2,23/03/2024 19:58,5002,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100058,3,07/02/2024 12:30,5009,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100059,4,07/03/2024 12:23,5005,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100060,3,26/01/2024 17:14,5004,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100062,2,21/02/2024 00:23,5007,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100063,2,27/01/2024 02:29,5008,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100065,3,27/01/2024 06:47,5004,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100066,1,16/02/2024 06:52,5010,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100068,1,13/01/2024 19:05,5003,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100069,2,09/01/2024 22:32,5004,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100070,4,01/03/2024 04:38,5001,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100074,4,01/03/2024 21:47,5006,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100075,1,20/02/2024 01:51,5002,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100078,1,29/01/2024 12:47,5006,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100079,2,04/02/2024 10:53,5010,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100080,5,07/03/2024 18:12,5009,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100081,2,18/01/2024 10:43,5006,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100082,5,29/02/2024 11:33,5009,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100083,1,24/01/2024 16:46,5003,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100084,2,10/01/2024 04:13,5010,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100086,3,12/01/2024 20:11,5007,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100087,5,01/03/2024 15:24,5002,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100088,2,10/02/2024 00:07,5001,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100089,4,25/03/2024 20:37,5007,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100090,1,05/02/2024 06:19,5007,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100091,4,14/03/2024 12:23,5003,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100092,2,08/02/2024 08:20,5007,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100093,5,12/01/2024 02:32,5007,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100094,3,20/03/2024 15:31,5005,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100096,4,05/01/2024 02:13,5002,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100098,4,21/02/2024 19:45,5009,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100099,4,09/01/2024 03:55,5001,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100101,4,13/03/2024 13:26,5010,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100102,4,28/02/2024 12:29,5007,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100104,3,05/03/2024 05:49,5005,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100107,4,27/01/2024 23:11,5006,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100109,3,14/03/2024 00:29,5007,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100121,2,11/03/2024 20:14,5009,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100124,3,19/02/2024 13:14,5002,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100128,3,07/01/2024 16:00,5009,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100129,1,24/01/2024 09:46,5002,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100131,1,06/03/2024 01:08,5007,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100133,1,01/02/2024 18:47,5006,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100134,4,10/02/2024 10:47,5009,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100139,3,13/02/2024 21:37,5008,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100140,3,09/02/2024 17:14,5002,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100141,5,23/03/2024 12:12,5006,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100142,1,11/03/2024 11:20,5003,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100145,2,12/02/2024 09:31,5003,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100147,5,25/01/2024 09:57,5004,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100150,1,04/01/2024 14:19,5004,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100151,2,08/01/2024 14:33,5008,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100152,5,30/03/2024 07:13,5009,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100154,2,10/03/2024 14:48,5010,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100155,4,26/02/2024 00:32,5005,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100156,5,24/03/2024 05:35,5003,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100157,4,08/03/2024 17:18,5009,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100158,2,18/02/2024 04:33,5004,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100159,2,28/01/2024 13:08,5001,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100160,2,20/02/2024 06:59,5010,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100161,5,23/01/2024 21:24,5005,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100164,5,30/01/2024 10:02,5002,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100168,3,28/03/2024 09:09,5005,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100170,2,14/01/2024 16:56,5004,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100173,1,03/03/2024 13:22,5004,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100174,5,15/01/2024 02:05,5006,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100175,4,29/02/2024 09:36,5006,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100177,2,17/01/2024 14:14,5004,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100179,4,21/02/2024 06:30,5005,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100180,4,22/01/2024 03:13,5005,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100181,4,28/03/2024 18:55,5005,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100182,2,06/01/2024 00:58,5003,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100183,5,10/01/2024 08:52,5008,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100184,2,27/03/2024 06:32,5004,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100185,5,16/02/2024 11:12,5009,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100186,2,28/02/2024 02:00,5006,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100187,2,16/03/2024 05:36,5001,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100189,2,12/01/2024 12:05,5003,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100190,3,28/03/2024 02:42,5002,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100196,1,17/02/2024 17:11,5003,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100197,3,01/03/2024 16:12,5007,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100198,1,30/01/2024 21:42,5004,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100200,2,09/03/2024 03:29,5001,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100201,1,23/01/2024 11:17,5008,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100206,5,02/01/2024 16:15,5001,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100207,1,06/03/2024 03:42,5003,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100208,2,23/01/2024 00:44,5004,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100209,5,07/01/2024 08:56,5004,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100210,2,04/03/2024 00:27,5008,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100211,1,08/02/2024 11:40,5008,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100212,4,13/01/2024 23:40,5010,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100213,2,21/01/2024 07:04,5003,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100215,3,24/03/2024 12:09,5002,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100216,1,14/03/2024 03:29,5005,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100220,2,07/03/2024 05:39,5003,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100221,4,06/01/2024 17:33,5001,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100222,4,24/01/2024 19:59,5008,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100224,5,27/02/2024 14:10,5005,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100227,3,29/01/2024 04:03,5009,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100228,2,09/02/2024 23:34,5003,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100229,4,29/03/2024 00:13,5002,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100230,1,08/01/2024 17:59,5010,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100231,4,29/01/2024 18:02,5005,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100232,5,21/03/2024 17:41,5007,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100234,2,07/01/2024 11:43,5004,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100236,2,15/03/2024 19:54,5007,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100238,2,09/02/2024 16:05,5005,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100239,2,07/03/2024 01:58,5008,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100240,3,03/02/2024 03:46,5003,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100241,4,10/03/2024 15:24,5003,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100242,2,14/01/2024 05:19,5009,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100244,4,20/03/2024 10:32,5002,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100245,4,22/03/2024 04:19,5010,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100246,2,16/01/2024 18:38,5005,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100247,2,06/02/2024 15:07,5006,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100249,1,21/03/2024 02:39,5004,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100252,2,10/01/2024 10:41,5004,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100253,3,16/01/2024 18:51,5007,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100254,3,01/01/2024 11:09,5009,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100255,3,02/01/2024 07:04,5007,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100256,4,28/03/2024 01:02,5008,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100257,1,26/03/2024 18:51,5007,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100258,1,23/03/2024 00:43,5001,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100259,3,21/01/2024 04:23,5006,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100260,2,18/02/2024 18:55,5009,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100261,3,27/01/2024 03:36,5007,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100262,1,02/02/2024 12:51,5005,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100263,5,18/02/2024 11:28,5010,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100264,3,26/01/2024 20:19,5006,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100265,2,20/02/2024 19:38,5004,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100266,2,02/01/2024 18:14,5005,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100273,1,14/02/2024 11:26,5010,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100274,3,18/02/2024 10:49,5008,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100275,1,11/01/2024 17:21,5003,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100276,3,28/03/2024 11:34,5002,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100277,1,09/02/2024 19:20,5007,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100278,2,16/02/2024 21:20,5001,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100279,1,05/01/2024 05:08,5009,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100282,2,25/03/2024 08:00,5009,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100284,4,15/01/2024 01:07,5009,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100286,2,11/03/2024 00:23,5004,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100287,4,06/02/2024 11:33,5009,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100288,1,30/03/2024 12:02,5003,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100290,3,30/01/2024 17:53,5003,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100292,4,29/01/2024 20:33,5010,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100293,4,17/01/2024 18:29,5007,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100295,4,31/01/2024 14:08,5002,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100296,1,19/01/2024 10:23,5004,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100297,2,13/02/2024 11:13,5008,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100298,1,11/02/2024 05:34,5005,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100299,2,30/01/2024 16:39,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100300,5,23/03/2024 20:16,5002,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100301,5,25/02/2024 11:38,5007,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100303,5,25/01/2024 18:04,5001,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100305,5,29/02/2024 06:49,5002,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100308,5,08/02/2024 07:46,5008,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100309,4,12/03/2024 02:43,5005,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100310,2,08/02/2024 07:49,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100311,2,11/03/2024 14:57,5003,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100312,4,30/03/2024 08:03,5008,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100314,1,02/03/2024 12:41,5003,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100315,1,28/02/2024 12:56,5002,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100316,4,06/03/2024 03:30,5003,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100317,5,02/01/2024 09:08,5009,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100318,5,05/02/2024 20:47,5004,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100319,1,17/03/2024 17:07,5002,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100321,5,31/01/2024 14:06,5001,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100323,5,03/03/2024 19:25,5009,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100325,2,17/03/2024 19:39,5001,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100326,4,29/03/2024 08:17,5001,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100329,3,17/02/2024 12:51,5007,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100330,2,07/03/2024 23:15,5006,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100331,1,18/03/2024 00:56,5005,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100332,2,26/02/2024 03:47,5009,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100334,1,07/03/2024 22:50,5001,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100341,2,08/01/2024 19:04,5008,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100343,2,09/01/2024 21:07,5008,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100344,5,18/01/2024 07:44,5005,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100347,4,07/01/2024 18:14,5008,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100348,4,05/03/2024 18:17,5009,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100349,1,22/03/2024 04:13,5008,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100350,4,31/01/2024 08:36,5002,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100351,1,03/01/2024 04:00,5005,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100353,1,27/02/2024 14:18,5008,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100354,3,25/03/2024 04:43,5008,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100355,1,22/01/2024 05:47,5006,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100356,1,18/03/2024 23:38,5004,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100358,5,12/02/2024 03:58,5007,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100359,2,11/01/2024 09:44,5010,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100360,1,13/01/2024 18:20,5007,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100361,3,09/02/2024 14:01,5006,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100364,5,02/03/2024 01:19,5005,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100365,1,23/01/2024 09:17,5007,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100368,5,13/02/2024 01:36,5002,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100369,5,17/02/2024 21:04,5004,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100372,2,02/02/2024 05:06,5006,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100373,3,27/02/2024 10:17,5006,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100374,3,22/02/2024 14:01,5010,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100375,1,11/01/2024 16:21,5007,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100376,2,28/02/2024 18:04,5010,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100378,2,03/01/2024 15:42,5008,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100380,2,14/03/2024 02:35,5004,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100381,5,30/01/2024 05:14,5002,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100384,3,06/01/2024 11:06,5009,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100385,1,03/02/2024 19:21,5007,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100386,4,06/01/2024 17:16,5006,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100388,1,26/03/2024 17:50,5007,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100389,4,21/01/2024 02:56,5009,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100390,3,10/02/2024 10:45,5003,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100391,2,01/03/2024 05:36,5010,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100392,4,19/03/2024 19:26,5002,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100393,3,03/01/2024 12:08,5009,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100395,2,06/03/2024 17:48,5001,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100396,5,12/01/2024 20:25,5006,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100397,5,20/03/2024 23:21,5005,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100398,4,29/03/2024 07:16,5002,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100401,5,11/03/2024 18:03,5007,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100402,5,13/03/2024 03:15,5009,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100403,2,21/03/2024 17:31,5004,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100404,4,13/03/2024 02:35,5010,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100405,5,11/01/2024 22:33,5006,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100406,3,22/03/2024 10:28,5006,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100408,1,18/02/2024 04:02,5002,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100409,4,19/02/2024 12:42,5008,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100410,1,10/02/2024 22:19,5004,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100411,3,21/02/2024 02:03,5002,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100412,5,06/03/2024 01:56,5008,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100413,2,13/01/2024 03:15,5006,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100414,5,23/02/2024 10:21,5003,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100415,2,19/01/2024 14:10,5003,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100416,2,10/02/2024 17:34,5009,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100417,4,26/02/2024 01:37,5004,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100418,1,03/01/2024 17:19,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100419,2,15/01/2024 11:13,5007,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100421,3,10/03/2024 09:59,5010,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100423,1,20/03/2024 02:55,5004,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100424,5,30/01/2024 13:26,5008,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100425,1,21/02/2024 21:15,5002,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100428,2,09/03/2024 00:27,5010,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100429,4,02/03/2024 06:17,5008,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100430,2,28/03/2024 07:02,5007,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100432,5,12/01/2024 03:09,5005,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100433,4,13/02/2024 01:05,5009,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100435,4,09/03/2024 17:09,5006,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100438,3,19/03/2024 10:08,5005,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100442,1,11/02/2024 04:11,5009,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100443,5,16/02/2024 16:01,5002,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100444,4,27/03/2024 19:23,5001,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100446,2,10/01/2024 10:22,5008,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100447,4,28/01/2024 16:10,5005,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100448,5,02/03/2024 21:56,5003,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100449,1,03/02/2024 00:19,5005,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100451,4,11/01/2024 03:05,5004,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100453,5,02/01/2024 23:01,5004,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100454,2,11/01/2024 12:29,5005,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100455,3,19/02/2024 09:02,5009,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100456,5,25/03/2024 03:25,5009,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100457,4,26/01/2024 13:39,5001,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100460,1,05/03/2024 23:38,5003,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100461,1,22/03/2024 00:56,5001,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100463,4,15/03/2024 16:47,5007,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100465,2,30/01/2024 12:47,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100466,3,05/02/2024 18:30,5003,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100469,2,11/01/2024 09:22,5001,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100472,4,07/02/2024 06:26,5008,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100473,2,05/02/2024 08:37,5001,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100474,3,22/02/2024 22:31,5005,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100475,2,11/01/2024 16:17,5002,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100476,4,23/01/2024 13:18,5005,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100477,5,07/02/2024 18:05,5002,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100481,2,10/03/2024 07:11,5005,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100483,3,14/03/2024 00:09,5005,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100484,1,30/03/2024 18:06,5004,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100485,2,21/03/2024 23:51,5006,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100486,1,19/02/2024 12:42,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100488,3,21/03/2024 14:10,5008,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100489,2,20/03/2024 22:32,5003,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100492,2,27/01/2024 14:03,5004,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100493,2,30/03/2024 22:38,5007,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100494,4,22/03/2024 19:20,5002,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100495,5,04/03/2024 11:45,5008,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100500,1,27/01/2024 15:24,5005,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100502,5,11/03/2024 10:24,5002,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100504,1,16/01/2024 05:51,5001,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100506,1,29/02/2024 11:21,5007,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100507,4,24/01/2024 06:13,5004,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100508,1,19/02/2024 06:18,5009,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100509,5,02/01/2024 11:19,5009,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100510,5,22/02/2024 05:06,5009,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100511,5,21/02/2024 08:09,5005,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100512,4,16/02/2024 01:09,5005,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100513,1,20/02/2024 20:47,5008,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100514,5,18/01/2024 04:55,5002,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100515,3,04/01/2024 04:40,5006,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100518,1,07/03/2024 23:41,5010,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100520,3,05/01/2024 12:33,5010,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100522,1,09/02/2024 00:32,5004,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100523,4,19/01/2024 22:26,5001,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100524,1,29/01/2024 17:31,5009,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100525,3,19/01/2024 16:01,5008,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100526,3,22/03/2024 07:08,5010,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100528,5,01/01/2024 09:39,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100529,1,27/01/2024 14:58,5008,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100530,1,20/02/2024 21:07,5008,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100531,4,16/03/2024 03:51,5001,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100532,2,11/01/2024 11:47,5002,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100533,5,28/02/2024 17:51,5004,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100535,5,20/03/2024 23:23,5002,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100536,4,16/01/2024 01:15,5009,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100539,1,02/02/2024 05:07,5005,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100540,5,25/02/2024 19:20,5002,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100542,3,26/01/2024 08:30,5008,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100543,2,22/03/2024 07:51,5006,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100545,4,20/01/2024 15:27,5005,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100548,2,14/01/2024 06:12,5008,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100550,5,26/03/2024 06:55,5010,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100551,2,27/01/2024 18:13,5008,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100554,1,29/01/2024 19:19,5001,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100555,4,14/02/2024 20:47,5010,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100557,5,16/02/2024 04:16,5001,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100559,5,28/01/2024 15:52,5010,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100562,3,19/02/2024 20:05,5001,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100565,4,12/03/2024 22:32,5001,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100567,4,10/02/2024 17:07,5007,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100568,5,27/01/2024 19:02,5009,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100570,1,14/03/2024 03:13,5006,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100571,4,29/01/2024 09:17,5009,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100573,4,19/02/2024 14:11,5010,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100574,2,15/01/2024 09:01,5009,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100575,2,06/01/2024 19:34,5003,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100576,2,26/02/2024 04:55,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100577,4,19/03/2024 23:22,5007,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100578,5,24/01/2024 13:47,5010,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100579,4,24/02/2024 12:44,5010,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100581,3,29/03/2024 22:47,5010,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100584,2,24/03/2024 10:39,5009,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100585,5,27/02/2024 13:51,5007,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100586,1,20/01/2024 09:51,5010,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100592,1,11/03/2024 02:28,5002,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100595,3,13/02/2024 05:53,5002,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100596,3,05/03/2024 16:19,5010,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100597,3,28/01/2024 22:27,5005,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100598,4,03/02/2024 11:57,5010,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100600,1,18/02/2024 16:24,5004,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100603,5,14/03/2024 10:27,5002,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100606,4,05/03/2024 21:42,5005,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100607,2,17/02/2024 02:28,5008,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100608,4,20/01/2024 20:47,5004,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100611,3,04/01/2024 05:45,5010,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100613,3,27/03/2024 01:05,5006,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100614,2,07/03/2024 04:41,5001,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100615,1,29/02/2024 21:01,5005,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100617,2,28/02/2024 04:58,5007,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100618,5,01/01/2024 01:36,5008,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100619,3,30/01/2024 16:16,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100620,3,13/03/2024 15:23,5008,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100621,3,20/02/2024 22:05,5008,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100626,1,25/02/2024 08:31,5009,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100627,1,06/03/2024 00:28,5004,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100629,5,13/03/2024 16:27,5005,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100631,3,18/03/2024 04:05,5010,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100633,3,10/03/2024 07:57,5001,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100634,2,08/03/2024 22:11,5004,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100635,3,28/03/2024 12:20,5007,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100636,2,22/03/2024 07:13,5002,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100637,1,17/02/2024 21:08,5007,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100638,2,18/03/2024 08:04,5009,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100640,4,08/01/2024 02:32,5005,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100645,2,24/01/2024 20:38,5008,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100646,3,22/02/2024 05:56,5004,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100648,1,07/03/2024 03:06,5003,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100649,5,09/03/2024 08:09,5009,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100650,3,11/01/2024 03:05,5002,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100651,1,29/02/2024 11:47,5001,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100653,4,25/01/2024 10:33,5005,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100655,5,01/02/2024 07:24,5001,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100656,4,24/01/2024 14:32,5010,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100657,3,25/03/2024 12:52,5004,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100658,4,03/01/2024 01:25,5005,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100660,3,01/01/2024 02:01,5009,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100661,3,23/03/2024 13:50,5004,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100663,4,11/01/2024 21:24,5007,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100664,4,23/02/2024 22:36,5002,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100665,3,29/01/2024 20:34,5005,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100669,3,19/02/2024 05:06,5005,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100670,4,17/03/2024 03:24,5002,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100672,1,15/01/2024 05:25,5001,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100674,2,21/01/2024 17:27,5002,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100675,1,26/01/2024 15:50,5008,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100676,1,30/03/2024 08:23,5002,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100677,3,10/03/2024 02:54,5004,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100678,3,14/01/2024 03:27,5006,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100679,2,10/03/2024 10:58,5008,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100683,2,27/03/2024 02:40,5006,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100684,3,10/03/2024 13:31,5007,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100685,4,14/01/2024 02:22,5006,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100687,1,14/03/2024 09:13,5004,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100688,4,11/03/2024 22:12,5006,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100690,2,07/01/2024 13:02,5009,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100691,4,28/03/2024 20:57,5005,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100692,3,02/02/2024 15:26,5006,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100693,4,04/02/2024 10:38,5005,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100694,4,14/02/2024 11:18,5010,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100697,2,18/02/2024 23:34,5008,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100698,5,02/02/2024 03:29,5008,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100699,4,18/01/2024 14:12,5007,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100702,5,02/03/2024 18:42,5004,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100703,5,17/03/2024 03:05,5009,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100704,5,27/03/2024 23:36,5004,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100705,1,27/01/2024 20:38,5009,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100706,1,19/01/2024 07:58,5003,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100707,5,05/02/2024 04:01,5008,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100709,5,30/03/2024 22:15,5009,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100710,1,24/01/2024 17:46,5006,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100711,1,08/03/2024 00:36,5006,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100712,2,06/01/2024 09:13,5002,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100713,4,01/01/2024 23:29,5005,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100714,1,17/03/2024 00:08,5002,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100717,4,09/03/2024 00:38,5008,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100718,2,11/01/2024 13:40,5008,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100719,3,05/03/2024 06:20,5007,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100720,3,30/03/2024 12:04,5009,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100721,2,23/01/2024 09:46,5003,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100722,3,23/02/2024 08:58,5008,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100723,5,22/01/2024 17:26,5006,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100724,5,01/03/2024 18:11,5006,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100725,5,01/03/2024 17:21,5003,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100727,3,07/02/2024 01:16,5010,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100728,4,16/03/2024 11:27,5006,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100729,5,20/01/2024 09:02,5008,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100731,1,26/03/2024 02:06,5008,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100732,4,21/03/2024 16:50,5002,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100736,5,20/01/2024 17:15,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100737,4,26/01/2024 06:10,5001,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100740,4,18/03/2024 09:40,5004,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100741,5,02/02/2024 14:58,5008,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100742,1,28/03/2024 19:08,5002,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100743,5,20/03/2024 01:25,5007,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100744,1,01/03/2024 20:07,5009,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100745,1,10/03/2024 03:13,5006,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100746,3,12/01/2024 23:54,5006,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100747,3,29/01/2024 00:37,5009,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100748,4,29/02/2024 01:07,5010,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100750,5,15/03/2024 17:12,5010,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100751,2,15/01/2024 01:05,5005,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100752,5,15/02/2024 07:53,5001,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100754,1,02/01/2024 02:41,5004,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100755,2,19/03/2024 22:51,5010,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100756,5,14/02/2024 11:20,5003,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100758,3,31/01/2024 22:28,5001,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100759,5,08/03/2024 01:22,5005,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100762,2,15/01/2024 03:54,5004,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100764,1,21/01/2024 09:21,5006,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100766,2,23/01/2024 03:12,5010,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100767,4,08/01/2024 01:13,5008,Card,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100768,5,05/02/2024 09:29,5002,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100771,1,14/01/2024 03:22,5004,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100773,3,05/03/2024 11:32,5007,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100776,5,16/03/2024 22:13,5006,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100779,4,24/03/2024 11:48,5002,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100780,2,13/03/2024 18:15,5001,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100781,5,06/02/2024 22:24,5004,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100783,4,29/02/2024 12:37,5003,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100784,1,20/02/2024 10:48,5006,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100785,4,18/03/2024 14:21,5009,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100787,4,08/03/2024 23:05,5002,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100789,4,26/03/2024 00:13,5001,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100791,3,27/01/2024 23:49,5008,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100792,1,09/02/2024 13:39,5009,Voucher,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100794,1,18/02/2024 04:31,5010,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100798,5,31/01/2024 18:09,5001,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100799,1,30/03/2024 21:16,5001,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100801,1,14/03/2024 06:17,5006,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100802,4,14/01/2024 19:08,5003,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100804,1,02/02/2024 13:55,5006,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100807,1,27/02/2024 04:19,5002,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100808,2,17/03/2024 16:19,5001,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100809,4,15/01/2024 08:29,5003,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100810,3,05/01/2024 14:11,5009,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100812,5,01/02/2024 06:01,5009,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100813,2,09/03/2024 22:26,5002,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100816,2,23/02/2024 02:44,5004,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100818,5,14/02/2024 00:56,5004,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100819,4,02/01/2024 21:11,5006,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100820,3,24/03/2024 18:30,5009,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100822,3,13/01/2024 10:01,5001,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100823,5,15/01/2024 01:01,5003,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100826,1,14/02/2024 10:47,5005,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100827,1,13/02/2024 01:06,5006,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100828,4,02/02/2024 21:07,5003,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100829,3,22/01/2024 05:54,5004,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100830,2,10/01/2024 21:05,5009,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100832,3,14/02/2024 14:07,5005,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100834,3,24/01/2024 23:13,5008,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100836,4,29/03/2024 04:56,5005,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100838,2,14/03/2024 13:30,5005,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100840,2,09/02/2024 23:36,5003,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100841,5,23/02/2024 18:41,5002,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100843,3,25/02/2024 04:59,5010,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100845,1,19/02/2024 10:42,5007,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100846,4,03/03/2024 03:41,5006,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100847,4,30/01/2024 11:49,5003,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100848,5,03/01/2024 10:06,5004,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100849,5,11/03/2024 08:14,5002,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100850,2,07/01/2024 18:56,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100852,2,11/03/2024 09:36,5007,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100853,2,06/01/2024 00:06,5010,Cash,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100854,1,24/02/2024 06:01,5009,Voucher,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100857,1,07/02/2024 01:41,5010,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100858,1,24/03/2024 22:50,5001,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100859,3,07/01/2024 15:21,5007,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100861,1,12/03/2024 23:25,5003,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100863,2,09/03/2024 00:28,5006,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100864,1,15/01/2024 14:11,5010,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100865,4,06/01/2024 23:13,5006,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100869,2,28/02/2024 15:09,5009,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100870,3,30/03/2024 12:37,5007,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100871,4,30/01/2024 22:05,5009,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100872,1,25/03/2024 02:52,5004,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100873,1,21/03/2024 05:33,5007,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100876,3,22/03/2024 04:54,5007,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100881,2,30/03/2024 04:35,5010,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100882,4,23/01/2024 06:48,5004,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100883,1,15/01/2024 23:54,5005,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100884,1,01/01/2024 14:17,5006,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100885,5,17/02/2024 09:40,5006,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100887,1,22/02/2024 05:11,5007,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100890,2,23/03/2024 04:00,5009,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100891,1,17/03/2024 12:23,5010,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100892,3,01/03/2024 19:21,5001,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100893,1,31/01/2024 16:02,5009,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100895,4,26/01/2024 17:10,5008,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100896,2,27/01/2024 11:28,5010,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100898,4,06/02/2024 11:43,5009,Voucher,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100900,3,07/01/2024 04:15,5003,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100901,3,26/03/2024 02:46,5009,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100902,2,10/02/2024 01:18,5007,Mobile Wallet,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100904,1,15/01/2024 12:14,5007,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100905,1,30/03/2024 16:28,5003,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100906,5,18/01/2024 19:30,5002,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100910,4,22/01/2024 00:32,5008,Voucher,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100911,2,04/03/2024 19:36,5006,Cash,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100912,2,25/02/2024 17:55,5003,Mobile Wallet,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100913,5,23/02/2024 13:56,5003,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100916,3,20/03/2024 09:02,5004,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100917,4,29/02/2024 05:57,5006,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100918,5,15/03/2024 05:11,5001,Voucher,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100919,3,08/03/2024 07:29,5004,Card,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100922,1,10/02/2024 14:00,5002,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100923,3,13/03/2024 12:44,5001,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100924,3,03/02/2024 10:02,5005,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100925,3,29/02/2024 22:48,5003,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100926,2,12/02/2024 11:55,5008,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100927,4,05/03/2024 08:29,5010,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100928,2,23/01/2024 13:20,5001,Cash,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100929,4,13/01/2024 21:51,5005,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100930,1,29/02/2024 11:22,5005,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100931,5,12/03/2024 07:20,5005,Mobile Wallet,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100932,3,29/03/2024 13:03,5001,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100933,5,09/01/2024 18:04,5002,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100934,2,03/01/2024 05:21,5002,Mobile Wallet,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100935,3,15/03/2024 03:12,5008,Cash,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100938,5,25/02/2024 01:47,5009,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100939,2,16/03/2024 16:49,5005,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100941,5,10/01/2024 17:00,5010,Card,In-Store,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100943,5,04/03/2024 19:06,5005,Voucher,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100944,1,21/02/2024 09:18,5005,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100945,1,12/03/2024 03:23,5007,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100946,1,08/01/2024 20:09,5009,Mobile Wallet,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100947,3,13/02/2024 06:34,5009,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100948,3,21/01/2024 20:40,5007,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100949,5,08/03/2024 07:34,5003,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100951,5,06/02/2024 06:07,5005,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100953,3,11/02/2024 19:31,5006,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100954,4,20/03/2024 19:49,5008,Mobile Wallet,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100956,5,26/02/2024 08:20,5003,Mobile Wallet,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100958,3,24/03/2024 01:28,5009,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100959,5,24/02/2024 15:42,5005,Cash,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100960,3,22/01/2024 06:57,5004,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100964,1,20/03/2024 17:23,5008,Cash,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100969,4,27/01/2024 20:37,5007,Card,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100971,4,19/02/2024 19:43,5002,Cash,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100972,1,28/02/2024 00:40,5010,Cash,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100974,3,01/01/2024 06:19,5003,Card,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100975,4,29/02/2024 05:01,5004,Voucher,Click-and-Collect,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100978,2,03/01/2024 11:03,5008,Card,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100983,4,11/01/2024 13:17,5006,Mobile Wallet,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100984,3,19/02/2024 21:42,5005,Card,In-Store,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100985,2,12/01/2024 13:54,5006,Mobile Wallet,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100986,2,13/03/2024 09:22,5006,Cash,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100987,2,22/02/2024 12:39,5001,Card,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100988,3,01/01/2024 01:15,5007,Cash,Click-and-Collect,3005.0,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
-100990,1,31/01/2024 04:18,5002,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100991,2,31/01/2024 15:03,5004,Voucher,In-Store,3003.0,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
-100992,3,03/02/2024 22:15,5004,Mobile Wallet,Click-and-Collect,3001.0,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
-100993,1,03/01/2024 22:05,5008,Card,Click-and-Collect,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100994,4,28/02/2024 17:00,5001,Voucher,In-Store,3002.0,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
-100997,1,26/01/2024 15:28,5007,Voucher,Click-and-Collect,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
-100999,5,06/03/2024 04:47,5008,Card,In-Store,3004.0,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,pos_receipt_id,enrolment_date,first_name,last_name,email,date_of_birth,gender,primary_store_id,consent_marketing
+3,05/01/2024 18:23,5002,Voucher,Click-and-Collect,3002.0,90655,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,17/03/2024 07:44,5007,Mobile Wallet,Click-and-Collect,3001.0,90143,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,15/01/2024 12:47,5006,Mobile Wallet,In-Store,3003.0,90433,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,01/01/2024 03:38,5002,Voucher,In-Store,3001.0,90617,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,29/01/2024 17:07,5002,Card,In-Store,3003.0,90460,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,12/01/2024 11:47,5005,Voucher,Click-and-Collect,3005.0,90715,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,12/02/2024 17:11,5005,Mobile Wallet,Click-and-Collect,3004.0,90105,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,16/02/2024 10:15,5003,Card,Click-and-Collect,3005.0,90197,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,05/02/2024 06:50,5006,Card,In-Store,3002.0,90465,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,18/02/2024 10:09,5001,Mobile Wallet,Click-and-Collect,3004.0,90747,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,07/01/2024 16:31,5007,Card,Click-and-Collect,3005.0,90409,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,01/03/2024 20:55,5002,Card,Click-and-Collect,3005.0,90611,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,17/02/2024 01:37,5003,Voucher,Click-and-Collect,3001.0,90301,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,20/03/2024 06:53,5005,Voucher,In-Store,3003.0,90624,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,17/02/2024 11:25,5009,Cash,Click-and-Collect,3002.0,90977,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,19/02/2024 15:34,5004,Mobile Wallet,In-Store,3005.0,90115,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,25/03/2024 15:12,5004,Cash,Click-and-Collect,3005.0,90060,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,06/02/2024 05:48,5009,Card,In-Store,3004.0,90779,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,10/03/2024 00:07,5004,Mobile Wallet,In-Store,3002.0,90170,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,24/02/2024 14:56,5002,Mobile Wallet,In-Store,3003.0,90409,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,12/03/2024 13:13,5008,Voucher,In-Store,3005.0,90254,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,05/03/2024 23:14,5008,Mobile Wallet,Click-and-Collect,3004.0,90226,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,07/01/2024 07:04,5002,Mobile Wallet,Click-and-Collect,3001.0,90413,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,26/03/2024 22:40,5001,Voucher,Click-and-Collect,3002.0,90197,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,12/02/2024 09:00,5006,Cash,Click-and-Collect,3005.0,90474,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,15/02/2024 14:26,5005,Mobile Wallet,In-Store,3003.0,90417,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,22/03/2024 03:34,5010,Card,Click-and-Collect,3005.0,90992,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,05/03/2024 05:43,5001,Mobile Wallet,Click-and-Collect,3004.0,90599,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,02/02/2024 13:14,5001,Card,Click-and-Collect,3003.0,90123,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,19/01/2024 01:03,5005,Cash,In-Store,3005.0,90084,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,15/02/2024 11:54,5004,Mobile Wallet,In-Store,3002.0,90245,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,10/02/2024 07:07,5009,Mobile Wallet,In-Store,3002.0,90324,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,27/02/2024 20:14,5007,Voucher,In-Store,3001.0,90551,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,13/01/2024 05:57,5004,Cash,In-Store,3004.0,90721,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,23/03/2024 19:58,5002,Voucher,In-Store,3001.0,90962,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,07/02/2024 12:30,5009,Card,In-Store,3004.0,90160,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,07/03/2024 12:23,5005,Cash,Click-and-Collect,3002.0,90704,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,26/01/2024 17:14,5004,Card,Click-and-Collect,3003.0,90095,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,21/02/2024 00:23,5007,Card,Click-and-Collect,3001.0,90760,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,27/01/2024 02:29,5008,Card,In-Store,3002.0,90968,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,27/01/2024 06:47,5004,Voucher,In-Store,3002.0,90921,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,16/02/2024 06:52,5010,Mobile Wallet,In-Store,3004.0,90683,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,13/01/2024 19:05,5003,Card,Click-and-Collect,3001.0,90026,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,09/01/2024 22:32,5004,Voucher,Click-and-Collect,3004.0,90274,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,01/03/2024 04:38,5001,Card,In-Store,3002.0,90228,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,01/03/2024 21:47,5006,Cash,In-Store,3001.0,90595,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,20/02/2024 01:51,5002,Cash,Click-and-Collect,3004.0,90747,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,29/01/2024 12:47,5006,Card,Click-and-Collect,3002.0,90639,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,04/02/2024 10:53,5010,Mobile Wallet,Click-and-Collect,3002.0,90317,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,07/03/2024 18:12,5009,Cash,Click-and-Collect,3002.0,90131,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,18/01/2024 10:43,5006,Voucher,Click-and-Collect,3005.0,90631,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,29/02/2024 11:33,5009,Cash,Click-and-Collect,3001.0,90294,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,24/01/2024 16:46,5003,Cash,Click-and-Collect,3003.0,90453,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,10/01/2024 04:13,5010,Card,Click-and-Collect,3002.0,90291,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,12/01/2024 20:11,5007,Card,Click-and-Collect,3002.0,90487,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,01/03/2024 15:24,5002,Mobile Wallet,Click-and-Collect,3005.0,90507,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,10/02/2024 00:07,5001,Card,In-Store,3002.0,90798,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,25/03/2024 20:37,5007,Mobile Wallet,In-Store,3003.0,90571,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,05/02/2024 06:19,5007,Cash,In-Store,3001.0,90573,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,14/03/2024 12:23,5003,Card,In-Store,3005.0,90835,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,08/02/2024 08:20,5007,Mobile Wallet,In-Store,3001.0,90762,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,12/01/2024 02:32,5007,Mobile Wallet,In-Store,3004.0,90785,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,20/03/2024 15:31,5005,Mobile Wallet,In-Store,3003.0,90080,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,05/01/2024 02:13,5002,Cash,In-Store,3001.0,90711,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,21/02/2024 19:45,5009,Mobile Wallet,In-Store,3004.0,90927,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,09/01/2024 03:55,5001,Mobile Wallet,In-Store,3004.0,90007,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,13/03/2024 13:26,5010,Voucher,Click-and-Collect,3003.0,90498,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,28/02/2024 12:29,5007,Card,In-Store,3001.0,90861,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,05/03/2024 05:49,5005,Voucher,In-Store,3002.0,90888,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,27/01/2024 23:11,5006,Mobile Wallet,Click-and-Collect,3004.0,90020,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,14/03/2024 00:29,5007,Cash,In-Store,3002.0,90860,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,11/03/2024 20:14,5009,Voucher,Click-and-Collect,3004.0,90625,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,19/02/2024 13:14,5002,Mobile Wallet,In-Store,3001.0,90248,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,07/01/2024 16:00,5009,Voucher,In-Store,3004.0,90720,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,24/01/2024 09:46,5002,Mobile Wallet,In-Store,3004.0,90739,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,06/03/2024 01:08,5007,Card,In-Store,3005.0,90853,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,01/02/2024 18:47,5006,Cash,In-Store,3001.0,90300,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,10/02/2024 10:47,5009,Mobile Wallet,In-Store,3004.0,90894,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,13/02/2024 21:37,5008,Voucher,Click-and-Collect,3005.0,90390,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,09/02/2024 17:14,5002,Voucher,Click-and-Collect,3002.0,90583,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,23/03/2024 12:12,5006,Voucher,In-Store,3004.0,90641,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,11/03/2024 11:20,5003,Voucher,Click-and-Collect,3005.0,90178,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,12/02/2024 09:31,5003,Mobile Wallet,In-Store,3003.0,90807,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,25/01/2024 09:57,5004,Cash,Click-and-Collect,3004.0,90610,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,04/01/2024 14:19,5004,Card,Click-and-Collect,3004.0,90257,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,08/01/2024 14:33,5008,Voucher,In-Store,3002.0,90591,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,30/03/2024 07:13,5009,Card,In-Store,3002.0,90186,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,10/03/2024 14:48,5010,Mobile Wallet,Click-and-Collect,3001.0,90338,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,26/02/2024 00:32,5005,Voucher,Click-and-Collect,3003.0,90038,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,24/03/2024 05:35,5003,Cash,In-Store,3005.0,90994,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,08/03/2024 17:18,5009,Cash,In-Store,3003.0,90474,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,18/02/2024 04:33,5004,Voucher,In-Store,3002.0,90775,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,28/01/2024 13:08,5001,Voucher,Click-and-Collect,3004.0,90563,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,20/02/2024 06:59,5010,Voucher,In-Store,3005.0,90030,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,23/01/2024 21:24,5005,Mobile Wallet,In-Store,3003.0,90015,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,30/01/2024 10:02,5002,Voucher,Click-and-Collect,3002.0,90468,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,28/03/2024 09:09,5005,Card,In-Store,3001.0,90956,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,14/01/2024 16:56,5004,Cash,Click-and-Collect,3004.0,90396,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,03/03/2024 13:22,5004,Voucher,In-Store,3004.0,90892,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,15/01/2024 02:05,5006,Voucher,Click-and-Collect,3001.0,90639,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,29/02/2024 09:36,5006,Voucher,In-Store,3004.0,90390,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,17/01/2024 14:14,5004,Cash,In-Store,3005.0,90765,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,21/02/2024 06:30,5005,Mobile Wallet,In-Store,3002.0,90816,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,22/01/2024 03:13,5005,Card,Click-and-Collect,3003.0,90251,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,28/03/2024 18:55,5005,Voucher,Click-and-Collect,3001.0,90180,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,06/01/2024 00:58,5003,Voucher,Click-and-Collect,3004.0,90935,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,10/01/2024 08:52,5008,Card,Click-and-Collect,3003.0,90262,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,27/03/2024 06:32,5004,Card,In-Store,3002.0,90694,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,16/02/2024 11:12,5009,Voucher,Click-and-Collect,3005.0,90307,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,28/02/2024 02:00,5006,Voucher,In-Store,3004.0,90204,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,16/03/2024 05:36,5001,Cash,Click-and-Collect,3005.0,90368,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,12/01/2024 12:05,5003,Card,Click-and-Collect,3004.0,90764,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,28/03/2024 02:42,5002,Voucher,In-Store,3001.0,90822,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,17/02/2024 17:11,5003,Cash,Click-and-Collect,3001.0,90480,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,01/03/2024 16:12,5007,Voucher,In-Store,3004.0,90991,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,30/01/2024 21:42,5004,Cash,In-Store,3003.0,90271,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,09/03/2024 03:29,5001,Card,In-Store,3003.0,90026,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,23/01/2024 11:17,5008,Mobile Wallet,Click-and-Collect,3004.0,90651,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,02/01/2024 16:15,5001,Voucher,In-Store,3003.0,90707,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,06/03/2024 03:42,5003,Mobile Wallet,In-Store,3005.0,90102,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,23/01/2024 00:44,5004,Voucher,In-Store,3001.0,90408,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,07/01/2024 08:56,5004,Voucher,Click-and-Collect,3003.0,90679,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,04/03/2024 00:27,5008,Voucher,In-Store,3002.0,90129,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,08/02/2024 11:40,5008,Card,Click-and-Collect,3002.0,90222,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,13/01/2024 23:40,5010,Cash,In-Store,3004.0,90003,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,21/01/2024 07:04,5003,Card,Click-and-Collect,3005.0,90113,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,24/03/2024 12:09,5002,Cash,Click-and-Collect,3001.0,90760,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,14/03/2024 03:29,5005,Card,Click-and-Collect,3004.0,90797,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,07/03/2024 05:39,5003,Cash,Click-and-Collect,3005.0,90623,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,06/01/2024 17:33,5001,Card,Click-and-Collect,3002.0,90612,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,24/01/2024 19:59,5008,Mobile Wallet,In-Store,3003.0,90813,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,27/02/2024 14:10,5005,Cash,In-Store,3004.0,90426,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,29/01/2024 04:03,5009,Mobile Wallet,In-Store,3002.0,90832,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,09/02/2024 23:34,5003,Voucher,Click-and-Collect,3003.0,90421,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,29/03/2024 00:13,5002,Mobile Wallet,In-Store,3004.0,90615,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,08/01/2024 17:59,5010,Mobile Wallet,Click-and-Collect,3003.0,90673,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,29/01/2024 18:02,5005,Card,In-Store,3001.0,90377,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,21/03/2024 17:41,5007,Mobile Wallet,Click-and-Collect,3001.0,90998,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,07/01/2024 11:43,5004,Cash,Click-and-Collect,3003.0,90186,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,15/03/2024 19:54,5007,Voucher,In-Store,3001.0,90430,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,09/02/2024 16:05,5005,Mobile Wallet,Click-and-Collect,3001.0,90773,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,07/03/2024 01:58,5008,Cash,In-Store,3001.0,90678,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,03/02/2024 03:46,5003,Voucher,In-Store,3004.0,90221,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,10/03/2024 15:24,5003,Card,In-Store,3002.0,90695,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,14/01/2024 05:19,5009,Card,In-Store,3002.0,90226,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,20/03/2024 10:32,5002,Card,Click-and-Collect,3004.0,90510,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,22/03/2024 04:19,5010,Mobile Wallet,In-Store,3003.0,90721,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,16/01/2024 18:38,5005,Cash,Click-and-Collect,3001.0,90020,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,06/02/2024 15:07,5006,Voucher,Click-and-Collect,3005.0,90415,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,21/03/2024 02:39,5004,Mobile Wallet,In-Store,3004.0,90091,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,10/01/2024 10:41,5004,Card,In-Store,3004.0,90523,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,16/01/2024 18:51,5007,Mobile Wallet,In-Store,3002.0,90106,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,01/01/2024 11:09,5009,Mobile Wallet,Click-and-Collect,3002.0,90182,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,02/01/2024 07:04,5007,Voucher,Click-and-Collect,3005.0,90659,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,28/03/2024 01:02,5008,Voucher,In-Store,3003.0,90451,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,26/03/2024 18:51,5007,Card,Click-and-Collect,3004.0,90606,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,23/03/2024 00:43,5001,Voucher,In-Store,3002.0,90463,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,21/01/2024 04:23,5006,Mobile Wallet,In-Store,3005.0,90661,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,18/02/2024 18:55,5009,Voucher,In-Store,3005.0,90595,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,27/01/2024 03:36,5007,Card,In-Store,3001.0,90620,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,02/02/2024 12:51,5005,Card,In-Store,3001.0,90831,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,18/02/2024 11:28,5010,Voucher,In-Store,3003.0,90662,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,26/01/2024 20:19,5006,Voucher,Click-and-Collect,3003.0,90537,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,20/02/2024 19:38,5004,Voucher,Click-and-Collect,3004.0,90419,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,02/01/2024 18:14,5005,Voucher,Click-and-Collect,3001.0,90068,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,14/02/2024 11:26,5010,Card,Click-and-Collect,3003.0,90898,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,18/02/2024 10:49,5008,Card,Click-and-Collect,3005.0,90186,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,11/01/2024 17:21,5003,Voucher,Click-and-Collect,3003.0,90374,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,28/03/2024 11:34,5002,Cash,Click-and-Collect,3002.0,90240,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,09/02/2024 19:20,5007,Card,Click-and-Collect,3003.0,90377,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,16/02/2024 21:20,5001,Cash,In-Store,3003.0,90515,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,05/01/2024 05:08,5009,Cash,In-Store,3004.0,90142,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,25/03/2024 08:00,5009,Card,Click-and-Collect,3002.0,90094,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,15/01/2024 01:07,5009,Voucher,Click-and-Collect,3001.0,90084,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,11/03/2024 00:23,5004,Card,Click-and-Collect,3001.0,90778,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,06/02/2024 11:33,5009,Voucher,Click-and-Collect,3005.0,90020,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,30/03/2024 12:02,5003,Voucher,Click-and-Collect,3004.0,90795,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,30/01/2024 17:53,5003,Mobile Wallet,In-Store,3001.0,90549,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,29/01/2024 20:33,5010,Card,Click-and-Collect,3001.0,90681,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,17/01/2024 18:29,5007,Voucher,Click-and-Collect,3005.0,90977,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,31/01/2024 14:08,5002,Mobile Wallet,Click-and-Collect,3004.0,90808,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,19/01/2024 10:23,5004,Mobile Wallet,Click-and-Collect,3001.0,90753,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,13/02/2024 11:13,5008,Mobile Wallet,In-Store,3001.0,90347,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,11/02/2024 05:34,5005,Card,Click-and-Collect,3003.0,90647,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,30/01/2024 16:39,5005,Cash,In-Store,3003.0,90301,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,23/03/2024 20:16,5002,Mobile Wallet,Click-and-Collect,3004.0,90956,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,25/02/2024 11:38,5007,Voucher,Click-and-Collect,3004.0,90038,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,25/01/2024 18:04,5001,Card,In-Store,3004.0,90917,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,29/02/2024 06:49,5002,Mobile Wallet,Click-and-Collect,3002.0,90745,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,08/02/2024 07:46,5008,Mobile Wallet,In-Store,3001.0,90458,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,12/03/2024 02:43,5005,Card,In-Store,3005.0,90655,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,08/02/2024 07:49,5006,Mobile Wallet,Click-and-Collect,3003.0,90526,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,11/03/2024 14:57,5003,Mobile Wallet,Click-and-Collect,3004.0,90695,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,30/03/2024 08:03,5008,Mobile Wallet,Click-and-Collect,3005.0,90798,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,02/03/2024 12:41,5003,Voucher,In-Store,3003.0,90782,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,28/02/2024 12:56,5002,Cash,In-Store,3004.0,90666,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,06/03/2024 03:30,5003,Card,In-Store,3001.0,90512,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,02/01/2024 09:08,5009,Cash,In-Store,3002.0,90794,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,05/02/2024 20:47,5004,Cash,Click-and-Collect,3003.0,90205,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,17/03/2024 17:07,5002,Voucher,Click-and-Collect,3004.0,90921,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,31/01/2024 14:06,5001,Card,In-Store,3005.0,90813,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,03/03/2024 19:25,5009,Mobile Wallet,Click-and-Collect,3001.0,90823,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,17/03/2024 19:39,5001,Voucher,In-Store,3003.0,90076,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,29/03/2024 08:17,5001,Voucher,Click-and-Collect,3003.0,90697,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,17/02/2024 12:51,5007,Cash,In-Store,3001.0,90971,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,07/03/2024 23:15,5006,Card,Click-and-Collect,3005.0,90651,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,18/03/2024 00:56,5005,Mobile Wallet,In-Store,3005.0,90547,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,26/02/2024 03:47,5009,Mobile Wallet,Click-and-Collect,3001.0,90675,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,07/03/2024 22:50,5001,Voucher,In-Store,3005.0,90655,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,08/01/2024 19:04,5008,Card,Click-and-Collect,3003.0,90986,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,09/01/2024 21:07,5008,Voucher,In-Store,3002.0,90901,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,18/01/2024 07:44,5005,Mobile Wallet,Click-and-Collect,3002.0,90469,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,07/01/2024 18:14,5008,Mobile Wallet,In-Store,3003.0,90783,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,05/03/2024 18:17,5009,Voucher,Click-and-Collect,3005.0,90576,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,22/03/2024 04:13,5008,Mobile Wallet,Click-and-Collect,3002.0,90517,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,31/01/2024 08:36,5002,Mobile Wallet,In-Store,3001.0,90999,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,03/01/2024 04:00,5005,Cash,In-Store,3002.0,90962,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,27/02/2024 14:18,5008,Mobile Wallet,In-Store,3002.0,90532,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,25/03/2024 04:43,5008,Cash,In-Store,3002.0,90954,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,22/01/2024 05:47,5006,Cash,In-Store,3005.0,90345,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,18/03/2024 23:38,5004,Mobile Wallet,In-Store,3005.0,90836,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,12/02/2024 03:58,5007,Cash,In-Store,3005.0,90592,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,11/01/2024 09:44,5010,Cash,Click-and-Collect,3002.0,90645,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,13/01/2024 18:20,5007,Voucher,Click-and-Collect,3003.0,90587,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,09/02/2024 14:01,5006,Voucher,Click-and-Collect,3004.0,90429,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,02/03/2024 01:19,5005,Mobile Wallet,Click-and-Collect,3003.0,90386,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,23/01/2024 09:17,5007,Card,In-Store,3004.0,90363,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,13/02/2024 01:36,5002,Mobile Wallet,In-Store,3004.0,90957,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,17/02/2024 21:04,5004,Card,In-Store,3004.0,90839,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,02/02/2024 05:06,5006,Card,Click-and-Collect,3005.0,90112,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,27/02/2024 10:17,5006,Cash,Click-and-Collect,3001.0,90054,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,22/02/2024 14:01,5010,Cash,In-Store,3005.0,90698,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,11/01/2024 16:21,5007,Voucher,Click-and-Collect,3003.0,90669,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,28/02/2024 18:04,5010,Cash,Click-and-Collect,3001.0,90329,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,03/01/2024 15:42,5008,Card,Click-and-Collect,3003.0,90904,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,14/03/2024 02:35,5004,Mobile Wallet,In-Store,3001.0,90010,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,30/01/2024 05:14,5002,Card,Click-and-Collect,3005.0,90466,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,06/01/2024 11:06,5009,Mobile Wallet,In-Store,3003.0,90810,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,03/02/2024 19:21,5007,Cash,Click-and-Collect,3003.0,90528,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,06/01/2024 17:16,5006,Cash,In-Store,3004.0,90144,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,26/03/2024 17:50,5007,Card,Click-and-Collect,3001.0,90597,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,21/01/2024 02:56,5009,Cash,In-Store,3005.0,90064,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,10/02/2024 10:45,5003,Mobile Wallet,Click-and-Collect,3005.0,90703,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,01/03/2024 05:36,5010,Mobile Wallet,In-Store,3001.0,90630,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,19/03/2024 19:26,5002,Cash,Click-and-Collect,3002.0,90466,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,03/01/2024 12:08,5009,Mobile Wallet,Click-and-Collect,3004.0,90822,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,06/03/2024 17:48,5001,Cash,In-Store,3004.0,90849,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,12/01/2024 20:25,5006,Cash,In-Store,3002.0,90336,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,20/03/2024 23:21,5005,Card,In-Store,3004.0,90501,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,29/03/2024 07:16,5002,Mobile Wallet,In-Store,3003.0,90526,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,11/03/2024 18:03,5007,Card,In-Store,3005.0,90062,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,13/03/2024 03:15,5009,Card,Click-and-Collect,3003.0,90294,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,21/03/2024 17:31,5004,Cash,In-Store,3003.0,90913,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,13/03/2024 02:35,5010,Mobile Wallet,Click-and-Collect,3002.0,90083,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,11/01/2024 22:33,5006,Voucher,In-Store,3004.0,90183,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,22/03/2024 10:28,5006,Cash,In-Store,3002.0,90775,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,18/02/2024 04:02,5002,Voucher,In-Store,3003.0,90283,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,19/02/2024 12:42,5008,Card,Click-and-Collect,3001.0,90785,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,10/02/2024 22:19,5004,Card,Click-and-Collect,3001.0,90609,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,21/02/2024 02:03,5002,Cash,In-Store,3003.0,90759,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,06/03/2024 01:56,5008,Cash,Click-and-Collect,3004.0,90144,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,13/01/2024 03:15,5006,Cash,Click-and-Collect,3005.0,90613,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,23/02/2024 10:21,5003,Card,In-Store,3002.0,90227,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,19/01/2024 14:10,5003,Card,In-Store,3001.0,90570,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,10/02/2024 17:34,5009,Card,Click-and-Collect,3004.0,90327,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,26/02/2024 01:37,5004,Voucher,In-Store,3001.0,90189,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,03/01/2024 17:19,5006,Mobile Wallet,Click-and-Collect,3003.0,90879,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,15/01/2024 11:13,5007,Card,Click-and-Collect,3004.0,90423,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,10/03/2024 09:59,5010,Card,In-Store,3004.0,90868,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,20/03/2024 02:55,5004,Mobile Wallet,Click-and-Collect,3005.0,90742,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,30/01/2024 13:26,5008,Card,In-Store,3001.0,90980,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,21/02/2024 21:15,5002,Voucher,Click-and-Collect,3002.0,90765,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,09/03/2024 00:27,5010,Mobile Wallet,Click-and-Collect,3001.0,90904,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,02/03/2024 06:17,5008,Voucher,In-Store,3002.0,90937,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,28/03/2024 07:02,5007,Card,In-Store,3005.0,90885,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,12/01/2024 03:09,5005,Voucher,In-Store,3003.0,90564,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,13/02/2024 01:05,5009,Card,In-Store,3005.0,90472,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,09/03/2024 17:09,5006,Voucher,In-Store,3004.0,90783,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,19/03/2024 10:08,5005,Voucher,Click-and-Collect,3001.0,90545,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,11/02/2024 04:11,5009,Voucher,Click-and-Collect,3005.0,90579,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,16/02/2024 16:01,5002,Card,Click-and-Collect,3004.0,90096,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,27/03/2024 19:23,5001,Mobile Wallet,In-Store,3005.0,90653,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,10/01/2024 10:22,5008,Mobile Wallet,Click-and-Collect,3001.0,90217,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,28/01/2024 16:10,5005,Voucher,In-Store,3001.0,90921,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,02/03/2024 21:56,5003,Card,In-Store,3004.0,90985,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,03/02/2024 00:19,5005,Voucher,In-Store,3004.0,90307,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,11/01/2024 03:05,5004,Voucher,In-Store,3003.0,90764,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,02/01/2024 23:01,5004,Card,Click-and-Collect,3001.0,90031,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,11/01/2024 12:29,5005,Cash,In-Store,3005.0,90234,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,19/02/2024 09:02,5009,Mobile Wallet,In-Store,3003.0,90791,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,25/03/2024 03:25,5009,Mobile Wallet,In-Store,3004.0,90275,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,26/01/2024 13:39,5001,Voucher,Click-and-Collect,3002.0,90325,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,05/03/2024 23:38,5003,Voucher,In-Store,3001.0,90568,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,22/03/2024 00:56,5001,Voucher,In-Store,3005.0,90424,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,15/03/2024 16:47,5007,Card,Click-and-Collect,3004.0,90275,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,30/01/2024 12:47,5006,Mobile Wallet,Click-and-Collect,3003.0,90967,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,05/02/2024 18:30,5003,Card,In-Store,3001.0,90110,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,11/01/2024 09:22,5001,Card,Click-and-Collect,3001.0,90322,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,07/02/2024 06:26,5008,Voucher,In-Store,3003.0,90028,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,05/02/2024 08:37,5001,Mobile Wallet,Click-and-Collect,3002.0,90817,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,22/02/2024 22:31,5005,Card,In-Store,3004.0,90143,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,11/01/2024 16:17,5002,Mobile Wallet,Click-and-Collect,3004.0,90809,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,23/01/2024 13:18,5005,Card,Click-and-Collect,3004.0,90411,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,07/02/2024 18:05,5002,Voucher,In-Store,3004.0,90609,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,10/03/2024 07:11,5005,Voucher,Click-and-Collect,3003.0,90791,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,14/03/2024 00:09,5005,Voucher,Click-and-Collect,3001.0,90852,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,30/03/2024 18:06,5004,Card,In-Store,3005.0,90804,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,21/03/2024 23:51,5006,Voucher,Click-and-Collect,3003.0,90740,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,19/02/2024 12:42,5006,Mobile Wallet,Click-and-Collect,3003.0,90830,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,21/03/2024 14:10,5008,Card,In-Store,3005.0,90179,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,20/03/2024 22:32,5003,Card,Click-and-Collect,3005.0,90238,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,27/01/2024 14:03,5004,Card,In-Store,3003.0,90105,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,30/03/2024 22:38,5007,Card,Click-and-Collect,3003.0,90117,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,22/03/2024 19:20,5002,Voucher,Click-and-Collect,3001.0,90398,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,04/03/2024 11:45,5008,Card,Click-and-Collect,3004.0,90866,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,27/01/2024 15:24,5005,Mobile Wallet,In-Store,3003.0,90144,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,11/03/2024 10:24,5002,Cash,In-Store,3003.0,90518,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,16/01/2024 05:51,5001,Voucher,In-Store,3003.0,90032,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,29/02/2024 11:21,5007,Mobile Wallet,Click-and-Collect,3005.0,90524,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,24/01/2024 06:13,5004,Voucher,Click-and-Collect,3001.0,90843,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,19/02/2024 06:18,5009,Card,Click-and-Collect,3001.0,90224,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,02/01/2024 11:19,5009,Cash,In-Store,3005.0,90896,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,22/02/2024 05:06,5009,Mobile Wallet,Click-and-Collect,3001.0,90887,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,21/02/2024 08:09,5005,Voucher,Click-and-Collect,3001.0,90648,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,16/02/2024 01:09,5005,Cash,Click-and-Collect,3002.0,90825,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,20/02/2024 20:47,5008,Voucher,Click-and-Collect,3001.0,90721,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,18/01/2024 04:55,5002,Cash,Click-and-Collect,3001.0,90986,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,04/01/2024 04:40,5006,Mobile Wallet,Click-and-Collect,3005.0,90719,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,07/03/2024 23:41,5010,Voucher,Click-and-Collect,3005.0,90528,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,05/01/2024 12:33,5010,Voucher,Click-and-Collect,3001.0,90651,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,09/02/2024 00:32,5004,Card,Click-and-Collect,3002.0,90346,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,19/01/2024 22:26,5001,Card,In-Store,3004.0,90916,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,29/01/2024 17:31,5009,Card,Click-and-Collect,3005.0,90128,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,19/01/2024 16:01,5008,Voucher,In-Store,3004.0,90208,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,22/03/2024 07:08,5010,Card,In-Store,3003.0,90896,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,01/01/2024 09:39,5005,Cash,In-Store,3003.0,90440,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,27/01/2024 14:58,5008,Mobile Wallet,In-Store,3004.0,90489,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,20/02/2024 21:07,5008,Mobile Wallet,In-Store,3002.0,90009,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,16/03/2024 03:51,5001,Voucher,Click-and-Collect,3002.0,90490,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,11/01/2024 11:47,5002,Mobile Wallet,Click-and-Collect,3004.0,90321,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,28/02/2024 17:51,5004,Cash,In-Store,3005.0,90071,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,20/03/2024 23:23,5002,Card,In-Store,3001.0,90631,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,16/01/2024 01:15,5009,Card,Click-and-Collect,3004.0,90144,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,02/02/2024 05:07,5005,Mobile Wallet,Click-and-Collect,3002.0,90869,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,25/02/2024 19:20,5002,Voucher,Click-and-Collect,3002.0,90303,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,26/01/2024 08:30,5008,Voucher,Click-and-Collect,3004.0,90911,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,22/03/2024 07:51,5006,Cash,Click-and-Collect,3002.0,90882,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,20/01/2024 15:27,5005,Card,Click-and-Collect,3004.0,90269,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,14/01/2024 06:12,5008,Voucher,In-Store,3005.0,90524,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,26/03/2024 06:55,5010,Card,Click-and-Collect,3001.0,90060,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,27/01/2024 18:13,5008,Cash,In-Store,3003.0,90627,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,29/01/2024 19:19,5001,Card,Click-and-Collect,3003.0,90751,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,14/02/2024 20:47,5010,Voucher,In-Store,3002.0,90827,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,16/02/2024 04:16,5001,Voucher,Click-and-Collect,3005.0,90512,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,28/01/2024 15:52,5010,Voucher,In-Store,3003.0,90880,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,19/02/2024 20:05,5001,Voucher,In-Store,3005.0,90938,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,12/03/2024 22:32,5001,Cash,In-Store,3003.0,90089,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,10/02/2024 17:07,5007,Voucher,In-Store,3001.0,90378,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,27/01/2024 19:02,5009,Cash,In-Store,3004.0,90779,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,14/03/2024 03:13,5006,Voucher,In-Store,3001.0,90002,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,29/01/2024 09:17,5009,Voucher,Click-and-Collect,3001.0,90211,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,19/02/2024 14:11,5010,Mobile Wallet,In-Store,3005.0,90423,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,15/01/2024 09:01,5009,Card,In-Store,3005.0,90098,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,06/01/2024 19:34,5003,Card,Click-and-Collect,3005.0,90607,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,26/02/2024 04:55,5005,Cash,In-Store,3003.0,90299,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,19/03/2024 23:22,5007,Cash,In-Store,3003.0,90326,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,24/01/2024 13:47,5010,Mobile Wallet,In-Store,3001.0,90799,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,24/02/2024 12:44,5010,Mobile Wallet,Click-and-Collect,3002.0,90478,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,29/03/2024 22:47,5010,Cash,In-Store,3005.0,90162,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,24/03/2024 10:39,5009,Cash,Click-and-Collect,3001.0,90032,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,27/02/2024 13:51,5007,Mobile Wallet,Click-and-Collect,3003.0,90474,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,20/01/2024 09:51,5010,Cash,Click-and-Collect,3003.0,90134,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,11/03/2024 02:28,5002,Mobile Wallet,In-Store,3001.0,90036,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,13/02/2024 05:53,5002,Card,Click-and-Collect,3005.0,90814,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,05/03/2024 16:19,5010,Cash,In-Store,3001.0,90558,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,28/01/2024 22:27,5005,Card,In-Store,3004.0,90277,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,03/02/2024 11:57,5010,Mobile Wallet,Click-and-Collect,3002.0,90918,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,18/02/2024 16:24,5004,Card,In-Store,3003.0,90673,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,14/03/2024 10:27,5002,Cash,Click-and-Collect,3004.0,90029,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,05/03/2024 21:42,5005,Mobile Wallet,Click-and-Collect,3005.0,90540,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,17/02/2024 02:28,5008,Cash,In-Store,3003.0,90349,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,20/01/2024 20:47,5004,Mobile Wallet,Click-and-Collect,3003.0,90023,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,04/01/2024 05:45,5010,Voucher,In-Store,3003.0,90665,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,27/03/2024 01:05,5006,Cash,In-Store,3002.0,90182,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,07/03/2024 04:41,5001,Card,In-Store,3001.0,90034,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,29/02/2024 21:01,5005,Voucher,In-Store,3002.0,90107,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,28/02/2024 04:58,5007,Card,In-Store,3002.0,90458,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,01/01/2024 01:36,5008,Mobile Wallet,Click-and-Collect,3002.0,90263,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,30/01/2024 16:16,5006,Mobile Wallet,Click-and-Collect,3003.0,90449,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,13/03/2024 15:23,5008,Card,In-Store,3005.0,90903,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,20/02/2024 22:05,5008,Card,In-Store,3001.0,90808,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,25/02/2024 08:31,5009,Mobile Wallet,In-Store,3001.0,90055,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,06/03/2024 00:28,5004,Voucher,In-Store,3005.0,90714,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,13/03/2024 16:27,5005,Voucher,Click-and-Collect,3005.0,90056,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,18/03/2024 04:05,5010,Voucher,In-Store,3004.0,90084,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,10/03/2024 07:57,5001,Cash,In-Store,3001.0,90380,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,08/03/2024 22:11,5004,Voucher,Click-and-Collect,3005.0,90270,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,28/03/2024 12:20,5007,Cash,Click-and-Collect,3001.0,90064,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,22/03/2024 07:13,5002,Cash,Click-and-Collect,3003.0,90424,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,17/02/2024 21:08,5007,Voucher,Click-and-Collect,3005.0,90429,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,18/03/2024 08:04,5009,Card,In-Store,3001.0,90307,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,08/01/2024 02:32,5005,Card,Click-and-Collect,3003.0,90972,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,24/01/2024 20:38,5008,Cash,Click-and-Collect,3001.0,90581,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,22/02/2024 05:56,5004,Cash,Click-and-Collect,3005.0,90889,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,07/03/2024 03:06,5003,Cash,Click-and-Collect,3001.0,90148,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,09/03/2024 08:09,5009,Mobile Wallet,In-Store,3005.0,90051,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,11/01/2024 03:05,5002,Voucher,Click-and-Collect,3004.0,90346,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,29/02/2024 11:47,5001,Mobile Wallet,In-Store,3002.0,90996,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,25/01/2024 10:33,5005,Card,In-Store,3002.0,90453,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,01/02/2024 07:24,5001,Card,Click-and-Collect,3004.0,90800,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,24/01/2024 14:32,5010,Card,In-Store,3001.0,90256,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,25/03/2024 12:52,5004,Cash,In-Store,3003.0,90281,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,03/01/2024 01:25,5005,Mobile Wallet,In-Store,3004.0,90248,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,01/01/2024 02:01,5009,Mobile Wallet,In-Store,3004.0,90292,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,23/03/2024 13:50,5004,Mobile Wallet,In-Store,3004.0,90663,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,11/01/2024 21:24,5007,Cash,In-Store,3002.0,90616,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,23/02/2024 22:36,5002,Card,In-Store,3005.0,90434,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,29/01/2024 20:34,5005,Card,Click-and-Collect,3002.0,90224,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,19/02/2024 05:06,5005,Mobile Wallet,Click-and-Collect,3004.0,90154,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,17/03/2024 03:24,5002,Card,Click-and-Collect,3001.0,90698,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,15/01/2024 05:25,5001,Cash,In-Store,3002.0,90726,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,21/01/2024 17:27,5002,Mobile Wallet,In-Store,3003.0,90308,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,26/01/2024 15:50,5008,Card,In-Store,3003.0,90100,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,30/03/2024 08:23,5002,Card,Click-and-Collect,3005.0,90671,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,10/03/2024 02:54,5004,Voucher,Click-and-Collect,3003.0,90808,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,14/01/2024 03:27,5006,Cash,In-Store,3004.0,90872,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,10/03/2024 10:58,5008,Cash,Click-and-Collect,3002.0,90911,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,27/03/2024 02:40,5006,Mobile Wallet,In-Store,3004.0,90647,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,10/03/2024 13:31,5007,Mobile Wallet,Click-and-Collect,3005.0,90281,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,14/01/2024 02:22,5006,Voucher,In-Store,3001.0,90805,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,14/03/2024 09:13,5004,Voucher,In-Store,3001.0,90205,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,11/03/2024 22:12,5006,Mobile Wallet,Click-and-Collect,3002.0,90196,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,07/01/2024 13:02,5009,Cash,In-Store,3001.0,90516,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,28/03/2024 20:57,5005,Cash,Click-and-Collect,3005.0,90972,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,02/02/2024 15:26,5006,Mobile Wallet,Click-and-Collect,3003.0,90910,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,04/02/2024 10:38,5005,Voucher,Click-and-Collect,3004.0,90769,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,14/02/2024 11:18,5010,Card,Click-and-Collect,3005.0,90234,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,18/02/2024 23:34,5008,Card,In-Store,3003.0,90050,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,02/02/2024 03:29,5008,Cash,Click-and-Collect,3005.0,90707,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,18/01/2024 14:12,5007,Voucher,Click-and-Collect,3003.0,90259,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,02/03/2024 18:42,5004,Voucher,Click-and-Collect,3005.0,90737,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,17/03/2024 03:05,5009,Mobile Wallet,Click-and-Collect,3004.0,90204,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,27/03/2024 23:36,5004,Card,Click-and-Collect,3001.0,90721,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,27/01/2024 20:38,5009,Card,In-Store,3001.0,90705,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,19/01/2024 07:58,5003,Mobile Wallet,Click-and-Collect,3001.0,90688,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,05/02/2024 04:01,5008,Card,Click-and-Collect,3004.0,90973,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,30/03/2024 22:15,5009,Mobile Wallet,Click-and-Collect,3005.0,90476,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,24/01/2024 17:46,5006,Card,Click-and-Collect,3004.0,90369,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,08/03/2024 00:36,5006,Voucher,In-Store,3003.0,90872,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,06/01/2024 09:13,5002,Mobile Wallet,In-Store,3002.0,90337,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,01/01/2024 23:29,5005,Voucher,Click-and-Collect,3002.0,90382,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,17/03/2024 00:08,5002,Mobile Wallet,In-Store,3003.0,90986,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,09/03/2024 00:38,5008,Card,In-Store,3003.0,90626,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,11/01/2024 13:40,5008,Voucher,Click-and-Collect,3001.0,90943,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,05/03/2024 06:20,5007,Voucher,Click-and-Collect,3005.0,90065,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,30/03/2024 12:04,5009,Voucher,In-Store,3001.0,90532,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,23/01/2024 09:46,5003,Voucher,Click-and-Collect,3004.0,90355,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,23/02/2024 08:58,5008,Mobile Wallet,In-Store,3003.0,90659,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,22/01/2024 17:26,5006,Mobile Wallet,In-Store,3004.0,90891,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,01/03/2024 18:11,5006,Card,In-Store,3005.0,90339,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,01/03/2024 17:21,5003,Card,In-Store,3001.0,90659,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,07/02/2024 01:16,5010,Voucher,Click-and-Collect,3001.0,90324,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,16/03/2024 11:27,5006,Cash,In-Store,3005.0,90414,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,20/01/2024 09:02,5008,Mobile Wallet,Click-and-Collect,3003.0,90811,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,26/03/2024 02:06,5008,Voucher,In-Store,3003.0,90340,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,21/03/2024 16:50,5002,Mobile Wallet,In-Store,3005.0,90117,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,20/01/2024 17:15,5005,Cash,In-Store,3003.0,90111,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,26/01/2024 06:10,5001,Voucher,Click-and-Collect,3002.0,90469,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,18/03/2024 09:40,5004,Mobile Wallet,Click-and-Collect,3005.0,90107,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,02/02/2024 14:58,5008,Cash,In-Store,3003.0,90624,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,28/03/2024 19:08,5002,Cash,In-Store,3001.0,90464,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,20/03/2024 01:25,5007,Card,Click-and-Collect,3004.0,90882,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,01/03/2024 20:07,5009,Card,In-Store,3002.0,90944,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,10/03/2024 03:13,5006,Voucher,Click-and-Collect,3005.0,90556,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,12/01/2024 23:54,5006,Card,Click-and-Collect,3001.0,90492,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,29/01/2024 00:37,5009,Card,In-Store,3004.0,90828,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,29/02/2024 01:07,5010,Voucher,Click-and-Collect,3002.0,90687,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,15/03/2024 17:12,5010,Cash,In-Store,3001.0,90772,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,15/01/2024 01:05,5005,Card,Click-and-Collect,3004.0,90631,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,15/02/2024 07:53,5001,Mobile Wallet,In-Store,3005.0,90524,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,02/01/2024 02:41,5004,Cash,Click-and-Collect,3003.0,90762,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,19/03/2024 22:51,5010,Voucher,In-Store,3005.0,90934,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,14/02/2024 11:20,5003,Card,In-Store,3005.0,90302,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,31/01/2024 22:28,5001,Mobile Wallet,In-Store,3003.0,90570,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,08/03/2024 01:22,5005,Cash,Click-and-Collect,3003.0,90339,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,15/01/2024 03:54,5004,Mobile Wallet,Click-and-Collect,3003.0,90070,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,21/01/2024 09:21,5006,Card,In-Store,3001.0,90301,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,23/01/2024 03:12,5010,Mobile Wallet,In-Store,3005.0,90699,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,08/01/2024 01:13,5008,Card,Click-and-Collect,3003.0,90263,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,05/02/2024 09:29,5002,Cash,Click-and-Collect,3004.0,90823,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,14/01/2024 03:22,5004,Cash,In-Store,3001.0,90856,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,05/03/2024 11:32,5007,Voucher,In-Store,3003.0,90090,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,16/03/2024 22:13,5006,Voucher,In-Store,3005.0,90690,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,24/03/2024 11:48,5002,Voucher,In-Store,3004.0,90391,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,13/03/2024 18:15,5001,Mobile Wallet,Click-and-Collect,3003.0,90765,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,06/02/2024 22:24,5004,Cash,In-Store,3003.0,90694,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,29/02/2024 12:37,5003,Card,Click-and-Collect,3004.0,90611,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,20/02/2024 10:48,5006,Card,Click-and-Collect,3001.0,90423,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,18/03/2024 14:21,5009,Voucher,Click-and-Collect,3002.0,90855,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,08/03/2024 23:05,5002,Card,In-Store,3005.0,90101,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,26/03/2024 00:13,5001,Mobile Wallet,In-Store,3005.0,90326,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,27/01/2024 23:49,5008,Mobile Wallet,Click-and-Collect,3005.0,90005,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,09/02/2024 13:39,5009,Voucher,Click-and-Collect,3005.0,90861,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,18/02/2024 04:31,5010,Cash,In-Store,3004.0,90112,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,31/01/2024 18:09,5001,Card,In-Store,3005.0,90402,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,30/03/2024 21:16,5001,Card,In-Store,3002.0,90373,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,14/03/2024 06:17,5006,Mobile Wallet,In-Store,3003.0,90962,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+4,14/01/2024 19:08,5003,Mobile Wallet,In-Store,3001.0,90065,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,02/02/2024 13:55,5006,Voucher,In-Store,3001.0,90041,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,27/02/2024 04:19,5002,Cash,Click-and-Collect,3002.0,90529,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,17/03/2024 16:19,5001,Card,In-Store,3004.0,90812,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,15/01/2024 08:29,5003,Mobile Wallet,In-Store,3002.0,90170,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,05/01/2024 14:11,5009,Mobile Wallet,In-Store,3003.0,90154,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,01/02/2024 06:01,5009,Mobile Wallet,In-Store,3001.0,90491,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,09/03/2024 22:26,5002,Voucher,Click-and-Collect,3001.0,90250,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,23/02/2024 02:44,5004,Mobile Wallet,Click-and-Collect,3005.0,90993,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,14/02/2024 00:56,5004,Cash,Click-and-Collect,3005.0,90851,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,02/01/2024 21:11,5006,Mobile Wallet,Click-and-Collect,3005.0,90676,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,24/03/2024 18:30,5009,Cash,Click-and-Collect,3001.0,90611,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,13/01/2024 10:01,5001,Card,Click-and-Collect,3002.0,90621,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,15/01/2024 01:01,5003,Voucher,Click-and-Collect,3003.0,90516,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,14/02/2024 10:47,5005,Cash,Click-and-Collect,3001.0,90961,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,13/02/2024 01:06,5006,Cash,In-Store,3005.0,90604,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,02/02/2024 21:07,5003,Mobile Wallet,Click-and-Collect,3003.0,90785,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,22/01/2024 05:54,5004,Mobile Wallet,In-Store,3002.0,90194,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,10/01/2024 21:05,5009,Mobile Wallet,Click-and-Collect,3002.0,90008,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,14/02/2024 14:07,5005,Cash,In-Store,3002.0,90876,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,24/01/2024 23:13,5008,Card,In-Store,3001.0,90380,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,29/03/2024 04:56,5005,Card,In-Store,3001.0,90458,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,14/03/2024 13:30,5005,Mobile Wallet,Click-and-Collect,3001.0,90844,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,09/02/2024 23:36,5003,Cash,Click-and-Collect,3004.0,90954,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,23/02/2024 18:41,5002,Mobile Wallet,In-Store,3003.0,90656,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,25/02/2024 04:59,5010,Card,In-Store,3004.0,90245,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,19/02/2024 10:42,5007,Mobile Wallet,In-Store,3005.0,90206,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,03/03/2024 03:41,5006,Mobile Wallet,In-Store,3004.0,90563,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,30/01/2024 11:49,5003,Cash,In-Store,3003.0,90621,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,03/01/2024 10:06,5004,Cash,In-Store,3001.0,90005,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,11/03/2024 08:14,5002,Voucher,Click-and-Collect,3001.0,90075,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,07/01/2024 18:56,5005,Cash,In-Store,3003.0,90980,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,11/03/2024 09:36,5007,Voucher,In-Store,3002.0,90919,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,06/01/2024 00:06,5010,Cash,Click-and-Collect,3003.0,90392,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,24/02/2024 06:01,5009,Voucher,In-Store,3005.0,90423,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,07/02/2024 01:41,5010,Cash,Click-and-Collect,3001.0,90916,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,24/03/2024 22:50,5001,Card,Click-and-Collect,3002.0,90755,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,07/01/2024 15:21,5007,Voucher,Click-and-Collect,3004.0,90235,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,12/03/2024 23:25,5003,Mobile Wallet,In-Store,3005.0,90007,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,09/03/2024 00:28,5006,Card,Click-and-Collect,3002.0,90228,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,15/01/2024 14:11,5010,Mobile Wallet,Click-and-Collect,3001.0,90963,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,06/01/2024 23:13,5006,Card,In-Store,3004.0,90469,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,28/02/2024 15:09,5009,Card,Click-and-Collect,3005.0,90189,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,30/03/2024 12:37,5007,Voucher,Click-and-Collect,3001.0,90875,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,30/01/2024 22:05,5009,Voucher,In-Store,3003.0,90703,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+1,25/03/2024 02:52,5004,Voucher,In-Store,3004.0,90443,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,21/03/2024 05:33,5007,Mobile Wallet,In-Store,3001.0,90826,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,22/03/2024 04:54,5007,Voucher,Click-and-Collect,3004.0,90221,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,30/03/2024 04:35,5010,Mobile Wallet,Click-and-Collect,3005.0,90391,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,23/01/2024 06:48,5004,Cash,Click-and-Collect,3004.0,90656,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,15/01/2024 23:54,5005,Voucher,In-Store,3001.0,90082,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,01/01/2024 14:17,5006,Voucher,In-Store,3003.0,90728,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+5,17/02/2024 09:40,5006,Mobile Wallet,In-Store,3002.0,90766,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,22/02/2024 05:11,5007,Mobile Wallet,In-Store,3002.0,90171,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,23/03/2024 04:00,5009,Cash,Click-and-Collect,3002.0,90235,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,17/03/2024 12:23,5010,Cash,In-Store,3005.0,90540,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,01/03/2024 19:21,5001,Cash,In-Store,3002.0,90885,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,31/01/2024 16:02,5009,Cash,Click-and-Collect,3001.0,90456,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,26/01/2024 17:10,5008,Mobile Wallet,In-Store,3004.0,90233,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,27/01/2024 11:28,5010,Card,In-Store,3004.0,90267,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,06/02/2024 11:43,5009,Voucher,Click-and-Collect,3002.0,90307,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+3,07/01/2024 04:15,5003,Mobile Wallet,In-Store,3003.0,90256,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,26/03/2024 02:46,5009,Cash,Click-and-Collect,3005.0,90082,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,10/02/2024 01:18,5007,Mobile Wallet,In-Store,3005.0,90665,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,15/01/2024 12:14,5007,Card,In-Store,3005.0,90718,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,30/03/2024 16:28,5003,Cash,Click-and-Collect,3001.0,90051,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,18/01/2024 19:30,5002,Voucher,In-Store,3002.0,90276,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,22/01/2024 00:32,5008,Voucher,In-Store,3001.0,90557,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,04/03/2024 19:36,5006,Cash,In-Store,3001.0,90849,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,25/02/2024 17:55,5003,Mobile Wallet,In-Store,3002.0,90790,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,23/02/2024 13:56,5003,Mobile Wallet,In-Store,3004.0,90472,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,20/03/2024 09:02,5004,Cash,In-Store,3002.0,90370,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,29/02/2024 05:57,5006,Cash,Click-and-Collect,3004.0,90242,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,15/03/2024 05:11,5001,Voucher,Click-and-Collect,3001.0,90599,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,08/03/2024 07:29,5004,Card,In-Store,3002.0,90596,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,10/02/2024 14:00,5002,Mobile Wallet,In-Store,3001.0,90811,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,13/03/2024 12:44,5001,Mobile Wallet,In-Store,3001.0,90808,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,03/02/2024 10:02,5005,Cash,Click-and-Collect,3004.0,90022,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,29/02/2024 22:48,5003,Cash,In-Store,3005.0,90921,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+2,12/02/2024 11:55,5008,Voucher,In-Store,3004.0,90714,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,05/03/2024 08:29,5010,Mobile Wallet,In-Store,3003.0,90750,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,23/01/2024 13:20,5001,Cash,In-Store,3005.0,90544,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,13/01/2024 21:51,5005,Mobile Wallet,Click-and-Collect,3001.0,90376,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,29/02/2024 11:22,5005,Voucher,Click-and-Collect,3004.0,90905,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,12/03/2024 07:20,5005,Mobile Wallet,Click-and-Collect,3003.0,90739,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,29/03/2024 13:03,5001,Voucher,In-Store,3002.0,90158,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,09/01/2024 18:04,5002,Cash,In-Store,3003.0,90099,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,03/01/2024 05:21,5002,Mobile Wallet,In-Store,3004.0,90895,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,15/03/2024 03:12,5008,Cash,Click-and-Collect,3002.0,90033,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+5,25/02/2024 01:47,5009,Voucher,Click-and-Collect,3003.0,90572,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,16/03/2024 16:49,5005,Cash,Click-and-Collect,3005.0,90273,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,10/01/2024 17:00,5010,Card,In-Store,3005.0,90395,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+5,04/03/2024 19:06,5005,Voucher,In-Store,3004.0,90785,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+1,21/02/2024 09:18,5005,Cash,In-Store,3002.0,90171,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,12/03/2024 03:23,5007,Mobile Wallet,Click-and-Collect,3001.0,90547,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,08/01/2024 20:09,5009,Mobile Wallet,Click-and-Collect,3005.0,90333,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,13/02/2024 06:34,5009,Card,Click-and-Collect,3005.0,90624,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+3,21/01/2024 20:40,5007,Card,Click-and-Collect,3001.0,90985,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,08/03/2024 07:34,5003,Cash,Click-and-Collect,3001.0,90292,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+5,06/02/2024 06:07,5005,Mobile Wallet,In-Store,3001.0,90942,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,11/02/2024 19:31,5006,Mobile Wallet,Click-and-Collect,3002.0,90263,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,20/03/2024 19:49,5008,Mobile Wallet,Click-and-Collect,3004.0,90940,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,26/02/2024 08:20,5003,Mobile Wallet,In-Store,3001.0,90749,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+3,24/03/2024 01:28,5009,Card,Click-and-Collect,3004.0,90766,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,24/02/2024 15:42,5005,Cash,In-Store,3003.0,90313,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,22/01/2024 06:57,5004,Voucher,In-Store,3002.0,90515,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,20/03/2024 17:23,5008,Cash,Click-and-Collect,3004.0,90781,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,27/01/2024 20:37,5007,Card,Click-and-Collect,3001.0,90632,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+4,19/02/2024 19:43,5002,Cash,Click-and-Collect,3001.0,90776,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,28/02/2024 00:40,5010,Cash,In-Store,3004.0,90972,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+3,01/01/2024 06:19,5003,Card,Click-and-Collect,3004.0,90340,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+4,29/02/2024 05:01,5004,Voucher,Click-and-Collect,3003.0,90495,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+2,03/01/2024 11:03,5008,Card,Click-and-Collect,3005.0,90398,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+4,11/01/2024 13:17,5006,Mobile Wallet,In-Store,3003.0,90019,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,19/02/2024 21:42,5005,Card,In-Store,3001.0,90514,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+2,12/01/2024 13:54,5006,Mobile Wallet,Click-and-Collect,3002.0,90967,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,13/03/2024 09:22,5006,Cash,In-Store,3002.0,90673,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+2,22/02/2024 12:39,5001,Card,In-Store,3003.0,90247,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,01/01/2024 01:15,5007,Cash,Click-and-Collect,3005.0,90338,08/07/2020,Maria,Khan,maria.khan@outlook.com,03/03/1969,Prefer not to say,1,False
+1,31/01/2024 04:18,5002,Voucher,Click-and-Collect,3004.0,90932,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+2,31/01/2024 15:03,5004,Voucher,In-Store,3003.0,90940,11/02/2021,Ethan,Young,ethan.young@gmail.com,08/05/2010,Prefer not to say,1,False
+3,03/02/2024 22:15,5004,Mobile Wallet,Click-and-Collect,3001.0,90326,02/04/2021,Daniel,Patel,daniel.patel@outlook.com,20/12/1981,F,3,True
+1,03/01/2024 22:05,5008,Card,Click-and-Collect,3002.0,90985,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+4,28/02/2024 17:00,5001,Voucher,In-Store,3002.0,90798,02/03/2020,Grace,Rossi,grace.rossi@example.com,07/11/1962,M,1,True
+1,26/01/2024 15:28,5007,Voucher,Click-and-Collect,3004.0,90189,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False
+5,06/03/2024 04:47,5008,Card,In-Store,3004.0,90974,30/11/2023,Leo,Taylor,leo.taylor@gmail.com,28/04/1974,Prefer not to say,2,False

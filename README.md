@@ -123,13 +123,3 @@ University of Sunderland
 
 This project is submitted as part of academic coursework and is intended for educational purposes only.
 
-```
-
----
-
-If you want, I can also:
-- Align this README **exactly** to your current folder structure  
-- Add **screenshots and badges**  
-- Write a **short academic reflection** section  
-- Or tailor it for **portfolio/public GitHub visibility**
-```

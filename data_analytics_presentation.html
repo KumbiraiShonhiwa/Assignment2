@@ -489,52 +489,98 @@
                 <h2>Question 1: How do in-store vs online sales compare by time, product and location?</h2>
 
                 <div class="code-block">
-                    # Sale comparison by time
-                    pos_sales_time_range =
-                    pos_products_with_purchase_rate.groupby("time_range")["number_of_purchases"].sum()
-                    online_sales_time_range =
-                    pos_products_with_purchase_rate_online.groupby("time_range")["number_of_purchases"].sum()
+                    <li># (Sales comparison by time)
+                        pos_sales_time_range =
+                        pos_products_with_purchase_rate.groupby("time_range")["number_of_purchases"].sum()
+                        online_sales_time_range =
+                        pos_products_with_purchase_rate_online.groupby("time_range")["number_of_purchases"].sum()</li>
 
-
-                    # Channel comparison by product
-                    pos_purchases_by_product =
-                    pos_products_with_purchase_rate.groupby("product_id")["number_of_purchases"].sum().sort_values(
-                    ascending=False).head(10)
-                    online_purchases_by_product =
-                    pos_products_with_purchase_rate_online.groupby("product_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10)
+                    <li># (Sales comparison by product)
+                        pos_purchases_by_product=pos_products_with_purchase_rate.groupby("product_id")["number_of_purchases"].sum().sort_values(
+                        ascending=False).head(10)
+                        online_purchases_by_product=pos_products_with_purchase_rate_online.groupby("product_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10)
+                    </li>
+                    <li># (Sales comparison by location)
+                        pos_purchases_by_location=pos_products_with_purchase_rate.groupby("store_id")["number_of_purchases"].sum().sort_values(
+                        ascending=False).head(10)
+                        online_purchases_by_location=pos_products_with_purchase_rate_online.groupby("store_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10
+                    </li>
+                    )
                 </div>
 
                 <div class="highlight-box">
                     <strong>Key Findings:</strong>
                     <ul>
-                        <li>Online sales 35% year-over-year vs 12% for in-store</li>
-                        <li>Electronics dominate online (68% of revenue), groceries dominate in-store (52%)</li>
-                        <li>Urban locations show 45% online penetration vs 18% in rural areas</li>
+                        <li>
+                            Online sales peaked between 18:00–24:00 with 469 purchases, accounting for
+                            <strong>29.5%</strong> of total online sales.
+                            In contrast, POS sales peaked between 00:00–06:00 with 2,537 purchases, representing
+                            <strong>28.2%</strong> of total POS sales.
+                        </li>
+
+                        <li>
+                            Online sales’ highest purchased product was <strong>Coffee Beans</strong> with 91
+                            purchases
+                            (<strong>5.7%</strong> of all online purchases), while POS sales’ highest purchased
+                            product
+                            was <strong>Gift Cards</strong> with 35 purchases
+                            (<strong>0.4%</strong> of total POS purchases).
+                        </li>
+
+                        <li>
+                            The highest-selling online store recorded 217 purchases, contributing
+                            <strong>13.7%</strong> of total online sales, while the top POS store achieved 1,935
+                            purchases,
+                            accounting for a significantly larger <strong>21.5%</strong> of total POS sales.
+                        </li>
+
+                        <li>
+                            <strong>Conclusion:</strong> Online sales show a stronger concentration during
+                            evening
+                            hours,
+                            whereas POS sales are more evenly distributed but peak in early morning periods. POS
+                            channels
+                            dominate overall volume, with individual stores and time ranges contributing a
+                            larger share
+                            of total transactions compared to online sales.
+                        </li>
+
                     </ul>
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
                     <p>
-                        <strong>Process:</strong> This analysis compares in-store and online sales using grouped
-                        aggregations.
-                        Transactions were grouped by predefined time ranges to examine when purchases occur across
-                        channels.
-                        Product-level demand was assessed by counting the frequency of purchased product IDs in both
-                        in-store
-                        and online datasets. For in-store transactions, line-level revenue was calculated using unit
-                        price,
-                        quantity, and discounts, and then aggregated by store to analyse location-based performance.
+                        <strong>Process:</strong> In-store (POS) and online transactions were analysed
+                        separately to
+                        enable a clear
+                        channel-level comparison. Sales volume was aggregated by predefined time ranges using
+                        grouped
+                        sums of purchase
+                        counts. Product demand was assessed by ranking products based on total purchases per
+                        channel,
+                        highlighting the
+                        most frequently bought items. Store-level performance was evaluated by aggregating
+                        purchases by
+                        location to
+                        identify high-performing outlets.
                         <br><br>
-                        <strong>Interpretation:</strong> Grouping by time highlights differences in purchasing
-                        behaviour
-                        across
-                        channels, while product-level counts reveal variations in demand between in-store and online
-                        shoppers.
-                        Store-level revenue aggregation provides insight into how sales performance differs by
-                        location,
-                        supporting targeted operational and marketing strategies.
+                        <strong>Interpretation:</strong> The time-based aggregation reveals distinct purchasing
+                        patterns
+                        between
+                        channels, with online sales concentrated in evening hours and POS sales peaking earlier
+                        in the
+                        day. Product
+                        rankings indicate differing consumer preferences across channels, suggesting the need
+                        for
+                        tailored inventory
+                        and promotional strategies. Location-based aggregation shows that POS sales are more
+                        concentrated in top
+                        -performing stores, while online sales are more evenly distributed, supporting different
+                        optimisation approaches
+                        for physical and digital channels.
                     </p>
                 </div>
+
             </div>
         </div>
 
@@ -545,44 +591,65 @@
                 <h2>Question 2: How does loyalty affect spend, frequency, and channel preference?</h2>
 
                 <div class="code-block">
-                    # Customer spend comparison
-                    loyalty_spend = final_data.groupby('is_loyalty').agg({
-                    'revenue': ['mean', 'sum', 'count'],
-                    'customer_id': 'nunique'
-                    }).round(2)
+                    <li>( # Customer spend comparison)
+                        avg_loyal_customer_spend = pos_transactions_line_merged.groupby(
+                        'loyalty_member_id')['amount_received'].mean()
+                        total_loyal_customer_spend = pos_transactions_line_merged.groupby(
+                        'loyalty_member_id')['amount_received'].sum()
+                        avg_non_loyal_spend = new_data_frame['amount_received'].mean()
+                        total_non_loyal_spend = new_data_frame['amount_received'].sum()</li>
 
-                    # Visit frequency
-                    visit_frequency_of_online_customers = online_merged.groupby('email').size()
-                    visit_frequency_of_pos_customers = pos_merged_with_members.groupby('email').size()
 
-                    is_member = online_merged['loyalty_member_id'].notnull()
-                    is_not_members = online_merged['loyalty_member_id'].isna()
-                    non_online_members = online_merged[is_not_members]
-                    online_members = online_merged[is_member]
+                    <li>(# Visit frequency)
+                        loyal_visits = pos_merged_with_members.shape[0]
+                        non_loyal_visits = new_data_frame.shape[0]</li>
 
-                    is_member = pos_transactions['loyalty_member_id'].notnull()
-                    is_not_members = pos_transactions['loyalty_member_id'].isna()
-                    non_pos_members = pos_transactions[is_not_members]
-                    pos_members = pos_transactions[is_member]
 
-                    all_visits = pandas.concat([visit_frequency_of_pos_customers,
-                    visit_frequency_of_online_customers])
-                    total_visit_freq = all_visits.groupby(level=0).sum()
-                    visit_per_pos_customer['vists'] = visit_per_pos_customer['email'].map(total_visit_freq)
-
-                    # Channel preference
-                    channel_pref = final_data.groupby(['is_loyalty', 'channel'])['revenue'].sum()
+                    <li>(# Channel preference)
+                        channel_preference_loyal_customers = pos_merged_with_members.groupby('order_channel').size()
+                        channel_preference_non_loyal_customers = new_data_frame.groupby('order_channel').size()</li>
                 </div>
+                <div class="highlight-box">
+                    <strong>Key Findings:</strong>
+                    <ul>
+                        <li>
+                            Loyal customers accounted for 633 visits,
+                            <strong>17.4%</strong> of total visits.
+                            In contrast, Non-Loyal customers represented 2,992 visits,
+                            <strong>82.6%</strong> of total visits.
 
-                <div class="grid-2">
-                    <div class="metric-card">
-                        <div class="metric-value">2.3x</div>
-                        <div class="metric-label">Higher Average Spend (Loyalty)</div>
-                    </div>
-                    <div class="metric-card">
-                        <div class="metric-value">4.1</div>
-                        <div class="metric-label">More Visits/Month (Loyalty)</div>
-                    </div>
+                        </li>
+
+                        <li>
+                            Loyal customers prefered order channel was In-Store which saw 326 orders
+                            <strong>25.8%</strong> of total Loyal orders.
+                            Compared to Click-and-Collect which saw 306 orders (24.2%).
+                            In contrast, Non-Loyal preferred order channel was In-Store which saw 1575 orders
+                            <strong>26.3%</strong> of total visits. Compared to Click-and-Collect which saw 1417
+                            orders
+                            (23.7%).
+                        </li>
+
+                        <li>
+                            Loyal customers spent a total of $17,531.61, with an average spend of $9.12 per
+                            customer,
+                            accounting for <strong>39.1%</strong> of total income.
+                            In contrast, Non-Loyal customers spent $27,358.79,
+                            contributing a larger <strong>60.9%</strong> of total income.
+
+                        </li>
+
+                        <li>
+                            <strong>Conclusion:</strong> Online sales show a stronger concentration during evening
+                            hours,
+                            whereas POS sales are more evenly distributed but peak in early morning periods. POS
+                            channels
+                            dominate overall volume, with individual stores and time ranges contributing a larger
+                            share
+                            of total transactions compared to online sales.
+                        </li>
+
+                    </ul>
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
@@ -610,55 +677,61 @@
                 <h2>Question 3: Which products/stores are most profitable and need attention?</h2>
 
                 <div class="code-block">
-                    products_unit_price = pos_products.groupby('product_name')['unit_cost'].mean().round(2)
-                    products_list_price = pos_products.groupby('product_name')['list_price'].mean().round(2)
-                    profitability_per_product = (products_list_price - products_unit_price).round(2)
-                    expected_profits_per_product =
-                    pos_products[['category','product_name','unit_cost','list_price']].copy()
+                    <li> (# Creation of amount_received column)
+                        pos_transactions_line_merged["amount_received"] = (pos_transactions_line_merged["unit_price"] *
+                        pos_transactions_line_merged["quantity"]) - pos_transactions_line_merged["line_discount"]
+                        amount_received = pos_transactions_line_merged.groupby("store_id")["amount_received"].sum()</li>
 
-                    # Product profitability
-                    product_profit = final_data.groupby('product').agg({
-                    'profit': 'sum',
-                    'profit_margin': 'mean',
-                    'revenue': 'sum'
-                    }).sort_values('profit', ascending=False)
+                    <li>(# Product profitability)
+                        profit_product = pos_transactions_line_merged.groupby('store_id')['amount_received'].sum()
+                    </li>
+                    <li>(# Store profitability)
+                        profit_store = pos_transactions_line_merged.groupby('product_id')['amount_received'].sum()</li>
 
-                    # Store profitability
-                    store_profit = final_data.groupby('store_location').agg({
-                    'profit': 'sum',
-                    'profit_margin': 'mean',
-                    'revenue': 'sum'
-                    }).sort_values('profit', ascending=False)
                 </div>
 
                 <div class="highlight-box">
                     <strong>Priority Actions:</strong>
                     <ul>
-                        <li><strong>Top Performers:</strong> Electronics (42% margin), Premium apparel (38% margin)
+                        <li><strong>Top Performers:</strong> Flat white (M) which gained $165.66 in revenue,
+                            Espresso
+                            (S) gained $162.81 and Espresso gained 159.91
                         </li>
-                        <li><strong>Need Attention:</strong> Fresh produce (8% margin), Discount clothing (11%
-                            margin)
+                        <li><strong>Need Attention:</strong> Tumbler gained $1.51 and Small Green Tea gained only
+                            gained
+                            $1.63
                         </li>
-                        <li><strong>Store Focus:</strong> Downtown flagship profitable, Suburban Store #3
-                            underperforming</li>
+                        <li><strong>Store Focus:</strong> Store 1 profitable with a revenue of $6079.30, Store 3
+                            underperforming with a revenue of $4980.42 </li>
                     </ul>
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> Profitability analysis required calculating profit and margin
-                        metrics.
-                        We
-                        aggregated by product and store location, sorting by total profit to identify top and bottom
-                        performers. The code shows how we used agg() with multiple statistics.
-                        <strong>Interpretation:</strong> Electronics and premium apparel drive profitability with
-                        high
-                        margins. Fresh produce and discount items have thin margins requiring volume focus. Store
-                        #3's
-                        underperformance (15% below average) suggests operational issues or poor location—this
-                        requires
-                        deeper investigation into foot traffic, staffing, or assortment. Downtown's success
-                        validates
-                        high-traffic location strategy.
+                    <p>
+                        <strong>Process:</strong> Profitability was calculated at line-item level by deriving the
+                        amount
+                        received for
+                        each transaction using unit price, quantity, and applied discounts. These values were then
+                        aggregated using
+                        group-by operations to compute total revenue by product and by store. This approach enables
+                        a
+                        direct comparison
+                        of individual product performance and overall store profitability.
+                        <br><br>
+                        <strong>Interpretation:</strong> High-performing products such as Flat White (M) and
+                        Espresso
+                        variants generate
+                        the majority of revenue, indicating strong and consistent customer demand. In contrast,
+                        low-revenue items such
+                        as Tumblers and Small Green Tea contribute minimally to overall profitability and may
+                        require
+                        pricing,
+                        promotion, or inventory review. Store-level aggregation shows notable variation in
+                        performance,
+                        with Store 1
+                        significantly outperforming Store 3, suggesting opportunities for operational improvements,
+                        demand stimulation,
+                        or resource reallocation at underperforming locations.
                     </p>
                 </div>
             </div>
@@ -668,144 +741,191 @@
         <div class="slide">
             <div class="slide-title">Visualization 1: Multi-Dimensional Sales Analysis</div>
             <div class="slide-content">
-                <h2>Sales by Channel, Store, Product, and Time</h2>
+                <h2>Sales Performance by Time, Store, and Channel</h2>
 
                 <div>
-                    <div><img src="./results/Revenue by Store Location.png" /></div>
-                    <div><img src="./results/Top 10 Products by Revenue Contribution.png" /></div>
-                    <div><img src="./results/Revenue Heatmap_Store vs Category Performance.png" /></div>
-                    <div><img src="./results/Revenue Trend by Month.png" /></div>
+                    <div><img src="./results/Revenue Heatmap_Store vs Order Channel Performance.png" /></div>
+                    <div><img src="./results/Total Revenue by Time Range and Product.png" /></div>
                 </div>
 
                 <div class="highlight-box">
                     <strong>Visualization Features:</strong>
                     <ul>
-                        <li>Time-series line chart: Monthly revenue trends by channel (2022-2024)</li>
-                        <li>Grouped bar chart: Product category performance by channel</li>
-                        <li>Geographic heat map: Store location revenue intensity</li>
-                        <li>Interactive filters: Date range, product category, location selector</li>
+                        <li>Bar chart: Total revenue aggregated by time range</li>
+                        <li>Heatmap: Store-level revenue comparison across order channels</li>
+                        <li>Colour intensity represents revenue magnitude for quick pattern identification</li>
+                        <li>Clear axis labels and annotations for interpretability</li>
                     </ul>
                 </div>
+
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> This visualization was created using Python libraries
-                        (Matplotlib/Seaborn
-                        or Plotly for interactivity). Data was aggregated at appropriate granularity levels, and
-                        multiple
-                        chart types were combined into a unified dashboard. Color coding distinguishes channels
-                        (blue
-                        for
-                        in-store, orange for online). <strong>Interpretation:</strong> The dashboard reveals clear
-                        trends:
-                        online's upward trajectory, seasonal peaks in Q4, and product category preferences by
-                        channel.
-                        Heat
-                        map highlights urban concentration of sales. This multi-view approach allows stakeholders to
-                        explore
-                        data from different perspectives while maintaining scientific accuracy with labeled axes and
-                        clear
-                        legends.</p>
+                    <p>
+                        <strong>Process:</strong> Revenue was calculated at transaction line level and aggregated by
+                        time
+                        range, store, and order channel. A bar chart was used to summarise total revenue
+                        distribution
+                        across
+                        time periods, while a heatmap visualises how revenue differs between stores and order
+                        channels.
+                        Numeric annotations were added to the heatmap to support precise comparison.
+                        <br><br>
+                        <strong>Interpretation:</strong> The time-based bar chart shows that revenue is highest
+                        during
+                        early
+                        morning periods, with a gradual decline across later time ranges, indicating stronger demand
+                        earlier
+                        in the day. The heatmap highlights clear performance differences between stores, with some
+                        locations
+                        generating consistently higher in-store revenue, while others show stronger
+                        click-and-collect
+                        performance. These patterns suggest opportunities for time-based promotions and
+                        store-specific
+                        channel optimisation strategies.
+                    </p>
                 </div>
             </div>
         </div>
+
 
         <!-- Slide 11: Visualization 2 - Loyalty Behavior -->
         <div class="slide">
             <div class="slide-title">Visualization 2: Loyalty vs Non-Loyalty Behavior</div>
             <div class="slide-content">
-                <h2>Comparative Customer Behavior Analysis</h2>
+                <h2>Channel Preference by Customer Segment</h2>
 
                 <div>
                     <div><img src="./results/Channel Preference by Customer Segment.png" /></div>
-                    <div><img src="./results/Loyalty Imapct_Visit Frequency vs Customer Value.png" /></div>
                 </div>
 
                 <div class="highlight-box">
                     <strong>Visualization Components:</strong>
                     <ul>
-                        <li>Side-by-side bar comparison: Average spend, visit frequency, basket size</li>
-                        <li>Stacked area chart: Revenue contribution over time by customer type</li>
-                        <li>Box plot: Spending distribution showing median, quartiles, outliers</li>
-                        <li>Sankey diagram: Customer journey showing channel switching patterns</li>
+                        <li>Stacked bar chart showing channel usage by customer segment</li>
+                        <li>Percentage-based comparison for loyal, non-loyal, and overall customers</li>
+                        <li>Clear colour separation between Click-and-Collect and In-Store channels</li>
+                        <li>Value labels embedded for improved readability</li>
                     </ul>
                 </div>
+
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> This visualization specifically compares loyalty vs non-loyalty
-                        customer
-                        segments. We used contrasting colors (purple for loyalty, gray for non-loyalty) for clear
-                        differentiation. Statistical rigor maintained through box plots showing distribution rather
-                        than
-                        just means. The Sankey diagram required transaction sequencing to map customer journeys.
-                        <strong>Interpretation:</strong> Visual comparison makes loyalty value immediately apparent
-                        to
-                        business stakeholders. Box plots reveal that while loyalty members average higher spend,
-                        both
-                        groups
-                        have similar outliers, suggesting opportunity to convert high-value non-loyalty customers.
-                        Sankey
-                        shows 23% of loyalty members are omnichannel vs 8% of non-loyalty, validating programme's
-                        cross-channel effectiveness. These aesthetically pleasing yet scientifically accurate
-                        visualizations
-                        effectively communicate complex behavioral patterns to non-technical audiences.
+                    <p>
+                        <strong>Process:</strong> Customer transactions were segmented into loyal and non-loyal
+                        groups.
+                        Transactions were grouped by customer segment and order channel, then converted into
+                        percentages
+                        to allow for proportional comparison. A stacked bar chart was chosen to clearly illustrate
+                        channel
+                        preference distribution within each segment.
+                        <br><br>
+                        <strong>Interpretation:</strong> The visualisation shows that loyal and non-loyal customers
+                        exhibit
+                        very similar channel preferences, with in-store purchases slightly dominating across all
+                        segments.
+                        This suggests that loyalty membership does not strongly influence channel choice, but rather
+                        impacts
+                        spending behaviour elsewhere in the customer journey. The consistency across segments
+                        indicates
+                        that channel strategy should focus on improving experience quality rather than
+                        segment-specific
+                        channel targeting.
                     </p>
                 </div>
             </div>
         </div>
+
 
         <!-- Slide 12: Conclusions & Recommendations -->
         <div class="slide">
             <div class="slide-title">Conclusions & Recommendations</div>
             <div class="slide-content">
                 <h2>Key Insights</h2>
+
                 <div class="highlight-box">
                     <ul>
-                        <li><strong>Channel Dynamics:</strong> Online growing faster but in-store remains dominant
-                            for
-                            certain categories</li>
-                        <li><strong>Loyalty Value:</strong> Programme delivers 2.3x spend and 4.1x frequency
-                            lift—strong
-                            ROI</li>
-                        <li><strong>Product Strategy:</strong> Focus on high-margin categories (electronics, premium
-                            apparel)</li>
-                        <li><strong>Location Optimization:</strong> Address Store #3 underperformance, expand online
-                            in
-                            rural areas</li>
+                        <li>
+                            <strong>Channel Performance:</strong> In-store sales consistently generate higher
+                            revenue
+                            than
+                            click-and-collect across most stores, though channel contribution varies by location.
+                        </li>
+                        <li>
+                            <strong>Time-Based Demand:</strong> Revenue peaks during early morning time ranges, with
+                            a
+                            gradual
+                            decline throughout the day, indicating time-sensitive purchasing behaviour.
+                        </li>
+                        <li>
+                            <strong>Store Variability:</strong> Significant differences exist between store
+                            performances,
+                            with some stores consistently outperforming others across both channels.
+                        </li>
+                        <li>
+                            <strong>Loyalty Behaviour:</strong> Loyal and non-loyal customers exhibit very similar
+                            channel
+                            preferences, suggesting loyalty influences spend rather than channel choice.
+                        </li>
                     </ul>
                 </div>
 
                 <h2>Strategic Recommendations</h2>
                 <ul>
-                    <li><strong>Invest in Loyalty:</strong> Expand programme benefits to increase enrollment from
-                        current 60% to 75%+</li>
-                    <li><strong>Omnichannel Integration:</strong> Enable seamless cross-channel experiences (buy
-                        online,
-                        pick up in-store)</li>
-                    <li><strong>Assortment Optimization:</strong> Tailor product mix by location based on channel
-                        preference data</li>
-                    <li><strong>Performance Management:</strong> Implement monthly profitability dashboards for
-                        proactive decision-making</li>
+                    <li>
+                        <strong>Time-Based Optimisation:</strong> Align staffing, promotions, and inventory
+                        availability
+                        with
+                        high-performing time ranges to maximise revenue capture.
+                    </li>
+                    <li>
+                        <strong>Store-Specific Strategies:</strong> Investigate underperforming stores to identify
+                        operational
+                        or demand-side issues, and replicate best practices from high-performing locations.
+                    </li>
+                    <li>
+                        <strong>Channel Experience Improvement:</strong> Since channel preference is consistent
+                        across
+                        customer segments, focus on improving service quality and convenience rather than
+                        segment-specific
+                        channel targeting.
+                    </li>
+                    <li>
+                        <strong>Performance Monitoring:</strong> Implement recurring dashboards tracking revenue by
+                        time,
+                        store, and channel to support proactive, data-driven decision-making.
+                    </li>
                 </ul>
+
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Summary:</strong> This analysis successfully integrated three disparate data sources
-                        using
-                        Python and Pandas, answering all four business questions through rigorous data wrangling and
-                        analytics. The process demonstrated proper data cleaning, transformation, integration, and
-                        statistical analysis techniques. Two comprehensive visualizations provide actionable
-                        insights
-                        for
-                        stakeholders. <strong>Business Impact:</strong> These findings enable data-driven
-                        decision-making
-                        around channel investment, loyalty programme optimization, product assortment, and store
-                        operations.
-                        The analytical framework established can be operationalized for ongoing performance
-                        monitoring.
-                        Next
-                        steps include implementing recommendations and establishing regular reporting cadence.</p>
+                    <p>
+                        <strong>Summary:</strong> This analysis combined transactional, temporal, store, and
+                        customer
+                        data to
+                        address key business questions using Python and Pandas. Revenue was derived at line-item
+                        level
+                        and
+                        analysed through grouped aggregations and visualisations to uncover meaningful operational
+                        patterns.
+                        <br><br>
+                        <strong>Business Impact:</strong> The findings provide actionable insights into when
+                        customers
+                        buy,
+                        how stores differ in performance, and how sales channels contribute across customer
+                        segments.
+                        These
+                        insights support informed decisions around staffing, store optimisation, and channel
+                        strategy.
+                        The
+                        analytical framework developed can be reused and extended for continuous performance
+                        tracking
+                        and
+                        strategic planning.
+                    </p>
                 </div>
             </div>
         </div>
+
         <div class="navigation">
             <button class="nav-btn" id="prevBtn" onclick="changeSlide(-1)" type="button">← Previous</button>
             <div class="slide-counter">

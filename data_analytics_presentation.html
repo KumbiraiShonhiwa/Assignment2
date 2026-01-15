@@ -489,25 +489,25 @@
                 <h2>Question 1: How do in-store vs online sales compare by time, product and location?</h2>
 
                 <div class="code-block">
-                    # Channel comparison by time
-                    range_counts_transactions = pos_transactions.groupby("time_range", observed=False).size()
-                    range_counts_online = online_orders.groupby("time_range",observed=False).size()
+                    # Sale comparison by time
+                    pos_sales_time_range =
+                    pos_products_with_purchase_rate.groupby("time_range")["number_of_purchases"].sum()
+                    online_sales_time_range =
+                    pos_products_with_purchase_rate_online.groupby("time_range")["number_of_purchases"].sum()
 
 
                     # Channel comparison by product
-                    most_purchased_product = pos_transactions_line.groupby("product_id").size()
-
-                    pos_transactions_line_merged["amount_received"] = (pos_transactions_line_merged["unit_price"] *
-                    pos_transactions_line_merged["quantity"]) - pos_transactions_line_merged["line_discount"]
-                    amount_received = pos_transactions_line_merged.groupby("store_id")["amount_received"].sum()
-                    most_purchased_product_online = online_orders.groupby("product_id").size()
-
+                    pos_purchases_by_product =
+                    pos_products_with_purchase_rate.groupby("product_id")["number_of_purchases"].sum().sort_values(
+                    ascending=False).head(10)
+                    online_purchases_by_product =
+                    pos_products_with_purchase_rate_online.groupby("product_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10)
                 </div>
 
                 <div class="highlight-box">
                     <strong>Key Findings:</strong>
                     <ul>
-                        <li>Online sales grew 35% year-over-year vs 12% for in-store</li>
+                        <li>Online sales 35% year-over-year vs 12% for in-store</li>
                         <li>Electronics dominate online (68% of revenue), groceries dominate in-store (52%)</li>
                         <li>Urban locations show 45% online penetration vs 18% in rural areas</li>
                     </ul>

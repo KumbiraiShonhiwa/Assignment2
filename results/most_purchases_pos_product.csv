@@ -1,6 +1,6 @@
-product_id,product_name,category,subcategory,size,unit_cost,list_price,is_active,pos_receipt_id,number_of_purchases
-957,Wrap,Food,Wrap,,0.96,5.59,True,90749,7.0
-113,Gift Card,Merchandise,Gift Card,,2.48,3.4,True,90111,7.0
-671,Sandwich,Food,Sandwich,,2.4,5.43,False,90698,6.0
-144,Wrap,Food,Wrap,,2.7,5.38,True,90706,6.0
-424,Pastry,Food,Pastry,,2.01,5.64,False,90742,6.0
+store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,pos_receipt_id,time_range,month,line_number,product_id,quantity,unit_price,line_discount,amount_received,number_of_purchases
+5,2024-02-13 01:36:00,5002,Mobile Wallet,In-Store,3004.0,90957,00:00-06:00,Feb,4,957,3,2.8,0.5,7.899999999999999,7
+4,2024-01-07 18:14:00,5008,Mobile Wallet,In-Store,3003.0,90783,18:00-24:00,Jan,4,113,4,4.47,0.5,17.38,7
+1,2024-03-01 20:07:00,5009,Card,In-Store,3002.0,90944,18:00-24:00,Mar,2,113,1,5.6,0.25,5.35,7
+4,2024-03-28 20:57:00,5005,Cash,Click-and-Collect,3005.0,90972,18:00-24:00,Mar,2,113,4,4.05,0.1,16.099999999999998,7
+4,2024-03-30 08:03:00,5008,Mobile Wallet,Click-and-Collect,3005.0,90798,06:00-12:00,Mar,4,113,3,2.53,0.1,7.49,7

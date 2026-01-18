@@ -1,6 +1,6 @@
-store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,pos_receipt_id,time_range,month,line_number,product_id,quantity,unit_price,line_discount,amount_received,number_of_purchases
-5,2024-02-13 01:36:00,5002,Mobile Wallet,In-Store,3004.0,90957,00:00-06:00,Feb,4,957,3,2.8,0.5,7.899999999999999,7
-4,2024-01-07 18:14:00,5008,Mobile Wallet,In-Store,3003.0,90783,18:00-24:00,Jan,4,113,4,4.47,0.5,17.38,7
-1,2024-03-01 20:07:00,5009,Card,In-Store,3002.0,90944,18:00-24:00,Mar,2,113,1,5.6,0.25,5.35,7
-4,2024-03-28 20:57:00,5005,Cash,Click-and-Collect,3005.0,90972,18:00-24:00,Mar,2,113,4,4.05,0.1,16.099999999999998,7
-4,2024-03-30 08:03:00,5008,Mobile Wallet,Click-and-Collect,3005.0,90798,06:00-12:00,Mar,4,113,3,2.53,0.1,7.49,7
+store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,pos_receipt_id,time_range,month,line_number,product_id,quantity,unit_price,line_discount,amount_received,product_name,number_of_purchases
+3,2024-01-05 18:23:00,5002,Voucher,Click-and-Collect,3002.0,90655,18:00-24:00,Jan,2,115,1,4.84,0.1,4.74,Wrap,
+3,2024-01-05 18:23:00,5002,Voucher,Click-and-Collect,3002.0,90655,18:00-24:00,Jan,3,811,1,1.84,0.5,1.34,Tumbler,
+3,2024-01-05 18:23:00,5002,Voucher,Click-and-Collect,3002.0,90655,18:00-24:00,Jan,3,32,4,5.5,0.25,21.75,Wrap,
+1,2024-03-17 07:44:00,5007,Mobile Wallet,Click-and-Collect,3001.0,90143,06:00-12:00,Mar,5,755,1,4.55,0.0,4.55,Salad,
+1,2024-03-17 07:44:00,5007,Mobile Wallet,Click-and-Collect,3001.0,90143,06:00-12:00,Mar,4,649,3,2.59,0.1,7.67,Tumbler,

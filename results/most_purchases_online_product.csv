@@ -1,15 +1,15 @@
-online_order_id,online_customer_id,order_datetime,order_status,sales_channel,fulfilment_type,store_id,delivery_fee,discount_amount,payment_type,product_id,time_range,number_of_purchases
-81603,10279,2024-03-17 23:42:00,Completed,Web,Delivery,,1.96,1.28,PayPal,957,18:00-24:00,7
-81691,10447,2024-03-28 05:26:00,Completed,Mobile App,Pickup,1.0,0.0,1.64,Mobile Wallet,957,00:00-06:00,7
-80369,10293,2024-03-04 12:19:00,Completed,Mobile App,Pickup,2.0,0.0,0.35,Mobile Wallet,957,12:00-18:00,7
-81331,10436,2024-03-21 20:00:00,Completed,Web,Delivery,,1.53,1.87,Card,957,18:00-24:00,7
-81760,10468,2024-03-25 23:35:00,Completed,Mobile App,Delivery,,1.3,0.81,Card,633,18:00-24:00,6
-81705,10499,2024-03-27 22:17:00,Completed,Mobile App,Pickup,1.0,0.0,0.21,Card,280,18:00-24:00,6
-81999,10417,2024-03-25 03:39:00,Completed,Mobile App,Pickup,3.0,0.0,0.6,PayPal,92,00:00-06:00,6
-81773,10332,2024-03-17 18:46:00,Completed,Mobile App,Delivery,,2.14,1.04,PayPal,394,18:00-24:00,6
-80174,10328,2024-03-12 21:14:00,Completed,Web,Pickup,3.0,0.0,0.3,Card,671,18:00-24:00,6
-80902,10335,2024-03-04 23:55:00,Completed,Web,Delivery,,1.25,0.25,PayPal,433,18:00-24:00,6
-81208,10222,2024-03-24 17:23:00,Completed,Web,Delivery,,3.52,1.32,Mobile Wallet,144,12:00-18:00,6
-81177,10488,2024-03-01 17:36:00,Completed,Web,Pickup,3.0,0.0,1.2,PayPal,280,12:00-18:00,6
-80238,10179,2024-03-10 17:02:00,Completed,Mobile App,Delivery,,2.08,0.44,Mobile Wallet,965,12:00-18:00,6
-81051,10266,2024-03-10 20:15:00,Completed,Web,Delivery,,3.7,0.06,Card,100,18:00-24:00,6
+online_order_id,online_customer_id,order_datetime,order_status,sales_channel,fulfilment_type,store_id,delivery_fee,discount_amount,payment_type,product_id,time_range,product_name,number_of_purchases
+80001,10125,2024-03-16 00:44:00,Placed,Mobile App,Pickup,1,0.0,1.69,Card,115,00:00-06:00,Wrap,
+80002,10275,2024-03-03 08:17:00,Completed,Mobile App,Delivery,1,3.02,1.21,Card,755,06:00-12:00,Salad,
+80003,10097,2024-03-22 19:37:00,Preparing,Mobile App,Delivery,3,1.91,1.82,Card,33,18:00-24:00,Chai,
+80004,10480,2024-03-06 08:08:00,Cancelled,Web,Delivery,2,3.09,1.41,PayPal,28,06:00-12:00,Black Tea L,
+80005,10469,2024-03-26 03:01:00,Completed,Mobile App,Delivery,2,2.14,1.07,PayPal,604,00:00-06:00,Wrap,
+80006,10158,2024-03-24 08:07:00,Cancelled,Mobile App,Pickup,2,0.0,0.2,Mobile Wallet,433,06:00-12:00,Coffee Beans,
+80007,10241,2024-03-17 20:54:00,Completed,Mobile App,Pickup,1,0.0,0.09,Card,95,18:00-24:00,Wrap,
+80008,10380,2024-03-01 17:42:00,Completed,Mobile App,Delivery,5,1.89,0.39,Card,827,12:00-18:00,Salad,
+80009,10195,2024-03-23 17:22:00,Completed,Mobile App,Delivery,1,3.29,0.98,Mobile Wallet,566,12:00-18:00,Green Tea S,
+80010,10329,2024-03-08 15:45:00,Completed,Web,Pickup,5,0.0,0.28,Mobile Wallet,722,12:00-18:00,Gift Card,
+80011,10251,2024-03-25 16:09:00,Placed,Web,Delivery,4,3.52,0.15,Mobile Wallet,876,12:00-18:00,Herbal Tea,
+80012,10025,2024-03-19 18:26:00,Preparing,Web,Delivery,1,1.2,0.3,Card,651,18:00-24:00,Tumbler,
+80013,10259,2024-03-03 18:01:00,Cancelled,Mobile App,Pickup,1,0.0,0.03,Mobile Wallet,274,18:00-24:00,Gift Card,
+80014,10283,2024-03-01 18:16:00,Completed,Mobile App,Pickup,1,0.0,0.03,Mobile Wallet,251,18:00-24:00,Coffee Beans,

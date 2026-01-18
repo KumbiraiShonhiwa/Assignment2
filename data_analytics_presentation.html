@@ -148,6 +148,35 @@
             border-top: 1px solid #e2e8f0;
         }
 
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+            margin-top: 20px;
+        }
+
+        .results-table th,
+        .results-table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .results-table th {
+            background-color: #2c3e50;
+            color: white;
+        }
+
+        .results-table tr:nth-child(even) {
+            background-color: #f4f6f8;
+        }
+
+        .results-table tr:hover {
+            background-color: #eaeaea;
+        }
+
+
+
         .nav-btn {
             padding: 12px 30px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -250,9 +279,33 @@
         <div class="slide">
             <div class="slide-title">Data Integration, Transformation & Analytics</div>
             <div class="slide-subtitle">Retail Sales Performance Analysis</div>
-            <div class="slide-subtitle" style="font-size: 20px; margin-top: 40px;">POS, Online Orders & Loyalty
-                Programme Integration</div>
+
+            <div class="slide-subtitle" style="font-size: 20px; margin-top: 40px;">
+                POS, Online Orders & Loyalty Programme Integration
+            </div>
+
+            <div class="slide-subtitle" style="font-size: 18px; margin-top: 60px;">
+                Presented by <strong>Kumbirai Shonhiwa</strong>
+            </div>
+
+            <div class="notes-section">
+                <h4>📝 Speaker Notes</h4>
+                <p>
+                    <strong>Introduction:</strong> This project presents an integrated data solution developed
+                    for Coffee Haven, a retail business operating both physical stores and an online ordering
+                    platform with an active loyalty programme.
+                    <br><br>
+                    <strong>Objective:</strong> The aim is to integrate POS, online, and loyalty datasets using
+                    Python and Pandas to analyse retail sales performance, compare customer behaviour across
+                    channels, and evaluate the impact of the loyalty programme on business outcomes.
+                    <br><br>
+                    <strong>Context:</strong> This analysis demonstrates the application of data integration,
+                    transformation, and analytics techniques to support strategic and tactical decision-making
+                    for non-technical business stakeholders.
+                </p>
+            </div>
         </div>
+
 
         <!-- Slide 2: Project Overview -->
         <div class="slide">
@@ -274,16 +327,20 @@
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> The project begins by defining clear objectives aligned with business
-                        questions. We identified three primary data sources that needed integration. The analytical
-                        approach
-                        focuses on answering four key business questions through systematic data wrangling and
-                        statistical
-                        analysis. <strong>Interpretation:</strong> These objectives guide the entire analytical process,
-                        ensuring that technical work directly addresses business needs. The focus on both loyalty and
-                        non-loyalty customers allows for comparative analysis that reveals the true value of the loyalty
-                        programme.</p>
+                    <p>
+                        <strong>Process:</strong> This slide outlines the basic data environment for the project. We
+                        pinpoint and classify the seven main data sources that include POS transactions, online orders,
+                        and the loyalty program. Grasping the structure, detail level, and essential identifiers of each
+                        dataset was crucial for crafting a successful data integration approach using Python and Pandas.
+                        <br><br>
+                        <strong>Interpretation:</strong> By analyzing the relationships between in-store, online, and
+                        loyalty data, we ensured the datasets could be effectively merged to facilitate subsequent
+                        analytics. This directly supports the project's goals of assessing sales performance across
+                        different channels, examining how the loyalty program influences customer behavior, and
+                        pinpointing profitable products and stores for informed business decision-making.
+                    </p>
                 </div>
+
             </div>
         </div>
 
@@ -291,37 +348,49 @@
         <div class="slide">
             <div class="slide-title">Data Sources & Structure</div>
             <div class="slide-content">
-                <h2>Three Primary Data Sources</h2>
+                <h2>Seven Primary Data Sources</h2>
 
                 <h3>1. Point of Sale (POS) Data</h3>
                 <ul>
-                    <li>Transaction ID, timestamp, store location, product details, quantity, price</li>
-                    <li>Customer ID (if loyalty member)</li>
+                    <li>Transactions Line:pos_receipt_id,line_number, product, quantity, unit_price,line_discount</li>
+                    <li>Transactions
+                        Header:store_id,trans_datetime,staff_id,payment_type,order_channel,loyalty_member_id,pos_receipt_id
+                    </li>
+                    <li>Products</li>
                 </ul>
 
                 <h3>2. Online Orders Data</h3>
                 <ul>
-                    <li>Order ID, timestamp, product details, delivery location, payment info</li>
-                    <li>Customer ID (if logged in)</li>
+                    <li>Customers: customer_id, first_name, last_name, email, phone_number, loyalty_member_id</li>
+                    <li>Orders: online_order_id, customer_id, order_date</li>
                 </ul>
 
                 <h3>3. Loyalty Programme Data</h3>
                 <ul>
-                    <li>Customer ID, join date, points balance, tier status</li>
-                    <li>Purchase history, channel preferences</li>
+                    <li>Members: loyalty_member_id, first_name, last_name, email, phone_number</li>
+                    <li>Points Activity: loyalty_member_id, points_txn_id</li>
                 </ul>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> We began by examining the structure and schema of each data source. POS
-                        data provides in-store transaction details, online orders capture e-commerce activity, and
-                        loyalty
-                        data tracks customer engagement. The common key across these sources is Customer ID, which
-                        enables
-                        integration. <strong>Interpretation:</strong> Understanding data structure is crucial before any
-                        transformation. Notice that not all transactions have Customer IDs (non-loyalty customers),
-                        which
-                        requires careful handling during analysis to avoid biased comparisons.</p>
+                    <p>
+                        <strong>Process:</strong> We first reviewed the structure and schema of all seven data sources
+                        to
+                        understand how transactional, customer, and loyalty information is captured across systems.
+                        POS data represents in-store sales at both header and line-item level, online datasets capture
+                        e-commerce customers and orders, and loyalty datasets record member profiles and points
+                        activity.
+                        Integration is primarily enabled through shared identifiers such as
+                        <code>loyalty_member_id</code>,
+                        <code>customer_id</code>, and <code>pos_receipt_id</code>.
+                        <br><br>
+                        <strong>Interpretation:</strong> This structural understanding highlighted key analytical
+                        considerations, including the presence of transactions without loyalty identifiers, differences
+                        between in-store and online customer records, and varying data granularity across sources.
+                        These factors informed join strategies and ensured fair comparisons between loyalty and
+                        non-loyalty customers.
+                    </p>
                 </div>
+
             </div>
         </div>
 
@@ -356,25 +425,30 @@
                 <div class="notes-section">
                     <h3>Key Checks Performed:</h3>
                     <ul>
-                        <li>Missing values identification</li>
-                        <li>Data types validation</li>
-                        <li>Duplicate records detection</li>
-                        <li>Date format consistency</li>
+                        <li>Identification of missing and null values</li>
+                        <li>Validation of column data types</li>
+                        <li>Detection of duplicate records</li>
+                        <li>Verification of date and timestamp consistency</li>
                     </ul>
+
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> The first step involves loading all datasets using Pandas and
-                        performing
-                        initial inspection. We check for missing values, incorrect data types, and structural issues.
-                        The
-                        info() method reveals column types and null counts, while isnull().sum() quantifies missing
-                        data.
-                        <strong>Interpretation:</strong> Initial inspection revealed that approximately 40% of POS
-                        transactions lacked Customer IDs (non-loyalty purchases), timestamp formats varied between
-                        sources,
-                        and some product names had inconsistent capitalization. These issues informed our cleaning
-                        strategy.
+                    <p>
+                        <strong>Process:</strong> All datasets were loaded using Pandas and inspected using
+                        <code>info()</code> and <code>isnull().sum()</code> to assess structure, completeness, and data
+                        types.
+                        This step ensured early identification of data quality issues before any transformations or
+                        joins
+                        were performed.
+                        <br><br>
+                        <strong>Interpretation:</strong> The inspection revealed a significant proportion of missing
+                        Customer IDs in POS transaction data, indicating non-loyalty purchases. Inconsistent timestamp
+                        formats were observed across online and in-store datasets, and categorical fields such as
+                        product
+                        names showed formatting inconsistencies. These findings directly guided subsequent cleaning,
+                        standardization, and feature engineering steps.
                     </p>
                 </div>
+
             </div>
         </div>
 
@@ -399,6 +473,16 @@
                     online_orders = online_orders.drop_duplicates()
                     pos_products = pos_products.drop_duplicates()
                     pos_transactions = pos_transactions.drop_duplicates()
+
+                    # In order to deal with the missing data for the store_id we randomly allocate store_ids to each
+                    transaction
+                    import random
+                    random.seed(42)
+                    updated_online_orders = online_orders.copy()
+                    updated_online_orders['store_id'] = updated_online_orders.apply(lambda _:
+                    random.randint(1,5),axis=1)
+                    online_orders = updated_online_orders
+                    updated_online_orders.to_csv('../dataset/updated_online_orders.csv',index=False)
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
@@ -408,7 +492,8 @@
                         quality.
                         After merging transactional, customer, product, and loyalty data, records containing missing
                         values
-                        were removed to prevent incomplete or misleading analysis.
+                        were removed to prevent incomplete or misleading analysis. Due to missing data for store_ids in
+                        the orders_online dataset, I randomly added new store_ids to cater for the missing data
                         <br><br>
                         <strong>Cleaning:</strong> Duplicate records were then eliminated across both merged
                         datasets
@@ -417,13 +502,14 @@
                         represented
                         only once. This step reduces redundancy and prevents inflated counts or distorted metrics.
                         <br><br>
-                        <strong>Interpretation:</strong> Removing null values and duplicates is critical for
-                        maintaining
-                        data
-                        integrity. Clean, non-redundant data ensures that subsequent analysis and visualisations
-                        accurately
-                        reflect customer behaviour and transactional patterns, leading to more reliable insights and
-                        decisions.
+                        <strong>Interpretation:</strong> Removing null values and duplicate records is essential for
+                        maintaining data integrity. Clean, non-redundant data ensures that subsequent analyses and
+                        visualisations accurately reflect customer behaviour and transactional patterns, leading to more
+                        reliable insights and decision-making.
+
+                        While randomly generating values to address missing data can enhance dataset completeness,
+                        caution is required, as such imputation may introduce inaccuracies particularly when applied to
+                        critical fields such as store_id, where incorrect values could distort analytical outcomes.
                     </p>
                 </div>
             </div>
@@ -471,7 +557,7 @@
                         <strong>Interpretation:</strong> Using inner joins ensures that only records with matching
                         keys
                         across
-                        datasets are retained, resulting in consistent and well-linked datasets. This integration
+                        datasets are retained, resulting in consistent and well linked datasets. This integration
                         creates a
                         unified view of customer behaviour, transactional activity, and loyalty engagement, enabling
                         accurate
@@ -490,53 +576,190 @@
 
                 <div class="code-block">
                     <li># (Sales comparison by time)
-                        pos_sales_time_range =
-                        pos_products_with_purchase_rate.groupby("time_range")["number_of_purchases"].sum()
-                        online_sales_time_range =
-                        pos_products_with_purchase_rate_online.groupby("time_range")["number_of_purchases"].sum()</li>
+                        pos_sales_time_range = pos_products_with_purchase_rate.groupby("time_range").size()
+                        online_sales_time_range = pos_products_with_purchase_rate_online.groupby("time_range").size()
 
                     <li># (Sales comparison by product)
-                        pos_purchases_by_product=pos_products_with_purchase_rate.groupby("product_id")["number_of_purchases"].sum().sort_values(
+                        most_purchased_product =
+                        pos_transactions_line.groupby(["product_id","product_name"]).size().sort_values(
                         ascending=False).head(10)
-                        online_purchases_by_product=pos_products_with_purchase_rate_online.groupby("product_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10)
+                        most_purchased_product_online = online_orders.groupby("product_id").size().sort_values(
+                        ascending=False).head(10)
+
                     </li>
                     <li># (Sales comparison by location)
-                        pos_purchases_by_location=pos_products_with_purchase_rate.groupby("store_id")["number_of_purchases"].sum().sort_values(
-                        ascending=False).head(10)
-                        online_purchases_by_location=pos_products_with_purchase_rate_online.groupby("store_id")["number_of_purchases"].sum().sort_values(ascending=False).head(10
+                        pos_purchases_by_location = pos_transactions_line_merged.groupby("store_id").size()
+                        online_purchases_by_location = online_orders.groupby("store_id").size()
+
                     </li>
                     )
                 </div>
+                <div class="highlight-box">
+                    <h3>Top 10 Products by Number of Purchases (POS vs Online)</h3>
 
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>POS Product ID</th>
+                                <th>POS Product Name</th>
+                                <th>POS Purchases</th>
+                                <th>Online Product ID</th>
+                                <th>Online Product Name</th>
+                                <th>Online Purchases</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>957</td>
+                                <td>Wrap</td>
+                                <td>7</td>
+                                <td>100</td>
+                                <td>Chai L</td>
+                                <td>19</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>113</td>
+                                <td>Gift Card</td>
+                                <td>7</td>
+                                <td>380</td>
+                                <td>Coffee Beans</td>
+                                <td>14</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>671</td>
+                                <td>Sandwich</td>
+                                <td>6</td>
+                                <td>544</td>
+                                <td>Black Tea S</td>
+                                <td>10</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>144</td>
+                                <td>Wrap</td>
+                                <td>6</td>
+                                <td>806</td>
+                                <td>Pastry</td>
+                                <td>10</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>424</td>
+                                <td>Pastry</td>
+                                <td>6</td>
+                                <td>144</td>
+                                <td>Wrap</td>
+                                <td>10</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h3>Number of Purchases by Time Range</h3>
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Time Range</th>
+                                <th>POS Purchases</th>
+                                <th>Online Purchases</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>00:00 – 06:00</td>
+                                <td>208</td>
+                                <td>158</td>
+                            </tr>
+                            <tr>
+                                <td>06:00 – 12:00</td>
+                                <td>220</td>
+                                <td>140</td>
+                            </tr>
+                            <tr>
+                                <td>12:00 – 18:00</td>
+                                <td>209</td>
+                                <td>171</td>
+                            </tr>
+                            <tr>
+                                <td>18:00 – 24:00</td>
+                                <td>163</td>
+                                <td>158</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+
+                    <h3>Number of Purchases by Store</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Store ID</th>
+                                <th>POS Purchases</th>
+                                <th>Online Purchases</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Store 1</td>
+                                <td>649</td>
+                                <td>399</td>
+                            </tr>
+                            <tr>
+                                <td>Store 2</td>
+                                <td>633</td>
+                                <td>384</td>
+                            </tr>
+                            <tr>
+                                <td>Store 3</td>
+                                <td>541</td>
+                                <td>412</td>
+                            </tr>
+                            <tr>
+                                <td>Store 4</td>
+                                <td>619</td>
+                                <td>407</td>
+                            </tr>
+                            <tr>
+                                <td>Store 5</td>
+                                <td>550</td>
+                                <td>398</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <div class="highlight-box">
                     <strong>Key Findings:</strong>
                     <ul>
                         <li>
-                            Online sales peaked between 18:00–24:00 with 469 purchases, accounting for
+                            Online sales peaked between 12:00–18:00 with 171 purchases, accounting for
                             <strong>29.5%</strong> of total online sales.
-                            In contrast, POS sales peaked between 00:00–06:00 with 2,537 purchases, representing
+                            In contrast, POS sales peaked between 06:00–12:00 with 220 purchases, representing
                             <strong>28.2%</strong> of total POS sales.
                         </li>
 
                         <li>
-                            Online sales’ highest purchased product was <strong>Coffee Beans</strong> with 91
+                            Online sales’ highest purchased product was <strong>Chai L</strong> with 19
                             purchases
                             (<strong>5.7%</strong> of all online purchases), while POS sales’ highest purchased
                             product
-                            was <strong>Gift Cards</strong> with 35 purchases
+                            was <strong>Wraps</strong> with 7 purchases
                             (<strong>0.4%</strong> of total POS purchases).
                         </li>
 
                         <li>
-                            The highest-selling online store recorded 217 purchases, contributing
-                            <strong>13.7%</strong> of total online sales, while the top POS store achieved 1,935
+                            The highest-selling online store recorded 407 purchases, contributing
+                            <strong>13.7%</strong> of total online sales, while the top POS store achieved 649
                             purchases,
                             accounting for a significantly larger <strong>21.5%</strong> of total POS sales.
                         </li>
 
                         <li>
                             <strong>Conclusion:</strong> Online sales show a stronger concentration during
-                            evening
+                            morning
                             hours,
                             whereas POS sales are more evenly distributed but peak in early morning periods. POS
                             channels
@@ -550,36 +773,41 @@
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
                     <p>
-                        <strong>Process:</strong> In-store (POS) and online transactions were analysed
-                        separately to
-                        enable a clear
-                        channel-level comparison. Sales volume was aggregated by predefined time ranges using
-                        grouped
-                        sums of purchase
-                        counts. Product demand was assessed by ranking products based on total purchases per
-                        channel,
-                        highlighting the
-                        most frequently bought items. Store-level performance was evaluated by aggregating
-                        purchases by
-                        location to
-                        identify high-performing outlets.
+                        <strong>Process:</strong> In-store (POS) and online sales data were analysed separately to
+                        enable a
+                        structured comparison across channels. Transaction volumes were aggregated by predefined time
+                        ranges
+                        (00:00–06:00, 06:00–12:00, 12:00–18:00, and 18:00–24:00) to identify temporal purchasing
+                        patterns.
+                        Product-level analysis was conducted by grouping transactions by product ID and product name,
+                        then
+                        ranking items based on total purchase frequency per channel. Store level performance was
+                        evaluated by
+                        aggregating total purchases per store for both POS and online channels.
                         <br><br>
-                        <strong>Interpretation:</strong> The time-based aggregation reveals distinct purchasing
-                        patterns
-                        between
-                        channels, with online sales concentrated in evening hours and POS sales peaking earlier
-                        in the
-                        day. Product
-                        rankings indicate differing consumer preferences across channels, suggesting the need
-                        for
-                        tailored inventory
-                        and promotional strategies. Location-based aggregation shows that POS sales are more
-                        concentrated in top
-                        -performing stores, while online sales are more evenly distributed, supporting different
-                        optimisation approaches
-                        for physical and digital channels.
+                        <strong>Interpretation:</strong> The results show clear differences in purchasing behaviour
+                        across
+                        channels. POS sales peak during the morning period (06:00–12:00), indicating strong in-store
+                        activity
+                        earlier in the day, while online sales peak later, particularly between 12:00–18:00. Product
+                        rankings
+                        reveal that online demand is more concentrated around specific beverage items such as <em>Chai
+                            L</em>,
+                        whereas POS purchases are more evenly distributed across products such as wraps, gift cards, and
+                        pastries. At the store level, POS sales are more concentrated in top-performing physical
+                        locations,
+                        while online purchases are relatively more evenly spread across stores.
+                        <br><br>
+                        <strong>Conclusion:</strong> Overall, POS channels dominate total transaction volume, but online
+                        sales
+                        exhibit stronger product-specific demand and more balanced store-level distribution. These
+                        findings
+                        suggest that operational and promotional strategies should be tailored by channel, with
+                        time-based
+                        staffing and inventory optimisation for POS, and targeted product promotions for online sales.
                     </p>
                 </div>
+
 
             </div>
         </div>
@@ -610,63 +838,135 @@
                         channel_preference_non_loyal_customers = new_data_frame.groupby('order_channel').size()</li>
                 </div>
                 <div class="highlight-box">
+                    <h3>Customer Spend Summary</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Customer Type</th>
+                                <th>Total Spend ($)</th>
+                                <th>Average Spend ($)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Loyal Customers</td>
+                                <td>17,531.61</td>
+                                <td>9.12 <span style="font-size: 0.85em;">(per customer)</span></td>
+                            </tr>
+                            <tr>
+                                <td>Non-Loyal Customers</td>
+                                <td>27,358.79</td>
+                                <td>9.14 <span style="font-size: 0.85em;">(per transaction)</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h3>Customer Visit Summary</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Customer Type</th>
+                                <th>Total Visits</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Loyal Customers</td>
+                                <td>633</td>
+                            </tr>
+                            <tr>
+                                <td>Non-Loyal Customers</td>
+                                <td>2,992</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p class="insight">
+                        <strong>Insight:</strong> Non-loyal customers visit more frequently than loyal customers.
+                    </p>
+
+                    <h3>Ordering Channel Preference Summary</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Customer Type</th>
+                                <th>Click-and-Collect Orders</th>
+                                <th>In-Store Orders</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Loyal Customers</td>
+                                <td>307</td>
+                                <td>326</td>
+                            </tr>
+                            <tr>
+                                <td>Non-Loyal Customers</td>
+                                <td>1,417</td>
+                                <td>1,575</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+                <div class="highlight-box">
                     <strong>Key Findings:</strong>
                     <ul>
                         <li>
-                            Loyal customers accounted for 633 visits,
-                            <strong>17.4%</strong> of total visits.
-                            In contrast, Non-Loyal customers represented 2,992 visits,
-                            <strong>82.6%</strong> of total visits.
-
+                            Loyal customers recorded <strong>633 visits</strong>, representing
+                            <strong>17.4%</strong> of total visits, while non-loyal customers accounted
+                            for <strong>2,992 visits (82.6%)</strong>. This indicates that the customer base
+                            is predominantly non-loyal in terms of visit frequency.
                         </li>
 
                         <li>
-                            Loyal customers prefered order channel was In-Store which saw 326 orders
-                            <strong>25.8%</strong> of total Loyal orders.
-                            Compared to Click-and-Collect which saw 306 orders (24.2%).
-                            In contrast, Non-Loyal preferred order channel was In-Store which saw 1575 orders
-                            <strong>26.3%</strong> of total visits. Compared to Click-and-Collect which saw 1417
-                            orders
-                            (23.7%).
+                            Despite fewer visits, loyal customers contributed
+                            <strong>$17,531.61 (39.1%)</strong> of total revenue, demonstrating a higher
+                            value per customer compared to non-loyal customers, who generated
+                            <strong>$27,358.79 (60.9%)</strong> of revenue through significantly more visits.
                         </li>
 
                         <li>
-                            Loyal customers spent a total of $17,531.61, with an average spend of $9.12 per
-                            customer,
-                            accounting for <strong>39.1%</strong> of total income.
-                            In contrast, Non-Loyal customers spent $27,358.79,
-                            contributing a larger <strong>60.9%</strong> of total income.
-
+                            Both loyal and non-loyal customers showed a clear preference for
+                            <strong>in-store ordering</strong>. Loyal customers placed
+                            <strong>326 in-store orders</strong> compared to <strong>307 click-and-collect</strong>,
+                            while non-loyal customers placed <strong>1,575 in-store orders</strong> versus
+                            <strong>1,417 click-and-collect</strong>, indicating similar channel behaviour
+                            across segments.
                         </li>
 
                         <li>
-                            <strong>Conclusion:</strong> Online sales show a stronger concentration during evening
-                            hours,
-                            whereas POS sales are more evenly distributed but peak in early morning periods. POS
-                            channels
-                            dominate overall volume, with individual stores and time ranges contributing a larger
-                            share
-                            of total transactions compared to online sales.
+                            <strong>Conclusion:</strong> The loyalty programme is effective at increasing
+                            customer value rather than visit frequency. Loyal customers spend more overall
+                            per customer, suggesting that retention strategies should focus on converting
+                            high-frequency non-loyal visitors into loyal members to maximise long-term revenue.
                         </li>
-
                     </ul>
                 </div>
+
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
-                    <p><strong>Process:</strong> We used multi-level aggregation with agg() to calculate mean, sum,
-                        and
-                        count metrics simultaneously. Visit frequency was computed by counting transactions per
-                        customer,
-                        then averaging by loyalty status. Channel preference analysis cross-tabulated loyalty status
-                        with
-                        channel revenue. <strong>Interpretation:</strong> Loyalty members demonstrate significantly
-                        higher
-                        value: they spend 2.3x more per transaction and visit 4.1 times more frequently.
-                        Interestingly,
-                        loyalty members show 60% higher online adoption (42% vs 26%), suggesting the programme
-                        successfully
-                        drives omnichannel engagement. ROI on loyalty programme appears strongly positive.</p>
+                    <p>
+                        <strong>Process:</strong> To assess the impact of the loyalty programme, transactions
+                        were segmented into loyal and non-loyal groups using the
+                        <code>loyalty_member_id</code> field. Total and average spend were calculated to
+                        evaluate customer value, visit frequency was measured using transaction counts,
+                        and channel preference was analysed by grouping orders by
+                        <code>order_channel</code> within each customer segment.
+                        <br><br>
+                        <strong>Interpretation:</strong> The analysis shows that loyal customers visit less
+                        frequently than non-loyal customers but generate a disproportionately higher share
+                        of revenue per customer. This indicates that the loyalty programme successfully
+                        increases customer value rather than transaction volume. Both customer groups
+                        display similar ordering behaviour, with a consistent preference for in-store
+                        purchases, suggesting that loyalty status does not significantly alter channel
+                        choice.
+                    </p>
                 </div>
+
             </div>
         </div>
 
@@ -677,63 +977,136 @@
                 <h2>Question 3: Which products/stores are most profitable and need attention?</h2>
 
                 <div class="code-block">
-                    <li> (# Creation of amount_received column)
-                        pos_transactions_line_merged["amount_received"] = (pos_transactions_line_merged["unit_price"] *
-                        pos_transactions_line_merged["quantity"]) - pos_transactions_line_merged["line_discount"]
-                        amount_received = pos_transactions_line_merged.groupby("store_id")["amount_received"].sum()</li>
+                    <li>(# Creation of amount_received column)
+                        pos_transactions_line_merged["amount_received"] =
+                        (pos_transactions_line_merged["unit_price"] *
+                        pos_transactions_line_merged["quantity"]) -
+                        pos_transactions_line_merged["line_discount"]
+                    </li>
+
+                    <li>(# Store profitability)
+                        profit_store =
+                        pos_transactions_line_merged.groupby("store_id")["amount_received"].sum()
+                    </li>
 
                     <li>(# Product profitability)
-                        profit_product = pos_transactions_line_merged.groupby('store_id')['amount_received'].sum()
+                        profit_product =
+                        pos_transactions_line_merged.groupby("product_name")["amount_received"].sum()
                     </li>
-                    <li>(# Store profitability)
-                        profit_store = pos_transactions_line_merged.groupby('product_id')['amount_received'].sum()</li>
-
                 </div>
 
+
                 <div class="highlight-box">
-                    <strong>Priority Actions:</strong>
-                    <ul>
-                        <li><strong>Top Performers:</strong> Flat white (M) which gained $165.66 in revenue,
-                            Espresso
-                            (S) gained $162.81 and Espresso gained 159.91
-                        </li>
-                        <li><strong>Need Attention:</strong> Tumbler gained $1.51 and Small Green Tea gained only
-                            gained
-                            $1.63
-                        </li>
-                        <li><strong>Store Focus:</strong> Store 1 profitable with a revenue of $6079.30, Store 3
-                            underperforming with a revenue of $4980.42 </li>
-                    </ul>
+                    <h3>Store Profitability Summary</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Top 5 Most Profitable Stores</th>
+                                <th>Revenue ($)</th>
+                                <th>Bottom 5 Least Profitable Stores</th>
+                                <th>Revenue ($)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Store 1</td>
+                                <td>6,079.30</td>
+                                <td>Store 3</td>
+                                <td>4,980.42</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Store 2</td>
+                                <td>5,811.53</td>
+                                <td>Store 5</td>
+                                <td>5,002.76</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Store 4</td>
+                                <td>5,484.78</td>
+                                <td>Store 4</td>
+                                <td>5,484.78</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Store 5</td>
+                                <td>5,002.76</td>
+                                <td>Store 2</td>
+                                <td>5,811.53</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Store 3</td>
+                                <td>4,980.42</td>
+                                <td>Store 1</td>
+                                <td>6,079.30</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h3>Product Profitability Summary</h3>
+
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Top 3 Most Profitable Products</th>
+                                <th>Revenue ($)</th>
+                                <th>Bottom 3 Least Profitable Products</th>
+                                <th>Revenue ($)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Tumbler</td>
+                                <td>1,382.71</td>
+                                <td>Mocha M</td>
+                                <td>89.64</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Coffee Beans</td>
+                                <td>1,310.97</td>
+                                <td>Cappuccino</td>
+                                <td>114.81</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Wrap</td>
+                                <td>1,245.92</td>
+                                <td>Flat White</td>
+                                <td>122.30</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
                 </div>
                 <div class="notes-section">
                     <h4>📝 Speaker Notes</h4>
                     <p>
-                        <strong>Process:</strong> Profitability was calculated at line-item level by deriving the
-                        amount
-                        received for
-                        each transaction using unit price, quantity, and applied discounts. These values were then
-                        aggregated using
-                        group-by operations to compute total revenue by product and by store. This approach enables
-                        a
-                        direct comparison
-                        of individual product performance and overall store profitability.
+                        <strong>Process:</strong> Profitability was calculated at the transaction line
+                        level by deriving an <code>amount_received</code> field using unit price,
+                        quantity, and applied discounts. These values were aggregated using group-by
+                        operations to compute total revenue per store and per product, allowing direct
+                        comparison across entities.
                         <br><br>
-                        <strong>Interpretation:</strong> High-performing products such as Flat White (M) and
-                        Espresso
-                        variants generate
-                        the majority of revenue, indicating strong and consistent customer demand. In contrast,
-                        low-revenue items such
-                        as Tumblers and Small Green Tea contribute minimally to overall profitability and may
-                        require
-                        pricing,
-                        promotion, or inventory review. Store-level aggregation shows notable variation in
-                        performance,
-                        with Store 1
-                        significantly outperforming Store 3, suggesting opportunities for operational improvements,
-                        demand stimulation,
-                        or resource reallocation at underperforming locations.
+                        <strong>Interpretation:</strong> The results show that Stores 1 and 2 generate the
+                        highest revenue, while Store 3 consistently records the lowest total revenue,
+                        indicating a potential need for operational or demand-side improvements.
+                        Product-level analysis highlights items such as Tumbler and Coffee Beans as key
+                        revenue drivers, reflecting strong customer demand. Conversely, low-performing
+                        products such as Mocha M and Cappuccino contribute minimally to overall revenue
+                        and may require review through pricing adjustments, promotional strategies, or
+                        potential discontinuation.
                     </p>
                 </div>
+
+
             </div>
         </div>
 
